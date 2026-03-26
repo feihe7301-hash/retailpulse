@@ -1,6 +1,122 @@
 {
   "articles": [
     {
+      "title": "月之暗面创始人重磅判断：今年起 AI 研发模式将剧变，海量Token成研究员标配资源",
+      "link": "https://www.infoq.cn/article/WwJZI3vSu5qKagvDvhwK?utm_source=rss&utm_medium=article",
+      "pubDate": "2026-03-26T10:40:01.178Z",
+      "source": "InfoQ 中文站",
+      "sourceUrl": "https://www.infoq.cn",
+      "priority": 2,
+      "tags": [
+        "AI工程",
+        "技术实践"
+      ],
+      "snippet": "点击查看原文>",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "月之暗面创始人重磅判断：今年起 AI 研发模式将剧变，海量Token成研究员标配资源"
+    },
+    {
+      "title": "Melania Trump appeared alongside Figure AI's Figure 3 humanoid robot at the White House to promote integrating more tech and AI into US children's education",
+      "link": "https://www.nytimes.com/2026/03/25/us/politics/melania-trump-robot.html",
+      "pubDate": "Thu, 26 Mar 2026 06:35:01 -0400",
+      "source": "New York Times",
+      "sourceUrl": "https://www.nytimes.com/2026/03/25/us/politics/melania-trump-robot.html",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Katie Rogers / New York Times:\nMelania Trump appeared alongside Figure AI's Figure 3 humanoid robot at the White House to promote integrating more tech and AI into US children's education  —  The firs",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "梅拉尼娅·特朗普与Figure AI的Figure 3人形机器人一起出现在白宫，推动将更多科技和人工智能融入美国儿童教育"
+    },
+    {
+      "title": "‘She’s Never Going to Age’: Porn Stars Are Embracing AI Clones to Stay Forever Young",
+      "link": "https://www.wired.com/story/shes-never-going-to-age-porn-stars-are-embracing-ai-clones-to-stay-forever-young/",
+      "pubDate": "Thu, 26 Mar 2026 10:30:00 +0000",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/tag/ai/",
+      "priority": 3,
+      "tags": [
+        "AI",
+        "tech policy",
+        "consumer AI"
+      ],
+      "snippet": "AI companion platforms like OhChat and SinfulX are offering adult creators digital twins, who are always at their peak and stay monetizing.",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "“她永远不会变老”：色情明星正在拥抱人工智能克隆以保持永远年轻"
+    },
+    {
+      "title": "广州：到2030年新一代智能终端、智能体等应用普及率超90%",
+      "link": "https://36kr.com/newsflashes/3739613286482184?f=rss",
+      "pubDate": "2026-03-26 18:11:21  +0800",
+      "source": "36氪 AI",
+      "sourceUrl": "https://36kr.com",
+      "priority": 2,
+      "tags": [
+        "AI创投",
+        "AI应用"
+      ],
+      "snippet": "36氪获悉，广州市人民政府办公厅印发广州市促进人工智能产业高质量发展实施方案。其中提出，到2030年，我市人工智能全面赋能高质量发展，新一代智能终端、智能体等应用普及率超90%，智能经济成为我市经济发展的重要增长极，力争达成“十百千万”的成效，打造人工智能生态价值园，形成AI行业应用示范区、新型智能终端集聚区，建设10个AI行业应用共性技术服务平台（含AI中试基地、赋能中心等）；形成100个具备市",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "广州：到2030年新一代智能终端、智能体等应用普及率超90%"
+    },
+    {
+      "title": "广州：强化智能算力布局，支持以市场为主导的智能算力基础设施建设",
+      "link": "https://36kr.com/newsflashes/3739612706390017?f=rss",
+      "pubDate": "2026-03-26 18:10:45  +0800",
+      "source": "36氪 AI",
+      "sourceUrl": "https://36kr.com",
+      "priority": 2,
+      "tags": [
+        "AI创投",
+        "AI应用"
+      ],
+      "snippet": "36氪获悉，广州市人民政府办公厅印发广州市促进人工智能产业高质量发展实施方案。其中提出，强化智能算力布局。按照国家及省政策要求，规范“城市数据中心+园区算力中心”阶梯式发展规划布局，优化算力项目建设标准。支持以市场为主导的智能算力基础设施建设，按照“城市＋边缘”的总体布局建设城市智算中心和分布式边缘计算中心体系，用于满足智能网联汽车、金融、虚拟现实等极低时延类业务场景需求。引导存量数据中心完成升级",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "广州：强化智能算力布局，支持以市场为主导的智能算力基础设施建设"
+    },
+    {
+      "title": "Private Credit Flows Falter Amid Defaults, AI Disruption Fears",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-26/private-credit-flows-falter-amid-defaults-ai-disruption-fears",
+      "pubDate": "Thu, 26 Mar 2026 10:01:00 GMT",
+      "source": "Bloomberg Tech",
+      "sourceUrl": "https://www.bloomberg.com/technology",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "markets"
+      ],
+      "snippet": "",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "私人信贷流动因违约和人工智能颠覆担忧而动摇"
+    },
+    {
+      "title": "Pony AI reports 2025 revenue up 20% YoY to ~$90M, total annual losses down 72% YoY to ~$76.8M, and a $75.5M net income in Q4, its first profitable quarter ever",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-26/pony-ai-swings-to-profit-aims-to-launch-robotaxis-in-20-cities",
+      "pubDate": "Thu, 26 Mar 2026 06:00:50 -0400",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-03-26/pony-ai-swings-to-profit-aims-to-launch-robotaxis-in-20-cities",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Bloomberg:\nPony AI reports 2025 revenue up 20% YoY to ~$90M, total annual losses down 72% YoY to ~$76.8M, and a $75.5M net income in Q4, its first profitable quarter ever  —  Pony AI Inc. delivered it",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Pony AI 报告称，2025 年收入同比增长 20% 至约 9000 万美元，年度总亏损同比下降 72% 至约 7680 万美元，第四季度净利润 7550 万美元，这是其有史以来第一个盈利季度"
+    },
+    {
       "title": "京东公布最新AI进展：推出“龙虾天团”，首次开源大模型JoyAI-LLM Flash",
       "link": "https://www.infoq.cn/article/RNszIZY7Ns5tdBAlhyGE?utm_source=rss&utm_medium=article",
       "pubDate": "2026-03-26T09:56:23.999Z",
@@ -530,10 +646,10 @@
     },
     {
       "title": "Sources: Reflection AI, which is developing open foundation models, seeks to raise $2.5B at a $25B pre-money valuation of; JPMorgan is in talks to participate",
-      "link": "https://www.wsj.com/tech/ai/nvidia-backed-startup-seeking-to-counter-chinese-ai-eyes-25-billion-valuation-3bd8216c",
+      "link": "https://www.wsj.com/tech/ai/nvidia-backed-startup-seeking-to-counter-chinese-ai-eyes-25-billion-valuation-3bd8216c?st=3QanSe&reflink=desktopwebshare_permalink",
       "pubDate": "Wed, 25 Mar 2026 23:15:14 -0400",
       "source": "Wall Street Journal",
-      "sourceUrl": "https://www.wsj.com/tech/ai/nvidia-backed-startup-seeking-to-counter-chinese-ai-eyes-25-billion-valuation-3bd8216c",
+      "sourceUrl": "https://www.wsj.com/tech/ai/nvidia-backed-startup-seeking-to-counter-chinese-ai-eyes-25-billion-valuation-3bd8216c?st=3QanSe&reflink=desktopwebshare_permalink",
       "priority": 3,
       "tags": [
         "tech",
@@ -6793,6 +6909,23 @@
       "titleZh": "巴亚尔塔 (Vallarta) 通过新店概念扩大餐饮服务范围"
     },
     {
+      "title": "LagerNVS: Latent Geometry for Fully Neural Real-time Novel View Synthesis",
+      "link": "https://arxiv.org/abs/2603.20176",
+      "pubDate": "Fri, 20 Mar 2026 13:53:06 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "Recent work has shown that neural networks can perform 3D tasks such as Novel View Synthesis (NVS) without explicit 3D reconstruction. Even so, we argue that strong 3D inductive biases are still helpf",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "LagerNVS：用于全神经实时小说视图合成的潜在几何"
+    },
+    {
       "title": "Huawei challenges Nvidia with powerful new AI accelerator card",
       "link": "https://www.scmp.com/tech/tech-trends/article/3347346/huawei-challenges-nvidia-powerful-new-ai-accelerator-card?utm_source=rss_feed",
       "pubDate": "Fri, 20 Mar 2026 13:00:18 +0000",
@@ -8821,5 +8954,5 @@
       "titleZh": "导入AI 431：技术乐观和适当的恐惧"
     }
   ],
-  "savedAt": "2026-03-26T10:00:25.091Z"
+  "savedAt": "2026-03-26T10:40:28.129Z"
 }
