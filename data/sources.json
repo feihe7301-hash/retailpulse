@@ -1,0 +1,77 @@
+{
+  "domestic_retail": {
+    "label": "国内零售",
+    "label_en": "China Retail",
+    "sources": [
+      { "name": "联商网 Linkshop", "url": "https://www.linkshop.com", "rss": null, "priority": 3, "type": "scrape", "tags": ["实体零售", "连锁", "便利店", "生鲜"] },
+      { "name": "亿邦动力", "url": "https://www.ebrun.com", "rss": null, "priority": 2, "type": "scrape", "tags": ["电商", "即时零售", "新零售"] },
+      { "name": "新华社财经", "url": "https://www.xinhuanet.com/fortune/", "rss": null, "priority": 3, "type": "scrape", "tags": ["消费", "经济", "政策"] },
+      { "name": "商务部", "url": "https://www.mofcom.gov.cn", "rss": null, "priority": 2, "type": "scrape", "tags": ["政策", "消费", "外贸"] },
+      { "name": "中国连锁经营协会 CCFA", "url": "https://www.ccfa.org.cn", "rss": null, "priority": 2, "type": "scrape", "tags": ["连锁", "便利店", "行业协会"] },
+      { "name": "艾媒咨询", "url": "https://www.iimedia.cn", "rss": null, "priority": 2, "type": "scrape", "tags": ["消费数据", "市场研究", "新零售"] }
+    ]
+  },
+  "intl_retail": {
+    "label": "国际零售",
+    "label_en": "Global Retail",
+    "sources": [
+      { "name": "Retail Dive", "url": "https://www.retaildive.com", "rss": "https://www.retaildive.com/feeds/news/", "priority": 3, "type": "rss", "tags": ["US retail", "DTC", "omnichannel"] },
+      { "name": "Modern Retail", "url": "https://www.modernretail.co", "rss": "https://www.modernretail.co/feed/", "priority": 2, "type": "rss", "tags": ["DTC", "omnichannel", "ecommerce"] },
+      { "name": "Grocery Dive", "url": "https://www.grocerydive.com", "rss": "https://www.grocerydive.com/feeds/news/", "priority": 2, "type": "rss", "tags": ["grocery", "dark store", "delivery"] },
+      { "name": "PYMNTS Retail", "url": "https://www.pymnts.com", "rss": "https://www.pymnts.com/feed/", "priority": 1, "type": "rss", "tags": ["payments", "retail media", "fintech"] },
+      { "name": "Supermarket News", "url": "https://www.supermarketnews.com", "rss": "https://www.supermarketnews.com/rss.xml", "priority": 2, "type": "rss", "tags": ["grocery", "supermarket", "food retail"] },
+      { "name": "Supply Chain Dive", "url": "https://www.supplychaindive.com", "rss": "https://www.supplychaindive.com/feeds/news/", "priority": 2, "type": "rss", "tags": ["supply chain", "logistics", "fulfillment"] },
+      { "name": "Retail Gazette", "url": "https://www.retailgazette.co.uk", "rss": "https://www.retailgazette.co.uk/feed/", "priority": 2, "type": "rss", "tags": ["UK retail", "Europe", "fashion"] }
+    ]
+  },
+  "domestic_ai": {
+    "label": "国内AI",
+    "label_en": "China AI",
+    "sources": [
+      { "name": "机器之心", "url": "https://www.jiqizhixin.com", "rss": null, "priority": 3, "type": "scrape", "tags": ["大模型", "AI产业", "学术"] },
+      { "name": "量子位 Qbitai", "url": "https://www.qbitai.com", "rss": null, "priority": 3, "type": "scrape", "tags": ["AI产品", "AI动态"] },
+      { "name": "36氪 AI", "url": "https://36kr.com", "rss": "https://36kr.com/feed", "priority": 2, "type": "rss", "tags": ["AI创投", "AI应用"] },
+      { "name": "InfoQ 中文站", "url": "https://www.infoq.cn", "rss": "https://www.infoq.cn/feed", "priority": 2, "type": "rss", "tags": ["AI工程", "技术实践"] },
+      { "name": "钛媒体", "url": "https://www.tmtpost.com", "rss": null, "priority": 2, "type": "scrape", "tags": ["AI商业化", "产业融合"] },
+      { "name": "SCMP Tech", "url": "https://www.scmp.com/tech", "rss": "https://www.scmp.com/rss/36/feed", "priority": 2, "type": "rss", "tags": ["China AI", "tech policy", "中国科技"] }
+    ]
+  },
+  "intl_ai": {
+    "label": "国际AI",
+    "label_en": "Global AI",
+    "sources": [
+      { "name": "MIT Technology Review", "url": "https://www.technologyreview.com", "rss": "https://www.technologyreview.com/feed/", "priority": 3, "type": "rss", "tags": ["AI research", "deep tech"] },
+      { "name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/", "rss": "https://techcrunch.com/category/artificial-intelligence/feed/", "priority": 2, "type": "rss", "tags": ["AI startups", "funding"] },
+      { "name": "VentureBeat AI", "url": "https://venturebeat.com/ai/", "rss": "https://venturebeat.com/category/ai/feed/", "priority": 2, "type": "rss", "tags": ["enterprise AI", "B2B"] },
+      { "name": "Wired AI", "url": "https://www.wired.com/tag/ai/", "rss": "https://www.wired.com/feed/tag/ai/latest/rss", "rsshub": "https://hub.slarker.me/wired/tag/artificial-intelligence", "priority": 3, "type": "rss", "tags": ["AI", "tech policy", "consumer AI"] },
+      { "name": "NYT Tech", "url": "https://www.nytimes.com/section/technology", "rss": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml", "priority": 2, "type": "rss", "tags": ["tech", "AI", "regulation"] },
+      { "name": "Anthropic Blog", "url": "https://www.anthropic.com/news", "rss": "https://hub.slarker.me/anthropic/news", "priority": 3, "type": "rss", "tags": ["LLM", "AI safety"] },
+      { "name": "OpenAI Blog", "url": "https://openai.com/news", "rss": null, "rsshub": "https://hub.slarker.me/openai/news", "priority": 3, "type": "scrape", "tags": ["LLM", "ChatGPT", "AI research"] },
+      { "name": "DeepMind Blog", "url": "https://deepmind.google/discover/blog/", "rss": "https://hub.slarker.me/deepmind/blog", "priority": 3, "type": "rss", "tags": ["AI research", "Gemini", "AGI"] },
+      { "name": "Import AI", "url": "https://importai.substack.com", "rss": "https://importai.substack.com/feed", "priority": 2, "type": "rss", "tags": ["AI research", "weekly"] },
+      { "name": "Techmeme", "url": "https://www.techmeme.com", "rss": "https://www.techmeme.com/feed.xml", "priority": 3, "type": "rss", "tags": ["tech", "AI", "startups"] },
+      { "name": "Hacker News", "url": "https://news.ycombinator.com", "rss": "https://news.ycombinator.com/rss", "rsshub": "https://hub.slarker.me/hackernews/best", "priority": 2, "type": "rss", "tags": ["tech", "startups"] },
+      { "name": "Ars Technica", "url": "https://arstechnica.com", "rss": "https://feeds.arstechnica.com/arstechnica/technology-lab", "priority": 2, "type": "rss", "tags": ["tech", "AI"] },
+      { "name": "The Decoder", "url": "https://the-decoder.com", "rss": "https://the-decoder.com/feed/", "priority": 2, "type": "rss", "tags": ["AI", "LLM"] },
+      { "name": "Hugging Face Papers", "url": "https://huggingface.co/papers", "rss": "https://hub.slarker.me/huggingface/daily-papers", "priority": 2, "type": "rss", "tags": ["AI research", "papers", "open source"] },
+      { "name": "Bloomberg Tech", "url": "https://www.bloomberg.com/technology", "rss": "https://hub.slarker.me/bloomberg/technology", "priority": 3, "type": "rss", "tags": ["tech", "AI", "markets"] }
+    ]
+  },
+  "keywords": {
+    "domestic_retail": ["即时零售", "前置仓", "小象超市", "盒马", "山姆", "胖东来", "社区团购", "生鲜电商", "仓储会员店", "折扣超市", "零售3.0"],
+    "supply_chain": ["产地直采", "高原农产品", "冷链物流", "源头溯源", "农业品牌化", "地标产品", "云南农产品", "品质分级", "产销对接"],
+    "retail_policy": ["促消费政策", "流通体系", "商务部零售", "消费复苏", "县域商业", "下沉市场", "绿色流通"],
+    "ai_retail": ["AI选品", "智能补货", "个性化推荐", "无人零售", "智慧门店", "零售AI大模型", "需求预测"],
+    "intl_retail": ["quick commerce", "dark store", "retail media", "omnichannel", "Instacart", "Amazon Fresh", "private label"],
+    "sea_retail": ["Shopee", "Lazada", "TikTok Shop", "Grab", "GoTo", "Tokopedia", "Sea Group", "SEA ecommerce", "social commerce", "live commerce", "halal retail"],
+    "china_outbound": ["跨境电商", "出海", "全托管", "半托管", "独立站", "DTC出海", "海外仓", "品牌出海", "Temu", "SHEIN"],
+    "tea_popmart": ["茶饮出海", "蜜雪冰城", "喜茶", "霸王茶姬", "泡泡玛特", "名创优品", "MINISO"],
+    "global_brands": ["H&M", "Zara", "Inditex", "Primark", "Action", "Uniqlo", "MUJI", "Coupang", "Mercado Libre", "Noon", "Jumia", "Flipkart"],
+    "ai_frontier": ["大模型", "多模态", "AI Agent", "LLM", "RAG", "AI生成内容", "具身智能", "foundation model"],
+    "ai_companies": ["OpenAI", "ChatGPT", "Anthropic", "Claude", "Gemini", "DeepMind", "Llama", "Mistral", "Grok", "Copilot", "Perplexity", "Midjourney"],
+    "ai_infra": ["NVIDIA", "GPU", "AI chip", "算力", "H100", "B200", "Groq", "Cerebras", "TPU"],
+    "ai_safety": ["AI safety", "AI regulation", "AGI", "alignment", "EU AI Act", "AI governance"],
+    "ai_robotics": ["humanoid robot", "具身智能", "人形机器人", "Figure AI", "Boston Dynamics", "Tesla Optimus", "自动驾驶"],
+    "ai_coding": ["GitHub Copilot", "Cursor", "Devin", "AI coding", "code generation", "vibe coding"]
+  }
+}

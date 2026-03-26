@@ -1,0 +1,2210 @@
+{
+  "articles": [
+    {
+      "title": "龙虾史上最大升级！但接了微信的千万别更",
+      "link": "https://www.qbitai.com/2026/03/391520.html",
+      "pubDate": "2026-03-24T07:00:00Z",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com",
+      "priority": 3,
+      "tags": [
+        "AI产品",
+        "AI动态"
+      ],
+      "snippet": "微信和WhatsApp双双断连"
+    },
+    {
+      "title": "从「模型」到「部署」，如何理解 AI 技术进步背后的基础设施挑战？",
+      "link": "https://pro.jiqizhixin.com/reference/8dfd3343-75d5-4571-9112-0dcd444ffdab",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "机器之心",
+      "sourceUrl": "https://jiqizhixin.com",
+      "priority": 3,
+      "tags": [
+        "大模型",
+        "AI产业",
+        "学术"
+      ],
+      "snippet": "从「模型」到「部署」，如何理解 AI 技术进步背后的基础设施挑战？"
+    },
+    {
+      "title": "设计流程已死，Claude 设计负责人如何理解 AI 时代的设计？",
+      "link": "https://pro.jiqizhixin.com/reference/40708cff-bade-4862-9226-6094252f4238",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "机器之心",
+      "sourceUrl": "https://jiqizhixin.com",
+      "priority": 3,
+      "tags": [
+        "大模型",
+        "AI产业",
+        "学术"
+      ],
+      "snippet": "设计流程已死，Claude 设计负责人如何理解 AI 时代的设计？"
+    },
+    {
+      "title": "「龙虾热」后，OpenClaw 会是又一个泡沫吗？",
+      "link": "https://pro.jiqizhixin.com/reference/8e8f05d3-7b38-47f1-84d6-65e8c357bbf6",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "机器之心",
+      "sourceUrl": "https://jiqizhixin.com",
+      "priority": 3,
+      "tags": [
+        "大模型",
+        "AI产业",
+        "学术"
+      ],
+      "snippet": "「龙虾热」后，OpenClaw 会是又一个泡沫吗？"
+    },
+    {
+      "title": "Week 12 · Context 还不够，Harness 才是 Agent 工程优化的正解",
+      "link": "https://pro.jiqizhixin.com/inbox",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "机器之心",
+      "sourceUrl": "https://jiqizhixin.com",
+      "priority": 3,
+      "tags": [
+        "大模型",
+        "AI产业",
+        "学术"
+      ],
+      "snippet": "Week 12 · Context 还不够，Harness 才是 Agent 工程优化的正解"
+    },
+    {
+      "title": "上海凭什么敢自封“开发者之城”？看完这场大会议程我悟了",
+      "link": "https://www.qbitai.com/2026/03/390977.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "量子位",
+      "sourceUrl": "https://qbitai.com",
+      "priority": 3,
+      "tags": [
+        "AI产品",
+        "AI动态"
+      ],
+      "snippet": "上海凭什么敢自封“开发者之城”？看完这场大会议程我悟了"
+    },
+    {
+      "title": "字节版龙虾架构火爆GitHub！开源获35k+ Star，内置Skill全家桶，原生适配飞书",
+      "link": "https://www.qbitai.com/2026/03/391361.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "量子位",
+      "sourceUrl": "https://qbitai.com",
+      "priority": 3,
+      "tags": [
+        "AI产品",
+        "AI动态"
+      ],
+      "snippet": "字节版龙虾架构火爆GitHub！开源获35k+ Star，内置Skill全家桶，原生适配飞书"
+    },
+    {
+      "title": "别人都在卷视觉，这家具身公司偏要卷“手感”",
+      "link": "https://www.qbitai.com/2026/03/391314.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "量子位",
+      "sourceUrl": "https://qbitai.com",
+      "priority": 3,
+      "tags": [
+        "AI产品",
+        "AI动态"
+      ],
+      "snippet": "别人都在卷视觉，这家具身公司偏要卷“手感”"
+    },
+    {
+      "title": "大厂抢郭达雅进行时！DeepSeek核心成员还是个“综艺巨佬”",
+      "link": "https://www.qbitai.com/2026/03/390990.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "量子位",
+      "sourceUrl": "https://qbitai.com",
+      "priority": 3,
+      "tags": [
+        "AI产品",
+        "AI动态"
+      ],
+      "snippet": "大厂抢郭达雅进行时！DeepSeek核心成员还是个“综艺巨佬”"
+    },
+    {
+      "title": "陶哲轩：我差点江郎才尽，只因在普林斯顿待了一年",
+      "link": "https://www.qbitai.com/2026/03/391515.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "量子位",
+      "sourceUrl": "https://qbitai.com",
+      "priority": 3,
+      "tags": [
+        "AI产品",
+        "AI动态"
+      ],
+      "snippet": "陶哲轩：我差点江郎才尽，只因在普林斯顿待了一年"
+    },
+    {
+      "title": "岚图泰山Ultra启动交付，全新一代896线激光雷达上车",
+      "link": "https://www.qbitai.com/2026/03/391489.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "量子位",
+      "sourceUrl": "https://qbitai.com",
+      "priority": 3,
+      "tags": [
+        "AI产品",
+        "AI动态"
+      ],
+      "snippet": "岚图泰山Ultra启动交付，全新一代896线激光雷达上车"
+    },
+    {
+      "title": "Momenta不选VLA选世界模型，大众首发！",
+      "link": "https://www.qbitai.com/2026/03/391474.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "量子位",
+      "sourceUrl": "https://qbitai.com",
+      "priority": 3,
+      "tags": [
+        "AI产品",
+        "AI动态"
+      ],
+      "snippet": "Momenta不选VLA选世界模型，大众首发！"
+    },
+    {
+      "title": "寻找最强具身大脑！全球机器人顶会ICRA开启报名",
+      "link": "https://www.qbitai.com/2026/03/391359.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "量子位",
+      "sourceUrl": "https://qbitai.com",
+      "priority": 3,
+      "tags": [
+        "AI产品",
+        "AI动态"
+      ],
+      "snippet": "寻找最强具身大脑！全球机器人顶会ICRA开启报名"
+    },
+    {
+      "title": "千问上线AI打车，一句话搞定选车、选地点、选时间",
+      "link": "https://www.qbitai.com/2026/03/391308.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "量子位",
+      "sourceUrl": "https://qbitai.com",
+      "priority": 3,
+      "tags": [
+        "AI产品",
+        "AI动态"
+      ],
+      "snippet": "千问上线AI打车，一句话搞定选车、选地点、选时间"
+    },
+    {
+      "title": "OpenClaw创始人回信确认360独家发现漏洞",
+      "link": "https://www.qbitai.com/2026/03/391303.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "量子位",
+      "sourceUrl": "https://qbitai.com",
+      "priority": 3,
+      "tags": [
+        "AI产品",
+        "AI动态"
+      ],
+      "snippet": "OpenClaw创始人回信确认360独家发现漏洞"
+    },
+    {
+      "title": "黄仁勋发Token当工资！硅谷兴起刷量大赛",
+      "link": "https://www.qbitai.com/2026/03/391061.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "量子位",
+      "sourceUrl": "https://qbitai.com",
+      "priority": 3,
+      "tags": [
+        "AI产品",
+        "AI动态"
+      ],
+      "snippet": "黄仁勋发Token当工资！硅谷兴起刷量大赛"
+    },
+    {
+      "title": "马斯克要自己做「英伟达+台积电」！宇宙芯片宏图开工",
+      "link": "https://www.qbitai.com/2026/03/391045.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "量子位",
+      "sourceUrl": "https://qbitai.com",
+      "priority": 3,
+      "tags": [
+        "AI产品",
+        "AI动态"
+      ],
+      "snippet": "马斯克要自己做「英伟达+台积电」！宇宙芯片宏图开工"
+    },
+    {
+      "title": "浙大团队破解多模态模型「盲目自信」",
+      "link": "https://www.qbitai.com/2026/03/391014.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "量子位",
+      "sourceUrl": "https://qbitai.com",
+      "priority": 3,
+      "tags": [
+        "AI产品",
+        "AI动态"
+      ],
+      "snippet": "浙大团队破解多模态模型「盲目自信」"
+    },
+    {
+      "title": "阶跃星辰率先适配微信生态，StepClaw“龙虾”即插即养即用",
+      "link": "https://www.qbitai.com/2026/03/391010.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "量子位",
+      "sourceUrl": "https://qbitai.com",
+      "priority": 3,
+      "tags": [
+        "AI产品",
+        "AI动态"
+      ],
+      "snippet": "阶跃星辰率先适配微信生态，StepClaw“龙虾”即插即养即用"
+    },
+    {
+      "title": "Cursor套壳Kimi败露，最强「自研」模型被锤！",
+      "link": "https://www.qbitai.com/2026/03/390619.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "量子位",
+      "sourceUrl": "https://qbitai.com",
+      "priority": 3,
+      "tags": [
+        "AI产品",
+        "AI动态"
+      ],
+      "snippet": "Cursor套壳Kimi败露，最强「自研」模型被锤！"
+    },
+    {
+      "title": "AI屠刀下一站“Vibe设计”！谷歌一个产品把合作伙伴Figma干崩了",
+      "link": "https://www.qbitai.com/2026/03/390235.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "量子位",
+      "sourceUrl": "https://qbitai.com",
+      "priority": 3,
+      "tags": [
+        "AI产品",
+        "AI动态"
+      ],
+      "snippet": "AI屠刀下一站“Vibe设计”！谷歌一个产品把合作伙伴Figma干崩了"
+    },
+    {
+      "title": "Cursor自研模型反超Opus 4.6！",
+      "link": "https://www.qbitai.com/2026/03/389673.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "量子位",
+      "sourceUrl": "https://qbitai.com",
+      "priority": 3,
+      "tags": [
+        "AI产品",
+        "AI动态"
+      ],
+      "snippet": "Cursor自研模型反超Opus 4.6！"
+    },
+    {
+      "title": "AI时代带来全新增量入口 阿里妈妈用“AI万相”帮商家提前铺路",
+      "link": "https://www.ebrun.com/20260320/648487.shtml",
+      "pubDate": "2026-03-20T00:00:00Z",
+      "source": "亿邦动力",
+      "sourceUrl": "https://ebrun.com",
+      "priority": 2,
+      "tags": [
+        "电商",
+        "即时零售",
+        "新零售"
+      ],
+      "snippet": "AI时代带来全新增量入口 阿里妈妈用“AI万相”帮商家提前铺路"
+    },
+    {
+      "title": "上海再出产业互联网政策 融合打造产业电商新名片",
+      "link": "https://www.ebrun.com/20260320/648467.shtml",
+      "pubDate": "2026-03-20T00:00:00Z",
+      "source": "亿邦动力",
+      "sourceUrl": "https://ebrun.com",
+      "priority": 2,
+      "tags": [
+        "电商",
+        "即时零售",
+        "新零售"
+      ],
+      "snippet": "上海再出产业互联网政策 融合打造产业电商新名片"
+    },
+    {
+      "title": "“演员”泛滥 美妆营销正在失去活人感",
+      "link": "https://www.ebrun.com/20260319/648382.shtml",
+      "pubDate": "2026-03-19T00:00:00Z",
+      "source": "亿邦动力",
+      "sourceUrl": "https://ebrun.com",
+      "priority": 2,
+      "tags": [
+        "电商",
+        "即时零售",
+        "新零售"
+      ],
+      "snippet": "“演员”泛滥 美妆营销正在失去活人感"
+    },
+    {
+      "title": "亿邦智库发布“龙虾”产业生态图谱",
+      "link": "https://www.ebrun.com/20260319/648334.shtml",
+      "pubDate": "2026-03-19T00:00:00Z",
+      "source": "亿邦动力",
+      "sourceUrl": "https://ebrun.com",
+      "priority": 2,
+      "tags": [
+        "电商",
+        "即时零售",
+        "新零售"
+      ],
+      "snippet": "亿邦智库发布“龙虾”产业生态图谱"
+    },
+    {
+      "title": "电商早报：椰树集团招标50台剥椰子机器人；阿里第三财季营收2848.43亿元",
+      "link": "https://www.ebrun.com/20260323/649515.shtml",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "亿邦动力",
+      "sourceUrl": "https://ebrun.com",
+      "priority": 2,
+      "tags": [
+        "电商",
+        "即时零售",
+        "新零售"
+      ],
+      "snippet": "电商早报：椰树集团招标50台剥椰子机器人；阿里第三财季营收2848.43亿元"
+    },
+    {
+      "title": "宇树的野望，等待兑现",
+      "link": "https://www.tmtpost.com/7924002.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "钛媒体",
+      "sourceUrl": "https://tmtpost.com",
+      "priority": 2,
+      "tags": [
+        "AI商业化",
+        "产业融合"
+      ],
+      "snippet": "宇树的野望，等待兑现"
+    },
+    {
+      "title": "AI 代币 = 第四种薪酬！硅谷正在爆发一场薪酬革命",
+      "link": "https://www.tmtpost.com/7924893.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "钛媒体",
+      "sourceUrl": "https://tmtpost.com",
+      "priority": 2,
+      "tags": [
+        "AI商业化",
+        "产业融合"
+      ],
+      "snippet": "AI 代币 = 第四种薪酬！硅谷正在爆发一场薪酬革命"
+    },
+    {
+      "title": "大疆起诉影石专利侵权，涉及多项关键技术领域",
+      "link": "https://www.tmtpost.com/7925057.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "钛媒体",
+      "sourceUrl": "https://tmtpost.com",
+      "priority": 2,
+      "tags": [
+        "AI商业化",
+        "产业融合"
+      ],
+      "snippet": "大疆起诉影石专利侵权，涉及多项关键技术领域"
+    },
+    {
+      "title": "第二代VLA落地之后，小鹏不想只做一家卖车公司",
+      "link": "https://www.tmtpost.com/7924461.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "钛媒体",
+      "sourceUrl": "https://tmtpost.com",
+      "priority": 2,
+      "tags": [
+        "AI商业化",
+        "产业融合"
+      ],
+      "snippet": "第二代VLA落地之后，小鹏不想只做一家卖车公司"
+    },
+    {
+      "title": "20天收入超全年！90天估值翻四倍！中国AI逼疯硅谷同行",
+      "link": "https://www.tmtpost.com/video/7924229.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "钛媒体",
+      "sourceUrl": "https://tmtpost.com",
+      "priority": 2,
+      "tags": [
+        "AI商业化",
+        "产业融合"
+      ],
+      "snippet": "20天收入超全年！90天估值翻四倍！中国AI逼疯硅谷同行"
+    },
+    {
+      "title": "永旺超市4家店今同时关闭，日系超市失速？",
+      "link": "https://www.tmtpost.com/7925048.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "钛媒体",
+      "sourceUrl": "https://tmtpost.com",
+      "priority": 2,
+      "tags": [
+        "AI商业化",
+        "产业融合"
+      ],
+      "snippet": "永旺超市4家店今同时关闭，日系超市失速？"
+    },
+    {
+      "title": "力推新IP，泡泡玛特也吃劲儿",
+      "link": "https://www.tmtpost.com/7925087.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "钛媒体",
+      "sourceUrl": "https://tmtpost.com",
+      "priority": 2,
+      "tags": [
+        "AI商业化",
+        "产业融合"
+      ],
+      "snippet": "力推新IP，泡泡玛特也吃劲儿"
+    },
+    {
+      "title": "跑鞋卖出2600万双的李宁，手握200亿现金",
+      "link": "https://www.tmtpost.com/7924089.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "钛媒体",
+      "sourceUrl": "https://tmtpost.com",
+      "priority": 2,
+      "tags": [
+        "AI商业化",
+        "产业融合"
+      ],
+      "snippet": "跑鞋卖出2600万双的李宁，手握200亿现金"
+    },
+    {
+      "title": "Kimi用户“被劝退”，都怪中国大模型Token调用量领跑全球？",
+      "link": "https://www.tmtpost.com/7925436.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "钛媒体",
+      "sourceUrl": "https://tmtpost.com",
+      "priority": 2,
+      "tags": [
+        "AI商业化",
+        "产业融合"
+      ],
+      "snippet": "Kimi用户“被劝退”，都怪中国大模型Token调用量领跑全球？"
+    },
+    {
+      "title": "Meta和苹果都来“借兵”，谷歌Gemini怎么就成了硅谷“托底王”？",
+      "link": "https://www.tmtpost.com/7925419.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "钛媒体",
+      "sourceUrl": "https://tmtpost.com",
+      "priority": 2,
+      "tags": [
+        "AI商业化",
+        "产业融合"
+      ],
+      "snippet": "Meta和苹果都来“借兵”，谷歌Gemini怎么就成了硅谷“托底王”？"
+    },
+    {
+      "title": "从百度到Meta，科技巨头的 AI 组织战，开打了",
+      "link": "https://www.tmtpost.com/7924829.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "钛媒体",
+      "sourceUrl": "https://tmtpost.com",
+      "priority": 2,
+      "tags": [
+        "AI商业化",
+        "产业融合"
+      ],
+      "snippet": "从百度到Meta，科技巨头的 AI 组织战，开打了"
+    },
+    {
+      "title": "微信正式向“龙虾”开门，但只开了一条缝",
+      "link": "https://www.tmtpost.com/7924826.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "钛媒体",
+      "sourceUrl": "https://tmtpost.com",
+      "priority": 2,
+      "tags": [
+        "AI商业化",
+        "产业融合"
+      ],
+      "snippet": "微信正式向“龙虾”开门，但只开了一条缝"
+    },
+    {
+      "title": "龙虾是一次“能力泄露”",
+      "link": "https://www.tmtpost.com/7925197.html",
+      "pubDate": "2026-03-23T00:00:00Z",
+      "source": "钛媒体",
+      "sourceUrl": "https://tmtpost.com",
+      "priority": 2,
+      "tags": [
+        "AI商业化",
+        "产业融合"
+      ],
+      "snippet": "龙虾是一次“能力泄露”"
+    },
+    {
+      "title": "What 81,000 people want from AI",
+      "link": "https://www.anthropic.com/81k-interviews",
+      "pubDate": "2026-03-18T00:00:00Z",
+      "source": "Anthropic Blog",
+      "sourceUrl": "https://anthropic.com/news",
+      "priority": 3,
+      "tags": [
+        "LLM",
+        "AI safety"
+      ],
+      "snippet": "What 81,000 people want from AI"
+    },
+    {
+      "title": "Introducing Claude Sonnet 4.6",
+      "link": "https://www.anthropic.com/news/claude-sonnet-4-6",
+      "pubDate": "2026-02-17T00:00:00Z",
+      "source": "Anthropic Blog",
+      "sourceUrl": "https://anthropic.com/news",
+      "priority": 3,
+      "tags": [
+        "LLM",
+        "AI safety"
+      ],
+      "snippet": "Introducing Claude Sonnet 4.6"
+    },
+    {
+      "title": "Introducing Claude Opus 4.6",
+      "link": "https://www.anthropic.com/news/claude-opus-4-6",
+      "pubDate": "2026-02-05T00:00:00Z",
+      "source": "Anthropic Blog",
+      "sourceUrl": "https://anthropic.com/news",
+      "priority": 3,
+      "tags": [
+        "LLM",
+        "AI safety"
+      ],
+      "snippet": "Introducing Claude Opus 4.6"
+    },
+    {
+      "title": "Claude is a space to think",
+      "link": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+      "pubDate": "2026-02-04T00:00:00Z",
+      "source": "Anthropic Blog",
+      "sourceUrl": "https://anthropic.com/news",
+      "priority": 3,
+      "tags": [
+        "LLM",
+        "AI safety"
+      ],
+      "snippet": "Claude is a space to think"
+    },
+    {
+      "title": "Claude on Mars",
+      "link": "https://www.anthropic.com/mars",
+      "pubDate": "2026-01-30T00:00:00Z",
+      "source": "Anthropic Blog",
+      "sourceUrl": "https://anthropic.com/news",
+      "priority": 3,
+      "tags": [
+        "LLM",
+        "AI safety"
+      ],
+      "snippet": "Claude on Mars"
+    },
+    {
+      "title": "Anthropic invests $100 million into the Claude Partner Network",
+      "link": "https://www.anthropic.com/news/claude-partner-network",
+      "pubDate": "2026-03-12T00:00:00Z",
+      "source": "Anthropic Blog",
+      "sourceUrl": "https://anthropic.com/news",
+      "priority": 3,
+      "tags": [
+        "LLM",
+        "AI safety"
+      ],
+      "snippet": "Anthropic invests $100 million into the Claude Partner Network"
+    },
+    {
+      "title": "Introducing The Anthropic Institute",
+      "link": "https://www.anthropic.com/news/the-anthropic-institute",
+      "pubDate": "2026-03-11T00:00:00Z",
+      "source": "Anthropic Blog",
+      "sourceUrl": "https://anthropic.com/news",
+      "priority": 3,
+      "tags": [
+        "LLM",
+        "AI safety"
+      ],
+      "snippet": "Introducing The Anthropic Institute"
+    },
+    {
+      "title": "Sydney will become Anthropic's fourth office in Asia-Pacific",
+      "link": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
+      "pubDate": "2026-03-10T00:00:00Z",
+      "source": "Anthropic Blog",
+      "sourceUrl": "https://anthropic.com/news",
+      "priority": 3,
+      "tags": [
+        "LLM",
+        "AI safety"
+      ],
+      "snippet": "Sydney will become Anthropic's fourth office in Asia-Pacific"
+    },
+    {
+      "title": "Partnering with Mozilla to improve Firefox's security",
+      "link": "https://www.anthropic.com/news/mozilla-firefox-security",
+      "pubDate": "2026-03-06T00:00:00Z",
+      "source": "Anthropic Blog",
+      "sourceUrl": "https://anthropic.com/news",
+      "priority": 3,
+      "tags": [
+        "LLM",
+        "AI safety"
+      ],
+      "snippet": "Partnering with Mozilla to improve Firefox's security"
+    },
+    {
+      "title": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
+      "link": "https://www.anthropic.com/news/acquires-vercept",
+      "pubDate": "2026-02-25T00:00:00Z",
+      "source": "Anthropic Blog",
+      "sourceUrl": "https://anthropic.com/news",
+      "priority": 3,
+      "tags": [
+        "LLM",
+        "AI safety"
+      ],
+      "snippet": "Anthropic acquires Vercept to advance Claude's computer use capabilities"
+    },
+    {
+      "title": "Anthropic's Responsible Scaling Policy: Version 3.0",
+      "link": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
+      "pubDate": "2026-02-24T00:00:00Z",
+      "source": "Anthropic Blog",
+      "sourceUrl": "https://anthropic.com/news",
+      "priority": 3,
+      "tags": [
+        "LLM",
+        "AI safety"
+      ],
+      "snippet": "Anthropic's Responsible Scaling Policy: Version 3.0"
+    },
+    {
+      "title": "Detecting and preventing distillation attacks",
+      "link": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
+      "pubDate": "2026-02-23T00:00:00Z",
+      "source": "Anthropic Blog",
+      "sourceUrl": "https://anthropic.com/news",
+      "priority": 3,
+      "tags": [
+        "LLM",
+        "AI safety"
+      ],
+      "snippet": "Detecting and preventing distillation attacks"
+    },
+    {
+      "title": "\"春日经济\"持续升温 户外用品企业订单旺",
+      "link": "https://www.xinhuanet.com/fortune/20260322/337269afefb44b98a370591c4317bd45/c.html",
+      "pubDate": "2026-03-22T08:00:00Z",
+      "source": "新华社财经",
+      "sourceUrl": "https://www.xinhuanet.com/fortune/",
+      "priority": 3,
+      "tags": [
+        "消费",
+        "经济",
+        "政策"
+      ],
+      "snippet": "\"春日经济\"持续升温 户外用品企业订单旺"
+    },
+    {
+      "title": "春日经济一线观察丨以花为媒 绘就春日消费新图景",
+      "link": "https://www.xinhuanet.com/fortune/20260321/ff64c8737c5c4bd8994ce13464db9828/c.html",
+      "pubDate": "2026-03-21T08:00:00Z",
+      "source": "新华社财经",
+      "sourceUrl": "https://www.xinhuanet.com/fortune/",
+      "priority": 3,
+      "tags": [
+        "消费",
+        "经济",
+        "政策"
+      ],
+      "snippet": "春日经济一线观察丨以花为媒 绘就春日消费新图景"
+    },
+    {
+      "title": "1000亿元，6个方向扩内需",
+      "link": "https://www.xinhuanet.com/fortune/20260324/b617e78931ec4118a6258dc96ca5904e/c.html",
+      "pubDate": "2026-03-24T08:00:00Z",
+      "source": "新华社财经",
+      "sourceUrl": "https://www.xinhuanet.com/fortune/",
+      "priority": 3,
+      "tags": [
+        "消费",
+        "经济",
+        "政策"
+      ],
+      "snippet": "1000亿元，6个方向扩内需"
+    },
+    {
+      "title": "高层论坛2026丨外企看中国：\"十五五\"的消费新潜力",
+      "link": "https://www.xinhuanet.com/fortune/20260323/cec4c2f763c84df29b986246d7198262/c.html",
+      "pubDate": "2026-03-23T08:00:00Z",
+      "source": "新华社财经",
+      "sourceUrl": "https://www.xinhuanet.com/fortune/",
+      "priority": 3,
+      "tags": [
+        "消费",
+        "经济",
+        "政策"
+      ],
+      "snippet": "高层论坛2026丨外企看中国：\"十五五\"的消费新潜力"
+    },
+    {
+      "title": "1—2月，网上商品和服务零售额同比增长9.2%——消费市场实现稳健开局",
+      "link": "https://www.news.cn/fortune/20260323/aeb6082785574d1e817c81d7160caf6a/c.html",
+      "pubDate": "2026-03-23T08:00:00Z",
+      "source": "新华社财经",
+      "sourceUrl": "https://www.xinhuanet.com/fortune/",
+      "priority": 3,
+      "tags": [
+        "消费",
+        "经济",
+        "政策"
+      ],
+      "snippet": "1—2月，网上商品和服务零售额同比增长9.2%——消费市场实现稳健开局"
+    },
+    {
+      "title": "第六届消博会参展国家和地区展团数量再创新高",
+      "link": "https://www.news.cn/fortune/20260318/ad33d8e27d2c43879915624c5f76dc4f/c.html",
+      "pubDate": "2026-03-18T08:00:00Z",
+      "source": "新华社财经",
+      "sourceUrl": "https://www.xinhuanet.com/fortune/",
+      "priority": 3,
+      "tags": [
+        "消费",
+        "经济",
+        "政策"
+      ],
+      "snippet": "第六届消博会参展国家和地区展团数量再创新高"
+    },
+    {
+      "title": "海关总署修订发布新规 强化进口食品安全监管",
+      "link": "https://www.xinhuanet.com/fortune/20260319/9d21db3d93274c678722d8697d2f21e2/c.html",
+      "pubDate": "2026-03-19T08:00:00Z",
+      "source": "新华社财经",
+      "sourceUrl": "https://www.xinhuanet.com/fortune/",
+      "priority": 3,
+      "tags": [
+        "消费",
+        "经济",
+        "政策"
+      ],
+      "snippet": "海关总署修订发布新规 强化进口食品安全监管"
+    },
+    {
+      "title": "六组数据，读懂大国消费新气象",
+      "link": "https://www.news.cn/fortune/20260211/78b1e3a358444e7e8ad5af35feb73ceb/c.html",
+      "pubDate": "2026-02-11T08:00:00Z",
+      "source": "新华社财经",
+      "sourceUrl": "https://www.xinhuanet.com/fortune/",
+      "priority": 3,
+      "tags": [
+        "消费",
+        "经济",
+        "政策"
+      ],
+      "snippet": "六组数据，读懂大国消费新气象"
+    },
+    {
+      "title": "\"小样\"消费，也需睁大双眼",
+      "link": "https://www.xinhuanet.com/fortune/20260323/685280621b114bd581ff545eb7fdd767/c.html",
+      "pubDate": "2026-03-23T08:00:00Z",
+      "source": "新华社财经",
+      "sourceUrl": "https://www.xinhuanet.com/fortune/",
+      "priority": 3,
+      "tags": [
+        "消费",
+        "经济",
+        "政策"
+      ],
+      "snippet": "\"小样\"消费，也需睁大双眼"
+    },
+    {
+      "title": "市场最前沿丨存储价格\"飙涨\" 手机行业迎来调价潮",
+      "link": "https://www.news.cn/fortune/20260318/a2536e11d9a445b29471e988c2aaf8fe/c.html",
+      "pubDate": "2026-03-18T08:00:00Z",
+      "source": "新华社财经",
+      "sourceUrl": "https://www.xinhuanet.com/fortune/",
+      "priority": 3,
+      "tags": [
+        "消费",
+        "经济",
+        "政策"
+      ],
+      "snippet": "市场最前沿丨存储价格\"飙涨\" 手机行业迎来调价潮"
+    },
+    {
+      "title": "亲子消费点燃冰雪经济新热潮",
+      "link": "https://www.news.cn/fortune/20260215/3566040c2625483dbb2a565254f53587/c.html",
+      "pubDate": "2026-02-15T08:00:00Z",
+      "source": "新华社财经",
+      "sourceUrl": "https://www.xinhuanet.com/fortune/",
+      "priority": 3,
+      "tags": [
+        "消费",
+        "经济",
+        "政策"
+      ],
+      "snippet": "亲子消费点燃冰雪经济新热潮"
+    },
+    {
+      "title": "家居卖场人气新观察",
+      "link": "https://www.news.cn/fortune/20260211/c1427b5445244f3196dce5af18bbb89f/c.html",
+      "pubDate": "2026-02-11T08:00:00Z",
+      "source": "新华社财经",
+      "sourceUrl": "https://www.xinhuanet.com/fortune/",
+      "priority": 3,
+      "tags": [
+        "消费",
+        "经济",
+        "政策"
+      ],
+      "snippet": "家居卖场人气新观察"
+    },
+    {
+      "title": "互联网平台反垄断合规指引",
+      "link": "https://www.news.cn/fortune/20260213/64c14bbc111544bf9c27f1a9a2d55b1f/c.html",
+      "pubDate": "2026-02-13T08:00:00Z",
+      "source": "新华社财经",
+      "sourceUrl": "https://www.xinhuanet.com/fortune/",
+      "priority": 3,
+      "tags": [
+        "消费",
+        "经济",
+        "政策"
+      ],
+      "snippet": "互联网平台反垄断合规指引"
+    },
+    {
+      "title": "三家航司推出多项购票保障举措：买贵了可免费退",
+      "link": "https://www.news.cn/fortune/20260320/2de6cde1712b404fa148944c2b7fff19/c.html",
+      "pubDate": "2026-03-20T08:00:00Z",
+      "source": "新华社财经",
+      "sourceUrl": "https://www.xinhuanet.com/fortune/",
+      "priority": 3,
+      "tags": [
+        "消费",
+        "经济",
+        "政策"
+      ],
+      "snippet": "三家航司推出多项购票保障举措：买贵了可免费退"
+    },
+    {
+      "title": "财政部部长蓝佛安：财政政策将聚焦扩大内需、投资于人、开放共享发力",
+      "link": "https://www.news.cn/fortune/20260322/93a926ce8afd4594882b85761672bfa8/c.html",
+      "pubDate": "2026-03-22T08:00:00Z",
+      "source": "新华社财经",
+      "sourceUrl": "https://www.xinhuanet.com/fortune/",
+      "priority": 3,
+      "tags": [
+        "消费",
+        "经济",
+        "政策"
+      ],
+      "snippet": "财政部部长蓝佛安：财政政策将聚焦扩大内需、投资于人、开放共享发力"
+    },
+    {
+      "title": "\"十五五\"开局之年，促消费这么干！",
+      "link": "https://www.mofcom.gov.cn/tj/zc/art/2026/art_39dd7a42178646c7bc1721b03986c7e4.html",
+      "pubDate": "2026-03-20T08:00:00Z",
+      "source": "商务部",
+      "sourceUrl": "https://www.mofcom.gov.cn",
+      "priority": 2,
+      "tags": [
+        "政策",
+        "消费",
+        "外贸"
+      ],
+      "snippet": "\"十五五\"开局之年，促消费这么干！"
+    },
+    {
+      "title": "牵头\"创新多元化消费场景\" 商务部交卷",
+      "link": "https://www.mofcom.gov.cn/tj/qttj/art/2026/art_da8ff779174042eaa7d1df83e9e0b95a.html",
+      "pubDate": "2026-03-20T08:00:00Z",
+      "source": "商务部",
+      "sourceUrl": "https://www.mofcom.gov.cn",
+      "priority": 2,
+      "tags": [
+        "政策",
+        "消费",
+        "外贸"
+      ],
+      "snippet": "牵头\"创新多元化消费场景\" 商务部交卷"
+    },
+    {
+      "title": "商务部消费促进司负责人谈2026年1-2月我国消费市场情况",
+      "link": "https://www.mofcom.gov.cn/xwfb/sjfzrfb/art/2026/art_1baac87254be459db272898a3d62a981.html",
+      "pubDate": "2026-03-20T08:00:00Z",
+      "source": "商务部",
+      "sourceUrl": "https://www.mofcom.gov.cn",
+      "priority": 2,
+      "tags": [
+        "政策",
+        "消费",
+        "外贸"
+      ],
+      "snippet": "商务部消费促进司负责人谈2026年1-2月我国消费市场情况"
+    },
+    {
+      "title": "2026年1-2月全国吸收外资1614.5亿元人民币",
+      "link": "https://www.mofcom.gov.cn/xwfb/rcxwfb/art/2026/art_8f9a848b79ef478f8cf75d540be2bf3b.html",
+      "pubDate": "2026-03-20T08:00:00Z",
+      "source": "商务部",
+      "sourceUrl": "https://www.mofcom.gov.cn",
+      "priority": 2,
+      "tags": [
+        "政策",
+        "消费",
+        "外贸"
+      ],
+      "snippet": "2026年1-2月全国吸收外资1614.5亿元人民币"
+    },
+    {
+      "title": "商务部等9部门印发《关于促进旅行服务出口 扩大入境消费的政策措施》的通知",
+      "link": "https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_1999b7fbd995460f8d045fae087548b4.html",
+      "pubDate": "2026-03-20T08:00:00Z",
+      "source": "商务部",
+      "sourceUrl": "https://www.mofcom.gov.cn",
+      "priority": 2,
+      "tags": [
+        "政策",
+        "消费",
+        "外贸"
+      ],
+      "snippet": "商务部等9部门印发《关于促进旅行服务出口 扩大入境消费的政策措施》的通知"
+    },
+    {
+      "title": "公开征求《零售商品数字化 家用电器消费品特征属性》行业标准意见",
+      "link": "https://dzsws.mofcom.gov.cn/gztz/art/2026/art_47020ef0a86b43bba09cae007d0ff50c.html",
+      "pubDate": "2026-03-20T08:00:00Z",
+      "source": "商务部",
+      "sourceUrl": "https://www.mofcom.gov.cn",
+      "priority": 2,
+      "tags": [
+        "政策",
+        "消费",
+        "外贸"
+      ],
+      "snippet": "公开征求《零售商品数字化 家用电器消费品特征属性》行业标准意见"
+    },
+    {
+      "title": "2026年零售业变局观察：效率，是唯一的救赎",
+      "link": "http://m.linkshop.com/article/news/544218",
+      "pubDate": "2026-03-20T08:00:00Z",
+      "source": "联商网",
+      "sourceUrl": "https://www.linkshop.com",
+      "priority": 3,
+      "tags": [
+        "即时零售",
+        "零售趋势"
+      ],
+      "snippet": "即时零售：万亿赛道上的效率竞赛。商务部研究院预测，2026年我国即时零售规模将突破1万亿元"
+    },
+    {
+      "title": "2026年1—2月社会消费品零售总额增长2.8%",
+      "link": "http://m.linkshop.com/article/news/544677",
+      "pubDate": "2026-03-16T08:00:00Z",
+      "source": "联商网",
+      "sourceUrl": "https://www.linkshop.com",
+      "priority": 3,
+      "tags": [
+        "消费数据",
+        "零售总额"
+      ],
+      "snippet": "1—2月份，社会消费品零售总额86079亿元，同比增长2.8%"
+    },
+    {
+      "title": "2026年，即时零售向下沉市场要增长可行吗？",
+      "link": "http://m.linkshop.com/article/news/542159",
+      "pubDate": "2026-03-10T08:00:00Z",
+      "source": "联商网",
+      "sourceUrl": "https://www.linkshop.com",
+      "priority": 3,
+      "tags": [
+        "即时零售",
+        "下沉市场"
+      ],
+      "snippet": "下沉市场确实藏着即时零售的下一个增长密码"
+    },
+    {
+      "title": "女性零售高管的2026年",
+      "link": "http://m.linkshop.com/article/news/544069",
+      "pubDate": "2026-03-12T08:00:00Z",
+      "source": "联商网",
+      "sourceUrl": "https://www.linkshop.com",
+      "priority": 3,
+      "tags": [
+        "山姆",
+        "盒马",
+        "奥乐齐"
+      ],
+      "snippet": "山姆、奥乐齐、盒马三家独具特色的零售品牌，在2026年都将由女性高管带领"
+    },
+    {
+      "title": "京东布局百亿超市，即时零售迎来新变局？",
+      "link": "http://m.linkshop.com/article/news/544145",
+      "pubDate": "2026-03-14T08:00:00Z",
+      "source": "联商网",
+      "sourceUrl": "https://www.linkshop.com",
+      "priority": 3,
+      "tags": [
+        "即时零售",
+        "京东"
+      ],
+      "snippet": "2026年我国即时零售规模将突破1万亿元，预计到2030年达到2万亿元"
+    },
+    {
+      "title": "2026，传统商超还能靠即时零售续命吗？",
+      "link": "http://blog.linkshop.com/u/120180/558314.html",
+      "pubDate": "2026-03-18T08:00:00Z",
+      "source": "联商网",
+      "sourceUrl": "https://www.linkshop.com",
+      "priority": 3,
+      "tags": [
+        "即时零售",
+        "商超"
+      ],
+      "snippet": "2025年接入平台的商超门店，线上订单平均涨了50%-60%"
+    },
+    {
+      "title": "2026年，超市调改到底调什么？",
+      "link": "http://m.linkshop.com/article/news/544202",
+      "pubDate": "2026-03-15T08:00:00Z",
+      "source": "联商网",
+      "sourceUrl": "https://www.linkshop.com",
+      "priority": 3,
+      "tags": [
+        "超市",
+        "零售转型"
+      ],
+      "snippet": "国民超市品质永辉，从规模扩张转向价值深耕"
+    },
+    {
+      "title": "2026最受关注的30家购物中心，谁会是新顶流？",
+      "link": "http://m.linkshop.com/article/news/544402",
+      "pubDate": "2026-03-17T08:00:00Z",
+      "source": "联商网",
+      "sourceUrl": "https://www.linkshop.com",
+      "priority": 3,
+      "tags": [
+        "购物中心",
+        "零售"
+      ],
+      "snippet": "三亚太古里即三亚国际免税城三期项目，定位全国首个度假型高端零售综合体"
+    },
+    {
+      "title": "今年政府工作报告，为零售业带来了哪些发展新机遇？",
+      "link": "http://m.linkshop.com/article/news/544203",
+      "pubDate": "2026-03-13T08:00:00Z",
+      "source": "联商网",
+      "sourceUrl": "https://www.linkshop.com",
+      "priority": 3,
+      "tags": [
+        "零售政策",
+        "促消费"
+      ],
+      "snippet": "对于零售行业来说，2026年不是盲目扩张的一年，而是精耕细作"
+    },
+    {
+      "title": "美团2025年由盈转亏，2026年靠什么破局？",
+      "link": "http://blog.linkshop.com/u/120180/558579.html",
+      "pubDate": "2026-03-19T08:00:00Z",
+      "source": "联商网",
+      "sourceUrl": "https://www.linkshop.com",
+      "priority": 3,
+      "tags": [
+        "美团",
+        "即时零售"
+      ],
+      "snippet": "美团APP月活破5亿，即时零售日订单峰值超1.5亿单"
+    },
+    {
+      "title": "山姆、奥乐齐、盒马等商超企业2026开店计划出炉",
+      "link": "http://m.linkshop.com/article/news/542848",
+      "pubDate": "2026-03-08T08:00:00Z",
+      "source": "联商网",
+      "sourceUrl": "https://www.linkshop.com",
+      "priority": 3,
+      "tags": [
+        "山姆",
+        "盒马",
+        "开店"
+      ],
+      "snippet": "2026年山姆中国计划新开13家新店"
+    },
+    {
+      "title": "商超行业告别冰火2025，2026要关注哪些趋势？",
+      "link": "http://m.linkshop.com/article/news/541898",
+      "pubDate": "2026-03-05T08:00:00Z",
+      "source": "联商网",
+      "sourceUrl": "https://www.linkshop.com",
+      "priority": 3,
+      "tags": [
+        "胖东来",
+        "山姆",
+        "盒马"
+      ],
+      "snippet": "胖东来依然是网红顶流，销售业绩再创新高"
+    },
+    {
+      "title": "盒马时隔6年杀回福州，这次准备好了吗？",
+      "link": "http://blog.linkshop.com/u/120180/558603.html",
+      "pubDate": "2026-03-21T08:00:00Z",
+      "source": "联商网",
+      "sourceUrl": "https://www.linkshop.com",
+      "priority": 3,
+      "tags": [
+        "盒马",
+        "门店扩张"
+      ],
+      "snippet": "时隔六年，盒马再次杀回福州"
+    },
+    {
+      "title": "2026 CCFA金翼零售实践案例征集启动",
+      "link": "http://www.ccfa.org.cn/portal/cn/xiangxi.jsp?id=446833&type=1&sharetype=1",
+      "pubDate": "2026-03-15T08:00:00Z",
+      "source": "中国连锁经营协会 CCFA",
+      "sourceUrl": "https://www.ccfa.org.cn",
+      "priority": 2,
+      "tags": [
+        "零售创新",
+        "连锁"
+      ],
+      "snippet": "聚焦企业在战略布局、技术落地与运营优化等方面的实践探索"
+    },
+    {
+      "title": "2026年零售业供应链最佳实践案例征集活动启动",
+      "link": "http://www.ccfa.org.cn/portal/cn/xiangxi.jsp?id=446928&type=1&sharetype=1",
+      "pubDate": "2026-03-10T08:00:00Z",
+      "source": "中国连锁经营协会 CCFA",
+      "sourceUrl": "https://www.ccfa.org.cn",
+      "priority": 2,
+      "tags": [
+        "供应链",
+        "连锁零售"
+      ],
+      "snippet": "连锁零售企业（超市、便利店、餐饮、购物中心/百购、专业专卖）"
+    },
+    {
+      "title": "一周大事| 西贝获A轮融资；山姆中国2026年计划新开13家门店",
+      "link": "http://www.ccfa.org.cn/portal/cn/xiangxi.jsp?id=446957&type=2&sharetype=1",
+      "pubDate": "2026-03-12T08:00:00Z",
+      "source": "中国连锁经营协会 CCFA",
+      "sourceUrl": "https://www.ccfa.org.cn",
+      "priority": 2,
+      "tags": [
+        "山姆",
+        "餐饮",
+        "连锁"
+      ],
+      "snippet": "山姆中国2026年计划新开13家门店"
+    },
+    {
+      "title": "一周大事|奥乐齐2026年在华门店将超100家；海底捞多个新业态落地",
+      "link": "http://www.ccfa.org.cn/portal/cn/xiangxi.jsp?id=446886&type=2",
+      "pubDate": "2026-03-08T08:00:00Z",
+      "source": "中国连锁经营协会 CCFA",
+      "sourceUrl": "https://www.ccfa.org.cn",
+      "priority": 2,
+      "tags": [
+        "奥乐齐",
+        "海底捞",
+        "门店"
+      ],
+      "snippet": "奥乐齐2026年在华门店将超100家"
+    },
+    {
+      "title": "一周大事|百胜中国2025年营收118亿美元；盒马布局宁波",
+      "link": "http://www.ccfa.org.cn/portal/cn/xiangxi.jsp?id=446900&type=2",
+      "pubDate": "2026-03-06T08:00:00Z",
+      "source": "中国连锁经营协会 CCFA",
+      "sourceUrl": "https://www.ccfa.org.cn",
+      "priority": 2,
+      "tags": [
+        "百胜",
+        "盒马",
+        "连锁"
+      ],
+      "snippet": "百胜中国2025年营收118亿美元；盒马布局宁波"
+    },
+    {
+      "title": "行业标准《零售门店盘点管理规范》发布",
+      "link": "http://www.ccfa.org.cn/portal/cn/xiangxi.jsp?id=446832&type=34&imageType=0",
+      "pubDate": "2026-03-01T08:00:00Z",
+      "source": "中国连锁经营协会 CCFA",
+      "sourceUrl": "https://www.ccfa.org.cn",
+      "priority": 2,
+      "tags": [
+        "零售标准",
+        "门店管理"
+      ],
+      "snippet": "中国连锁经营协会完成《零售门店盘点管理规范》行业标准的修订工作"
+    },
+    {
+      "title": "4月15-16日杭州全零售AI火花大会即将召开",
+      "link": "http://www.ccfa.org.cn/portal/cn/xiangxi.jsp?id=447016&type=10005&imageType=0",
+      "pubDate": "2026-03-06T08:00:00Z",
+      "source": "中国连锁经营协会 CCFA",
+      "sourceUrl": "https://www.ccfa.org.cn",
+      "priority": 2,
+      "tags": [
+        "零售AI",
+        "行业大会"
+      ],
+      "snippet": "全零售AI火花大会"
+    },
+    {
+      "title": "年货经济消费趋势：即时化与体验化重构新春消费",
+      "link": "https://www.iimedia.cn/c1020/110233.html",
+      "pubDate": "2026-03-20T08:00:00Z",
+      "source": "艾媒咨询",
+      "sourceUrl": "https://www.iimedia.cn",
+      "priority": 2,
+      "tags": [
+        "消费趋势",
+        "即时零售"
+      ],
+      "snippet": "春节前四天重点零售餐饮日均销售额同比上涨8.6%"
+    },
+    {
+      "title": "京东上线百亿超市频道，3年200亿补贴打响商超争夺战",
+      "link": "https://www.iimedia.cn/c1040/109927.html",
+      "pubDate": "2026-03-18T08:00:00Z",
+      "source": "艾媒咨询",
+      "sourceUrl": "https://www.iimedia.cn",
+      "priority": 2,
+      "tags": [
+        "京东",
+        "即时零售",
+        "商超"
+      ],
+      "snippet": "京东、美团、阿里在外卖和即时零售领域频繁交手"
+    },
+    {
+      "title": "即时零售正在重构礼品花市场",
+      "link": "https://www.iimedia.cn/c1040/109743.html",
+      "pubDate": "2026-03-15T08:00:00Z",
+      "source": "艾媒咨询",
+      "sourceUrl": "https://www.iimedia.cn",
+      "priority": 2,
+      "tags": [
+        "即时零售",
+        "鲜花电商"
+      ],
+      "snippet": "即时零售把买花推向高频的情绪消费与生活美学消费"
+    },
+    {
+      "title": "京东外卖试水一年，外卖行业格局被改写了吗？",
+      "link": "https://www.iimedia.cn/c1040/110081.html",
+      "pubDate": "2026-03-19T08:00:00Z",
+      "source": "艾媒咨询",
+      "sourceUrl": "https://www.iimedia.cn",
+      "priority": 2,
+      "tags": [
+        "京东",
+        "外卖",
+        "即时零售"
+      ],
+      "snippet": "2025年2月京东入局外卖赛道"
+    },
+    {
+      "title": "家居消费趋势：以旧换新与智能化重塑2026行业格局",
+      "link": "https://www.iimedia.cn/c1020/110147.html",
+      "pubDate": "2026-03-17T08:00:00Z",
+      "source": "艾媒咨询",
+      "sourceUrl": "https://www.iimedia.cn",
+      "priority": 2,
+      "tags": [
+        "以旧换新",
+        "消费趋势"
+      ],
+      "snippet": "以旧换新持续释放消费潜力、全屋智能加速渗透普通家庭"
+    },
+    {
+      "title": "2025-2026年中国下沉市场即时配送平台趋势洞察报告",
+      "link": "https://www.iimedia.cn/c400/106267.html",
+      "pubDate": "2026-03-10T08:00:00Z",
+      "source": "艾媒咨询",
+      "sourceUrl": "https://www.iimedia.cn",
+      "priority": 2,
+      "tags": [
+        "即时配送",
+        "下沉市场"
+      ],
+      "snippet": "消费结构逐渐向品质化+服务化升级"
+    },
+    {
+      "title": "美团拟全资收购叮咚买菜，即时零售与生鲜电商格局重塑",
+      "link": "https://www.iimedia.cn/c1040/109555.html",
+      "pubDate": "2026-03-05T08:00:00Z",
+      "source": "艾媒咨询",
+      "sourceUrl": "https://www.iimedia.cn",
+      "priority": 2,
+      "tags": [
+        "美团",
+        "叮咚买菜",
+        "生鲜电商"
+      ],
+      "snippet": "即时零售与生鲜电商市场将迎来格局重塑"
+    },
+    {
+      "title": "In 2026, AI will move from hype to pragmatism",
+      "link": "https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/",
+      "pubDate": "2026-01-02T08:00:00Z",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "priority": 2,
+      "tags": [
+        "AI startups",
+        "funding"
+      ],
+      "snippet": "New architectures, smaller models, world models, reliable agents, physical AI"
+    },
+    {
+      "title": "The best AI investment might be in energy tech",
+      "link": "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/",
+      "pubDate": "2026-03-20T08:00:00Z",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "priority": 2,
+      "tags": [
+        "AI startups",
+        "funding"
+      ],
+      "snippet": "Power has become one of the biggest bottlenecks in rolling out new AI data centers"
+    },
+    {
+      "title": "A roadmap for AI, if anyone will listen",
+      "link": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
+      "pubDate": "2026-03-07T08:00:00Z",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "priority": 2,
+      "tags": [
+        "AI startups",
+        "funding"
+      ],
+      "snippet": "TechCrunch Founder Summit 2026 delivers tactical playbooks"
+    },
+    {
+      "title": "The billion-dollar infrastructure deals powering the AI boom",
+      "link": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
+      "pubDate": "2026-02-28T08:00:00Z",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "priority": 2,
+      "tags": [
+        "AI startups",
+        "funding"
+      ],
+      "snippet": "Amazon projecting $200 billion in 2026 spending, Google close second with $175-185 billion"
+    },
+    {
+      "title": "Investors predict AI is coming for labor in 2026",
+      "link": "https://techcrunch.com/2025/12/31/investors-predict-ai-is-coming-for-labor-in-2026/",
+      "pubDate": "2025-12-31T08:00:00Z",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "priority": 2,
+      "tags": [
+        "AI startups",
+        "funding"
+      ],
+      "snippet": "Concerns about how AI will affect workers continue to rise"
+    },
+    {
+      "title": "How AI agents could destroy the economy",
+      "link": "https://techcrunch.com/2026/02/23/how-ai-agents-could-destroy-the-economy/",
+      "pubDate": "2026-02-23T08:00:00Z",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "priority": 2,
+      "tags": [
+        "AI startups",
+        "funding"
+      ],
+      "snippet": "AI agents and their economic implications"
+    },
+    {
+      "title": "17 US-based AI companies that have raised $100M or more in 2026",
+      "link": "https://techcrunch.com/2026/02/17/here-are-the-17-us-based-ai-companies-that-have-raised-100m-or-more-in-2026/",
+      "pubDate": "2026-02-17T08:00:00Z",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "priority": 2,
+      "tags": [
+        "AI startups",
+        "funding"
+      ],
+      "snippet": "Three raised rounds larger than $1 billion, 14 others raised $100 million or more"
+    },
+    {
+      "title": "No one has a good plan for how AI companies should work with the government",
+      "link": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/",
+      "pubDate": "2026-03-02T08:00:00Z",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "priority": 2,
+      "tags": [
+        "AI startups",
+        "funding"
+      ],
+      "snippet": "OpenAI and Anthropic working with Department of Defense"
+    },
+    {
+      "title": "What's next for AI in 2026",
+      "link": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
+      "pubDate": "2026-01-05T08:00:00Z",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com",
+      "priority": 3,
+      "tags": [
+        "AI research",
+        "deep tech"
+      ],
+      "snippet": "Expect more Silicon Valley apps to ship on top of Chinese open models"
+    },
+    {
+      "title": "Hyperscale AI data centers: 10 Breakthrough Technologies 2026",
+      "link": "https://www.technologyreview.com/2026/01/12/1129982/hyperscale-ai-data-centers-energy-usage-2026-breakthrough-technology/",
+      "pubDate": "2026-01-12T08:00:00Z",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com",
+      "priority": 3,
+      "tags": [
+        "AI research",
+        "deep tech"
+      ],
+      "snippet": "Hyperscale data centers powering AI models with revolutionary architecture at staggering energy cost"
+    },
+    {
+      "title": "Generative coding: 10 Breakthrough Technologies 2026",
+      "link": "https://www.technologyreview.com/2026/01/12/1130027/generative-coding-ai-software-2026-breakthrough-technology/",
+      "pubDate": "2026-01-12T08:00:00Z",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com",
+      "priority": 3,
+      "tags": [
+        "AI research",
+        "deep tech"
+      ],
+      "snippet": "AI now writes 30% of Microsoft's code and more than a quarter of Google's"
+    },
+    {
+      "title": "AI companions: 10 Breakthrough Technologies 2026",
+      "link": "https://www.technologyreview.com/2026/01/12/1130018/ai-companions-chatbots-relationships-2026-breakthrough-technology/",
+      "pubDate": "2026-01-12T08:00:00Z",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com",
+      "priority": 3,
+      "tags": [
+        "AI research",
+        "deep tech"
+      ],
+      "snippet": "72% of US teenagers have used AI for companionship"
+    },
+    {
+      "title": "Mechanistic interpretability: 10 Breakthrough Technologies 2026",
+      "link": "https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/",
+      "pubDate": "2026-01-12T08:00:00Z",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com",
+      "priority": 3,
+      "tags": [
+        "AI research",
+        "deep tech"
+      ],
+      "snippet": "New techniques giving researchers a glimpse at the inner workings of AI models"
+    },
+    {
+      "title": "10 Breakthrough Technologies 2026",
+      "link": "https://www.technologyreview.com/2026/01/12/1130697/10-breakthrough-technologies-2026/",
+      "pubDate": "2026-01-12T08:00:00Z",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com",
+      "priority": 3,
+      "tags": [
+        "AI research",
+        "deep tech"
+      ],
+      "snippet": "AI coding tools revolutionizing how we write, test, and deploy code"
+    },
+    {
+      "title": "Making AI Work: MIT Technology Review's new AI newsletter",
+      "link": "https://www.technologyreview.com/2026/02/09/1132462/ai-newsletter-professional-applications/",
+      "pubDate": "2026-02-09T08:00:00Z",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com",
+      "priority": 3,
+      "tags": [
+        "AI research",
+        "deep tech"
+      ],
+      "snippet": "Insights about using AI tools powered by LLMs in your own life and work"
+    },
+    {
+      "title": "Shopee vs Lazada vs TikTok Shop: Who's Winning in Southeast Asia?",
+      "link": "https://www.demeterict.com/en/zendesk-updates-en/shopee-vs-lazada-vs-tiktok-shop-whos-winning-in-southeast-asia/",
+      "source": "Retail Dive",
+      "snippet": "Southeast Asia's e-commerce hit US$128B in 2024 — Shopee still leads, Lazada turns profitable, and TikTok Shop is rewriting the rules of retail.",
+      "tags": [
+        "SEA",
+        "ecommerce"
+      ],
+      "pubDate": "2026-03-24T07:10:34.671Z",
+      "sourceUrl": "https://www.demeterict.com/en/zendesk-updates-en/shopee-vs-lazada-vs-tiktok-shop-whos-winning-in-southeast-asia/",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "TikTok Shop narrows the gap with Shopee in Southeast Asia's e-commerce market",
+      "link": "https://kr-asia.com/tiktok-shop-narrows-the-gap-with-shopee-in-southeast-asias-e-commerce-market",
+      "source": "Modern Retail",
+      "snippet": "The gap between the two players is narrowing, particularly in Vietnam, where TikTok Shop now commands more than 40% of the market.",
+      "tags": [
+        "SEA",
+        "TikTok Shop"
+      ],
+      "pubDate": "2026-03-24T07:10:34.671Z",
+      "sourceUrl": "https://kr-asia.com/tiktok-shop-narrows-the-gap-with-shopee-in-southeast-asias-e-commerce-market",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "东南亚电商乱斗：TikTok一年翻4倍，Shopee和Lazada前二",
+      "link": "https://iot.ofweek.com/2024-07/ART-132200-8130-30641832.html",
+      "source": "亿邦动力",
+      "snippet": "2023年东南亚地区电商平台商品交易总额达到1146亿美元，Shopee以48%的市场份额位列第一",
+      "tags": [
+        "东南亚",
+        "电商"
+      ],
+      "pubDate": "2026-03-24T07:10:34.671Z",
+      "sourceUrl": "https://iot.ofweek.com/2024-07/ART-132200-8130-30641832.html",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "东南亚电商市场蓝海:Shopee,Lazada,TikTok Shop市场分析",
+      "link": "https://www.eccang.com/news/3792",
+      "source": "Modern Retail",
+      "snippet": "东南亚成全球电商增速最快市场,2025年GMV预计破$2300亿,Shopee,Lazada,TikTok Shop三强争霸",
+      "tags": [
+        "SEA",
+        "ecommerce"
+      ],
+      "pubDate": "2026-03-24T07:10:34.671Z",
+      "sourceUrl": "https://www.eccang.com/news/3792",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "2025亚洲电商报告前瞻：Shopee持续领跑，TikTok快速拓展",
+      "link": "https://m.amz123.com/t/DvNB1vgR",
+      "source": "Modern Retail",
+      "snippet": "Shopee持续在越南、泰国、马来西亚等市场占据领导地位，TikTok Shop和Lazada通过创新和本地化服务逐步提升竞争力",
+      "tags": [
+        "SEA",
+        "Shopee"
+      ],
+      "pubDate": "2026-03-24T07:10:34.671Z",
+      "sourceUrl": "https://m.amz123.com/t/DvNB1vgR",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "2025中国平台爆发，Temu、Shein全球登顶！份额追平亚马逊",
+      "link": "https://zhuanlan.zhihu.com/p/2010425573487435882",
+      "source": "亿邦动力",
+      "snippet": "2025年中国跨境电商平台迎来跨越式发展，Temu、Shein拿下全球电商应用下载量榜首",
+      "tags": [
+        "跨境电商",
+        "出海"
+      ],
+      "pubDate": "2026-03-24T07:10:34.671Z",
+      "sourceUrl": "https://zhuanlan.zhihu.com/p/2010425573487435882",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "2025年做跨境电商：亚马逊、TikTok、Temu、SHEIN平台对比",
+      "link": "https://www.ebrun.com/20250107/569566.shtml",
+      "source": "亿邦动力",
+      "snippet": "亚马逊、eBay、TikTok、TEMU、SHEIN、速卖通等20+主流跨境电商平台对比分析",
+      "tags": [
+        "跨境电商",
+        "Temu",
+        "SHEIN"
+      ],
+      "pubDate": "2026-03-24T07:10:34.671Z",
+      "sourceUrl": "https://www.ebrun.com/20250107/569566.shtml",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "白牌退潮，品牌狂飙｜跨境电商2025盘点",
+      "link": "https://news.qq.com/rain/a/20260130A03NNT00",
+      "source": "Retail Dive",
+      "snippet": "SHEIN、TEMU和速卖通三大中国出海主力，正以不同策略加速开拓欧洲及其他新兴市场",
+      "tags": [
+        "跨境电商",
+        "品牌出海"
+      ],
+      "pubDate": "2026-03-24T07:10:34.671Z",
+      "sourceUrl": "https://news.qq.com/rain/a/20260130A03NNT00",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "SHEIN有大动作，比拼多多Temu还要猛",
+      "link": "https://www.yfchuhai.com/article/10224650.html",
+      "source": "亿邦动力",
+      "snippet": "SHEIN宣布启动爆单计划，面向国内跨境商家提供百亿级站内外流量扶持",
+      "tags": [
+        "SHEIN",
+        "跨境电商"
+      ],
+      "pubDate": "2026-03-24T07:10:34.671Z",
+      "sourceUrl": "https://www.yfchuhai.com/article/10224650.html",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "2025，跨境电商跑进下半场：告别低价，搏杀品牌",
+      "link": "https://m.36kr.com/p/3632360180625920",
+      "source": "36氪",
+      "snippet": "中国出海正在告别白牌时代，转而通过品牌溢价对冲成本上升",
+      "tags": [
+        "跨境电商",
+        "品牌出海"
+      ],
+      "pubDate": "2026-03-24T07:10:34.671Z",
+      "sourceUrl": "https://m.36kr.com/p/3632360180625920",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "跨境电商走到新赛点",
+      "link": "https://www.21jingji.com/article/20241211/herald/1023b11bc63245b356a64c6a73d111c1.html",
+      "source": "Retail Dive",
+      "snippet": "Temu营收同比增长44%，但已是自2022年第二季度以来最低增速",
+      "tags": [
+        "跨境电商",
+        "Temu"
+      ],
+      "pubDate": "2026-03-24T07:10:34.671Z",
+      "sourceUrl": "https://www.21jingji.com/article/20241211/herald/1023b11bc63245b356a64c6a73d111c1.html",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "2025最新数据：Temu法国暴涨100%、SHEIN英国激增50%",
+      "link": "https://www.ingstart.com/blog/20220.html",
+      "source": "Modern Retail",
+      "snippet": "中国跨境电商巨头Temu与SHEIN正在将战略重心迅速转向欧洲市场，并取得显著成果",
+      "tags": [
+        "Temu",
+        "SHEIN",
+        "欧洲"
+      ],
+      "pubDate": "2026-03-24T07:10:34.671Z",
+      "sourceUrl": "https://www.ingstart.com/blog/20220.html",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "新华网财经观察丨新茶饮的出海密码",
+      "link": "https://www.news.cn/fortune/20251016/a43b094c8e384201be1ce747498da1aa/c.html",
+      "source": "新华社财经",
+      "snippet": "蜜雪冰城业务已覆盖越南、柬埔寨、日本等12个国家，海外门店超4700家。霸王茶姬美国首店在洛杉矶开业",
+      "tags": [
+        "茶饮出海",
+        "蜜雪冰城",
+        "霸王茶姬"
+      ],
+      "pubDate": "2026-03-24T07:10:34.671Z",
+      "sourceUrl": "https://www.news.cn/fortune/20251016/a43b094c8e384201be1ce747498da1aa/c.html",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "出海升级，看新消费如何俘获东南亚Z世代",
+      "link": "http://www.chinanews.se/static/content/BOSQ/2025-11-01/1434352817409908736.html",
+      "source": "Retail Dive",
+      "snippet": "霸王茶姬进入东南亚市场较晚，但今年火力全开。名创优品持续深耕本地市场",
+      "tags": [
+        "茶饮出海",
+        "霸王茶姬",
+        "名创优品"
+      ],
+      "pubDate": "2026-03-24T07:10:34.671Z",
+      "sourceUrl": "http://www.chinanews.se/static/content/BOSQ/2025-11-01/1434352817409908736.html",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "新茶饮决战美国：喜茶100万美金开LAB、霸王瞄准比佛利",
+      "link": "https://m.36kr.com/p/3342688501299717",
+      "source": "36氪",
+      "snippet": "蜜雪冰城截至2024年底海外门店超4800家，80%集中在印尼、越南",
+      "tags": [
+        "茶饮出海",
+        "蜜雪冰城",
+        "喜茶"
+      ],
+      "pubDate": "2026-03-24T07:10:34.671Z",
+      "sourceUrl": "https://m.36kr.com/p/3342688501299717",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "茶饮出海：以东方韵味，打开海外茶饮新市场",
+      "link": "https://www.ccpitbj.org/web/static/articles/catalog_40fcc0367c729df20181af759dc807e7/article_ff8080819739a760019ab89268c10d4b/ff8080819739a760019ab89268c10d4b.html",
+      "source": "Retail Dive",
+      "snippet": "蜜雪冰城、喜茶、霸王茶姬等头部品牌纷纷加码海外布局，中式茶饮全球化",
+      "tags": [
+        "茶饮出海"
+      ],
+      "pubDate": "2026-03-24T07:10:34.671Z",
+      "sourceUrl": "https://www.ccpitbj.org/web/static/articles/catalog_40fcc0367c729df20181af759dc807e7/article_ff8080819739a760019ab89268c10d4b/ff8080819739a760019ab89268c10d4b.html",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "雪王出海纽约、好莱坞：6天开3店，给美国人提供200%甜度",
+      "link": "https://www.foodtalks.cn/news/60756",
+      "source": "Modern Retail",
+      "snippet": "位于好莱坞星光大道中国剧院正对面，旁边的邻居是出海老乡名创优品",
+      "tags": [
+        "蜜雪冰城",
+        "出海"
+      ],
+      "pubDate": "2026-03-24T07:10:34.671Z",
+      "sourceUrl": "https://www.foodtalks.cn/news/60756",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "What the Grab–GoTo merger saga means for SEA's superapp era",
+      "link": "https://techcollectivesea.com/2026/03/16/grab-goto-merger-southeast-asia-superapp/",
+      "source": "Modern Retail",
+      "snippet": "We explore what the Grab–GoTo merger saga means for Southeast Asia's superapp era",
+      "tags": [
+        "Grab",
+        "GoTo",
+        "SEA"
+      ],
+      "pubDate": "2026-03-24T07:10:34.671Z",
+      "sourceUrl": "https://techcollectivesea.com/2026/03/16/grab-goto-merger-southeast-asia-superapp/",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "Grab, GoTo and Shopee – how do Southeast Asia's tech giants stack against each other",
+      "link": "https://thelowdown.momentum.asia/grab-goto-and-shopee-how-do-southeast-asias-tech-giants-stack-against-each-other/",
+      "source": "Modern Retail",
+      "snippet": "Southeast Asia's consumer tech space is now dominated by three publicly listed giants: Grab, GoTo and SEA Group",
+      "tags": [
+        "Grab",
+        "GoTo",
+        "Sea Group"
+      ],
+      "pubDate": "2026-03-24T07:10:34.671Z",
+      "sourceUrl": "https://thelowdown.momentum.asia/grab-goto-and-shopee-how-do-southeast-asias-tech-giants-stack-against-each-other/",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "Grab-GoTo Merger: Regulatory Gauntlet or Southeast Asia Tech Supremacy",
+      "link": "https://www.ainvest.com/news/grab-goto-merger-regulatory-gauntlet-southeast-asia-tech-supremacy-2506/",
+      "source": "Retail Dive",
+      "snippet": "The proposed $7 billion merger between Grab Holdings and GoTo Group has ignited debate",
+      "tags": [
+        "Grab",
+        "GoTo"
+      ],
+      "pubDate": "2026-03-24T07:10:34.671Z",
+      "sourceUrl": "https://www.ainvest.com/news/grab-goto-merger-regulatory-gauntlet-southeast-asia-tech-supremacy-2506/",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "Zara overtakes H&M to become Europe's second-largest apparel brand",
+      "link": "https://www.just-style.com/news/zara-jumps-ahead-of-hm-to-become-second-largest-apparel-brand-in-europe/",
+      "source": "Retail Dive",
+      "snippet": "Inditex-owned retailer Zara has overtaken Swedish fashion retailer H&M to become the continent's second-largest apparel brand, behind Nike",
+      "tags": [
+        "Zara",
+        "H&M",
+        "Europe"
+      ],
+      "pubDate": "2026-03-24T07:10:34.671Z",
+      "sourceUrl": "https://www.just-style.com/news/zara-jumps-ahead-of-hm-to-become-second-largest-apparel-brand-in-europe/",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "Inditex 2025 Focuses on Germany as Spain and China store counts shift",
+      "link": "https://www.modaes.com/global/companies/less-spain-and-china-and-more-germany-where-inditex-opens-and-closes-2025",
+      "source": "Retail Dive",
+      "snippet": "Inditex closes 2025 by readjusting the distribution of its store network on the world map",
+      "tags": [
+        "Inditex",
+        "Zara",
+        "Europe"
+      ],
+      "pubDate": "2026-03-24T07:10:34.671Z",
+      "sourceUrl": "https://www.modaes.com/global/companies/less-spain-and-china-and-more-germany-where-inditex-opens-and-closes-2025",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "EU Fashion Companies Navigate Trump's Tariffs (Updated Nov 2025)",
+      "link": "https://shenglufashion.com/2025/11/24/how-eu-fashion-companies-navigate-trumps-tariffs-updated-november-2025/",
+      "source": "Retail Dive",
+      "snippet": "Impacts of escalating tariffs on apparel sourcing and business practices of H&M, Zara, Primark",
+      "tags": [
+        "H&M",
+        "Zara",
+        "Primark",
+        "tariffs"
+      ],
+      "pubDate": "2026-03-24T07:10:34.671Z",
+      "sourceUrl": "https://shenglufashion.com/2025/11/24/how-eu-fashion-companies-navigate-trumps-tariffs-updated-november-2025/",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "Uniqlo owner predicts 5th year of record profit on aggressive global expansion",
+      "link": "https://www.reuters.com/world/asia-pacific/uniqlo-operator-fast-retailing-posts-13-jump-full-year-profit-beats-forecasts-2025-10-09/",
+      "source": "Retail Dive",
+      "snippet": "Fast Retailing forecast operating profit rising to another record of 610 billion yen on global expansion",
+      "tags": [
+        "Uniqlo",
+        "global retail"
+      ],
+      "pubDate": "2026-03-24T07:10:34.671Z",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/uniqlo-operator-fast-retailing-posts-13-jump-full-year-profit-beats-forecasts-2025-10-09/",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "Profit or Promise? Decoding Coupang's Global Expansion in Q1 2025",
+      "link": "https://finance.yahoo.com/news/profit-promise-decoding-coupangs-global-083956846.html",
+      "source": "Retail Dive",
+      "snippet": "Q1 2025 results show Coupang's margin expansion, cross-vertical growth, and early international traction",
+      "tags": [
+        "Coupang",
+        "Korea"
+      ],
+      "pubDate": "2026-03-24T07:10:34.671Z",
+      "sourceUrl": "https://finance.yahoo.com/news/profit-promise-decoding-coupangs-global-083956846.html",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "从GTC看AI未来：英伟达GTC大会点燃了哪些板块？",
+      "link": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/261693369-which-sectors-ignited-by-nvidia-gtc-2026-conference-tradingkey",
+      "source": "钛媒体",
+      "snippet": "2026年GTC大会期间，英伟达CEO黄仁勋的主题演讲及一系列合作、技术发布，在全球科技产业链激起层层涟漪",
+      "tags": [
+        "NVIDIA",
+        "GPU",
+        "算力"
+      ],
+      "pubDate": "2026-03-18T00:00:00Z",
+      "sourceUrl": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/261693369-which-sectors-ignited-by-nvidia-gtc-2026-conference-tradingkey",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "GTC2026：Agent应用大爆发，强力倒逼推理算力与模型革新",
+      "link": "https://eu.36kr.com/zh/p/3726794548198025",
+      "source": "36氪",
+      "snippet": "Agent类型的AI应用在2025和2026年迎来爆发，Claude Code和OpenClaw分别服务程序员和知识工作者",
+      "tags": [
+        "AI agent",
+        "算力",
+        "NVIDIA"
+      ],
+      "pubDate": "2026-03-17T00:00:00Z",
+      "sourceUrl": "https://eu.36kr.com/zh/p/3726794548198025",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "AI芯片：回望过去一年，展望2026",
+      "link": "https://news.futunn.com/post/70500885",
+      "source": "钛媒体",
+      "snippet": "AI芯片驱动行业收入逼近万亿美元大关，全球半导体产业正处于关键转折点",
+      "tags": [
+        "AI chip",
+        "GPU",
+        "半导体"
+      ],
+      "pubDate": "2026-03-17T00:00:00Z",
+      "sourceUrl": "https://news.futunn.com/post/70500885",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "黄仁勋手撕AI泡沫论！英伟达570亿铁拳暴击，显卡全断货",
+      "link": "https://hub.baai.ac.cn/view/50541",
+      "source": "机器之心",
+      "snippet": "英伟达发布史上最强Q3 2026财报，单季营收达570亿美元，AI需求爆发推动数据中心业务增长",
+      "tags": [
+        "NVIDIA",
+        "GPU",
+        "AI infrastructure"
+      ],
+      "pubDate": "2025-11-21T00:00:00Z",
+      "sourceUrl": "https://hub.baai.ac.cn/view/50541",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "直击CES 2026！黄仁勋最新演讲：Rubin芯片今年上市，计算能力是Blackwell的5倍",
+      "link": "https://www.infoq.cn/article/uLtU3CGt9soQbdp55k1t",
+      "source": "InfoQ 中文站",
+      "snippet": "英伟达CEO黄仁勋宣告AI从理解语言走向改造物理世界的历史性转折，Cursor彻底改变了英伟达的软件开发方式",
+      "tags": [
+        "NVIDIA",
+        "Rubin",
+        "CES"
+      ],
+      "pubDate": "2026-01-05T00:00:00Z",
+      "sourceUrl": "https://www.infoq.cn/article/uLtU3CGt9soQbdp55k1t",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "壁仞科技港股上市首日开盘涨超118% 开启2026国产AI新浪潮",
+      "link": "https://www.ebrun.com/20260102/634642.shtml",
+      "source": "亿邦动力",
+      "snippet": "港股GPU第一股壁仞科技挂牌交易，成为2026年首家上市公司",
+      "tags": [
+        "GPU",
+        "AI chip",
+        "国产芯片"
+      ],
+      "pubDate": "2026-01-02T00:00:00Z",
+      "sourceUrl": "https://www.ebrun.com/20260102/634642.shtml",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "Chinese Robot Maker Unitree Seeks $610 Million in Shanghai IPO",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-20/chinese-robot-maker-unitree-seeks-610-million-in-shanghai-ipo",
+      "source": "The Decoder",
+      "snippet": "China's leading robot company Unitree Robotics has filed for IPO in Shanghai",
+      "tags": [
+        "humanoid robot",
+        "robotics",
+        "IPO"
+      ],
+      "pubDate": "2026-03-20T00:00:00Z",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-03-20/chinese-robot-maker-unitree-seeks-610-million-in-shanghai-ipo",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "First humanoid robot introduced in BMW Plant Leipzig",
+      "link": "https://www.bmwgroup.com/en/news/general/2026/humanoid-robot-in-leipzig.html",
+      "source": "The Decoder",
+      "snippet": "BMW Group Plant Leipzig is piloting humanoid robots to bring physical AI to production",
+      "tags": [
+        "humanoid robot",
+        "Figure AI",
+        "manufacturing"
+      ],
+      "pubDate": "2026-03-10T00:00:00Z",
+      "sourceUrl": "https://www.bmwgroup.com/en/news/general/2026/humanoid-robot-in-leipzig.html",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "More people will own a humanoid robot than a car by 2060, BofA predicts",
+      "link": "https://fortune.com/2026/03/13/bank-of-america-humanoid-robot-forecast-3-billion-2060/",
+      "source": "The Decoder",
+      "snippet": "An aging workforce, labor shortage, and capital surge are building foundation for the biggest consumer technology wave since smartphones",
+      "tags": [
+        "humanoid robot",
+        "robotics"
+      ],
+      "pubDate": "2026-03-13T00:00:00Z",
+      "sourceUrl": "https://fortune.com/2026/03/13/bank-of-america-humanoid-robot-forecast-3-billion-2060/",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "BMW's humanoid pilots with Figure AI and Hexagon transform Europe's factories",
+      "link": "https://techfundingnews.com/bmw-humanoid-robots-leipzig-figure-hexagon-physical-ai/",
+      "source": "The Decoder",
+      "snippet": "BMW deploys humanoid robots (Figure 02 in US, AEON in Leipzig) for first Europe pilot, Physical AI tests aim to boost efficiency",
+      "tags": [
+        "Figure AI",
+        "humanoid robot"
+      ],
+      "pubDate": "2026-03-03T00:00:00Z",
+      "sourceUrl": "https://techfundingnews.com/bmw-humanoid-robots-leipzig-figure-hexagon-physical-ai/",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "Apptronik Scores $935 Million, Hits Top 3 For Humanoid Robotics Funding",
+      "link": "https://www.forbes.com/sites/johnkoetsier/2026/02/11/apptronik-scores-935-million-hits-top-3-for-humanoid-robotics-funding/",
+      "source": "The Decoder",
+      "snippet": "Apptronik to ramp production of Apollo, its humanoid robot, with $935 million in Series A funding",
+      "tags": [
+        "humanoid robot",
+        "funding",
+        "robotics"
+      ],
+      "pubDate": "2026-02-11T00:00:00Z",
+      "sourceUrl": "https://www.forbes.com/sites/johnkoetsier/2026/02/11/apptronik-scores-935-million-hits-top-3-for-humanoid-robotics-funding/",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "Mobileye to acquire humanoid robotics startup Mentee for $900 million",
+      "link": "https://www.reuters.com/world/asia-pacific/mobileye-acquire-humanoid-robotics-startup-mentee-900-million-2026-01-06/",
+      "source": "The Decoder",
+      "snippet": "Mobileye to acquire humanoid robotics startup Mentee Robotics for about $900 million",
+      "tags": [
+        "humanoid robot",
+        "robotics",
+        "acquisition"
+      ],
+      "pubDate": "2026-01-06T00:00:00Z",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/mobileye-acquire-humanoid-robotics-startup-mentee-900-million-2026-01-06/",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "Cursor, Windsurf, Claude Code system prompts collected in 131k-star GitHub repo",
+      "link": "https://www.augmentcode.com/learn/cursor-windsurf-claude-code-system-prompts",
+      "source": "The Decoder",
+      "snippet": "A GitHub repository collecting full system prompts and configurations for 30+ AI coding tools has reached 131k stars",
+      "tags": [
+        "Cursor",
+        "AI coding",
+        "Claude Code"
+      ],
+      "pubDate": "2026-03-17T00:00:00Z",
+      "sourceUrl": "https://www.augmentcode.com/learn/cursor-windsurf-claude-code-system-prompts",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "The Trillion Dollar AI Software Development Stack",
+      "link": "https://a16z.com/the-trillion-dollar-ai-software-development-stack/",
+      "source": "VentureBeat AI",
+      "snippet": "Generative AI revolutionizing software development, with AI coding assistants and agentic tools transforming how 30 million developers work",
+      "tags": [
+        "AI coding",
+        "GitHub Copilot",
+        "Cursor"
+      ],
+      "pubDate": "2025-10-09T00:00:00Z",
+      "sourceUrl": "https://a16z.com/the-trillion-dollar-ai-software-development-stack/",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "Anysphere's Cursor brings AI coding agents to web and mobile browsers",
+      "link": "https://siliconangle.com/2025/06/30/anyspheres-cursor-brings-ai-coding-agents-web-mobile-browsers/",
+      "source": "VentureBeat AI",
+      "snippet": "Anysphere expanding beyond viral AI code editor into agentic AI with new web and mobile browser-based orchestration",
+      "tags": [
+        "Cursor",
+        "AI coding",
+        "AI agent"
+      ],
+      "pubDate": "2025-06-30T00:00:00Z",
+      "sourceUrl": "https://siliconangle.com/2025/06/30/anyspheres-cursor-brings-ai-coding-agents-web-mobile-browsers/",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "Vibe coded applications full of security blunders",
+      "link": "https://www.devclass.com/ai-ml/2026/01/15/vibe-coded-applications-full-of-security-blunders/4079588",
+      "source": "The Decoder",
+      "snippet": "Applications generated using vibe coding where developer gives free reign to an agent are likely full of security issues",
+      "tags": [
+        "vibe coding",
+        "AI coding",
+        "security"
+      ],
+      "pubDate": "2026-01-15T00:00:00Z",
+      "sourceUrl": "https://www.devclass.com/ai-ml/2026/01/15/vibe-coded-applications-full-of-security-blunders/4079588",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "2025 AI Safety Index",
+      "link": "https://futureoflife.org/ai-safety-index-summer-2025/",
+      "source": "The Decoder",
+      "snippet": "Post-AGI Governance: Companies should provide clear descriptions of how they would govern AGI/Superintelligence",
+      "tags": [
+        "AI safety",
+        "AGI",
+        "governance"
+      ],
+      "pubDate": "2025-07-01T00:00:00Z",
+      "sourceUrl": "https://futureoflife.org/ai-safety-index-summer-2025/",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    },
+    {
+      "title": "The Uncertain Future of AI Regulation in a Second Trump Term",
+      "link": "https://www.stimson.org/2025/the-uncertain-future-of-ai-regulation-in-a-second-trump-term/",
+      "source": "The Decoder",
+      "snippet": "Decentralized AI governance promotes agility and innovation but comes with risk of inadequate federal safety regulations",
+      "tags": [
+        "AI regulation",
+        "AI policy",
+        "governance"
+      ],
+      "pubDate": "2025-06-01T00:00:00Z",
+      "sourceUrl": "https://www.stimson.org/2025/the-uncertain-future-of-ai-regulation-in-a-second-trump-term/",
+      "priority": 2,
+      "section": null,
+      "_fromScrapedCache": true
+    }
+  ],
+  "cachedAt": "2026-03-24T06:17:43.166Z"
+}
