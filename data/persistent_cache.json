@@ -1,6 +1,1255 @@
 {
   "articles": [
     {
+      "title": "用得越多、失业越快？GitHub 大改 Copilot 规则：默认拿个人代码训练 AI，还搬出 Anthropic 挡枪！",
+      "link": "https://www.infoq.cn/article/4ODfuXhhcI9mAeYepXY0?utm_source=rss&utm_medium=article",
+      "pubDate": "2026-03-27T02:53:35.516Z",
+      "source": "InfoQ 中文站",
+      "sourceUrl": "https://www.infoq.cn",
+      "priority": 2,
+      "tags": [
+        "AI工程",
+        "技术实践"
+      ],
+      "snippet": "点击查看原文>",
+      "section": "intl_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "用得越多、失业越快？GitHub 大改 Copilot 规则：默认拿个人代码训练 AI，还搬出 Anthropic 挡枪！"
+    },
+    {
+      "title": "腾讯汤道生：Harness工程能力是AI落地关键变量",
+      "link": "https://36kr.com/newsflashes/3740593688838151?f=rss",
+      "pubDate": "2026-03-27 10:48:40  +0800",
+      "source": "36氪 AI",
+      "sourceUrl": "https://36kr.com",
+      "priority": 2,
+      "tags": [
+        "AI创投",
+        "AI应用"
+      ],
+      "snippet": "36氪获悉，3月27日，在腾讯云上海峰会上，腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生表示，AI落地不只是一道算法题，更是一道工程题。在同样的模型能力下，不同的Harness，即包括工具调用、分层上下文工程、长记忆管理、工作流设计等在内的系统工程手段，都将影响AI落地实际效果。",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "腾讯汤道生：Harness工程能力是AI落地关键变量"
+    },
+    {
+      "title": "雅诗兰黛中国供应链智能运营中心正式启用",
+      "link": "https://36kr.com/newsflashes/3740573101539331?f=rss",
+      "pubDate": "2026-03-27 10:27:43  +0800",
+      "source": "36氪 AI",
+      "sourceUrl": "https://36kr.com",
+      "priority": 2,
+      "tags": [
+        "AI创投",
+        "AI应用"
+      ],
+      "snippet": "36氪获悉，3月26日，雅诗兰黛中国供应链智能运营中心正式启用。雅诗兰黛中国供应链智能运营中心是集团全球自动化程度最高的全渠道履约中心之一。该中心在国内美妆行业创新采用保税仓库与非保税仓库协同运营的“双仓联动”模式，将为雅诗兰黛集团在中国的供应链布局提供有力支撑。",
+      "section": "domestic_retail",
+      "originalSection": "domestic_ai",
+      "titleZh": "雅诗兰黛中国供应链智能运营中心正式启用"
+    },
+    {
+      "title": "NY-based Blossom Health, which makes an \"AI copilot\" to augment psychiatrists' clinical decisions and automate office tasks, raised $20M in seed and Series A",
+      "link": "https://fortune.com/2026/03/26/exclusive-blossom-health-telehealth-telepsychiatry-headline/",
+      "pubDate": "Thu, 26 Mar 2026 22:15:02 -0400",
+      "source": "Fortune",
+      "sourceUrl": "https://fortune.com/2026/03/26/exclusive-blossom-health-telehealth-telepsychiatry-headline/",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Lily Mae Lazarus / Fortune:\nNY-based Blossom Health, which makes an “AI copilot” to augment psychiatrists' clinical decisions and automate office tasks, raised $20M in seed and Series A  —  Blossom He",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "总部位于纽约的 Blossom Health 致力于打造“人工智能副驾驶”，以增强精神科医生的临床决策并实现办公室任务自动化，该公司在种子轮和 A 轮融资中筹集了 2000 万美元"
+    },
+    {
+      "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+      "link": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+      "pubDate": "Fri, 27 Mar 2026 01:18:38 +0000",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "priority": 2,
+      "tags": [
+        "AI startups",
+        "funding"
+      ],
+      "snippet": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Anthropic 因国防部事件赢得针对特朗普政府的禁令"
+    },
+    {
+      "title": "Judge Stays Pentagon’s Labeling of Anthropic as ‘Supply Chain Risk’",
+      "link": "https://www.nytimes.com/2026/03/26/technology/anthropic-pentagon-risk-injunction.html",
+      "pubDate": "Fri, 27 Mar 2026 01:06:17 +0000",
+      "source": "NYT Tech",
+      "sourceUrl": "https://www.nytimes.com/section/technology",
+      "priority": 2,
+      "tags": [
+        "tech",
+        "AI",
+        "regulation"
+      ],
+      "snippet": "The decision is an early victory for the artificial intelligence company in a rancorous legal battle with the Department of Defense.",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "法官维持五角大楼将人为因素标记为“供应链风险”"
+    },
+    {
+      "title": "Source: Elon Musk is discussing allocating as much as 30% of SpaceX's IPO to individual investors, at least three times the usual retail slice",
+      "link": "https://www.reuters.com/business/finance/musk-rewrites-ipo-playbook-with-large-slice-spacex-stock-retail-investors-source-2026-03-26/",
+      "pubDate": "Thu, 26 Mar 2026 21:05:10 -0400",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/business/finance/musk-rewrites-ipo-playbook-with-large-slice-spacex-stock-retail-investors-source-2026-03-26/",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Reuters:\nSource: Elon Musk is discussing allocating as much as 30% of SpaceX's IPO to individual investors, at least three times the usual retail slice  —  Elon Musk is discussing allocating as much a",
+      "section": "intl_retail",
+      "originalSection": "intl_ai",
+      "titleZh": "资料来源：埃隆·马斯克正在讨论将 SpaceX IPO 高达 30% 的股份分配给个人投资者，至少是通常零售份额的三倍"
+    },
+    {
+      "title": "Shield AI, a Start-Up Making Military Drones, Raises $2 Billion",
+      "link": "https://www.nytimes.com/2026/03/26/business/dealbook/shield-ai-drones-aechelon-fund-raising.html",
+      "pubDate": "Fri, 27 Mar 2026 00:24:47 +0000",
+      "source": "NYT Tech",
+      "sourceUrl": "https://www.nytimes.com/section/technology",
+      "priority": 2,
+      "tags": [
+        "tech",
+        "AI",
+        "regulation"
+      ],
+      "snippet": "The company, which develops autonomous military technology, also plans to buy a maker of simulation software as interest in next-generation defense soars.",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "军用无人机初创公司 Shield AI 融资 20 亿美元"
+    },
+    {
+      "title": "Rewriting Commerce For The Agentic Age",
+      "link": "https://www.scmp.com/presented/business/topics/c-suite-game-changers/article/3347944/rewriting-commerce-agentic-age?utm_source=rss_feed",
+      "pubDate": "Fri, 27 Mar 2026 00:00:54 +0000",
+      "source": "SCMP Tech",
+      "sourceUrl": "https://www.scmp.com/tech",
+      "priority": 2,
+      "tags": [
+        "China AI",
+        "tech policy",
+        "中国科技"
+      ],
+      "snippet": "For Gary Liu, the most profound shift in commerce today is not about faster checkouts or new wallets. It is about who, or what, sits between merchants and consumers.\n“There’s only one thing that’s fai",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "为代理时代重写商业"
+    },
+    {
+      "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+      "link": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+      "pubDate": "Thu, 26 Mar 2026 23:47:56 +0000",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "priority": 2,
+      "tags": [
+        "AI startups",
+        "funding"
+      ],
+      "snippet": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "您现在可以将其他聊天机器人的聊天内容和个人信息直接传输到 Gemini"
+    },
+    {
+      "title": "Anthropic Supply-Chain-Risk Designation Halted by Judge",
+      "link": "https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/",
+      "pubDate": "Thu, 26 Mar 2026 23:33:05 +0000",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/tag/ai/",
+      "priority": 3,
+      "tags": [
+        "AI",
+        "tech policy",
+        "consumer AI"
+      ],
+      "snippet": "A judge temporarily blocked the Trump administration’s designation, clearing the way for Anthropic to keep doing business without the label starting next week.",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "法官叫停人为供应链风险指定"
+    },
+    {
+      "title": "A US judge grants Anthropic's request for a preliminary injunction in its suit against the Trump administration over the DOD's decision to blacklist the company",
+      "link": "https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html",
+      "pubDate": "Thu, 26 Mar 2026 19:25:02 -0400",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Ashley Capoot / CNBC:\nA US judge grants Anthropic's request for a preliminary injunction in its suit against the Trump administration over the DOD's decision to blacklist the company  —  A federal jud",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "美国法官批准了 Anthropic 因国防部决定将该公司列入黑名单而对特朗普政府提起的诉讼，要求发出初步禁令"
+    },
+    {
+      "title": "Macy’s AI Chatbot Quadruples Customer Spending",
+      "link": "https://www.pymnts.com/news/retail/2026/macys-ai-chatbot-quadruples-customer-spending/",
+      "pubDate": "Thu, 26 Mar 2026 23:24:21 +0000",
+      "source": "PYMNTS Retail",
+      "sourceUrl": "https://www.pymnts.com",
+      "priority": 1,
+      "tags": [
+        "payments",
+        "retail media",
+        "fintech"
+      ],
+      "snippet": "An artificial intelligence (AI)-powered shopping assistant that was launched by Macy’s on Monday (March 23) has most often been used by customers to suggest products for completing an outfit and to se",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "梅西百货的人工智能聊天机器人使客户支出翻了两番"
+    },
+    {
+      "title": "In an interview, David Sacks says he has relinquished his role as AI and crypto czar after using up his time as a special government employee",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-26/congress-could-pass-ai-standard-in-months-key-trump-aide-says",
+      "pubDate": "Thu, 26 Mar 2026 19:00:35 -0400",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-03-26/congress-could-pass-ai-standard-in-months-key-trump-aide-says",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Bloomberg:\nIn an interview, David Sacks says he has relinquished his role as AI and crypto czar after using up his time as a special government employee  —  White House adviser David Sacks said Congre",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "大卫·萨克斯 (David Sacks) 在接受采访时表示，在担任特殊政府雇员的时间结束后，他已经放弃了人工智能和加密货币沙皇的角色"
+    },
+    {
+      "title": "Harvey Raises $200 Million to Equip Law Firms With AI Agents",
+      "link": "https://www.pymnts.com/news/investment-tracker/2026/harvey-raises-200-million-to-equip-law-firms-with-ai-agents/",
+      "pubDate": "Thu, 26 Mar 2026 22:45:11 +0000",
+      "source": "PYMNTS Retail",
+      "sourceUrl": "https://www.pymnts.com",
+      "priority": 1,
+      "tags": [
+        "payments",
+        "retail media",
+        "fintech"
+      ],
+      "snippet": "Harvey raised $200 million in new funding for its legal infrastructure for law firms and in-house teams.  The round brings the total funding raised by Harvey to more than $1 billion and values the com",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "Harvey 筹集 2 亿美元，为律师事务所配备人工智能代理"
+    },
+    {
+      "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+      "link": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+      "pubDate": "Thu, 26 Mar 2026 22:41:25 +0000",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "priority": 2,
+      "tags": [
+        "tech",
+        "startups"
+      ],
+      "snippet": "Comments",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Show HN：我在每月 7 美元的 VPS 上放置了一个 AI 代理，并以 IRC 作为其传输层"
+    },
+    {
+      "title": "Sources: Anthropic executives have discussed an IPO as soon as Q4, and bankers vying to take the company public expect it to raise more than $60B",
+      "link": "https://www.theinformation.com/articles/anthropic-discusses-going-public-soon-fourth-quarter",
+      "pubDate": "Thu, 26 Mar 2026 18:35:01 -0400",
+      "source": "The Information",
+      "sourceUrl": "https://www.theinformation.com/articles/anthropic-discusses-going-public-soon-fourth-quarter",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "The Information:\nSources: Anthropic executives have discussed an IPO as soon as Q4, and bankers vying to take the company public expect it to raise more than $60B  —  Anthropic executives have discuss",
+      "section": "intl_retail",
+      "originalSection": "intl_ai",
+      "titleZh": "资料来源：Anthropic 高管已讨论最快在第四季度进行 IPO，而竞相让该公司上市的银行家预计该公司将筹集超过 60B 美元"
+    },
+    {
+      "title": "OpenAI has surpassed $100M in annualized revenue from ChatGPT ads, has expanded to 600+ advertisers, and plans to launch self-serve advertiser access in April",
+      "link": "https://www.theinformation.com/",
+      "pubDate": "Thu, 26 Mar 2026 18:00:43 -0400",
+      "source": "The Information",
+      "sourceUrl": "https://www.theinformation.com/",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Stephanie Palazzolo / The Information:\nOpenAI has surpassed $100M in annualized revenue from ChatGPT ads, has expanded to 600+ advertisers, and plans to launch self-serve advertiser access in April  —",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "OpenAI 来自 ChatGPT 广告的年化收入已超过 1 亿美元，已扩展到 600 多家广告商，并计划于 4 月份推出自助广告商访问"
+    },
+    {
+      "title": "Wikipedia cracks down on the use of AI in article writing",
+      "link": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+      "pubDate": "Thu, 26 Mar 2026 21:50:10 +0000",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "priority": 2,
+      "tags": [
+        "AI startups",
+        "funding"
+      ],
+      "snippet": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing.",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "维基百科严厉打击在文章写作中使用人工智能"
+    },
+    {
+      "title": "Google releases new tools for its Gemini AI assistant that let users upload chat history and context from other AI apps, making it easier to switch from them",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-26/google-gemini-adds-tool-to-make-it-easier-to-switch-from-chatgpt",
+      "pubDate": "Thu, 26 Mar 2026 17:45:01 -0400",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-03-26/google-gemini-adds-tool-to-make-it-easier-to-switch-from-chatgpt",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Natalie Lung / Bloomberg:\nGoogle releases new tools for its Gemini AI assistant that let users upload chat history and context from other AI apps, making it easier to switch from them  —  Google relea",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "谷歌为其 Gemini AI 助手发布了新工具，允许用户从其他 AI 应用程序上传聊天历史记录和上下文，从而更容易从它们切换"
+    },
+    {
+      "title": "UPS nixes driver buyouts in 13 states",
+      "link": "https://www.supplychaindive.com/news/ups-teamsters-driver-buyouts-withdraw-13-states/815890/",
+      "pubDate": "Thu, 26 Mar 2026 17:27:00 -0400",
+      "source": "Supply Chain Dive",
+      "sourceUrl": "https://www.supplychaindive.com",
+      "priority": 2,
+      "tags": [
+        "supply chain",
+        "logistics",
+        "fulfillment"
+      ],
+      "snippet": "The International Brotherhood of Teamsters said the decision came after more than 30 local unions filed grievances against the carrier.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "UPS 在 13 个州取消司机买断"
+    },
+    {
+      "title": "Coca-Cola CEO Says He Stepped Down Due to Demands of AI Transformation",
+      "link": "https://www.pymnts.com/personnel/2026/coca-cola-ceo-says-he-stepped-down-due-to-demands-of-ai-transformation/",
+      "pubDate": "Thu, 26 Mar 2026 20:38:52 +0000",
+      "source": "PYMNTS Retail",
+      "sourceUrl": "https://www.pymnts.com",
+      "priority": 1,
+      "tags": [
+        "payments",
+        "retail media",
+        "fintech"
+      ],
+      "snippet": "The upcoming changes driven by artificial intelligence (AI) played a role in the decision of Coca-Cola CEO James Quincey to step down from his role, Quincey told CNBC’s “Squawk Box” Thursday (March 26",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "可口可乐首席执行官称因人工智能转型需求而辞职"
+    },
+    {
+      "title": "Apple gets full Gemini access and uses distillation to build lightweight on-device AI",
+      "link": "https://the-decoder.com/apple-gets-full-gemini-access-and-uses-distillation-to-build-lightweight-on-device-ai/",
+      "pubDate": "Thu, 26 Mar 2026 19:54:12 +0000",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com",
+      "priority": 2,
+      "tags": [
+        "AI",
+        "LLM"
+      ],
+      "snippet": "Apple taps into Google's Gemini to distill smaller AI models for Siri and its devices. In short, it's paying for what Chinese AI companies allegedly do in secret.\nThe article Apple gets full Gemini ac",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "苹果获得了 Gemini 的完整访问权限，并使用蒸馏来构建轻量级设备上人工智能"
+    },
+    {
+      "title": "Apple Says It Will Let Siri Access Multiple AI Assistants",
+      "link": "https://www.pymnts.com/apple/2026/apple-plans-to-allow-siri-to-access-multiple-ai-assistants/",
+      "pubDate": "Thu, 26 Mar 2026 19:50:09 +0000",
+      "source": "PYMNTS Retail",
+      "sourceUrl": "https://www.pymnts.com",
+      "priority": 1,
+      "tags": [
+        "payments",
+        "retail media",
+        "fintech"
+      ],
+      "snippet": "Apple plans to allow other companies’ artificial intelligence (AI) assistants to be accessed from within its Siri voice assistant, so users can choose which service to query, Bloomberg reported Thursd",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "苹果表示将让 Siri 访问多个人工智能助手"
+    },
+    {
+      "title": "Mistral's first open-weight TTS model Voxtral clones voices from three seconds of audio across nine languages",
+      "link": "https://the-decoder.com/mistrals-first-open-weight-tts-model-voxtral-clones-voices-from-three-seconds-of-audio-across-nine-languages/",
+      "pubDate": "Thu, 26 Mar 2026 19:16:58 +0000",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com",
+      "priority": 2,
+      "tags": [
+        "AI",
+        "LLM"
+      ],
+      "snippet": "French AI startup Mistral has released Voxtral TTS, its first text-to-speech model that supports nine languages and can clone voices from just three seconds of audio.\nThe article Mistral's first open-",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Mistral 的首个开放式 TTS 模型 Voxtral 可从 9 种语言的三秒音频中克隆声音"
+    },
+    {
+      "title": "10 Items or Less: JJ Fleeman faces challenge at Dollar General",
+      "link": "https://www.supermarketnews.com/grocery-trends-data/10-items-or-less-jj-fleeman-faces-challenge-at-dollar-general",
+      "pubDate": "Thu, 26 Mar 2026 18:45:58 GMT",
+      "source": "Supermarket News",
+      "sourceUrl": "https://www.supermarketnews.com",
+      "priority": 2,
+      "tags": [
+        "grocery",
+        "supermarket",
+        "food retail"
+      ],
+      "snippet": "Following in the success of CEO Todd Vasos would be difficult for anyone",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "10 件或更少：JJ Fleeman 在 Dollar General 面临挑战"
+    },
+    {
+      "title": "谷歌迎来“DeepSeek时刻”！TurboQuant引爆AI圈、全球开发者疯狂复现：6倍无损压缩，内存股集体暴跌",
+      "link": "https://www.infoq.cn/article/kHSpH0T42Ji5CrFfHzO9?utm_source=rss&utm_medium=article",
+      "pubDate": "Thu, 26 Mar 2026 18:39:28 GMT",
+      "source": "InfoQ 中文站",
+      "sourceUrl": "https://www.infoq.cn",
+      "priority": 2,
+      "tags": [
+        "AI工程",
+        "技术实践"
+      ],
+      "snippet": "点击查看原文>",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "谷歌迎来“DeepSeek时刻”！TurboQuant引爆AI圈、全球开发者疯狂复现：6倍无损压缩，内存股集体暴跌"
+    },
+    {
+      "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
+      "link": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+      "pubDate": "Thu, 26 Mar 2026 18:34:02 +0000",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "priority": 2,
+      "tags": [
+        "AI startups",
+        "funding"
+      ],
+      "snippet": "It's only the latest of several side projects that the AI startup has ditched over the past week.",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "OpenAI 放弃了另一个支线任务：ChatGPT 的色情模式"
+    },
+    {
+      "title": "AI is no longer an experiment when it comes to supply chain",
+      "link": "https://www.supermarketnews.com/grocery-technology/ai-is-no-longer-an-experiment-when-it-comes-to-supply-chain",
+      "pubDate": "Thu, 26 Mar 2026 18:33:37 GMT",
+      "source": "Supermarket News",
+      "sourceUrl": "https://www.supermarketnews.com",
+      "priority": 2,
+      "tags": [
+        "grocery",
+        "supermarket",
+        "food retail"
+      ],
+      "snippet": "Report shows most retail and manufacturing leaders have increased confidence in the tech",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "对于供应链而言，人工智能不再是一个实验"
+    },
+    {
+      "title": "US, Japan deepen ties on critical mineral supply chains",
+      "link": "https://www.supplychaindive.com/news/us-japan-plan-critical-mineral-supply/815492/",
+      "pubDate": "Thu, 26 Mar 2026 14:33:00 -0400",
+      "source": "Supply Chain Dive",
+      "sourceUrl": "https://www.supplychaindive.com",
+      "priority": 2,
+      "tags": [
+        "supply chain",
+        "logistics",
+        "fulfillment"
+      ],
+      "snippet": "The two countries unveiled an action plan to build a plurilateral pact on critical minerals, setting shared rules, price floors and stockpiling goals with other willing partners.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "美国和日本深化关键矿产供应链的联系"
+    },
+    {
+      "title": "OpenAI and Anthropic before the IPO: Different balance sheets make comparison difficult",
+      "link": "https://the-decoder.com/openai-and-anthropic-before-the-ipo-different-balance-sheets-make-comparison-difficult/",
+      "pubDate": "Thu, 26 Mar 2026 18:26:54 +0000",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com",
+      "priority": 2,
+      "tags": [
+        "AI",
+        "LLM"
+      ],
+      "snippet": "OpenAI and Anthropic are both growing fast, but their revenue figures are reportedly hard to compare because each company accounts for cloud partnerships differently.\nThe article OpenAI and Anthropic ",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "IPO前的OpenAI和Anthropic：不同的资产负债表难以进行比较"
+    },
+    {
+      "title": "Kroger gives shoppers ways to save on gas in the spring",
+      "link": "https://www.supermarketnews.com/company-news/kroger-gives-shoppers-ways-to-save-on-gas-in-the-spring",
+      "pubDate": "Thu, 26 Mar 2026 18:02:38 GMT",
+      "source": "Supermarket News",
+      "sourceUrl": "https://www.supermarketnews.com",
+      "priority": 2,
+      "tags": [
+        "grocery",
+        "supermarket",
+        "food retail"
+      ],
+      "snippet": "The grocer announces two 4X Fuel Points events",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "克罗格为购物者提供春季节省汽油的方法"
+    },
+    {
+      "title": "Aldi makes debut in 40th state",
+      "link": "https://www.supermarketnews.com/new-stores/aldi-makes-debut-in-40th-state",
+      "pubDate": "Thu, 26 Mar 2026 18:00:09 GMT",
+      "source": "Supermarket News",
+      "sourceUrl": "https://www.supermarketnews.com",
+      "priority": 2,
+      "tags": [
+        "grocery",
+        "supermarket",
+        "food retail"
+      ],
+      "snippet": "The grocer continues to roll out its expansion plan which includes 180 locations this year",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "阿尔迪在第 40 个州首次亮相"
+    },
+    {
+      "title": "Meet the Tech Reporters Using AI to Help Write and Edit Their Stories",
+      "link": "https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/",
+      "pubDate": "Thu, 26 Mar 2026 18:00:00 +0000",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/tag/ai/",
+      "priority": 3,
+      "tags": [
+        "AI",
+        "tech policy",
+        "consumer AI"
+      ],
+      "snippet": "Independent writers are using AI agents all throughout their reporting process. What’s the value of a human journalist, anyway?",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "认识使用人工智能帮助撰写和编辑故事的科技记者"
+    },
+    {
+      "title": "CVS Health has a deal in place over insulin pricing",
+      "link": "https://www.supermarketnews.com/nonfood-pharmacy/cvs-health-has-a-deal-in-place-over-insulin-pricing",
+      "pubDate": "Thu, 26 Mar 2026 17:56:58 GMT",
+      "source": "Supermarket News",
+      "sourceUrl": "https://www.supermarketnews.com",
+      "priority": 2,
+      "tags": [
+        "grocery",
+        "supermarket",
+        "food retail"
+      ],
+      "snippet": "The settlement with the FTC should be finalized over the next few weeks",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "CVS Health 就胰岛素定价达成协议"
+    },
+    {
+      "title": "Gemini 3.1 Flash Live is Google's most natural-sounding AI voice model yet",
+      "link": "https://the-decoder.com/gemini-3-1-flash-live-is-googles-most-natural-sounding-ai-voice-model-yet/",
+      "pubDate": "Thu, 26 Mar 2026 17:35:00 +0000",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com",
+      "priority": 2,
+      "tags": [
+        "AI",
+        "LLM"
+      ],
+      "snippet": "Google's Gemini 3.1 Flash Live promises faster, more natural voice conversations. Developers can trade off quality for speed, and pricing stays at Gemini 2.5 levels.\nThe article Gemini 3.1 Flash Live ",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Gemini 3.1 Flash Live 是 Google 迄今为止最自然的 AI 语音模型"
+    },
+    {
+      "title": "Google rolls out Search Live globally, turning your phone camera into a real-time AI search tool",
+      "link": "https://the-decoder.com/google-rolls-out-search-live-globally-turning-your-phone-camera-into-a-real-time-ai-search-tool/",
+      "pubDate": "Thu, 26 Mar 2026 17:08:47 +0000",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com",
+      "priority": 2,
+      "tags": [
+        "AI",
+        "LLM"
+      ],
+      "snippet": "Google is rolling out \"Search Live\" to more than 200 countries. The feature lets users talk to Google Search using voice and camera.\nThe article Google rolls out Search Live globally, turning your pho",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "谷歌在全球推出Search Live，将手机摄像头变成实时人工智能搜索工具"
+    },
+    {
+      "title": "Leonid Radvinsky, 43, Dies; Built the Adult-Entertainment Giant OnlyFans",
+      "link": "https://www.nytimes.com/2026/03/25/business/media/leonid-radvinsky-dead.html",
+      "pubDate": "Thu, 26 Mar 2026 16:21:28 +0000",
+      "source": "NYT Tech",
+      "sourceUrl": "https://www.nytimes.com/section/technology",
+      "priority": 2,
+      "tags": [
+        "tech",
+        "AI",
+        "regulation"
+      ],
+      "snippet": "By leveraging social media and the influencer economy, he turned his website into a byword for online pornography in the 21st century.",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "列昂尼德·拉德文斯基 (Leonid Radvinsky)，43 岁，去世；打造成人娱乐巨头 OnlyFans"
+    },
+    {
+      "title": "The Backroom: Consumer resilience in trying times",
+      "link": "https://www.retaildive.com/news/podcast-the-backroom-consumer-sentiment-uncertainty-economy/815364/",
+      "pubDate": "Thu, 26 Mar 2026 12:12:00 -0400",
+      "source": "Retail Dive",
+      "sourceUrl": "https://www.retaildive.com",
+      "priority": 3,
+      "tags": [
+        "US retail",
+        "DTC",
+        "omnichannel"
+      ],
+      "snippet": "Katie Thomas of the Kearney Consumer Institute talks about nuances in the K-shaped economy that help explain why discretionary retail sales have remained strong despite shoppers’ wariness.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "幕后：艰难时期的消费者恢复力"
+    },
+    {
+      "title": "Why Wayfair isn’t ‘dogmatic’ about its AI usage",
+      "link": "https://www.modernretail.co/technology/why-wayfair-isnt-dogmatic-about-its-ai-usage/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "pubDate": "Thu, 26 Mar 2026 16:08:34 +0000",
+      "source": "Modern Retail",
+      "sourceUrl": "https://www.modernretail.co",
+      "priority": 2,
+      "tags": [
+        "DTC",
+        "omnichannel",
+        "ecommerce"
+      ],
+      "snippet": "Wayfair chief marketing officer Paul Toms spoke with Modern Retail about his philosophy when it comes to AI usage: “I actually find in retail folks are very hesitant.\"",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "为什么 Wayfair 对于人工智能的使用并不“教条”"
+    },
+    {
+      "title": "David’s Bridal reshapes C-suite for the AI era",
+      "link": "https://www.retaildive.com/news/davids-bridal-reshapes-c-suite-ai-technology-era/815849/",
+      "pubDate": "Thu, 26 Mar 2026 11:57:00 -0400",
+      "source": "Retail Dive",
+      "sourceUrl": "https://www.retaildive.com",
+      "priority": 3,
+      "tags": [
+        "US retail",
+        "DTC",
+        "omnichannel"
+      ],
+      "snippet": "The retailer named a CTO, chief global transformation and operations officer, and is on the hunt for its next CFO.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "大卫的新娘重塑人工智能时代的高管层"
+    },
+    {
+      "title": "EU parliament approves key terms of US trade deal",
+      "link": "https://www.supplychaindive.com/news/eu-us-trade-deal-terms-approved-tariffs/815836/",
+      "pubDate": "Thu, 26 Mar 2026 11:50:00 -0400",
+      "source": "Supply Chain Dive",
+      "sourceUrl": "https://www.supplychaindive.com",
+      "priority": 2,
+      "tags": [
+        "supply chain",
+        "logistics",
+        "fulfillment"
+      ],
+      "snippet": "The bloc’s legislative body on Thursday voted in favor of lowering or eliminating tariffs on a range of U.S. goods while also approving key safeguard provisions.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "欧盟议会批准美国贸易协议关键条款"
+    },
+    {
+      "title": "USPS sets 8% temporary rate hike for some domestic products",
+      "link": "https://www.supplychaindive.com/news/usps-sets-temporary-rate-hike-ground-advantage-parcel-select/815753/",
+      "pubDate": "Thu, 26 Mar 2026 11:44:00 -0400",
+      "source": "Supply Chain Dive",
+      "sourceUrl": "https://www.supplychaindive.com",
+      "priority": 2,
+      "tags": [
+        "supply chain",
+        "logistics",
+        "fulfillment"
+      ],
+      "snippet": "The change, slated to start in April and impact services such as Ground Advantage, is meant to address higher transportation costs for the agency.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "USPS对部分国内产品临时加价8%"
+    },
+    {
+      "title": "REI faces possible anniversary sale boycott after abandoning labor talks",
+      "link": "https://www.retaildive.com/news/rei-union-anniversary-sale-boycott/815830/",
+      "pubDate": "Thu, 26 Mar 2026 11:41:00 -0400",
+      "source": "Retail Dive",
+      "sourceUrl": "https://www.retaildive.com",
+      "priority": 3,
+      "tags": [
+        "US retail",
+        "DTC",
+        "omnichannel"
+      ],
+      "snippet": "The REI Union, expressing confidence that the retailer’s customers would join workers in sending a message, will finalize a decision by May 1.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "REI 放弃劳资谈判后可能面临周年庆销售抵制"
+    },
+    {
+      "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
+      "link": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+      "pubDate": "Thu, 26 Mar 2026 15:25:13 +0000",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "priority": 2,
+      "tags": [
+        "AI startups",
+        "funding"
+      ],
+      "snippet": "The new model in CapCut will have built-in protections for making video from real faces or unauthorized intellectual property.",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "字节跳动全新AI视频生成模型Dreamina Seedance 2.0登陆CapCut"
+    },
+    {
+      "title": "Sephora launches app in ChatGPT",
+      "link": "https://www.retaildive.com/news/sephora-chatgpt-app-launch/815751/",
+      "pubDate": "Thu, 26 Mar 2026 11:15:00 -0400",
+      "source": "Retail Dive",
+      "sourceUrl": "https://www.retaildive.com",
+      "priority": 3,
+      "tags": [
+        "US retail",
+        "DTC",
+        "omnichannel"
+      ],
+      "snippet": "The AI-enhanced experience will give customers advice and help them discover products, according to Global Chief Digital Officer Anca Marola.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "丝芙兰在 ChatGPT 中推出应用程序"
+    },
+    {
+      "title": "GameStop closed over 700 stores last year",
+      "link": "https://www.retaildive.com/news/gamestop-closed-seven-hundred-stores-2025/815827/",
+      "pubDate": "Thu, 26 Mar 2026 11:10:00 -0400",
+      "source": "Retail Dive",
+      "sourceUrl": "https://www.retaildive.com",
+      "priority": 3,
+      "tags": [
+        "US retail",
+        "DTC",
+        "omnichannel"
+      ],
+      "snippet": "That amounts to more than 1,300 over the past two fiscal years, though the gaming retailer said it doesn’t expect any major footprint reductions in 2026.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "GameStop去年关闭了700多家商店"
+    },
+    {
+      "title": "Puma debuts AI concierge at Las Vegas store",
+      "link": "https://www.retaildive.com/news/puma-ai-store-concierge-las-vegas/815562/",
+      "pubDate": "Thu, 26 Mar 2026 10:59:00 -0400",
+      "source": "Retail Dive",
+      "sourceUrl": "https://www.retaildive.com",
+      "priority": 3,
+      "tags": [
+        "US retail",
+        "DTC",
+        "omnichannel"
+      ],
+      "snippet": "A multilingual assistant in a large digital display will automatically detect the language a shopper speaks and answer their questions about products.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "Puma 在拉斯维加斯商店推出人工智能礼宾服务"
+    },
+    {
+      "title": "Kroger to spend $112M on store projects in Ohio",
+      "link": "https://www.grocerydive.com/news/kroger-new-stores-remodels-ohio/815823/",
+      "pubDate": "Thu, 26 Mar 2026 10:57:00 -0400",
+      "source": "Grocery Dive",
+      "sourceUrl": "https://www.grocerydive.com",
+      "priority": 2,
+      "tags": [
+        "grocery",
+        "dark store",
+        "delivery"
+      ],
+      "snippet": "The grocer plans to open two stores and remodel 15 in the central and northwest parts of the state in 2026.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "克罗格将斥资 1.12 亿美元在俄亥俄州进行商店项目"
+    },
+    {
+      "title": "M&S launches monthly capsule clothing collection",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/ms-capsule-programme/",
+      "pubDate": "Thu, 26 Mar 2026 14:56:48 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "M&S has launched its new monthly capsule programme, The Love That Drop.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "玛莎百货推出每月胶囊服装系列"
+    },
+    {
+      "title": "Number Sense: Can Target succeed by positioning itself as a specialty grocer?",
+      "link": "https://www.grocerydive.com/news/target-grocery-food-beverage-growth-customer-loyalty/815697/",
+      "pubDate": "Thu, 26 Mar 2026 10:24:00 -0400",
+      "source": "Grocery Dive",
+      "sourceUrl": "https://www.grocerydive.com",
+      "priority": 2,
+      "tags": [
+        "grocery",
+        "dark store",
+        "delivery"
+      ],
+      "snippet": "The retailer is planning this year to direct more than $1 billion in capital spending — a fifth of its entire capital budget for 2026 — to its food and beverage business.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "Number Sense：塔吉特能否通过将自己定位为专业杂货商而取得成功？"
+    },
+    {
+      "title": "How Tecovas is leveraging AI to improve the store experience",
+      "link": "https://www.retaildive.com/news/tecovas-ai-store-experience/815750/",
+      "pubDate": "Thu, 26 Mar 2026 10:12:00 -0400",
+      "source": "Retail Dive",
+      "sourceUrl": "https://www.retaildive.com",
+      "priority": 3,
+      "tags": [
+        "US retail",
+        "DTC",
+        "omnichannel"
+      ],
+      "snippet": "The boot brand is using the tech to help with inventory replenishment and allocation, and foster better interactions between associates and customers.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "Tecovas 如何利用人工智能改善商店体验"
+    },
+    {
+      "title": "Marketplace Briefing: Why Amazon is moving Prime Day to June from July, and what it means for sellers",
+      "link": "https://www.modernretail.co/operations/marketplace-briefing-why-amazon-is-moving-prime-day-to-june-from-july-and-what-it-means-for-sellers/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "pubDate": "Thu, 26 Mar 2026 14:00:00 +0000",
+      "source": "Modern Retail",
+      "sourceUrl": "https://www.modernretail.co",
+      "priority": 2,
+      "tags": [
+        "DTC",
+        "omnichannel",
+        "ecommerce"
+      ],
+      "snippet": "Amazon is planning to move Prime Day to June from its usual July slot this year, shaking up the timing of a sales event many brands rely on.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "市场简报：亚马逊为何将 Prime Day 从 7 月移至 6 月，以及这对卖家意味着什么"
+    },
+    {
+      "title": "Inflation hitting ‘every angle’ of retail supply chains, warns CI&T’s Melissa Minkow",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/inflation-supply-minkrow/",
+      "pubDate": "Thu, 26 Mar 2026 13:58:43 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "Retailers are once again facing mounting pressure across their supply chains, as inflationary forces build from multiple directions at once.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "CI&T 的梅丽莎·明科 (Melissa Minkow) 警告称，通胀冲击零售供应链的“各个角度”"
+    },
+    {
+      "title": "Prolonged Hormuz closure to hit global chemical output, Fitch warns",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/supply-fertiliser-food/",
+      "pubDate": "Thu, 26 Mar 2026 13:58:27 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "The implications extend beyond agriculture. Plastics and chemicals used in packaging, preservation and transport are also exposed to supply shocks, adding further cost pressure to food distribution ne",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "惠誉警告称，霍尔木兹海峡长期关闭将影响全球化学品产量"
+    },
+    {
+      "title": "UK food sector could deliver one billion extra meals, report finds",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/food-one-billion-extra-meals/",
+      "pubDate": "Thu, 26 Mar 2026 13:58:10 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "The UK food and drink manufacturing sector could help deliver more than one billion meals a year to people facing food insecurity, according to new research published this week.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "报告发现，英国食品行业可以额外提供 10 亿份餐食"
+    },
+    {
+      "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
+      "link": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
+      "pubDate": "Thu, 26 Mar 2026 13:41:00 +0000",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "priority": 2,
+      "tags": [
+        "AI startups",
+        "funding"
+      ],
+      "snippet": "Conntour uses AI models to let security teams query camera feeds using natural language to find any object, person, or situation.",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Conntour 从 General Catalyst 和 YC 筹集了 700 万美元，用于构建用于安全视频系统的人工智能搜索引擎"
+    },
+    {
+      "title": "Cohere launches an open source voice model specifically for transcription",
+      "link": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
+      "pubDate": "Thu, 26 Mar 2026 13:30:00 +0000",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "priority": 2,
+      "tags": [
+        "AI startups",
+        "funding"
+      ],
+      "snippet": "Relatively light at just 2 billion parameters, the model is meant for use with consumer-grade GPUs for those who want to self-host it. It currently supports 14 languages.",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Cohere 推出专门用于转录的开源语音模型"
+    },
+    {
+      "title": "Are parcel lockers becoming a serious supply chain play for retailers?",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/are-parcel-lockers-becoming-a-serious-supply-chain-play-for-retailers/",
+      "pubDate": "Thu, 26 Mar 2026 13:27:02 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "As retailers face compounding pressure on margins, increasing customer expectations and returns costs, the concept of lockers is beginning to matter for a much bigger reason than simple convenience, i",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "包裹储物柜是否正在成为零售商供应链的重要组成部分？"
+    },
+    {
+      "title": "Google’s TurboQuant AI advance dents memory-chip stocks, but analysts say ‘buy the dip’",
+      "link": "https://www.scmp.com/tech/big-tech/article/3348038/googles-turboquant-ai-advance-dents-memory-chip-stocks-analysts-say-buy-dip?utm_source=rss_feed",
+      "pubDate": "Thu, 26 Mar 2026 13:24:11 +0000",
+      "source": "SCMP Tech",
+      "sourceUrl": "https://www.scmp.com/tech",
+      "priority": 2,
+      "tags": [
+        "China AI",
+        "tech policy",
+        "中国科技"
+      ],
+      "snippet": "A new artificial intelligence algorithm developed by Google that could reduce demand for memory chips triggered a slump in global memory stocks, but analysts said it presented an opportunity for inves",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "谷歌的 TurboQuant AI 进展削弱了存储芯片股票，但分析师表示“逢低买入”"
+    },
+    {
+      "title": "AWG invests $110M to modernize distribution center",
+      "link": "https://www.grocerydive.com/news/associated-wholesale-grocers-distribution-center-rennovation-automation/815711/",
+      "pubDate": "Thu, 26 Mar 2026 09:00:00 -0400",
+      "source": "Grocery Dive",
+      "sourceUrl": "https://www.grocerydive.com",
+      "priority": 2,
+      "tags": [
+        "grocery",
+        "dark store",
+        "delivery"
+      ],
+      "snippet": "The wholesaler is renovating its Gulf Coast facility with advanced automation to improve order accuracy and service reliability.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "AWG 投资 1.1 亿美元对配送中心进行现代化改造"
+    },
+    {
+      "title": "The Download: a battery pivot to AI, and rewriting math",
+      "link": "https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/",
+      "pubDate": "Thu, 26 Mar 2026 12:42:53 +0000",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com",
+      "priority": 3,
+      "tags": [
+        "AI research",
+        "deep tech"
+      ],
+      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why this battery company is pivoting to AI  Qichao Hu doesn’t ",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "下载：电池转向人工智能，并重写数学"
+    },
+    {
+      "title": "OpenAI halts \"Adult Mode\" as advisors, investors, and employees raise red flags",
+      "link": "https://the-decoder.com/openai-halts-adult-mode-as-advisors-investors-and-employees-raise-red-flags/",
+      "pubDate": "Thu, 26 Mar 2026 12:34:29 +0000",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com",
+      "priority": 2,
+      "tags": [
+        "AI",
+        "LLM"
+      ],
+      "snippet": "OpenAI has put development of an erotic chatbot on hold indefinitely, the Financial Times reports. \nThe article OpenAI halts \"Adult Mode\" as advisors, investors, and employees raise red flags appeared",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "OpenAI 因顾问、投资者和员工发出危险信号而停止“成人模式”"
+    },
+    {
+      "title": "A third of consumers would buy directly via generative AI platforms, study finds",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/kantar-ai-data/",
+      "pubDate": "Thu, 26 Mar 2026 12:20:41 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "One-third of consumers would buy directly through ChatGPT and other generative AI platforms rather than click through to a retailer's website, according to data from Kantar",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "研究发现，三分之一的消费者会直接通过生成式人工智能平台购买"
+    },
+    {
+      "title": "StoReel获3400万美元融资：用AI重构故事生产，打造工具社区与平台双轮驱动的内容生态｜涌现新项目",
+      "link": "https://36kr.com/p/3739636054999040?f=rss",
+      "pubDate": "2026-03-26 20:14:29  +0800",
+      "source": "36氪 AI",
+      "sourceUrl": "https://36kr.com",
+      "priority": 2,
+      "tags": [
+        "AI创投",
+        "AI应用"
+      ],
+      "snippet": "文｜王欣逸\n编辑｜王毓婵\n一句话介绍\nStoReel是一家全球化AI原生娱乐内容平台，核心产品分别是AI剧集平台StoReel App以及AI剧集工具社区StoReel Canvas，致力于打造系列化剧集内容的创作、发行和变现体系。\n公司由海外市场短剧赛道转化而来，自2024年底至2025年初开始系统性地探索AI在短剧生产和内容创作中的应用。\n融资进展\n近期，StoReel已获得3400万美元增长",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "StoReel获3400万美元融资：用AI重构故事生产，打造工具社区与平台双轮驱动的内容生态｜涌现新项目"
+    },
+    {
+      "title": "GitHub will use Copilot interaction data to train AI models starting April 2026",
+      "link": "https://the-decoder.com/github-will-use-copilot-interaction-data-to-train-ai-models-starting-april-2026/",
+      "pubDate": "Thu, 26 Mar 2026 12:14:02 +0000",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com",
+      "priority": 2,
+      "tags": [
+        "AI",
+        "LLM"
+      ],
+      "snippet": "Starting April 24, 2026, GitHub is changing its data policy for Copilot. Interaction data from users on the Free, Pro, and Pro+ plans will be used to train AI models unless users actively opt out.\nThe",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "从 2026 年 4 月开始，GitHub 将使用 Copilot 交互数据来训练 AI 模型"
+    },
+    {
+      "title": "John Lewis, Aldi and Samsung among big names shortlisted for Which? Awards 2026",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/john-lewis-aldi-and-samsung-among-big-names-shortlisted-for-which-awards-2026/",
+      "pubDate": "Thu, 26 Mar 2026 12:00:54 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "John Lewis, Aldi and Samsung are among the major retail names shortlisted in the Which? Awards 2026, as the consumer champion unveiled its contenders for Retailer of the Year and Best Value Brand of t",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "约翰·刘易斯 (John Lewis)、阿尔迪 (Aldi) 和三星 (Samsung) 等知名企业入围《哪一个？》 2026 年奖项"
+    },
+    {
+      "title": "氪星晚报｜淘天集团推出“AI生产力计划”，向实习生全员开放;过去五年北京已牵头制定国际标准超500项；欧洲议会表决通过欧美贸易协议",
+      "link": "https://36kr.com/p/3739460842078470?f=rss",
+      "pubDate": "2026-03-26 20:00:31  +0800",
+      "source": "36氪 AI",
+      "sourceUrl": "https://36kr.com",
+      "priority": 2,
+      "tags": [
+        "AI创投",
+        "AI应用"
+      ],
+      "snippet": "大公司：\n三星、SK等韩国企业实施车辆限行等节能措施，响应政府节能政策\n据报道，以三星和SK为首的韩国各大企业集团已推出一系列节能措施，包括关闭办公区照明以及对驾车上班的员工实施车辆限行等，以响应韩国政府的节能政策。三星宣布从26日起在所有国内业务场所实施车辆限行制度，为期十天，该制度规定车牌尾号与日期尾号相同的车辆限制使用停车场，但电动车、氢燃料车、孕妇和残疾人车辆除外。（财联社）\n北京人形机器",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "氪星晚报｜淘天集团推出“AI生产力计划”，向实习生全员开放;过去五年北京已牵头制定国际标准超500项；欧洲议会表决通过欧美贸易协议"
+    },
+    {
+      "title": "AI rift widens as China urges boycott of top US conference over sanctions ban",
+      "link": "https://www.scmp.com/tech/article/3348006/ai-rift-widens-china-urges-boycott-top-us-conference-over-sanctions-ban?utm_source=rss_feed",
+      "pubDate": "Thu, 26 Mar 2026 12:00:12 +0000",
+      "source": "SCMP Tech",
+      "sourceUrl": "https://www.scmp.com/tech",
+      "priority": 2,
+      "tags": [
+        "China AI",
+        "tech policy",
+        "中国科技"
+      ],
+      "snippet": "Chinese computer scientists and researchers have been urged to boycott a major artificial intelligence conference after its organisers barred submissions from US-sanctioned institutions, including lea",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "中国敦促抵制美国制裁禁令峰会，人工智能分歧扩大"
+    },
+    {
+      "title": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
+      "link": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
+      "pubDate": "Thu, 26 Mar 2026 12:00:00 +0000",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "priority": 2,
+      "tags": [
+        "AI startups",
+        "funding"
+      ],
+      "snippet": "Fears of AI-driven job loss are growing fast, and they’re fueling backlash against data centers. Sen. Mark Warner suggests taxing them to help workers survive the transition.",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "数据中心的“一磅肉”：一位参议员对人工智能失业的回答"
+    },
+    {
+      "title": "Next says prices could rise as Iran war increases costs",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/next-middle-east-conflict/",
+      "pubDate": "Thu, 26 Mar 2026 11:54:57 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "Next has said that the Middle East conflict could lead to higher prices for its customers.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "Next表示，随着伊朗战争增加成本，价格可能上涨"
+    },
+    {
+      "title": "ARC-AGI-3 offers $2M to any AI that matches untrained humans, yet every frontier model scores below 1%",
+      "link": "https://the-decoder.com/arc-agi-3-offers-2m-to-any-ai-that-matches-untrained-humans-yet-every-frontier-model-scores-below-1/",
+      "pubDate": "Thu, 26 Mar 2026 11:52:55 +0000",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com",
+      "priority": 2,
+      "tags": [
+        "AI",
+        "LLM"
+      ],
+      "snippet": "The new ARC-AGI-3 benchmark drops AI systems into interactive game environments that humans solve with ease. No frontier model breaks the 1 percent mark because the benchmark strips away their biggest",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "ARC-AGI-3 向任何与未经训练的人类相匹配的人工智能提供 200 万美元，但每个前沿模型的得分都低于 1%"
+    },
+    {
+      "title": "Mistral releases a new open source model for speech generation",
+      "link": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
+      "pubDate": "Thu, 26 Mar 2026 11:30:00 +0000",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "priority": 2,
+      "tags": [
+        "AI startups",
+        "funding"
+      ],
+      "snippet": "The model, which lets enterprises build voice agents for sales and customer engagement, puts Mistral in direct competition with the likes of ElevenLabs, Deepgram, and OpenAI.",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Mistral 发布了用于语音生成的新开源模型"
+    },
+    {
+      "title": "36氪官方Skill上线ClawHub，解锁OpenClaw新技能",
+      "link": "https://36kr.com/p/3739662958854150?f=rss",
+      "pubDate": "2026-03-26 19:28:34  +0800",
+      "source": "36氪 AI",
+      "sourceUrl": "https://36kr.com",
+      "priority": 2,
+      "tags": [
+        "AI创投",
+        "AI应用"
+      ],
+      "snippet": "36氪已正式入驻ClawHub平台，重磅推出三款官方Skill，专为OpenClaw用户打造，无需繁琐操作，一键安装即可让你的OpenClaw升级为新经济信息中枢，轻松抢占信息先机。\nOpenClaw的强大，源于其可无限扩展的Skill生态——这些“技能包”就像给AI助手装上了专属外挂，让原本强大的智能体拥有更精准、更高效的专项能力。而ClawHub作为OpenClaw官方技能商店，汇聚了海量优质",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "36氪官方Skill上线ClawHub，解锁OpenClaw新技能"
+    },
+    {
+      "title": "Co-op boss steps down as retailer posts loss after cyber attack",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/co-op-boss-steps-down/",
+      "pubDate": "Thu, 26 Mar 2026 10:54:56 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "Co-operative Group today (26 March) confirmed its chief executive Shirine Khoury-Haq is to step down, as it also reported a £35m underlying operating loss for 2025 after a cyber attack and rising cost",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "网络攻击后零售商亏损，合作社老板辞职"
+    },
+    {
       "title": "月之暗面创始人重磅判断：今年起 AI 研发模式将剧变，海量Token成研究员标配资源",
       "link": "https://www.infoq.cn/article/WwJZI3vSu5qKagvDvhwK?utm_source=rss&utm_medium=article",
       "pubDate": "2026-03-26T10:40:01.178Z",
@@ -1650,7 +2899,7 @@
         "logistics",
         "fulfillment"
       ],
-      "snippet": "CEO Mark George said rising gas prices tied to the Iran war may lead to greater coal demand, boosting the rail carrier's utility business.",
+      "snippet": "CEO Mark George said rising gas prices tied to the Iran war may lead to greater coal demand, which could boost the rail carrier's utility business.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
       "titleZh": "诺福克南方航空表示，燃油成本上涨可能会刺激联运量"
@@ -3825,17 +5074,17 @@
     },
     {
       "title": "FedEx taps OneRail to offer 2-hour, end-of-day delivery",
-      "link": "https://www.retaildive.com/news/fedex-sameday-local-2-hour-end-of-day-delivery/815604/",
+      "link": "https://www.supplychaindive.com/news/fedex-sameday-local-2-hour-end-of-day-delivery/815547/",
       "pubDate": "Tue, 24 Mar 2026 10:58:00 -0400",
-      "source": "Retail Dive",
-      "sourceUrl": "https://www.retaildive.com",
-      "priority": 3,
+      "source": "Supply Chain Dive",
+      "sourceUrl": "https://www.supplychaindive.com",
+      "priority": 2,
       "tags": [
-        "US retail",
-        "DTC",
-        "omnichannel"
+        "supply chain",
+        "logistics",
+        "fulfillment"
       ],
-      "snippet": "The two companies will connect customers to more than 1,000 delivery providers through FedEx's SameDay Local service, unveiled Tuesday.",
+      "snippet": "The two companies will connect customers to more than 1,000 delivery providers through FedEx's SameDay Local service.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
       "titleZh": "FedEx 利用 OneRail 提供日终 2 小时送达服务"
@@ -7229,17 +8478,17 @@
     },
     {
       "title": "UNFI to shutter Wisconsin distribution center, cut 443 jobs",
-      "link": "https://www.grocerydive.com/news/unfi-sturtevant-wisconsin-distribution-center-closure-layoffs-grocery-supply-chain/815175/",
+      "link": "https://www.supplychaindive.com/news/unfi-sturtevant-wisconsin-distribution-center-closure-layoffs-grocery-supply-chain/815369/",
       "pubDate": "Thu, 19 Mar 2026 11:00:00 -0400",
-      "source": "Grocery Dive",
-      "sourceUrl": "https://www.grocerydive.com",
+      "source": "Supply Chain Dive",
+      "sourceUrl": "https://www.supplychaindive.com",
       "priority": 2,
       "tags": [
-        "grocery",
-        "dark store",
-        "delivery"
+        "supply chain",
+        "logistics",
+        "fulfillment"
       ],
-      "snippet": "The grocery wholesaler said the closure is related to an effort to transition service to a facility near Chicago where it is adding automated capabilities.",
+      "snippet": "The grocery wholesaler said the closure is related to an effort to transition service to a facility near Chicago, where it is adding automated capabilities.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
       "titleZh": "UNFI将关闭威斯康星州配送中心并裁员443人"
@@ -8954,5 +10203,5 @@
       "titleZh": "导入AI 431：技术乐观和适当的恐惧"
     }
   ],
-  "savedAt": "2026-03-26T10:40:28.129Z"
+  "savedAt": "2026-03-27T02:54:37.017Z"
 }
