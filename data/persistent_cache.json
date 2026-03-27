@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "title": "腾讯云Agent产品全景图首次亮相",
+      "link": "https://36kr.com/newsflashes/3740603253571843?f=rss",
+      "pubDate": "2026-03-27 10:58:24  +0800",
+      "source": "36氪 AI",
+      "sourceUrl": "https://36kr.com",
+      "priority": 2,
+      "tags": [
+        "AI创投",
+        "AI应用"
+      ],
+      "snippet": "36氪获悉，3月27日，在腾讯云上海峰会上，腾讯云首次对外发布Agent产品全景图，升级MaaS平台为TokenHub，并推出企业级Agent Infra治理方案，打造面向Agent时代的全栈AI引擎。腾讯云副总裁吴运声表示，此次发布的Agent全景图覆盖Infra、模型与生态、场景及应用、安全五大维度，涵盖个人提效、办公提效、研发提效等多场景，产品矩阵全面升级。同时，开放涵盖腾讯自研Skills",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "腾讯云Agent产品全景图首次亮相"
+    },
+    {
       "title": "用得越多、失业越快？GitHub 大改 Copilot 规则：默认拿个人代码训练 AI，还搬出 Anthropic 挡枪！",
       "link": "https://www.infoq.cn/article/4ODfuXhhcI9mAeYepXY0?utm_source=rss&utm_medium=article",
       "pubDate": "2026-03-27T02:53:35.516Z",
@@ -751,6 +767,23 @@
       "titleZh": "字节跳动全新AI视频生成模型Dreamina Seedance 2.0登陆CapCut"
     },
     {
+      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "link": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+      "pubDate": "Thu, 26 Mar 2026 15:23:35 GMT",
+      "source": "DeepMind Blog",
+      "sourceUrl": "https://deepmind.google/discover/blog/",
+      "priority": 3,
+      "tags": [
+        "AI research",
+        "Gemini",
+        "AGI"
+      ],
+      "snippet": "",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Gemini 3.1 Flash Live：让音频AI更加自然可靠"
+    },
+    {
       "title": "Sephora launches app in ChatGPT",
       "link": "https://www.retaildive.com/news/sephora-chatgpt-app-launch/815751/",
       "pubDate": "Thu, 26 Mar 2026 11:15:00 -0400",
@@ -885,6 +918,23 @@
       "section": "intl_retail",
       "originalSection": "intl_retail",
       "titleZh": "市场简报：亚马逊为何将 Prime Day 从 7 月移至 6 月，以及这对卖家意味着什么"
+    },
+    {
+      "title": "Vega: Learning to Drive with Natural Language Instructions",
+      "link": "https://arxiv.org/abs/2603.25741",
+      "pubDate": "Thu, 26 Mar 2026 13:59:56 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "Vision-language-action models have reshaped autonomous driving to incorporate languages into the decision-making process. However, most existing pipelines only utilize the language modality for scene ",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Vega：使用自然语言指令学习驾驶"
     },
     {
       "title": "Inflation hitting ‘every angle’ of retail supply chains, warns CI&T’s Melissa Minkow",
@@ -2040,6 +2090,23 @@
       "titleZh": "36氪独家｜红杉中国、Monolith领投AI健康硬件公司「Odyss」，金额近2亿元"
     },
     {
+      "title": "Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale",
+      "link": "https://arxiv.org/abs/2603.25040",
+      "pubDate": "Thu, 26 Mar 2026 01:21:45 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "We introduce Intern-S1-Pro, the first one-trillion-parameter scientific multimodal foundation model. Scaling to this unprecedented size, the model delivers a comprehensive enhancement across both gene",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Intern-S1-Pro：万亿规模的科学多模态基础模型"
+    },
+    {
       "title": "Why China’s humanoid robots are still waiting for their ‘ChatGPT moment’",
       "link": "https://www.scmp.com/tech/article/3347864/why-chinas-humanoid-robots-are-still-waiting-their-chatgpt-moment?utm_source=rss_feed",
       "pubDate": "Thu, 26 Mar 2026 01:15:07 +0000",
@@ -2620,6 +2687,23 @@
       "section": "intl_ai",
       "originalSection": "intl_ai",
       "titleZh": "Harvey 确认估值 11B 美元：红杉资本股价下跌三倍"
+    },
+    {
+      "title": "SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks",
+      "link": "https://arxiv.org/abs/2603.24755",
+      "pubDate": "Wed, 25 Mar 2026 15:26:44 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "Software development is iterative, yet agentic coding benchmarks overwhelmingly evaluate single-shot solutions against complete specifications. Code can pass the test suite but become progressively ha",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "SlopCodeBench：对编码代理在长期迭代任务中如何退化进行基准测试"
     },
     {
       "title": "GLP-1 users are changing apparel trends",
@@ -9116,6 +9200,23 @@
       "titleZh": "与 Mozilla 合作提高 Firefox 的安全性"
     },
     {
+      "title": "MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens",
+      "link": "https://arxiv.org/abs/2603.23516",
+      "pubDate": "Thu, 05 Mar 2026 21:29:54 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "Long-term memory is a cornerstone of human intelligence. Enabling AI to process lifetime-scale information remains a long-standing pursuit in   the field. Due to the constraints of full-attention arch",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "MSA：内存稀疏注意力，可实现高效的端到端内存模型扩展到 100M 令牌"
+    },
+    {
       "title": "Partnering with Mozilla to improve Firefox’s security",
       "link": "https://www.anthropic.com/news/mozilla-firefox-security",
       "pubDate": "Thu, 05 Mar 2026 16:00:00 GMT",
@@ -10203,5 +10304,5 @@
       "titleZh": "导入AI 431：技术乐观和适当的恐惧"
     }
   ],
-  "savedAt": "2026-03-27T02:54:37.017Z"
+  "savedAt": "2026-03-27T03:02:29.466Z"
 }

@@ -654,7 +654,7 @@ async function fetchAllSources() {
 
 // --- Compute trending topics ---
 function computeTrending(allArticles) {
-  const allKeywords = Object.values(sourcesConfig.keywords).flat();
+  const allKeywords = sourcesConfig.trending_brands || Object.values(sourcesConfig.keywords).flat();
   const counts = {};
   for (const kw of allKeywords) {
     const kwLower = kw.toLowerCase();

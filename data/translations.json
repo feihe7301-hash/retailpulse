@@ -530,5 +530,10 @@
   "John Lewis, Aldi and Samsung among big names shortlisted for Which? Awards 2026": "约翰·刘易斯 (John Lewis)、阿尔迪 (Aldi) 和三星 (Samsung) 等知名企业入围《哪一个？》 2026 年奖项",
   "Mistral releases a new open source model for speech generation": "Mistral 发布了用于语音生成的新开源模型",
   "ARC-AGI-3 offers $2M to any AI that matches untrained humans, yet every frontier model scores below": "ARC-AGI-3 向任何与未经训练的人类相匹配的人工智能提供 200 万美元，但每个前沿模型的得分都低于 1%",
-  "Co-op boss steps down as retailer posts loss after cyber attack": "网络攻击后零售商亏损，合作社老板辞职"
+  "Co-op boss steps down as retailer posts loss after cyber attack": "网络攻击后零售商亏损，合作社老板辞职",
+  "Vega: Learning to Drive with Natural Language Instructions": "Vega：使用自然语言指令学习驾驶",
+  "MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens": "MSA：内存稀疏注意力，可实现高效的端到端内存模型扩展到 100M 令牌",
+  "Gemini 3.1 Flash Live: Making audio AI more natural and reliable": "Gemini 3.1 Flash Live：让音频AI更加自然可靠",
+  "SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks": "SlopCodeBench：对编码代理在长期迭代任务中如何退化进行基准测试",
+  "Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale": "Intern-S1-Pro：万亿规模的科学多模态基础模型"
 }

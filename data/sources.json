@@ -73,5 +73,18 @@
     "ai_safety": ["AI safety", "AI regulation", "AGI", "alignment", "EU AI Act", "AI governance"],
     "ai_robotics": ["humanoid robot", "具身智能", "人形机器人", "Figure AI", "Boston Dynamics", "Tesla Optimus", "自动驾驶"],
     "ai_coding": ["GitHub Copilot", "Cursor", "Devin", "AI coding", "code generation", "vibe coding"]
-  }
+  },
+  "trending_brands": [
+    "盒马", "山姆", "胖东来", "小象超市", "蜜雪冰城", "喜茶", "霸王茶姬", "泡泡玛特", "名创优品",
+    "Temu", "SHEIN", "TikTok Shop", "Shopee", "Lazada", "Grab",
+    "Amazon Fresh", "Instacart", "Coupang", "Mercado Libre", "Flipkart",
+    "H&M", "Zara", "Inditex", "Uniqlo", "MUJI", "Primark", "Action",
+    "OpenAI", "ChatGPT", "Anthropic", "Claude", "Gemini", "DeepMind",
+    "Llama", "Mistral", "Grok", "Copilot", "Perplexity", "Midjourney",
+    "NVIDIA", "Groq", "Cerebras",
+    "Figure AI", "Boston Dynamics", "Tesla Optimus",
+    "GitHub Copilot", "Cursor", "Devin",
+    "Google", "Apple", "Microsoft", "Meta", "Tesla", "ByteDance", "字节跳动",
+    "百度", "阿里巴巴", "腾讯", "华为", "京东", "拼多多", "美团"
+  ]
 }
