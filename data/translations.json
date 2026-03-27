@@ -535,5 +535,7 @@
   "MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens": "MSA：内存稀疏注意力，可实现高效的端到端内存模型扩展到 100M 令牌",
   "Gemini 3.1 Flash Live: Making audio AI more natural and reliable": "Gemini 3.1 Flash Live：让音频AI更加自然可靠",
   "SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks": "SlopCodeBench：对编码代理在长期迭代任务中如何退化进行基准测试",
-  "Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale": "Intern-S1-Pro：万亿规模的科学多模态基础模型"
+  "Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale": "Intern-S1-Pro：万亿规模的科学多模态基础模型",
+  "We rewrote JSONata with AI in a day, saved $500k/year": "我们用 AI 重写了 JSONata，一天之内节省了 50 万美元/年",
+  "Miami-based telehealth company eMed raised a $200M Series A at a $2B+ valuation to advance its agent": "总部位于迈阿密的远程医疗公司 eMed 以 2B+ 估值筹集了 2 亿美元的 A 轮融资，以推进其代理人工智能平台等；汤姆·布雷迪参加了本轮比赛"
 }

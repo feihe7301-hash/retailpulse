@@ -654,8 +654,13 @@ async function fetchAllSources() {
 
 // --- Compute trending topics ---
 function computeTrending(allArticles) {
-  const allKeywords = sourcesConfig.trending_brands || Object.values(sourcesConfig.keywords).flat();
-  const counts = {};
+  // Collect all keywords: companies + product aliases
+  const companies = sourcesConfig.trending_companies || [];
+  const productMap = sourcesConfig.product_to_company || {};
+  const allKeywords = [...companies, ...Object.keys(productMap)];
+
+  // Count mentions per keyword
+  const rawCounts = {};
   for (const kw of allKeywords) {
     const kwLower = kw.toLowerCase();
     let count = 0;
@@ -663,9 +668,20 @@ function computeTrending(allArticles) {
       const text = (article.title + ' ' + article.snippet).toLowerCase();
       if (text.includes(kwLower)) count++;
     }
-    if (count > 0) counts[kw] = count;
+    if (count > 0) rawCounts[kw] = count;
   }
-  return Object.entries(counts)
+
+  // Consolidate product counts into parent company
+  const consolidated = {};
+  for (const [kw, count] of Object.entries(rawCounts)) {
+    const parent = productMap[kw] || kw;
+    consolidated[parent] = (consolidated[parent] || 0) + count;
+  }
+
+  // Only return companies from the trending_companies list
+  const companySet = new Set(companies);
+  return Object.entries(consolidated)
+    .filter(([k]) => companySet.has(k))
     .sort((a, b) => b[1] - a[1])
     .slice(0, 20)
     .map(([keyword, count]) => ({ keyword, count }));

@@ -74,17 +74,31 @@
     "ai_robotics": ["humanoid robot", "具身智能", "人形机器人", "Figure AI", "Boston Dynamics", "Tesla Optimus", "自动驾驶"],
     "ai_coding": ["GitHub Copilot", "Cursor", "Devin", "AI coding", "code generation", "vibe coding"]
   },
-  "trending_brands": [
+  "trending_companies": [
+    "OpenAI", "Anthropic", "Google", "Meta", "Microsoft", "Apple", "NVIDIA",
+    "Amazon", "Tesla", "ByteDance", "Mistral", "Perplexity", "Midjourney",
+    "Groq", "Cerebras", "Figure AI", "Boston Dynamics", "xAI",
+    "Cursor", "Cognition",
     "盒马", "山姆", "胖东来", "小象超市", "蜜雪冰城", "喜茶", "霸王茶姬", "泡泡玛特", "名创优品",
     "Temu", "SHEIN", "TikTok Shop", "Shopee", "Lazada", "Grab",
-    "Amazon Fresh", "Instacart", "Coupang", "Mercado Libre", "Flipkart",
-    "H&M", "Zara", "Inditex", "Uniqlo", "MUJI", "Primark", "Action",
-    "OpenAI", "ChatGPT", "Anthropic", "Claude", "Gemini", "DeepMind",
-    "Llama", "Mistral", "Grok", "Copilot", "Perplexity", "Midjourney",
-    "NVIDIA", "Groq", "Cerebras",
-    "Figure AI", "Boston Dynamics", "Tesla Optimus",
-    "GitHub Copilot", "Cursor", "Devin",
-    "Google", "Apple", "Microsoft", "Meta", "Tesla", "ByteDance", "字节跳动",
+    "Instacart", "Coupang", "Mercado Libre", "Flipkart",
+    "H&M", "Zara", "Inditex", "Uniqlo", "MUJI", "Primark",
     "百度", "阿里巴巴", "腾讯", "华为", "京东", "拼多多", "美团"
-  ]
+  ],
+  "product_to_company": {
+    "ChatGPT": "OpenAI", "GPT-4": "OpenAI", "GPT-5": "OpenAI", "DALL-E": "OpenAI", "Sora": "OpenAI",
+    "Claude": "Anthropic",
+    "Gemini": "Google", "DeepMind": "Google", "Bard": "Google", "Waymo": "Google",
+    "Llama": "Meta", "LLaMA": "Meta",
+    "Copilot": "Microsoft", "GitHub Copilot": "Microsoft", "Bing": "Microsoft", "Azure": "Microsoft",
+    "Grok": "xAI",
+    "Tesla Optimus": "Tesla",
+    "Devin": "Cognition",
+    "Amazon Fresh": "Amazon", "Alexa": "Amazon", "AWS": "Amazon",
+    "字节跳动": "ByteDance", "抖音": "ByteDance", "豆包": "ByteDance",
+    "千问": "阿里巴巴", "通义": "阿里巴巴", "达摩院": "阿里巴巴",
+    "文心一言": "百度", "ERNIE": "百度",
+    "混元": "腾讯",
+    "盘古": "华为", "昇腾": "华为"
+  }
 }

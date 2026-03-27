@@ -1,6 +1,55 @@
 {
   "articles": [
     {
+      "title": "特步：2025净利润同比增长10.8%，持续推进DTC转型",
+      "link": "https://36kr.com/newsflashes/3740628565196800?f=rss",
+      "pubDate": "2026-03-27 11:24:08  +0800",
+      "source": "36氪 AI",
+      "sourceUrl": "https://36kr.com",
+      "priority": 2,
+      "tags": [
+        "AI创投",
+        "AI应用"
+      ],
+      "snippet": "3月26日，特步发布2025全年业绩，全年营收141.51亿元，同比增长4.2%；净利润13.72亿元，同比增长10.8%；净现金17.07亿元，同比增长73.4%。截至报告期末，特步在中国内地及海外共有6357家主要由授权分销商经营的特步成人品牌店铺，2025年12月，特步在上海开设了全新的高端金标领跑店。同时，特步持续加快渠道改革，通过推行直接面向消费者（DTC）模式，以快速应对消费者需求变化",
+      "section": "domestic_retail",
+      "originalSection": "domestic_ai",
+      "titleZh": "特步：2025净利润同比增长10.8%，持续推进DTC转型"
+    },
+    {
+      "title": "Miami-based telehealth company eMed raised a $200M Series A at a $2B+ valuation to advance its agentic AI platform and more; Tom Brady participated in the round",
+      "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/tom-brady-backed-telehealth-firm-emed-valued-over-2-billion-latest-funding-round-2026-03-26/",
+      "pubDate": "Thu, 26 Mar 2026 23:20:01 -0400",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/tom-brady-backed-telehealth-firm-emed-valued-over-2-billion-latest-funding-round-2026-03-26/",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Sneha S K / Reuters:\nMiami-based telehealth company eMed raised a $200M Series A at a $2B+ valuation to advance its agentic AI platform and more; Tom Brady participated in the round  —  Telehealth fir",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "总部位于迈阿密的远程医疗公司 eMed 以 2B+ 估值筹集了 2 亿美元的 A 轮融资，以推进其代理人工智能平台等；汤姆·布雷迪参加了本轮比赛"
+    },
+    {
+      "title": "学而思学习机X5 Ultra经典款发布",
+      "link": "https://36kr.com/newsflashes/3740619959697411?f=rss",
+      "pubDate": "2026-03-27 11:15:23  +0800",
+      "source": "36氪 AI",
+      "sourceUrl": "https://36kr.com",
+      "priority": 2,
+      "tags": [
+        "AI创投",
+        "AI应用"
+      ],
+      "snippet": "36氪获悉，3月27日，学而思学习机X5 Ultra经典款正式发布。该产品搭载8核6纳米处理器与8GB+256GB内存，综合性能较前代提升18%；一体化摄像头智慧岛新增“AI识万物”“AI读绘本”等功能。数据显示，截至2025年12月，学而思AI助手“小思”累计激活超10亿次，用户的周平均活跃率保持在约80%，日均使用时长约为1小时。",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "学而思学习机X5 Ultra经典款发布"
+    },
+    {
       "title": "腾讯云Agent产品全景图首次亮相",
       "link": "https://36kr.com/newsflashes/3740603253571843?f=rss",
       "pubDate": "2026-03-27 10:58:24  +0800",
@@ -281,6 +330,22 @@
       "section": "intl_ai",
       "originalSection": "intl_ai",
       "titleZh": "Show HN：我在每月 7 美元的 VPS 上放置了一个 AI 代理，并以 IRC 作为其传输层"
+    },
+    {
+      "title": "We rewrote JSONata with AI in a day, saved $500k/year",
+      "link": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai",
+      "pubDate": "Thu, 26 Mar 2026 22:36:41 +0000",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "priority": 2,
+      "tags": [
+        "tech",
+        "startups"
+      ],
+      "snippet": "Comments",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "我们用 AI 重写了 JSONata，一天之内节省了 50 万美元/年"
     },
     {
       "title": "Sources: Anthropic executives have discussed an IPO as soon as Q4, and bankers vying to take the company public expect it to raise more than $60B",
@@ -10304,5 +10369,5 @@
       "titleZh": "导入AI 431：技术乐观和适当的恐惧"
     }
   ],
-  "savedAt": "2026-03-27T03:02:29.466Z"
+  "savedAt": "2026-03-27T03:35:02.249Z"
 }
