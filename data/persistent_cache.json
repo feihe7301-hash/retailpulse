@@ -1,6 +1,40 @@
 {
   "articles": [
     {
+      "title": "Pony AI CEO: Middle East Market Remains a Priority",
+      "link": "https://www.bloomberg.com/news/videos/2026-03-27/pony-ai-ceo-middle-east-market-remains-a-priority-video",
+      "pubDate": "Fri, 27 Mar 2026 03:42:24 GMT",
+      "source": "Bloomberg Tech",
+      "sourceUrl": "https://www.bloomberg.com/technology",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "markets"
+      ],
+      "snippet": "",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "小马AI CEO：中东市场仍是重点"
+    },
+    {
+      "title": "Steno, which offers an AI-powered case transcript analysis tool for legal professionals, raised a $49M Series C led by Savano Capital Partners",
+      "link": "https://siliconangle.com/2026/03/26/steno-raises-49m-change-court-reporting-ai-enabled-transcript-analysis/",
+      "pubDate": "Thu, 26 Mar 2026 23:35:01 -0400",
+      "source": "SiliconANGLE",
+      "sourceUrl": "https://siliconangle.com/2026/03/26/steno-raises-49m-change-court-reporting-ai-enabled-transcript-analysis/",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Kyt Dotson / SiliconANGLE:\nSteno, which offers an AI-powered case transcript analysis tool for legal professionals, raised a $49M Series C led by Savano Capital Partners  —  Steno Agency Inc., a leade",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Steno 为法律专业人士提供人工智能驱动的案件笔录分析工具，筹集了由 Savano Capital Partners 领投的 4900 万美元 C 轮融资"
+    },
+    {
       "title": "特步：2025净利润同比增长10.8%，持续推进DTC转型",
       "link": "https://36kr.com/newsflashes/3740628565196800?f=rss",
       "pubDate": "2026-03-27 11:24:08  +0800",
@@ -114,6 +148,23 @@
       "titleZh": "雅诗兰黛中国供应链智能运营中心正式启用"
     },
     {
+      "title": "Pony AI Breaks Even, Aims to Launch Robotaxis in 20 Cities",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-26/pony-ai-swings-to-profit-aims-to-launch-robotaxis-in-20-cities",
+      "pubDate": "Fri, 27 Mar 2026 02:18:15 GMT",
+      "source": "Bloomberg Tech",
+      "sourceUrl": "https://www.bloomberg.com/technology",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "markets"
+      ],
+      "snippet": "",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "小马AI实现收支平衡，计划在20个城市推出机器人出租车"
+    },
+    {
       "title": "NY-based Blossom Health, which makes an \"AI copilot\" to augment psychiatrists' clinical decisions and automate office tasks, raised $20M in seed and Series A",
       "link": "https://fortune.com/2026/03/26/exclusive-blossom-health-telehealth-telepsychiatry-headline/",
       "pubDate": "Thu, 26 Mar 2026 22:15:02 -0400",
@@ -198,6 +249,23 @@
       "titleZh": "军用无人机初创公司 Shield AI 融资 20 亿美元"
     },
     {
+      "title": "Claude AI Maker Anthropic Said to Weigh IPO as Soon as October",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-27/claude-ai-maker-anthropic-said-to-weigh-ipo-as-soon-as-october",
+      "pubDate": "Fri, 27 Mar 2026 00:09:50 GMT",
+      "source": "Bloomberg Tech",
+      "sourceUrl": "https://www.bloomberg.com/technology",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "markets"
+      ],
+      "snippet": "",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Claude AI Maker Anthropic 称最快将于 10 月考虑 IPO"
+    },
+    {
       "title": "Rewriting Commerce For The Agentic Age",
       "link": "https://www.scmp.com/presented/business/topics/c-suite-game-changers/article/3347944/rewriting-commerce-agentic-age?utm_source=rss_feed",
       "pubDate": "Fri, 27 Mar 2026 00:00:54 +0000",
@@ -246,6 +314,23 @@
       "section": "intl_ai",
       "originalSection": "intl_ai",
       "titleZh": "法官叫停人为供应链风险指定"
+    },
+    {
+      "title": "Anthropic Wins Court Order Pausing Trump Ban on AI Tool",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-26/anthropic-wins-court-order-blocking-trump-ban-on-use-of-ai-tool",
+      "pubDate": "Thu, 26 Mar 2026 23:29:40 GMT",
+      "source": "Bloomberg Tech",
+      "sourceUrl": "https://www.bloomberg.com/technology",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "markets"
+      ],
+      "snippet": "",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Anthropic 赢得法院命令，暂停特朗普对人工智能工具的禁令"
     },
     {
       "title": "A US judge grants Anthropic's request for a preliminary injunction in its suit against the Trump administration over the DOD's decision to blacklist the company",
@@ -398,6 +483,23 @@
       "titleZh": "维基百科严厉打击在文章写作中使用人工智能"
     },
     {
+      "title": "Antitrust Agencies Should Be Wary of AI Scrutiny, Official Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-26/antitrust-agencies-should-be-wary-of-ai-scrutiny-official-says",
+      "pubDate": "Thu, 26 Mar 2026 21:48:22 GMT",
+      "source": "Bloomberg Tech",
+      "sourceUrl": "https://www.bloomberg.com/technology",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "markets"
+      ],
+      "snippet": "The market for artificial intelligence is competitive, evolving rapidly, and antitrust enforcers should be wary of intervening, a senior White House official said.  \nThe Eisenhower Executive Office Bu",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "官员表示，反垄断机构应警惕人工智能审查"
+    },
+    {
       "title": "Google releases new tools for its Gemini AI assistant that let users upload chat history and context from other AI apps, making it easier to switch from them",
       "link": "https://www.bloomberg.com/news/articles/2026-03-26/google-gemini-adds-tool-to-make-it-easier-to-switch-from-chatgpt",
       "pubDate": "Thu, 26 Mar 2026 17:45:01 -0400",
@@ -447,6 +549,40 @@
       "section": "intl_retail",
       "originalSection": "intl_retail",
       "titleZh": "可口可乐首席执行官称因人工智能转型需求而辞职"
+    },
+    {
+      "title": "Google Gemini Adds Tool to Make It Easier to Switch from ChatGPT",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-26/google-gemini-adds-tool-to-make-it-easier-to-switch-from-chatgpt",
+      "pubDate": "Thu, 26 Mar 2026 20:24:29 GMT",
+      "source": "Bloomberg Tech",
+      "sourceUrl": "https://www.bloomberg.com/technology",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "markets"
+      ],
+      "snippet": "",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Google Gemini 添加工具以更轻松地从 ChatGPT 切换"
+    },
+    {
+      "title": "OpenClaw Creator Says US Can Learn From China’s AI Adoption",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-03-26/openclaw-creator-says-us-can-learn-from-china-s-ai-adoption",
+      "pubDate": "Thu, 26 Mar 2026 20:01:01 GMT",
+      "source": "Bloomberg Tech",
+      "sourceUrl": "https://www.bloomberg.com/technology",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "markets"
+      ],
+      "snippet": "",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "OpenClaw 创建者表示美国可以学习中国的人工智能应用"
     },
     {
       "title": "Apple gets full Gemini access and uses distillation to build lightweight on-device AI",
@@ -983,6 +1119,23 @@
       "section": "intl_retail",
       "originalSection": "intl_retail",
       "titleZh": "市场简报：亚马逊为何将 Prime Day 从 7 月移至 6 月，以及这对卖家意味着什么"
+    },
+    {
+      "title": "MuRF: Unlocking the Multi-Scale Potential of Vision Foundation Models",
+      "link": "https://arxiv.org/abs/2603.25744",
+      "pubDate": "Thu, 26 Mar 2026 13:59:58 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "Vision Foundation Models (VFMs) have become the cornerstone of modern computer vision, offering robust representations across a wide array of tasks. While recent advances allow these models to handle ",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "MuRF：释放视觉基础模型的多尺度潜力"
     },
     {
       "title": "Vega: Learning to Drive with Natural Language Instructions",
@@ -2371,6 +2524,23 @@
       "section": "intl_retail",
       "originalSection": "intl_retail",
       "titleZh": "亚马逊通过收购动物群瞄准消费机器人市场"
+    },
+    {
+      "title": "FinMCP-Bench: Benchmarking LLM Agents for Real-World Financial Tool Use under the Model Context Protocol",
+      "link": "https://arxiv.org/abs/2603.24943",
+      "pubDate": "Wed, 25 Mar 2026 22:20:04 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "This paper introduces FinMCP-Bench, a novel benchmark for evaluating large language models (LLMs) in solving real-world financial problems through tool invocation of financial model context protocols.",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "FinMCP-Bench：模型上下文协议下对 LLM 代理在真实世界金融工具使用中的基准测试"
     },
     {
       "title": "Prologis CEO Sees Prolonged AI, Data Center Tailwinds",
@@ -4511,6 +4681,23 @@
       "section": "intl_retail",
       "originalSection": "intl_retail",
       "titleZh": "联邦贸易委员会寻求禁止航空人工智能营销业务机会"
+    },
+    {
+      "title": "BioVITA: Biological Dataset, Model, and Benchmark for Visual-Textual-Acoustic Alignment",
+      "link": "https://arxiv.org/abs/2603.23883",
+      "pubDate": "Tue, 24 Mar 2026 23:15:04 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "Understanding animal species from multimodal data poses an emerging challenge at the intersection of computer vision and ecology. While recent biological models, such as BioCLIP, have demonstrated str",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "BioVITA：视觉-文本-声学对齐的生物数据集、模型和基准"
     },
     {
       "title": "Braze Earnings Show AI Push and Enterprise Demand Gain Ground",
@@ -10369,5 +10556,5 @@
       "titleZh": "导入AI 431：技术乐观和适当的恐惧"
     }
   ],
-  "savedAt": "2026-03-27T03:35:02.249Z"
+  "savedAt": "2026-03-27T04:00:01.804Z"
 }

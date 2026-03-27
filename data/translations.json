@@ -537,5 +537,16 @@
   "SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks": "SlopCodeBench：对编码代理在长期迭代任务中如何退化进行基准测试",
   "Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale": "Intern-S1-Pro：万亿规模的科学多模态基础模型",
   "We rewrote JSONata with AI in a day, saved $500k/year": "我们用 AI 重写了 JSONata，一天之内节省了 50 万美元/年",
-  "Miami-based telehealth company eMed raised a $200M Series A at a $2B+ valuation to advance its agent": "总部位于迈阿密的远程医疗公司 eMed 以 2B+ 估值筹集了 2 亿美元的 A 轮融资，以推进其代理人工智能平台等；汤姆·布雷迪参加了本轮比赛"
+  "Miami-based telehealth company eMed raised a $200M Series A at a $2B+ valuation to advance its agent": "总部位于迈阿密的远程医疗公司 eMed 以 2B+ 估值筹集了 2 亿美元的 A 轮融资，以推进其代理人工智能平台等；汤姆·布雷迪参加了本轮比赛",
+  "BioVITA: Biological Dataset, Model, and Benchmark for Visual-Textual-Acoustic Alignment": "BioVITA：视觉-文本-声学对齐的生物数据集、模型和基准",
+  "Steno, which offers an AI-powered case transcript analysis tool for legal professionals, raised a $4": "Steno 为法律专业人士提供人工智能驱动的案件笔录分析工具，筹集了由 Savano Capital Partners 领投的 4900 万美元 C 轮融资",
+  "Anthropic Wins Court Order Pausing Trump Ban on AI Tool": "Anthropic 赢得法院命令，暂停特朗普对人工智能工具的禁令",
+  "Claude AI Maker Anthropic Said to Weigh IPO as Soon as October": "Claude AI Maker Anthropic 称最快将于 10 月考虑 IPO",
+  "Pony AI Breaks Even, Aims to Launch Robotaxis in 20 Cities": "小马AI实现收支平衡，计划在20个城市推出机器人出租车",
+  "Pony AI CEO: Middle East Market Remains a Priority": "小马AI CEO：中东市场仍是重点",
+  "Antitrust Agencies Should Be Wary of AI Scrutiny, Official Says": "官员表示，反垄断机构应警惕人工智能审查",
+  "Google Gemini Adds Tool to Make It Easier to Switch from ChatGPT": "Google Gemini 添加工具以更轻松地从 ChatGPT 切换",
+  "OpenClaw Creator Says US Can Learn From China’s AI Adoption": "OpenClaw 创建者表示美国可以学习中国的人工智能应用",
+  "FinMCP-Bench: Benchmarking LLM Agents for Real-World Financial Tool Use under the Model Context Prot": "FinMCP-Bench：模型上下文协议下对 LLM 代理在真实世界金融工具使用中的基准测试",
+  "MuRF: Unlocking the Multi-Scale Potential of Vision Foundation Models": "MuRF：释放视觉基础模型的多尺度潜力"
 }
