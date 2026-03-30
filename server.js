@@ -837,6 +837,19 @@ app.get('/api/trending', (req, res) => {
   res.json({ trending: articlesCache.trending, lastUpdated: articlesCache.lastUpdated });
 });
 
+// Health check endpoint for Railway
+app.get('/api/health', (req, res) => {
+  const sections = ['domestic_retail', 'intl_retail', 'domestic_ai', 'intl_ai'];
+  const totalArticles = sections.reduce((sum, s) => sum + articlesCache[s].length, 0);
+  res.json({
+    status: totalArticles > 0 ? 'healthy' : 'warming_up',
+    articles: totalArticles,
+    lastUpdated: articlesCache.lastUpdated,
+    uptime: Math.floor(process.uptime()),
+    pid: process.pid
+  });
+});
+
 // --- Startup ---
 // Write PID file so we can clean up old instances
 const pidFile = path.join(__dirname, 'server.pid');
@@ -857,7 +870,44 @@ process.on('SIGINT', () => process.exit(0));
 app.listen(PORT, async () => {
   console.log(`RetailPulse server running on http://localhost:${PORT} (PID: ${process.pid})`);
   loadTranslationCache();
-  await refreshAll();
+
+  // === INSTANT WARM START ===
+  // Load persistent cache into articlesCache IMMEDIATELY so the API serves data
+  // right away, before the slow RSS refresh (~60-90s) completes.
+  try {
+    const warmData = loadPersistentCache();
+    if (warmData.length > 0) {
+      const sections = ['domestic_retail', 'intl_retail', 'domestic_ai', 'intl_ai'];
+      for (const s of sections) {
+        articlesCache[s] = warmData.filter(a => a.section === s);
+      }
+      articlesCache.trending = computeTrending(warmData);
+      articlesCache.lastUpdated = warmData[0]?.pubDate || new Date().toISOString();
+      const total = sections.reduce((sum, s) => sum + articlesCache[s].length, 0);
+      console.log(`[WarmStart] Serving ${total} cached articles immediately`);
+    } else {
+      // No persistent cache — try loading from data.json as secondary fallback
+      try {
+        const dataJsonPath = path.join(__dirname, 'public/data.json');
+        if (fs.existsSync(dataJsonPath)) {
+          const djData = JSON.parse(fs.readFileSync(dataJsonPath, 'utf-8'));
+          if (djData.articles && djData.articles.length > 0) {
+            const sections = ['domestic_retail', 'intl_retail', 'domestic_ai', 'intl_ai'];
+            for (const s of sections) {
+              articlesCache[s] = djData.articles.filter(a => a.section === s);
+            }
+            articlesCache.trending = djData.trending || [];
+            articlesCache.lastUpdated = djData.lastUpdated || new Date().toISOString();
+            console.log(`[WarmStart] Loaded ${djData.articles.length} articles from data.json`);
+          }
+        }
+      } catch (e) {
+        console.error(`[WarmStart] data.json fallback error: ${e.message}`);
+      }
+    }
+  } catch (e) {
+    console.error(`[WarmStart] Error loading cache: ${e.message}`);
+  }
 
   // Update data.json after each refresh for static fallback
   const updateStaticData = async () => {
@@ -867,10 +917,32 @@ app.listen(PORT, async () => {
       fs.writeFileSync(path.join(__dirname, 'public/data.json'), JSON.stringify(data));
     } catch(e) { console.error('[StaticData] Error writing data.json:', e.message); }
   };
-  await updateStaticData();
+
+  // Now do the full RSS refresh in the background (non-blocking)
+  refreshAll().then(() => updateStaticData()).catch(e => {
+    console.error(`[Refresh] Error: ${e.message}`);
+  });
 
   cron.schedule('*/20 * * * *', async () => {
     await refreshAll();
     await updateStaticData();
   });
+
+  // === KEEP-ALIVE SELF-PING ===
+  // Prevent Railway from sleeping the service by pinging ourselves every 5 minutes.
+  // Railway sleeps inactive services; this keeps the event loop and HTTP server warm.
+  const KEEP_ALIVE_INTERVAL = 5 * 60 * 1000; // 5 minutes
+  setInterval(async () => {
+    try {
+      const baseUrl = process.env.RAILWAY_PUBLIC_DOMAIN
+        ? `https://${process.env.RAILWAY_PUBLIC_DOMAIN}`
+        : `http://localhost:${PORT}`;
+      const resp = await fetch(`${baseUrl}/api/trending`, { signal: AbortSignal.timeout(10000) });
+      if (resp.ok) {
+        console.log(`[KeepAlive] Ping OK at ${new Date().toISOString()}`);
+      }
+    } catch (e) {
+      // Silent fail — the important thing is the timer keeps running
+    }
+  }, KEEP_ALIVE_INTERVAL);
 });

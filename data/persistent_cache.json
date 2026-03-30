@@ -1,6 +1,625 @@
 {
   "articles": [
     {
+      "title": "Mistral AI borrows 830 million dollars to operate a new data center near Paris",
+      "link": "https://the-decoder.com/mistral-ai-borrows-830-million-dollars-to-operate-a-new-data-center-near-paris/",
+      "pubDate": "Mon, 30 Mar 2026 10:26:02 +0000",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com",
+      "priority": 2,
+      "tags": [
+        "AI",
+        "LLM"
+      ],
+      "snippet": "Mistral AI is borrowing 830 million dollars to build a data center near Paris with nearly 14,000 NVIDIA GPUs. The banks are on board, but the risk is significant for a startup that likely isn't profit",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Mistral AI borrows 830 million dollars to operate a new data center near Paris"
+    },
+    {
+      "title": "OpenClaw 走红背后：Agent、AI Coding 与团队协作的新问题",
+      "link": "https://www.infoq.cn/article/D8E3q93kBviq8Z8mu0Ao?utm_source=rss&utm_medium=article",
+      "pubDate": "2026-03-30T10:20:01.289Z",
+      "source": "InfoQ 中文站",
+      "sourceUrl": "https://www.infoq.cn",
+      "priority": 2,
+      "tags": [
+        "AI工程",
+        "技术实践"
+      ],
+      "snippet": "点击查看原文>",
+      "section": "intl_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "OpenClaw 走红背后：Agent、AI Coding 与团队协作的新问题"
+    },
+    {
+      "title": "Q&A with NYU professor Julian Togelius on his recent paper about LLMs' limitations in playing video games, why coding is a kind of well-designed game, and more",
+      "link": "https://spectrum.ieee.org/amp/ai-video-games-llms-togelius-2676614974",
+      "pubDate": "Mon, 30 Mar 2026 06:15:01 -0400",
+      "source": "IEEE Spectrum",
+      "sourceUrl": "https://spectrum.ieee.org/amp/ai-video-games-llms-togelius-2676614974",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Matthew S. Smith / IEEE Spectrum:\nQ&A with NYU professor Julian Togelius on his recent paper about LLMs' limitations in playing video games, why coding is a kind of well-designed game, and more  —  AI",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Q&A with NYU professor Julian Togelius on his recent paper about LLMs' limitations in playing video games, why coding is a kind of well-designed game, and more"
+    },
+    {
+      "title": "氪星晚报｜全国首个万卡级全栈自主可控智算集群点亮；泡泡玛特乐园门票将涨价；蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复",
+      "link": "https://36kr.com/p/3745267391103239?f=rss",
+      "pubDate": "2026-03-30 18:05:42  +0800",
+      "source": "36氪 AI",
+      "sourceUrl": "https://36kr.com",
+      "priority": 2,
+      "tags": [
+        "AI创投",
+        "AI应用"
+      ],
+      "snippet": "大公司：\n全国首个万卡级全栈自主可控智算集群点亮\n深圳人工智能高质量发展迎来新突破：3月26日，深圳市投建的11000P 智能算力集群正式点亮，加上去年先期点亮的3000P，目前该集群已全面建成14000P智能算力。这是全国首个使用全国产先进芯片构建的万卡级全栈自主可控智算集群。\n特斯拉：TERAFAB项目正式发布，预计将实现每年超1太瓦算力产出\n36氪获悉，据TeslaAI微博消息，TERAFA",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "氪星晚报｜全国首个万卡级全栈自主可控智算集群点亮；泡泡玛特乐园门票将涨价；蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复"
+    },
+    {
+      "title": "Edikted makes European debut with London store",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/edikted-makes-european-debut-with-london-store/",
+      "pubDate": "Mon, 30 Mar 2026 10:04:53 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "US fashion brand Edikted has opened its first standalone store in Europe. According to Shaftesbury Capital, the new flagship will be located at 52-55 Carnaby St. The new store spans 4,800 square feet ",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "Edikted makes European debut with London store"
+    },
+    {
+      "title": "Inside the Odd&mdash;and Oddly Human&mdash;Work of Teaching AI to Talk",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-30/inside-the-odd-and-oddly-human-work-of-teaching-ai-to-talk",
+      "pubDate": "Mon, 30 Mar 2026 10:00:04 GMT",
+      "source": "Bloomberg Tech",
+      "sourceUrl": "https://www.bloomberg.com/technology",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "markets"
+      ],
+      "snippet": "",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Inside the Odd&mdash;and Oddly Human&mdash;Work of Teaching AI to Talk"
+    },
+    {
+      "title": "AI has led some employers like L'Oréal to return to in-person assessments during recruiting, as senior HR leaders see a steep rise in AI-generated applications",
+      "link": "https://www.ft.com/content/bcc3becc-859e-4628-b6a7-b4788e6f20a6",
+      "pubDate": "Mon, 30 Mar 2026 05:35:01 -0400",
+      "source": "Financial Times",
+      "sourceUrl": "https://www.ft.com/content/bcc3becc-859e-4628-b6a7-b4788e6f20a6",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Bethan Staton / Financial Times:\nAI has led some employers like L'Oréal to return to in-person assessments during recruiting, as senior HR leaders see a steep rise in AI-generated applications  —  Emp",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "AI has led some employers like L'Oréal to return to in-person assessments during recruiting, as senior HR leaders see a steep rise in AI-generated applications"
+    },
+    {
+      "title": "The IRS Wants Smarter Audits. Palantir Could Help Decide Who Gets Flagged",
+      "link": "https://www.wired.com/story/documents-reveal-palantir-irs-contract-fraud-clean-energy-credits/",
+      "pubDate": "Mon, 30 Mar 2026 09:30:00 +0000",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/tag/ai/",
+      "priority": 3,
+      "tags": [
+        "AI",
+        "tech policy",
+        "consumer AI"
+      ],
+      "snippet": "Documents show the tax agency is testing a Palantir tool to surface “highest-value” audit and investigation targets from a maze of legacy systems.",
+      "section": "intl_retail",
+      "originalSection": "intl_ai",
+      "titleZh": "The IRS Wants Smarter Audits. Palantir Could Help Decide Who Gets Flagged"
+    },
+    {
+      "title": "Forterro CEO: AI-driven Fears an Overreaction",
+      "link": "https://www.bloomberg.com/news/videos/2026-03-30/forterro-ceo-ai-driven-fears-an-overreaction-video",
+      "pubDate": "Mon, 30 Mar 2026 09:15:32 GMT",
+      "source": "Bloomberg Tech",
+      "sourceUrl": "https://www.bloomberg.com/technology",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "markets"
+      ],
+      "snippet": "",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Forterro CEO: AI-driven Fears an Overreaction"
+    },
+    {
+      "title": "Some thoughts about companies and people in San Francisco adapting to AI workflows, AI's sycophancy, \"cognitive offloading\" and \"cognitive surrender\", and more",
+      "link": "https://www.nytimes.com/2026/03/29/opinion/ai-claude-chatgpt-gemini-mcluhan.html?unlocked_article_code=1.W1A.eQnT.q-dMfTgKnIzM&smid=url-share",
+      "pubDate": "Mon, 30 Mar 2026 05:00:46 -0400",
+      "source": "New York Times",
+      "sourceUrl": "https://www.nytimes.com/2026/03/29/opinion/ai-claude-chatgpt-gemini-mcluhan.html?unlocked_article_code=1.W1A.eQnT.q-dMfTgKnIzM&smid=url-share",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Ezra Klein / New York Times:\nSome thoughts about companies and people in San Francisco adapting to AI workflows, AI's sycophancy, “cognitive offloading” and “cognitive surrender”, and more  —  In his ",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Some thoughts about companies and people in San Francisco adapting to AI workflows, AI's sycophancy, \"cognitive offloading\" and \"cognitive surrender\", and more"
+    },
+    {
+      "title": "Retail’s hidden margin risk isn’t external, it’s operational",
+      "link": "https://www.retaildive.com/spons/retails-hidden-margin-risk-isnt-external-its-operational/815503/",
+      "pubDate": "Mon, 30 Mar 2026 05:00:00 -0400",
+      "source": "Retail Dive",
+      "sourceUrl": "https://www.retaildive.com",
+      "priority": 3,
+      "tags": [
+        "US retail",
+        "DTC",
+        "omnichannel"
+      ],
+      "snippet": "Small financial inconsistencies at scale are quietly compounding into material loss.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "Retail’s hidden margin risk isn’t external, it’s operational"
+    },
+    {
+      "title": "The grocery tech breakthrough happening at regional retailers",
+      "link": "https://www.grocerydive.com/spons/the-grocery-tech-breakthrough-happening-at-regional-retailers/815083/",
+      "pubDate": "Mon, 30 Mar 2026 05:00:00 -0400",
+      "source": "Grocery Dive",
+      "sourceUrl": "https://www.grocerydive.com",
+      "priority": 2,
+      "tags": [
+        "grocery",
+        "dark store",
+        "delivery"
+      ],
+      "snippet": "The biggest advances in grocery tech are coming from unified platforms, not bigger budgets.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "The grocery tech breakthrough happening at regional retailers"
+    },
+    {
+      "title": "Selfridges pulls globe from sale after complaints over Israel labelling",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/selfridges-pulls-globe-from-sale-after-complaints-over-israel-labelling/",
+      "pubDate": "Mon, 30 Mar 2026 08:30:34 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "Selfridges has removed a globe from sale after customers complained that the product appeared to omit Israel, while labelling Palestine in capital letters. The illuminated rotating globe had been on s",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "Selfridges pulls globe from sale after complaints over Israel labelling"
+    },
+    {
+      "title": "Paris-based AI startup Mistral raised $830M in its debut debt financing to build Nvidia-powered data centers across Europe; Mistral plans to spend €4B in total",
+      "link": "https://www.ft.com/content/229f4f59-d518-4e00-abd6-5a5b727cd2aa?accessToken=zwAAAZ0-DZMMkc8in09Z1RhOANOr1lpbcnzSqg.MEQCIHtl3_pk68xnoFfrhJxJKTQZ9_t75YeO-TGyTba8TTZvAiAdK8u1Fpe5lrmEK4d3U-7M8i_iVbl5pCEY8RIlkBtYgQ&segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&shareId=d8172ca7-648d-4391-8746-951df7647b55&shareType=enterprise&syn-25a6b1a6=1",
+      "pubDate": "Mon, 30 Mar 2026 04:30:01 -0400",
+      "source": "Financial Times",
+      "sourceUrl": "https://www.ft.com/content/229f4f59-d518-4e00-abd6-5a5b727cd2aa?accessToken=zwAAAZ0-DZMMkc8in09Z1RhOANOr1lpbcnzSqg.MEQCIHtl3_pk68xnoFfrhJxJKTQZ9_t75YeO-TGyTba8TTZvAiAdK8u1Fpe5lrmEK4d3U-7M8i_iVbl5pCEY8RIlkBtYgQ&segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&shareId=d8172ca7-648d-4391-8746-951df7647b55&shareType=enterprise&syn-25a6b1a6=1",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Tim Bradshaw / Financial Times:\nParis-based AI startup Mistral raised $830M in its debut debt financing to build Nvidia-powered data centers across Europe; Mistral plans to spend €4B in total  —  Fren",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Paris-based AI startup Mistral raised $830M in its debut debt financing to build Nvidia-powered data centers across Europe; Mistral plans to spend €4B in total"
+    },
+    {
+      "title": "DeepSeek's chatbot suffered a major outage of over seven hours in China, its biggest outage since debut in 2025 and an unusual downtime for a globally used app",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-30/deepseek-probes-hours-long-ai-outage-after-users-report-errors",
+      "pubDate": "Mon, 30 Mar 2026 04:20:02 -0400",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-03-30/deepseek-probes-hours-long-ai-outage-after-users-report-errors",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Bloomberg:\nDeepSeek's chatbot suffered a major outage of over seven hours in China, its biggest outage since debut in 2025 and an unusual downtime for a globally used app  —  DeepSeek's chatbot suffer",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "DeepSeek's chatbot suffered a major outage of over seven hours in China, its biggest outage since debut in 2025 and an unusual downtime for a globally used app"
+    },
+    {
+      "title": "New Look to open largest concept store at Metrocentre as omnichannel push gathers pace",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/new-look-to-open-largest-concept-store-at-metrocentre-as-omnichannel-push-gathers-pace/",
+      "pubDate": "Mon, 30 Mar 2026 08:16:26 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "New Look will open its largest concept store at Metrocentre in a new 11,000 sq ft space, marking the latest step in the fashion retailer’s evolving omnichannel strategy. The new store will be located ",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "New Look to open largest concept store at Metrocentre as omnichannel push gathers pace"
+    },
+    {
+      "title": "Goldman CIO Marco Argenti on the Warp-Speed Improvements in AI | Odd Lots",
+      "link": "https://www.bloomberg.com/news/videos/2026-03-30/warp-speed-improvements-in-ai-video",
+      "pubDate": "Mon, 30 Mar 2026 08:15:34 GMT",
+      "source": "Bloomberg Tech",
+      "sourceUrl": "https://www.bloomberg.com/technology",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "markets"
+      ],
+      "snippet": "",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Goldman CIO Marco Argenti on the Warp-Speed Improvements in AI | Odd Lots"
+    },
+    {
+      "title": "European Bank Stocks to Snap Record Quarterly Run on Iran, AI",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-30/european-bank-stocks-to-snap-record-quarterly-run-on-iran-ai",
+      "pubDate": "Mon, 30 Mar 2026 08:03:20 GMT",
+      "source": "Bloomberg Tech",
+      "sourceUrl": "https://www.bloomberg.com/technology",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "markets"
+      ],
+      "snippet": "",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "European Bank Stocks to Snap Record Quarterly Run on Iran, AI"
+    },
+    {
+      "title": "The Enterprise’s New Hire Is an AI Agent",
+      "link": "https://www.pymnts.com/artificial-intelligence-2/2026/the-enterprises-new-hire-is-an-ai-agent/",
+      "pubDate": "Mon, 30 Mar 2026 08:00:05 +0000",
+      "source": "PYMNTS Retail",
+      "sourceUrl": "https://www.pymnts.com",
+      "priority": 1,
+      "tags": [
+        "payments",
+        "retail media",
+        "fintech"
+      ],
+      "snippet": "The intersection of enterprise AI and The Prompt Economy continues to be a busy one. Any executive who feels like they’re dealing with a whole new set of employees disguised as AI agents would be forg",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "The Enterprise’s New Hire Is an AI Agent"
+    },
+    {
+      "title": "Odd Lots: Goldman’s Argenti on the Improvements in AI (Podcast)",
+      "link": "https://www.bloomberg.com/news/audio/2026-03-30/odd-lots-goldman-sachs-cio-marco-argenti-on-the-improvements-in-ai",
+      "pubDate": "Mon, 30 Mar 2026 08:00:00 GMT",
+      "source": "Bloomberg Tech",
+      "sourceUrl": "https://www.bloomberg.com/technology",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "markets"
+      ],
+      "snippet": "",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Odd Lots: Goldman’s Argenti on the Improvements in AI (Podcast)"
+    },
+    {
+      "title": "Asda boss hits back at government over fuel pricing claims as petrol costs climb",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/asda-boss-hits-back-at-government-over-fuel-pricing-claims-as-petrol-costs-climb/",
+      "pubDate": "Mon, 30 Mar 2026 07:59:23 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "Asda executive chairman Allan Leighton has pushed back against claims that petrol retailers are profiteering, as UK fuel prices climb to their highest level in almost two years. The comments come afte",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "Asda boss hits back at government over fuel pricing claims as petrol costs climb"
+    },
+    {
+      "title": "AllSaints names former Zalando exec Nichole Strydom as chief merchant",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/allsaints-names-former-zalando-exec-nichole-strydom-as-chief-merchant/",
+      "pubDate": "Mon, 30 Mar 2026 07:35:11 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "AllSaints has appointed Nichole Strydom as its new chief merchant, with the fashion retailer confirming she will join the business on 5 May 2026. Strydom brings more than two decades of experience in ",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "AllSaints names former Zalando exec Nichole Strydom as chief merchant"
+    },
+    {
+      "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
+      "link": "https://dani2442.github.io/posts/continuous-rl/",
+      "pubDate": "Mon, 30 Mar 2026 07:34:04 +0000",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "priority": 2,
+      "tags": [
+        "tech",
+        "startups"
+      ],
+      "snippet": "Comments",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models"
+    },
+    {
+      "title": "M&S makes US fashion store debut through Nordstrom tie-up",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/ms-makes-us-fashion-store-debut-through-nordstrom-tie-up/",
+      "pubDate": "Mon, 30 Mar 2026 07:16:28 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "Marks & Spencer is making its US fashion in-store debut through a new partnership with Nordstrom, as it looks to build brand awareness and scale its international wholesale model. The launch begins to",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "M&S makes US fashion store debut through Nordstrom tie-up"
+    },
+    {
+      "title": "I am definitely missing the pre-AI writing era",
+      "link": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era",
+      "pubDate": "Mon, 30 Mar 2026 07:03:18 +0000",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "priority": 2,
+      "tags": [
+        "tech",
+        "startups"
+      ],
+      "snippet": "Comments",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "I am definitely missing the pre-AI writing era"
+    },
+    {
+      "title": "Debenhams Group powers past guidance as marketplace pivot pays off",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/debenhams-group-powers-past-guidance-as-marketplace-pivot-pays-off/",
+      "pubDate": "Mon, 30 Mar 2026 06:58:31 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "Debenhams Group has reported adjusted EBITDA of £53m for the year to 28 February 2026, comfortably ahead of previous guidance, as its turnaround strategy continued to gather momentum. The online retai",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "Debenhams Group powers past guidance as marketplace pivot pays off"
+    },
+    {
+      "title": "Argos sees 10x TikTok view uplift with Kurupt FM-led ‘Stockroom Rave’ campaign",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/argos-sees-10x-tiktok-view-uplift-with-kurupt-fm-led-stockroom-rave-campaign/",
+      "pubDate": "Mon, 30 Mar 2026 06:54:59 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "Argos has reported a major spike in TikTok performance after launching a music-led social campaign built around a surprise “stockroom rave” concept. The retailer said three campaign assets created for",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "Argos sees 10x TikTok view uplift with Kurupt FM-led ‘Stockroom Rave’ campaign"
+    },
+    {
+      "title": "B&Q opens first ever standalone TradePoint store in Barking",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/bq-opens-first-ever-standalone-tradepoint-store-in-barking/",
+      "pubDate": "Mon, 30 Mar 2026 06:51:16 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "B&Q has opened its first ever standalone TradePoint store in Barking, marking a significant expansion of its trade-focused offer beyond the dedicated counters and in-store areas currently housed withi",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "B&Q opens first ever standalone TradePoint store in Barking"
+    },
+    {
+      "title": "Big retailers warn guaranteed hours reforms could put UK retail jobs at risk",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/big-retailers-warn-guaranteed-hours-reforms-could-put-uk-retail-jobs-at-risk/",
+      "pubDate": "Mon, 30 Mar 2026 06:47:27 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "More than half of retail roles could be affected by upcoming reforms to guaranteed working hours, with major retailers warning the changes risk making it harder to offer flexible part-time jobs across",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "Big retailers warn guaranteed hours reforms could put UK retail jobs at risk"
+    },
+    {
+      "title": "对话原力灵机唐文斌：我不喜欢讲我不信的话，也无法成为我不想成为的人",
+      "link": "https://36kr.com/p/3745064614494211?f=rss",
+      "pubDate": "2026-03-30 14:40:27  +0800",
+      "source": "36氪 AI",
+      "sourceUrl": "https://36kr.com",
+      "priority": 2,
+      "tags": [
+        "AI创投",
+        "AI应用"
+      ],
+      "snippet": "文｜富充\n编辑｜苏建勋\n创业满一年，唐文斌的身上依旧保留着旷视时期的印记，在和我们的对话中，他时常说到“本质”这个词——那是旷视内部的一个“流行词”。\n清华“姚班”毕业之后，唐文斌和同学印奇、杨沐在2011年创办了旷视科技。在这家AI 1.0标志性企业中，人们喜欢追问“本质”。\n创业旷视的14年里，唐文斌经历了AI 1.0浪潮的完整起伏。从高歌猛进的业务扩展，到屡次与上市失之交臂，这些经历也打磨着",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "对话原力灵机唐文斌：我不喜欢讲我不信的话，也无法成为我不想成为的人"
+    },
+    {
+      "title": "JD Sports rolls out 2026 brand campaign across UK and Ireland",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/jd-sports-rolls-out-2026-brand-campaign-across-uk-and-ireland/",
+      "pubDate": "Mon, 30 Mar 2026 06:35:01 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "JD Sports has launched its 2026 main brand campaign across the UK and Ireland in partnership with Edison Media, marking the agency’s first full main brand brief for the retailer. The three-phase campa",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "JD Sports rolls out 2026 brand campaign across UK and Ireland"
+    },
+    {
+      "title": "商务部：支持房车露营等休闲消费，积极拓展低空消费",
+      "link": "https://36kr.com/newsflashes/3745062086311938?f=rss",
+      "pubDate": "2026-03-30 14:34:09  +0800",
+      "source": "36氪 AI",
+      "sourceUrl": "https://36kr.com",
+      "priority": 2,
+      "tags": [
+        "AI创投",
+        "AI应用"
+      ],
+      "snippet": "今天，国务院新闻办举行新闻发布会，商务部有关负责人表示，将深入实施提振消费专项行动，多措并举推动消费持续增长。商务部相关负责人介绍，今年将优化实施消费品以旧换新政策，突出绿色智能，为新产业、新质生产力提供市场。推动汽车流通消费改革，促进二手车高效流通，推进汽车后市场发展，全链条扩大汽车消费。在服务消费方面，今年将实施服务消费提质惠民行动，提升服务供给品质。支持有条件的地区发展邮轮游艇、房车露营等休",
+      "section": "domestic_retail",
+      "originalSection": "domestic_ai",
+      "titleZh": "商务部：支持房车露营等休闲消费，积极拓展低空消费"
+    },
+    {
+      "title": "AI and bots have officially taken over the internet",
+      "link": "https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html",
+      "pubDate": "Mon, 30 Mar 2026 06:29:17 +0000",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "priority": 2,
+      "tags": [
+        "tech",
+        "startups"
+      ],
+      "snippet": "Comments",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "AI and bots have officially taken over the internet"
+    },
+    {
+      "title": "Guess taps Stray Kids star Hyunjin for latest spring/summer 2026 campaign drop",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/guess-taps-stray-kids-star-hyunjin-for-latest-spring-summer-2026-campaign-drop/",
+      "pubDate": "Mon, 30 Mar 2026 06:00:08 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "Guess has unveiled the second drop of its global spring/summer 2026 advertising campaign, with Stray Kids member Hyunjin fronting the brand’s latest push to refresh its denim heritage for a new genera",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "Guess taps Stray Kids star Hyunjin for latest spring/summer 2026 campaign drop"
+    },
+    {
+      "title": "ClawBench：智谱、字节、小米共有4款模型跻身全球前十",
+      "link": "https://36kr.com/newsflashes/3745013883240710?f=rss",
+      "pubDate": "2026-03-30 13:45:07  +0800",
+      "source": "36氪 AI",
+      "sourceUrl": "https://36kr.com",
+      "priority": 2,
+      "tags": [
+        "AI创投",
+        "AI应用"
+      ],
+      "snippet": "36氪获悉，评测机构ClawBench发布了最新大型模型榜单。北京人工智能企业智谱、字节、小米共有4款模型跻身全球前十。其中，智谱GLM-5-Turbo以93.9分的成绩登顶榜首；字节Doubao-Seed-2.0-lite位居第二，使用成本为全榜最低；小米MiMo-V2-Omni位列第9，运行速度最快。",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "ClawBench：智谱、字节、小米共有4款模型跻身全球前十"
+    },
+    {
+      "title": "全国首个万卡级全栈自主可控智算集群点亮",
+      "link": "https://36kr.com/newsflashes/3745002198401282?f=rss",
+      "pubDate": "2026-03-30 13:33:14  +0800",
+      "source": "36氪 AI",
+      "sourceUrl": "https://36kr.com",
+      "priority": 2,
+      "tags": [
+        "AI创投",
+        "AI应用"
+      ],
+      "snippet": "深圳人工智能高质量发展迎来新突破：3月26日，深圳市投建的11000P 智能算力集群正式点亮，加上去年先期点亮的3000P，目前该集群已全面建成14000P智能算力。这是全国首个使用全国产先进芯片构建的万卡级全栈自主可控智算集群。（深圳特区报）",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "全国首个万卡级全栈自主可控智算集群点亮"
+    },
+    {
+      "title": "European retailers face fresh pressure as corporate distress climbs above pre-Ukraine crisis levels",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/european-retailers-face-fresh-pressure-as-corporate-distress-climbs-above-pre-ukraine-crisis-levels/",
+      "pubDate": "Mon, 30 Mar 2026 05:30:58 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "European retailers are heading into a fresh period of energy market turmoil and geopolitical uncertainty from an already weakened position, with new data showing corporate distress across the sector r",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "European retailers face fresh pressure as corporate distress climbs above pre-Ukraine crisis levels"
+    },
+    {
       "title": "Home brands target renters as ownership remains out of reach for many",
       "link": "https://www.modernretail.co/marketing/home-brands-target-renters-as-ownership-remains-out-of-reach-for-many/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
       "pubDate": "Mon, 30 Mar 2026 04:00:00 +0000",
@@ -85,21 +704,21 @@
       "titleZh": "领益智造：2026年将加速AI终端、人形机器人、AI服务器、汽车及低空经济等新赛道布局"
     },
     {
-      "title": "An analysis of four large private-credit funds finds an average of ~25% software share exposure vs. ~19% disclosed, amid investor concerns about software stocks",
-      "link": "https://www.wsj.com/finance/investing/private-credits-exposure-to-ailing-software-industry-is-bigger-than-advertised-d80da378",
+      "title": "An analysis of four large private-credit funds finds an average of ~25% software share exposure, above the ~19% disclosed, amid investor concerns on SaaS stocks",
+      "link": "https://www.wsj.com/finance/investing/private-credits-exposure-to-ailing-software-industry-is-bigger-than-advertised-d80da378?st=hfyYme",
       "pubDate": "Sun, 29 Mar 2026 23:15:01 -0400",
       "source": "Wall Street Journal",
-      "sourceUrl": "https://www.wsj.com/finance/investing/private-credits-exposure-to-ailing-software-industry-is-bigger-than-advertised-d80da378",
+      "sourceUrl": "https://www.wsj.com/finance/investing/private-credits-exposure-to-ailing-software-industry-is-bigger-than-advertised-d80da378?st=hfyYme",
       "priority": 3,
       "tags": [
         "tech",
         "AI",
         "startups"
       ],
-      "snippet": "Wall Street Journal:\nAn analysis of four large private-credit funds finds an average of ~25% software share exposure vs. ~19% disclosed, amid investor concerns about software stocks  —  Analysis by th",
+      "snippet": "Wall Street Journal:\nAn analysis of four large private-credit funds finds an average of ~25% software share exposure, above the ~19% disclosed, amid investor concerns on SaaS stocks  —  Analysis by th",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "An analysis of four large private-credit funds finds an average of ~25% software share exposure vs. ~19% disclosed, amid investor concerns about software stocks"
+      "titleZh": "An analysis of four large private-credit funds finds an average of ~25% software share exposure, above the ~19% disclosed, amid investor concerns on SaaS stocks"
     },
     {
       "title": "Why OpenAI really shut down Sora",
@@ -134,11 +753,28 @@
       "titleZh": "智元第10000台通用具身机器人下线"
     },
     {
-      "title": "Inside the rise and fall of Sora, whose team worked separately from OpenAI's core research team, as OpenAI shuts down Sora and redirects compute to other tasks",
-      "link": "https://www.wsj.com/",
+      "title": "Inside the rise and fall of OpenAI's Sora, whose team worked separately from its core research team, as it shuts down Sora and redirects compute to other tasks",
+      "link": "https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt-64c730c9?st=omYXce",
       "pubDate": "Sun, 29 Mar 2026 22:35:02 -0400",
       "source": "Wall Street Journal",
-      "sourceUrl": "https://www.wsj.com/",
+      "sourceUrl": "https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt-64c730c9?st=omYXce",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Wall Street Journal:\nInside the rise and fall of OpenAI's Sora, whose team worked separately from its core research team, as it shuts down Sora and redirects compute to other tasks  —  When Sam Altman",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Inside the rise and fall of OpenAI's Sora, whose team worked separately from its core research team, as it shuts down Sora and redirects compute to other tasks"
+    },
+    {
+      "title": "Inside the rise and fall of Sora, whose team worked separately from OpenAI's core research team, as OpenAI shuts down Sora and redirects compute to other tasks",
+      "link": "https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt-64c730c9?st=omYXce",
+      "pubDate": "Sun, 29 Mar 2026 22:35:02 -0400",
+      "source": "Wall Street Journal",
+      "sourceUrl": "https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt-64c730c9?st=omYXce",
       "priority": 3,
       "tags": [
         "tech",
@@ -2505,6 +3141,23 @@
       "titleZh": "How Tecovas is leveraging AI to improve the store experience"
     },
     {
+      "title": "RealChart2Code: Advancing Chart-to-Code Generation with Real Data and Multi-Task Evaluation",
+      "link": "https://arxiv.org/abs/2603.25804",
+      "pubDate": "Thu, 26 Mar 2026 14:11:46 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "Vision-Language Models (VLMs) have demonstrated impressive capabilities in code generation across various domains. However, their ability to replicate complex, multi-panel visualizations from real-wor",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "RealChart2Code: Advancing Chart-to-Code Generation with Real Data and Multi-Task Evaluation"
+    },
+    {
       "title": "Marketplace Briefing: Why Amazon is moving Prime Day to June from July, and what it means for sellers",
       "link": "https://www.modernretail.co/operations/marketplace-briefing-why-amazon-is-moving-prime-day-to-june-from-july-and-what-it-means-for-sellers/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
       "pubDate": "Thu, 26 Mar 2026 14:00:00 +0000",
@@ -2554,6 +3207,23 @@
       "section": "intl_ai",
       "originalSection": "intl_ai",
       "titleZh": "Vega: Learning to Drive with Natural Language Instructions"
+    },
+    {
+      "title": "PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference",
+      "link": "https://arxiv.org/abs/2603.25730",
+      "pubDate": "Thu, 26 Mar 2026 13:59:05 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "Autoregressive video diffusion models have demonstrated remarkable progress, yet they remain bottlenecked by intractable linear KV-cache growth, temporal repetition, and compounding errors during long",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference"
     },
     {
       "title": "Inflation hitting ‘every angle’ of retail supply chains, warns CI&T’s Melissa Minkow",
@@ -4707,6 +5377,23 @@
       "section": "intl_ai",
       "originalSection": "intl_ai",
       "titleZh": "合法的人工智能公司 Harvey 在 GIC 和红杉资本的领投下筹集了 2 亿美元，估值从 2025 年 12 月的 8B 美元上涨至 11B 美元，并报告称，在 1,300 多家组织中拥有 10 万以上用户"
+    },
+    {
+      "title": "MedOpenClaw: Auditable Medical Imaging Agents Reasoning over Uncurated Full Studies",
+      "link": "https://arxiv.org/abs/2603.24649",
+      "pubDate": "Wed, 25 Mar 2026 13:33:58 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "Currently, evaluating vision-language models (VLMs) in medical imaging tasks oversimplifies clinical reality by relying on pre-selected 2D images that demand significant manual labor to curate. This s",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "MedOpenClaw: Auditable Medical Imaging Agents Reasoning over Uncurated Full Studies"
     },
     {
       "title": "Stop & Shop woos shoppers with expanded, cheaper hot bar assortment",
@@ -9844,6 +10531,23 @@
       "titleZh": "每周收尾：Zara 与 John Galliano 合作，Peloton 去健身房"
     },
     {
+      "title": "Diffutron: A Masked Diffusion Language Model for Turkish Language",
+      "link": "https://arxiv.org/abs/2603.20466",
+      "pubDate": "Fri, 20 Mar 2026 15:52:37 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "Masked Diffusion Language Models (MDLMs) have emerged as a compelling non-autoregressive alternative to standard large language models; however, their application to morphologically rich languages rem",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Diffutron: A Masked Diffusion Language Model for Turkish Language"
+    },
+    {
       "title": "Toyota suppliers seek relief from USMCA review",
       "link": "https://www.supplychaindive.com/news/toyota-fireside-chat-dc-cta-innovation-house-tariffs-supplier-usmca/815228/",
       "pubDate": "Fri, 20 Mar 2026 11:04:00 -0400",
@@ -12008,5 +12712,5 @@
       "titleZh": "导入AI 431：技术乐观和适当的恐惧"
     }
   ],
-  "savedAt": "2026-03-30T04:11:18.626Z"
+  "savedAt": "2026-03-30T10:56:26.056Z"
 }
