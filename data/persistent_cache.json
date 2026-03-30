@@ -2892,15 +2892,15 @@
     },
     {
       "title": "Walmart brings Sparky to ChatGPT as OpenAI rethinks Instant Checkout",
-      "link": "https://www.retaildive.com/news/walmart-sparky-chatgpt-instant-checkout/815647/",
+      "link": "https://www.grocerydive.com/news/walmart-sparky-chatgpt-instant-checkout/815961/",
       "pubDate": "Wed, 25 Mar 2026 11:58:00 -0400",
-      "source": "Retail Dive",
-      "sourceUrl": "https://www.retaildive.com",
-      "priority": 3,
+      "source": "Grocery Dive",
+      "sourceUrl": "https://www.grocerydive.com",
+      "priority": 2,
       "tags": [
-        "US retail",
-        "DTC",
-        "omnichannel"
+        "grocery",
+        "dark store",
+        "delivery"
       ],
       "snippet": "OpenAI is pivoting away from handling purchases after its initial efforts failed to provide enough flexibility.",
       "section": "intl_retail",
@@ -6509,6 +6509,23 @@
       "titleZh": "美国国务院成立新兴威胁局，以应对当前和未来的威胁，包括对手的网络攻击和人工智能武器化"
     },
     {
+      "title": "Know3D: Prompting 3D Generation with Knowledge from Vision-Language Models",
+      "link": "https://arxiv.org/abs/2603.22782",
+      "pubDate": "Tue, 24 Mar 2026 00:18:29 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "Recent advances in 3D generation have improved the fidelity and geometric details of synthesized 3D assets. However, due to the inherent ambiguity of single-view observations and the lack of robust gl",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Know3D: Prompting 3D Generation with Knowledge from Vision-Language Models"
+    },
+    {
       "title": "Meta Recruits Dreamer Team to Scale Personalized AI Agents",
       "link": "https://www.pymnts.com/meta/2026/meta-recruits-dreamer-team-to-scale-personalized-ai-agents/",
       "pubDate": "Mon, 23 Mar 2026 23:22:36 +0000",
@@ -8624,6 +8641,23 @@
       "originalSection": "intl_ai",
       "section": "intl_ai",
       "titleZh": "最好的人工智能投资可能是能源技术"
+    },
+    {
+      "title": "Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models",
+      "link": "https://arxiv.org/abs/2603.25750",
+      "pubDate": "Fri, 20 Mar 2026 05:10:43 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "As the paradigm of AI shifts from text-based LLMs to Speech Language Models (SLMs), there is a growing demand for full-duplex systems capable of real-time, natural human-computer interaction. However,",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models"
     },
     {
       "title": "Luxury, vintage sales are rising on cruise ships",
