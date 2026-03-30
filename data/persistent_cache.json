@@ -1,6 +1,74 @@
 {
   "articles": [
     {
+      "title": "Home brands target renters as ownership remains out of reach for many",
+      "link": "https://www.modernretail.co/marketing/home-brands-target-renters-as-ownership-remains-out-of-reach-for-many/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "pubDate": "Mon, 30 Mar 2026 04:00:00 +0000",
+      "source": "Modern Retail",
+      "sourceUrl": "https://www.modernretail.co",
+      "priority": 2,
+      "tags": [
+        "DTC",
+        "omnichannel",
+        "ecommerce"
+      ],
+      "snippet": "Homeownership is getting less and less achievable by the year, especially for young people, leading home furniture and decor brands to change their marketing strategies.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "Home brands target renters as ownership remains out of reach for many"
+    },
+    {
+      "title": "E.l.f. Beauty’s chief digital officer shares her strategy for the AI era",
+      "link": "https://www.modernretail.co/technology/e-l-f-beautys-chief-digital-officer-shares-her-strategy-for-the-ai-era/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "pubDate": "Mon, 30 Mar 2026 04:00:00 +0000",
+      "source": "Modern Retail",
+      "sourceUrl": "https://www.modernretail.co",
+      "priority": 2,
+      "tags": [
+        "DTC",
+        "omnichannel",
+        "ecommerce"
+      ],
+      "snippet": "In an interview with Modern Retail, E.l.f. Beauty's chief digital officer, Ekta Chopra, shared the four pillars that guide the beauty brand's approach to AI implementation.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "E.l.f. Beauty’s chief digital officer shares her strategy for the AI era"
+    },
+    {
+      "title": "Ex-OpenAI's Kass: AI Is Going to Make a Lot of Winners",
+      "link": "https://www.bloomberg.com/news/videos/2026-03-30/ex-openai-s-kass-ai-is-going-to-make-a-lot-of-winners-video",
+      "pubDate": "Mon, 30 Mar 2026 03:56:59 GMT",
+      "source": "Bloomberg Tech",
+      "sourceUrl": "https://www.bloomberg.com/technology",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "markets"
+      ],
+      "snippet": "",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Ex-OpenAI's Kass: AI Is Going to Make a Lot of Winners"
+    },
+    {
+      "title": "DeepSeek 12-hour outage leaves millions cut off, sparks complaints as rivals gain ground",
+      "link": "https://www.scmp.com/tech/big-tech/article/3348345/deepseek-outage-leaves-millions-cut-and-sparks-complaints-rivals-gain-ground?utm_source=rss_feed",
+      "pubDate": "Mon, 30 Mar 2026 03:41:43 +0000",
+      "source": "SCMP Tech",
+      "sourceUrl": "https://www.scmp.com/tech",
+      "priority": 2,
+      "tags": [
+        "China AI",
+        "tech policy",
+        "中国科技"
+      ],
+      "snippet": "Chinese artificial intelligence start-up DeepSeek suffered a prolonged outage overnight that extended into early Monday morning, disrupting service for hundreds of millions of users, according to a co",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "DeepSeek 12-hour outage leaves millions cut off, sparks complaints as rivals gain ground"
+    },
+    {
       "title": "领益智造：2026年将加速AI终端、人形机器人、AI服务器、汽车及低空经济等新赛道布局",
       "link": "https://36kr.com/newsflashes/3744874139680775?f=rss",
       "pubDate": "2026-03-30 11:22:58  +0800",
@@ -81,6 +149,23 @@
       "section": "intl_ai",
       "originalSection": "intl_ai",
       "titleZh": "Inside the rise and fall of Sora, whose team worked separately from OpenAI's core research team, as OpenAI shuts down Sora and redirects compute to other tasks"
+    },
+    {
+      "title": "DeepSeek Probes Hours-Long AI Outage After Users Report Errors",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-30/deepseek-probes-hours-long-ai-outage-after-users-report-errors",
+      "pubDate": "Mon, 30 Mar 2026 01:52:29 GMT",
+      "source": "Bloomberg Tech",
+      "sourceUrl": "https://www.bloomberg.com/technology",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "markets"
+      ],
+      "snippet": "",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "DeepSeek Probes Hours-Long AI Outage After Users Report Errors"
     },
     {
       "title": "AI Takes On the Spam Call Epidemic",
@@ -11923,5 +12008,5 @@
       "titleZh": "导入AI 431：技术乐观和适当的恐惧"
     }
   ],
-  "savedAt": "2026-03-30T03:46:10.678Z"
+  "savedAt": "2026-03-30T04:11:18.626Z"
 }

@@ -75,15 +75,12 @@
     "ai_coding": ["GitHub Copilot", "Cursor", "Devin", "AI coding", "code generation", "vibe coding"]
   },
   "trending_companies": [
-    "OpenAI", "Anthropic", "Google", "Meta", "Microsoft", "Apple", "NVIDIA",
-    "Amazon", "Tesla", "ByteDance", "Mistral", "Perplexity", "Midjourney",
-    "Groq", "Cerebras", "Figure AI", "Boston Dynamics", "xAI",
-    "Cursor", "Cognition",
-    "盒马", "山姆", "胖东来", "小象超市", "蜜雪冰城", "喜茶", "霸王茶姬", "泡泡玛特", "名创优品",
+    "OpenAI", "Anthropic", "Google", "Meta", "Microsoft", "Apple", "NVIDIA", "xAI",
+    "Cursor",
+    "百度", "阿里巴巴", "腾讯", "华为", "京东", "拼多多", "美团", "字节跳动",
+    "盒马", "山姆", "胖东来", "小象超市",
     "Temu", "SHEIN", "TikTok Shop", "Shopee", "Lazada", "Grab",
-    "Instacart", "Coupang", "Mercado Libre", "Flipkart",
-    "H&M", "Zara", "Inditex", "Uniqlo", "MUJI", "Primark",
-    "百度", "阿里巴巴", "腾讯", "华为", "京东", "拼多多", "美团"
+    "Amazon", "Instacart", "Coupang", "Mercado Libre"
   ],
   "product_to_company": {
     "ChatGPT": "OpenAI", "GPT-4": "OpenAI", "GPT-5": "OpenAI", "DALL-E": "OpenAI", "Sora": "OpenAI",
@@ -92,10 +89,8 @@
     "Llama": "Meta", "LLaMA": "Meta",
     "Copilot": "Microsoft", "GitHub Copilot": "Microsoft", "Bing": "Microsoft", "Azure": "Microsoft",
     "Grok": "xAI",
-    "Tesla Optimus": "Tesla",
-    "Devin": "Cognition",
     "Amazon Fresh": "Amazon", "Alexa": "Amazon", "AWS": "Amazon",
-    "字节跳动": "ByteDance", "抖音": "ByteDance", "豆包": "ByteDance",
+    "ByteDance": "字节跳动", "抖音": "字节跳动", "豆包": "字节跳动",
     "千问": "阿里巴巴", "通义": "阿里巴巴", "达摩院": "阿里巴巴",
     "文心一言": "百度", "ERNIE": "百度",
     "混元": "腾讯",
