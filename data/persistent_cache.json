@@ -1,6 +1,1410 @@
 {
   "articles": [
     {
+      "title": "因供应链持续中断 沙特一重要化工厂暂时停产",
+      "link": "https://api3.cls.cn/share/article/2330474?os=web&sv=8.4.6&app=CailianpressWeb",
+      "pubDate": "Tue, 31 Mar 2026 07:49:42 GMT",
+      "source": "财联社",
+      "sourceUrl": "https://www.cls.cn",
+      "priority": 2,
+      "tags": [
+        "财经快讯",
+        "消费",
+        "零售政策"
+      ],
+      "snippet": "【因供应链持续中断 沙特一重要化工厂暂时停产】财联社3月31日电，因供应链持续中断，沙特阿美与陶氏化学的合资企业Sadara Chemical Company暂时停产。Sadara在沙特朱拜勒运营着一座综合设施，年产超300万吨化学品和塑料。Sadara表示：“由于复产取决于国内外因素，公司目前无法提供复产的预估时间。”该公司称，此次停产预计将对今年的财务业绩产生影响。",
+      "section": "domestic_retail",
+      "originalSection": "domestic_retail",
+      "titleZh": "因供应链持续中断 沙特一重要化工厂暂时停产"
+    },
+    {
+      "title": "今日投资舆情热点",
+      "link": "https://api3.cls.cn/share/article/2330468?os=web&sv=8.4.6&app=CailianpressWeb",
+      "pubDate": "Tue, 31 Mar 2026 07:43:12 GMT",
+      "source": "财联社",
+      "sourceUrl": "https://www.cls.cn",
+      "priority": 2,
+      "tags": [
+        "财经快讯",
+        "消费",
+        "零售政策"
+      ],
+      "snippet": "【今日投资舆情热点】\n1）高铁：中国将在长江水下开高铁，沿江高铁总投资超5000亿元，带动上下游行业增加值增长近1.5万亿元。\n2）商业航天：SpaceX拟募资超750亿美元，高于此前报道的500亿美元预估，最新估值为1.25万亿美元。\n3）体育\\摩托：张雪机车销售称，夺冠后两三天内订单大涨，已排至6月。\n4）电力：国家数据局提出大力推进算电协同工程，要求枢纽节点新建算力设施绿电应用占比达80%以",
+      "section": "domestic_ai",
+      "originalSection": "domestic_retail",
+      "titleZh": "今日投资舆情热点"
+    },
+    {
+      "title": "财联社3月31日电，美国汽车协会称，美国平均零售汽油价格上涨至每加仑4美元以上（1美制加仑=3.79升）。",
+      "link": "https://api3.cls.cn/share/article/2330453?os=web&sv=8.4.6&app=CailianpressWeb",
+      "pubDate": "Tue, 31 Mar 2026 07:38:12 GMT",
+      "source": "财联社",
+      "sourceUrl": "https://www.cls.cn",
+      "priority": 2,
+      "tags": [
+        "财经快讯",
+        "消费",
+        "零售政策"
+      ],
+      "snippet": "财联社3月31日电，美国汽车协会称，美国平均零售汽油价格上涨至每加仑4美元以上（1美制加仑=3.79升）。",
+      "section": "domestic_retail",
+      "originalSection": "domestic_retail",
+      "titleZh": "财联社3月31日电，美国汽车协会称，美国平均零售汽油价格上涨至每加仑4美元以上（1美制加仑=3.79升）。"
+    },
+    {
+      "title": "将AI戒指为入口，追觅瞄准万亿智能可穿戴市场｜最前线",
+      "link": "https://36kr.com/p/3746508855869954?f=rss",
+      "pubDate": "2026-03-31 15:25:42  +0800",
+      "source": "36氪 AI",
+      "sourceUrl": "https://36kr.com",
+      "priority": 2,
+      "tags": [
+        "AI创投",
+        "AI应用"
+      ],
+      "snippet": "作者 | 王欣逸\n编辑 | 邓咏仪\n火热的可穿戴智能硬件市场，崛起了一位野心勃勃的争夺者。\n3月27日，追觅科技AI智能硬件新品招商会在苏州举办，新品智能戒指Glow成为了会上的焦点产品。\n在AI硬件赛道，追觅最先从智能戒指开始布局。\n追觅曾于2025年10月发布旗下首个AI硬件产品震动AI智能戒指。这一硬件上市至今累计订单破亿，并登上2026年CES大会，斩获最佳智能穿戴奖。\n随后，在今年的3月",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "将AI戒指为入口，追觅瞄准万亿智能可穿戴市场｜最前线"
+    },
+    {
+      "title": "机构：AI服务器需求支撑2026年第二季度存储器合约价上行 CSP借长期协议锁定供货",
+      "link": "https://api3.cls.cn/share/article/2330418?os=web&sv=8.4.6&app=CailianpressWeb",
+      "pubDate": "Tue, 31 Mar 2026 07:25:29 GMT",
+      "source": "财联社",
+      "sourceUrl": "https://www.cls.cn",
+      "priority": 2,
+      "tags": [
+        "财经快讯",
+        "消费",
+        "零售政策"
+      ],
+      "snippet": "【机构：AI服务器需求支撑2026年第二季度存储器合约价上行 CSP借长期协议锁定供货】《科创板日报》31日讯，根据TrendForce集邦咨询最新存储器价格调查，2026年第二季因DRAM原厂积极将产能转向HBM、Server应用，并采用“补涨”策略拉近各类产品价差，尽管终端市场面临出货下修风险，预估整体一般型DRAM(Conventional DRAM)合约价格仍将季增58-63%。NAND ",
+      "section": "domestic_ai",
+      "originalSection": "domestic_retail",
+      "titleZh": "机构：AI服务器需求支撑2026年第二季度存储器合约价上行 CSP借长期协议锁定供货"
+    },
+    {
+      "title": "​国行版苹果AI突然上线后又被撤回，苹果回应：正在积极推进落地中国",
+      "link": "https://36kr.com/newsflashes/3746508453937667?f=rss",
+      "pubDate": "2026-03-31 15:05:28  +0800",
+      "source": "36氪 AI",
+      "sourceUrl": "https://36kr.com",
+      "priority": 2,
+      "tags": [
+        "AI创投",
+        "AI应用"
+      ],
+      "snippet": "3月31日，国行iPhone设置页面短暂出现“Apple智能与Siri”选项，引发Apple Intelligence国行版落地热议，但该入口很快被移除，已下载模型的用户功能也被收回。苹果方面就此进行回应称，由于软件问题，中国的iPhone和iPad设备曾短暂地可以下载其他地区适用的设备端Apple 智能并启用该功能，但此问题已迅速修复。 针对国行版苹果智能上线的时间，苹果表示：“苹果智能的推出时",
+      "section": "intl_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "​国行版苹果AI突然上线后又被撤回，苹果回应：正在积极推进落地中国"
+    },
+    {
+      "title": "Equinix Plans More South African Data Centers as Local AI Booms",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-31/equinix-plans-more-south-african-data-centers-as-local-ai-booms",
+      "pubDate": "Tue, 31 Mar 2026 07:01:33 GMT",
+      "source": "Bloomberg Tech",
+      "sourceUrl": "https://www.bloomberg.com/technology",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "markets"
+      ],
+      "snippet": "",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "随着当地人工智能的蓬勃发展，Equinix 计划在南非建立更多数据中心"
+    },
+    {
+      "title": "M&S boss Stuart Machin says leaders should not fully switch off on holiday",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/ms-boss-stuart-machin-says-leaders-should-not-fully-switch-off-on-holiday/",
+      "pubDate": "Tue, 31 Mar 2026 06:43:51 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "M&S chief executive Stuart Machin has said he is uncomfortable with the idea of senior leaders being completely “switched off” while on holiday, as he set out his expectations for hands-on leadership ",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "玛莎百货老板斯图尔特·梅钦 (Stuart Machin) 表示，领导者不应该在假期完全关机"
+    },
+    {
+      "title": "阶跃星辰安全研发专家李昌昊确认出席QCon北京站，分享构建 AI Agent 从推理到执行的全链路无侵入可观测体系",
+      "link": "https://www.infoq.cn/article/aY5ud3jSqH1U8cvCCW13?utm_source=rss&utm_medium=article",
+      "pubDate": "2026-03-31T06:40:01.193Z",
+      "source": "InfoQ 中文站",
+      "sourceUrl": "https://www.infoq.cn",
+      "priority": 2,
+      "tags": [
+        "AI工程",
+        "技术实践"
+      ],
+      "snippet": "点击查看原文>",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "阶跃星辰安全研发专家李昌昊确认出席QCon北京站，分享构建 AI Agent 从推理到执行的全链路无侵入可观测体系"
+    },
+    {
+      "title": "中国餐饮AI应用研究2026：餐饮AI加速变革，驱动行业“智能”跃迁",
+      "link": "https://www.tmtpost.com/7936099.html",
+      "pubDate": "Tue, 31 Mar 2026 14:21:21 +0800",
+      "source": "钛媒体",
+      "sourceUrl": "https://www.tmtpost.com",
+      "priority": 2,
+      "tags": [
+        "AI商业化",
+        "产业融合",
+        "科技"
+      ],
+      "snippet": "为深入了解我国餐饮AI的发展现状，红餐产业研究院联合红餐成长社发布了《中国餐饮AI应用研究报告2026》。",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "中国餐饮AI应用研究2026：餐饮AI加速变革，驱动行业“智能”跃迁"
+    },
+    {
+      "title": "失踪的“四圈转速”：一场关于动力、权力和Agent的跨时代共谋",
+      "link": "https://www.tmtpost.com/7935789.html",
+      "pubDate": "Tue, 31 Mar 2026 14:18:00 +0800",
+      "source": "钛媒体",
+      "sourceUrl": "https://www.tmtpost.com",
+      "priority": 2,
+      "tags": [
+        "AI商业化",
+        "产业融合",
+        "科技"
+      ],
+      "snippet": "“养虾热”席卷中国，这一次的AI狂欢更像一次跨时代的共谋",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "失踪的“四圈转速”：一场关于动力、权力和Agent的跨时代共谋"
+    },
+    {
+      "title": "即将上市的Kimi，会复刻MiniMax走势吗？",
+      "link": "https://www.tmtpost.com/7936085.html",
+      "pubDate": "Tue, 31 Mar 2026 14:17:55 +0800",
+      "source": "钛媒体",
+      "sourceUrl": "https://www.tmtpost.com",
+      "priority": 2,
+      "tags": [
+        "AI商业化",
+        "产业融合",
+        "科技"
+      ],
+      "snippet": "当前市场对AI公司的定价，已经完全围绕“Token经济学”展开。",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "即将上市的Kimi，会复刻MiniMax走势吗？"
+    },
+    {
+      "title": "微软\"叛逃\"OpenAI：让GPT和Claude互审，AI幻觉的结构性解法?",
+      "link": "https://www.tmtpost.com/7936078.html",
+      "pubDate": "Tue, 31 Mar 2026 13:35:00 +0800",
+      "source": "钛媒体",
+      "sourceUrl": "https://www.tmtpost.com",
+      "priority": 2,
+      "tags": [
+        "AI商业化",
+        "产业融合",
+        "科技"
+      ],
+      "snippet": "对于中国AI产业而言，微软的这一动作同样具有参考价值。",
+      "section": "intl_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "微软\"叛逃\"OpenAI：让GPT和Claude互审，AI幻觉的结构性解法?"
+    },
+    {
+      "title": "瑞银：中国市场调整或已过度，优质AI股票迎来布局窗口",
+      "link": "https://36kr.com/newsflashes/3746413765427973?f=rss",
+      "pubDate": "2026-03-31 13:29:09  +0800",
+      "source": "36氪 AI",
+      "sourceUrl": "https://36kr.com",
+      "priority": 2,
+      "tags": [
+        "AI创投",
+        "AI应用"
+      ],
+      "snippet": "瑞银财富管理投资总监办公室（CIO）发表机构观点，认为当前中国市场的调整可能已过度，投资者有机会以较低估值增持优质中国AI股票。中国互联网行业目前12个月远期市盈率约为13倍，已接近DeepSeek发布前的水平，当前估值尚未充分反映过去一年AI投资及变现带来的收益。瑞银财富管理预计，MSCI中国指数今年EPS增速约为13%，科技板块盈利增速有望达到20%至25%。并且政策仍然积极支持AI发展和科技",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "瑞银：中国市场调整或已过度，优质AI股票迎来布局窗口"
+    },
+    {
+      "title": "北京消费品以旧换新政策持续落地，带动销售额约50亿元",
+      "link": "https://36kr.com/newsflashes/3746402802254594?f=rss",
+      "pubDate": "2026-03-31 13:18:00  +0800",
+      "source": "36氪 AI",
+      "sourceUrl": "https://36kr.com",
+      "priority": 2,
+      "tags": [
+        "AI创投",
+        "AI应用"
+      ],
+      "snippet": "北京市2026年消费品以旧换新补贴持续释放消费活力。今年已累计销售补贴产品超130万件，带动销售额约50亿元。市民通过“京通”小程序即可领取补贴资格，购买家电、手机、平板等产品可享受最高15%补贴。如今，北京全市已有近7000家门店、1300余家商户参与，让实惠更便捷地走进市民生活。（央视新闻）",
+      "section": "domestic_retail",
+      "originalSection": "domestic_ai",
+      "titleZh": "北京消费品以旧换新政策持续落地，带动销售额约50亿元"
+    },
+    {
+      "title": "一个蛋白的进化史：当物理AI遇见百年国货",
+      "link": "https://www.tmtpost.com/7935878.html",
+      "pubDate": "Tue, 31 Mar 2026 13:08:37 +0800",
+      "source": "钛媒体",
+      "sourceUrl": "https://www.tmtpost.com",
+      "priority": 2,
+      "tags": [
+        "AI商业化",
+        "产业融合",
+        "科技"
+      ],
+      "snippet": "“生物技术不应止于实验室，而应成为产业迭代的新引擎。”",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "一个蛋白的进化史：当物理AI遇见百年国货"
+    },
+    {
+      "title": "永不停歇的效率工厂：字节造红果，平台改造影视业",
+      "link": "https://www.latepost.com/news/dj_detail?id=3484",
+      "pubDate": "Tue, 31 Mar 2026 05:03:00 GMT",
+      "source": "晚点 LatePost",
+      "sourceUrl": "https://www.latepost.com",
+      "priority": 3,
+      "tags": [
+        "科技商业",
+        "深度报道",
+        "AI产业"
+      ],
+      "snippet": "3 月，短剧制作公司老板张宽（化名）要处理这些问题：债务，裁员，组建数百人的 AI 漫剧团队，还有修复他因忙碌哑火的嗓子。\n上个月，红果取消了对张宽公司每部 20-35 万元的真人短剧保底费。以往，他的公司每月拍几十部剧，就算反响平平，只要控好成本，都能赚到。\n张宽一度笃定，短剧就是 “全世界影视产业的第一赛道”。这份信念至少延续到去年 12 月。我们见面时，他正为业务扩大而发愁。红果取消保底后，",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "永不停歇的效率工厂：字节造红果，平台改造影视业"
+    },
+    {
+      "title": "AI 云下一程：从出海伙伴到全球智能基石",
+      "link": "https://www.tmtpost.com/7935695.html",
+      "pubDate": "Tue, 31 Mar 2026 12:16:00 +0800",
+      "source": "钛媒体",
+      "sourceUrl": "https://www.tmtpost.com",
+      "priority": 2,
+      "tags": [
+        "AI商业化",
+        "产业融合",
+        "科技"
+      ],
+      "snippet": "在 AI 定义未来的时代，真正的全球化竞争力，源于技术硬实力与生态软实力的兼备，也源于与全球客户共成长、共创新的深度绑定。",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "AI 云下一程：从出海伙伴到全球智能基石"
+    },
+    {
+      "title": "商汤跨越AI周期实录：定义AI公司的盈利路径",
+      "link": "https://www.tmtpost.com/7934820.html",
+      "pubDate": "Tue, 31 Mar 2026 12:03:57 +0800",
+      "source": "钛媒体",
+      "sourceUrl": "https://www.tmtpost.com",
+      "priority": 2,
+      "tags": [
+        "AI商业化",
+        "产业融合",
+        "科技"
+      ],
+      "snippet": "真正决定一家AI公司长期价值的，是能将技术沉淀为稳定、可复制、可扩展的产品体系。商汤科技2025年业绩报告可以发现一个清晰的战略信号。",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "商汤跨越AI周期实录：定义AI公司的盈利路径"
+    },
+    {
+      "title": "A look at Babel Audio, which pairs anonymous strangers to record their conversations, starting at $17/hour, and bundles those recordings into AI training data",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-30/inside-the-odd-and-oddly-human-work-of-teaching-ai-to-talk",
+      "pubDate": "Tue, 31 Mar 2026 00:00:13 -0400",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-03-30/inside-the-odd-and-oddly-human-work-of-teaching-ai-to-talk",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Issie Lapowsky / Bloomberg:\nA look at Babel Audio, which pairs anonymous strangers to record their conversations, starting at $17/hour, and bundles those recordings into AI training data  —  They vent",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "看看 Babel Audio，它将匿名陌生人配对来录制他们的对话，起价为 17 美元/小时，并将这些录音捆绑到人工智能训练数据中"
+    },
+    {
+      "title": "Coach won over Gen Z in North America. Now it’s stepping up its focus abroad",
+      "link": "https://www.modernretail.co/marketing/coach-won-over-gen-z-in-north-america-now-its-stepping-up-its-focus-abroad/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "pubDate": "Tue, 31 Mar 2026 04:00:00 +0000",
+      "source": "Modern Retail",
+      "sourceUrl": "https://www.modernretail.co",
+      "priority": 2,
+      "tags": [
+        "DTC",
+        "omnichannel",
+        "ecommerce"
+      ],
+      "snippet": "After seeing success with its Gen Z strategy in North America, Coach is now scaling that approach internationally.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "Coach 在北美赢得了 Z 世代的青睐。现在它正在加强对海外的关注"
+    },
+    {
+      "title": "Malibu taps creator Sabrina Brier for ‘Get Ready With Me’ campaign to promote new Pink spirit",
+      "link": "https://www.modernretail.co/marketing/malibu-taps-creator-sabrina-brier-for-get-ready-with-me-campaign-to-promote-new-pink-spirit/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "pubDate": "Tue, 31 Mar 2026 04:00:00 +0000",
+      "source": "Modern Retail",
+      "sourceUrl": "https://www.modernretail.co",
+      "priority": 2,
+      "tags": [
+        "DTC",
+        "omnichannel",
+        "ecommerce"
+      ],
+      "snippet": "For its new Malibu Pink spirit, rum brand Malibu tapped creator Sabrina Brier and fashion brand LoveShackFancy for a \"get ready with me\"-style campaign.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "Malibu 聘请创始人 Sabrina Brier 开展“Get Ready With Me”活动，宣传新的粉红精神"
+    },
+    {
+      "title": "真急了，国际酒店集体“All in”AI",
+      "link": "https://www.tmtpost.com/7935732.html",
+      "pubDate": "Tue, 31 Mar 2026 11:00:53 +0800",
+      "source": "钛媒体",
+      "sourceUrl": "https://www.tmtpost.com",
+      "priority": 2,
+      "tags": [
+        "AI商业化",
+        "产业融合",
+        "科技"
+      ],
+      "snippet": "AI永远只是工具，而非目的。",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "真急了，国际酒店集体“All in”AI"
+    },
+    {
+      "title": "AI coding agents will drastically alter both the practice and the economics of exploit development, automating the discovery of zero-day vulnerabilities",
+      "link": "https://sockpuppet.org/",
+      "pubDate": "Mon, 30 Mar 2026 21:50:02 -0400",
+      "source": "sockpuppet.org",
+      "sourceUrl": "https://sockpuppet.org/",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Thomas H. Ptacek / sockpuppet.org:\nAI coding agents will drastically alter both the practice and the economics of exploit development, automating the discovery of zero-day vulnerabilities  —  For the ",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "人工智能编码代理将彻底改变漏洞开发的实践和经济性，自动发现零日漏洞"
+    },
+    {
+      "title": "追觅生态链多了家清华系公司，要用AI储能融入智能家居体系｜硬氪专访",
+      "link": "https://36kr.com/p/3743753252061189?f=rss",
+      "pubDate": "2026-03-31 09:30:00  +0800",
+      "source": "36氪 AI",
+      "sourceUrl": "https://36kr.com",
+      "priority": 2,
+      "tags": [
+        "AI创投",
+        "AI应用"
+      ],
+      "snippet": "作者｜黄楠\n编辑｜袁斯来\n2024年进入储能市场，是个有些反常识的决定。\n储能在2022年前后经历过一次疯狂的增长，产能过剩后又惨烈洗牌，到曹治鹏入场时，已经相对平静。华宝新能、正浩创新、安克、大疆、华为等等大厂，都在其中盘踞一块领地。\n但曹治鹏发现，市场并非死水一潭。\n曹治鹏从事能源行业近20年，他曾任职于沈飞、华硕、阿特斯等上市企业，主导参与了户用储能、工商业储能等产品从0到1的研发与设计，亲",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "追觅生态链多了家清华系公司，要用AI储能融入智能家居体系｜硬氪专访"
+    },
+    {
+      "title": "Universal Claude.md – cut Claude output tokens",
+      "link": "https://github.com/drona23/claude-token-efficient",
+      "pubDate": "Tue, 31 Mar 2026 01:23:34 +0000",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "priority": 2,
+      "tags": [
+        "tech",
+        "startups"
+      ],
+      "snippet": "Comments",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Universal Claude.md – 削减 Claude 输出令牌"
+    },
+    {
+      "title": "OpenAI Aims to Improve Developer Experience Around Third-Party ChatGPT Apps",
+      "link": "https://www.pymnts.com/artificial-intelligence-2/2026/openai-aims-to-improve-developer-experience-around-third-party-chatgpt-apps/",
+      "pubDate": "Tue, 31 Mar 2026 01:14:29 +0000",
+      "source": "PYMNTS Retail",
+      "sourceUrl": "https://www.pymnts.com",
+      "priority": 1,
+      "tags": [
+        "payments",
+        "retail media",
+        "fintech"
+      ],
+      "snippet": "Six months after OpenAI announced that it would let companies launch mini apps within ChatGPT, the experience is getting mixed reviews from participating companies, Bloomberg reported Monday (March 30",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "OpenAI 旨在改善第三方 ChatGPT 应用程序的开发人员体验"
+    },
+    {
+      "title": "California Gov. Gavin Newsom signs a first-of-its-kind executive order requiring safety and privacy guardrails from AI companies that contract with the state",
+      "link": "https://www.nytimes.com/2026/03/30/technology/california-ai-executive-order.html",
+      "pubDate": "Mon, 30 Mar 2026 21:10:28 -0400",
+      "source": "New York Times",
+      "sourceUrl": "https://www.nytimes.com/2026/03/30/technology/california-ai-executive-order.html",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Cecilia Kang / New York Times:\nCalifornia Gov. Gavin Newsom signs a first-of-its-kind executive order requiring safety and privacy guardrails from AI companies that contract with the state  —  Gov. Ga",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "加州州长加文·纽瑟姆签署了首个此类行政命令，要求与该州签约的人工智能公司提供安全和隐私护栏"
+    },
+    {
+      "title": "“医药界英伟达”，花200亿买中国AI公司的减重药",
+      "link": "https://36kr.com/p/3745377703608832?f=rss",
+      "pubDate": "2026-03-31 08:30:00  +0800",
+      "source": "36氪 AI",
+      "sourceUrl": "https://36kr.com",
+      "priority": 2,
+      "tags": [
+        "AI创投",
+        "AI应用"
+      ],
+      "snippet": "文｜胡香赟\n编辑｜海若镜\nAI制药领域，再现200亿人民币级交易。\n3月29日晚，英矽智能（HK:03696）公告了与礼来和合作：首付款1.15亿美元、总价27.5亿美元，另包含产品上市后的潜在销售分成。交易核心是一款临床前口服GLP-1药物；此外，基于英矽智能Pharma AI技术平台，双方未来还将开展多项“围绕礼来选定靶点”的研发合作。\n同日，英矽智能年报显示，2025年总收入5620万美元，",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "“医药界英伟达”，花200亿买中国AI公司的减重药"
+    },
+    {
+      "title": "8点1氪丨伊朗议会批准对海峡征收通行费；多品牌电动车将涨价；名创优品回应买盲盒需要会员",
+      "link": "https://36kr.com/p/3746104816943617?f=rss",
+      "pubDate": "2026-03-31 08:17:24  +0800",
+      "source": "36氪 AI",
+      "sourceUrl": "https://36kr.com",
+      "priority": 2,
+      "tags": [
+        "AI创投",
+        "AI应用"
+      ],
+      "snippet": "今日热点导览\n曝iPhoneFold将成史上最大改款，有媒体称其设计革新超iPhone X  \n泡泡玛特乐园迎来新区域开放，门票将涨价\n蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复\nDeepSeek公告服务出现重大中断，12小时未修复引发热议\n俞敏洪：东方甄选首家线下门店将于4月在北京中关村开业\nTOP3大新闻\n伊朗议会批准对海峡征收通行费，需以伊朗本币支付 \n当地时间周一，伊朗",
+      "section": "intl_retail",
+      "originalSection": "domestic_ai",
+      "titleZh": "8点1氪丨伊朗议会批准对海峡征收通行费；多品牌电动车将涨价；名创优品回应买盲盒需要会员"
+    },
+    {
+      "title": "Activist Palliser Targets MSG Maker Ajinomoto in AI Value Hunt",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-31/activist-palliser-targets-msg-maker-ajinomoto-in-ai-value-hunt",
+      "pubDate": "Tue, 31 Mar 2026 00:12:40 GMT",
+      "source": "Bloomberg Tech",
+      "sourceUrl": "https://www.bloomberg.com/technology",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "markets"
+      ],
+      "snippet": "",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "活动家 Palliser 在人工智能价值搜寻中瞄准味精制造商 Ajinomoto"
+    },
+    {
+      "title": "China’s Top Private Insurer Taps AI to Unlock $174 Billion Value",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-31/china-s-top-private-insurer-taps-ai-to-unlock-174-billion-value",
+      "pubDate": "Tue, 31 Mar 2026 00:00:00 GMT",
+      "source": "Bloomberg Tech",
+      "sourceUrl": "https://www.bloomberg.com/technology",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "markets"
+      ],
+      "snippet": "",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "中国最大的私营保险公司利用人工智能释放 1,740 亿美元的价值"
+    },
+    {
+      "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
+      "link": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
+      "pubDate": "Mon, 30 Mar 2026 23:41:48 +0000",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "priority": 2,
+      "tags": [
+        "AI startups",
+        "funding"
+      ],
+      "snippet": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules.",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "最新民意调查显示，15% 的美国人表示他们愿意为人工智能老板工作"
+    },
+    {
+      "title": "Inside David Sacks' new role shaping Trump's AI agenda; officials say Sriram Krishnan is taking on a position at the National Economic Council to focus on AI",
+      "link": "https://www.axios.com/2026/03/30/david-sacks-trump-ai-agenda-plan",
+      "pubDate": "Mon, 30 Mar 2026 19:35:01 -0400",
+      "source": "Axios",
+      "sourceUrl": "https://www.axios.com/2026/03/30/david-sacks-trump-ai-agenda-plan",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Axios:\nInside David Sacks' new role shaping Trump's AI agenda; officials say Sriram Krishnan is taking on a position at the National Economic Council to focus on AI  —  - The move lands as Republicans",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "大卫·萨克斯 (David Sacks) 的新角色塑造了特朗普的人工智能议程；官员们表示，斯里拉姆·克里希南 (Sriram Krishnan) 将在国家经济委员会任职，重点关注人工智能"
+    },
+    {
+      "title": "Meta Aims to Share Brick-and-Mortar Success Stories With Wearables Retailers",
+      "link": "https://www.pymnts.com/meta/2026/meta-aims-to-share-brick-and-mortar-success-stories-with-wearables-retailers/",
+      "pubDate": "Mon, 30 Mar 2026 23:22:53 +0000",
+      "source": "PYMNTS Retail",
+      "sourceUrl": "https://www.pymnts.com",
+      "priority": 1,
+      "tags": [
+        "payments",
+        "retail media",
+        "fintech"
+      ],
+      "snippet": "Meta aims to share what it learns at its Meta Lab stores with the retailers of its artificial intelligence (AI)- and virtual reality (VR)-enabled wearables, Retail TouchPoints reported Monday (March 3",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "Meta 旨在与可穿戴设备零售商分享实体成功案例"
+    },
+    {
+      "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
+      "link": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
+      "pubDate": "Mon, 30 Mar 2026 23:08:12 +0000",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "priority": 2,
+      "tags": [
+        "AI startups",
+        "funding"
+      ],
+      "snippet": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "热门人工智能网关初创公司 LiteLLM 放弃了有争议的初创公司 Delve"
+    },
+    {
+      "title": "Group Plans $100 Million Midterm Effort to Back Trump AI Agenda",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-30/trump-ai-agenda-backers-plan-100-million-midterm-effort",
+      "pubDate": "Mon, 30 Mar 2026 22:55:55 GMT",
+      "source": "Bloomberg Tech",
+      "sourceUrl": "https://www.bloomberg.com/technology",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "markets"
+      ],
+      "snippet": "",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "集团计划中期投入 1 亿美元支持特朗普人工智能议程"
+    },
+    {
+      "title": "Businesses Adapt AI Budgets to Match Usage-Based Pricing",
+      "link": "https://www.pymnts.com/artificial-intelligence-2/2026/businesses-adapt-ai-budgeting-to-match-usage-based-pricing/",
+      "pubDate": "Mon, 30 Mar 2026 21:57:01 +0000",
+      "source": "PYMNTS Retail",
+      "sourceUrl": "https://www.pymnts.com",
+      "priority": 1,
+      "tags": [
+        "payments",
+        "retail media",
+        "fintech"
+      ],
+      "snippet": "Generative artificial intelligence lacks the fixed-cost structure of traditional software. Each user interaction incurs real compute and processing costs, making it important for organizations to deve",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "企业调整人工智能预算以匹配基于使用情况的定价"
+    },
+    {
+      "title": "OpenAI introduces a Codex plugin for Claude Code, letting users invoke Codex from inside Claude Code to review code or delegate tasks",
+      "link": "https://x.com/reach_vb/status/2038670509768839458",
+      "pubDate": "Mon, 30 Mar 2026 17:50:01 -0400",
+      "source": "@reach_vb",
+      "sourceUrl": "https://x.com/reach_vb/status/2038670509768839458",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Vaibhav Srivastav / @reach_vb:\nOpenAI introduces a Codex plugin for Claude Code, letting users invoke Codex from inside Claude Code to review code or delegate tasks  —  If you already use Claude Code,",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "OpenAI 为 Claude Code 引入了 Codex 插件，让用户可以从 Claude Code 内部调用 Codex 来审查代码或委派任务"
+    },
+    {
+      "title": "Leaked January presentation: Coatue estimated that Anthropic would lose $14B in EBITDA on $18B in revenue in 2026 and reach a $1.995T valuation in 2030",
+      "link": "https://www.newcomer.co/p/coatue-projected-1995-trillion-valuation",
+      "pubDate": "Mon, 30 Mar 2026 17:20:01 -0400",
+      "source": "Newcomer",
+      "sourceUrl": "https://www.newcomer.co/p/coatue-projected-1995-trillion-valuation",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Eric Newcomer / Newcomer:\nLeaked January presentation: Coatue estimated that Anthropic would lose $14B in EBITDA on $18B in revenue in 2026 and reach a $1.995T valuation in 2030  —  We talk about it &",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "泄露的 1 月份演示文稿：Coatue 估计 Anthropic 到 2026 年收入 18B 美元，EBITDA 将损失 14B 美元，到 2030 年估值将达到 1.995T 美元"
+    },
+    {
+      "title": "Aldi US Launches Website and App Powered by Instacart Commerce Platform",
+      "link": "https://www.pymnts.com/news/retail/2026/aldi-us-launches-website-and-app-powered-by-instacart-commerce-platform/",
+      "pubDate": "Mon, 30 Mar 2026 21:16:48 +0000",
+      "source": "PYMNTS Retail",
+      "sourceUrl": "https://www.pymnts.com",
+      "priority": 1,
+      "tags": [
+        "payments",
+        "retail media",
+        "fintech"
+      ],
+      "snippet": "Grocer Aldi U.S. launched a redesigned website and mobile app Monday (March 30), both of which are powered by Instacart’s Storefront Pro enterprise commerce platform and fulfillment solutions.  In add",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "Aldi US 推出由 Instacart 商务平台支持的网站和应用程序"
+    },
+    {
+      "title": "Alibaba releases its Qwen3.5-Omni omnimodal LLM with support for 10+ hours of audio input, saying the Plus variant surpasses Gemini 3.1 Pro on audio benchmarks",
+      "link": "https://qwen.ai/blog?id=qwen3.5-omni",
+      "pubDate": "Mon, 30 Mar 2026 17:15:01 -0400",
+      "source": "Qwen",
+      "sourceUrl": "https://qwen.ai/blog?id=qwen3.5-omni",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Qwen:\nAlibaba releases its Qwen3.5-Omni omnimodal LLM with support for 10+ hours of audio input, saying the Plus variant surpasses Gemini 3.1 Pro on audio benchmarks  —  Qwen3.5-Omni is Qwen's latest ",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "阿里巴巴发布了 Qwen3.5-Omni 全模态 LLM，支持 10 小时以上的音频输入，并称 Plus 变体在音频基准上超越了 Gemini 3.1 Pro"
+    },
+    {
+      "title": "As more Americans adopt AI tools, fewer say they can trust the results",
+      "link": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
+      "pubDate": "Mon, 30 Mar 2026 20:24:53 +0000",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "priority": 2,
+      "tags": [
+        "AI startups",
+        "funding"
+      ],
+      "snippet": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology’s broader societal impact, according to a new Quinnipiac poll",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "随着越来越多的美国人采用人工智能工具，越来越少的人表示他们可以相信结果"
+    },
+    {
+      "title": "Microsoft Expands Copilot With Task Execution Feature",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/microsoft-expands-copilot-with-task-execution-feature/",
+      "pubDate": "Mon, 30 Mar 2026 20:14:23 +0000",
+      "source": "PYMNTS Retail",
+      "sourceUrl": "https://www.pymnts.com",
+      "priority": 1,
+      "tags": [
+        "payments",
+        "retail media",
+        "fintech"
+      ],
+      "snippet": "Microsoft introduced Copilot Cowork on Monday (March 30), a new feature that allows its artificial intelligence (AI) assistant to carry out tasks across Microsoft 365 applications.  According to the c",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "微软通过任务执行功能扩展了 Copilot"
+    },
+    {
+      "title": "Gurman: Apple pulls Apple Intelligence in China, after accidentally launching it in the country; there is no imminent launch as Apple has no regulatory approval",
+      "link": "https://9to5mac.com/2026/03/30/apple-intelligence-rolling-out-now-in-china-per-user-reports/",
+      "pubDate": "Mon, 30 Mar 2026 15:15:00 -0400",
+      "source": "9to5Mac",
+      "sourceUrl": "https://9to5mac.com/2026/03/30/apple-intelligence-rolling-out-now-in-china-per-user-reports/",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Ryan Christoffel / 9to5Mac:\nGurman: Apple pulls Apple Intelligence in China, after accidentally launching it in the country; there is no imminent launch as Apple has no regulatory approval  —  Apple I",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "古尔曼：苹果公司在中国意外推出Apple Intelligence后，将其撤回中国；由于苹果尚未获得监管部门的批准，因此不会立即推出"
+    },
+    {
+      "title": "Insiders liken AI to \"the Ozempic of the music industry\" as hitmakers reportedly hide their generator use",
+      "link": "https://the-decoder.com/insiders-liken-ai-to-the-ozempic-of-the-music-industry-as-hitmakers-reportedly-hide-their-generator-use/",
+      "pubDate": "Mon, 30 Mar 2026 19:14:03 +0000",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com",
+      "priority": 2,
+      "tags": [
+        "AI",
+        "LLM"
+      ],
+      "snippet": "The use of AI generators in professional music production is growing fast, but the industry would rather not talk about it. Top producers and songwriters are quietly embracing the technology behind th",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "业内人士将人工智能比作“音乐行业的臭氧”，因为据报道热门制作人隐藏了他们的发电机使用情况"
+    },
+    {
+      "title": "Aldi relaunches website with Instacart",
+      "link": "https://www.supermarketnews.com/grocery-marketing/aldi-relaunches-website-with-instacart",
+      "pubDate": "Mon, 30 Mar 2026 16:42:19 GMT",
+      "source": "Supermarket News",
+      "sourceUrl": "https://www.supermarketnews.com",
+      "priority": 2,
+      "tags": [
+        "grocery",
+        "supermarket",
+        "food retail"
+      ],
+      "snippet": "Low-price grocer also debuts redesigned mobile app in e-commerce push",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "阿尔迪与 Instacart 重新推出网站"
+    },
+    {
+      "title": "Microsoft rolls out Copilot Cowork more broadly and lets AI models check each other's work",
+      "link": "https://the-decoder.com/microsoft-rolls-out-copilot-cowork-more-broadly-and-lets-ai-models-check-each-others-work/",
+      "pubDate": "Mon, 30 Mar 2026 16:07:14 +0000",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com",
+      "priority": 2,
+      "tags": [
+        "AI",
+        "LLM"
+      ],
+      "snippet": "With \"Cowork,\" Microsoft 365 Copilot is getting an AI assistant that handles entire workflows on its own. A new research tool also lets multiple AI models check each other's work.\nThe article Microsof",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "微软更广泛地推出 Copilot Cowork，让人工智能模型检查彼此的工作"
+    },
+    {
+      "title": "There are more AI health tools than ever—but how well do they work?",
+      "link": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
+      "pubDate": "Mon, 30 Mar 2026 16:00:00 +0000",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com",
+      "priority": 3,
+      "tags": [
+        "AI research",
+        "deep tech"
+      ],
+      "snippet": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health. A cou",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "人工智能健康工具比以往任何时候都多，但它们的效果如何？"
+    },
+    {
+      "title": "C&IT’s Melissa Minkow dissects retail technology report",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/cit-report-ai-melissa-minkow/",
+      "pubDate": "Mon, 30 Mar 2026 15:53:26 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "Global technology firm CI&T has unveiled a new report which found UK consumers are “more than ready” for the AI era of retail. However, despite 61 per cent of shoppers having used AI to shop, over two",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "C&IT 的 Melissa Minkow 剖析零售技术报告"
+    },
+    {
+      "title": "AI models confidently describe images they never saw, and benchmarks fail to catch it",
+      "link": "https://the-decoder.com/ai-models-confidently-describe-images-they-never-saw-and-benchmarks-fail-to-catch-it/",
+      "pubDate": "Mon, 30 Mar 2026 15:53:15 +0000",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com",
+      "priority": 2,
+      "tags": [
+        "AI",
+        "LLM"
+      ],
+      "snippet": "Multimodal AI models like GPT-5, Gemini 3 Pro, and Claude Opus 4.5 generate detailed image descriptions and medical diagnoses even when no image is provided. A Stanford study shows that common benchma",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "人工智能模型自信地描述他们从未见过的图像，而基准测试却无法捕捉到它"
+    },
+    {
+      "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
+      "link": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
+      "pubDate": "Mon, 30 Mar 2026 15:42:50 +0000",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com",
+      "priority": 3,
+      "tags": [
+        "AI research",
+        "deep tech"
+      ],
+      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Thursday, a California judge temporarily blocked the Pent",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "五角大楼针对人类的文化战策略适得其反"
+    },
+    {
+      "title": "AWG eyes more turnkey foodservice in 2026",
+      "link": "https://www.supermarketnews.com/foodservice-retail/awg-eyes-more-turnkey-foodservice-in-2026",
+      "pubDate": "Mon, 30 Mar 2026 15:39:55 GMT",
+      "source": "Supermarket News",
+      "sourceUrl": "https://www.supermarketnews.com",
+      "priority": 2,
+      "tags": [
+        "grocery",
+        "supermarket",
+        "food retail"
+      ],
+      "snippet": "Consolidated sales inch up 0.91% in 2025, driven in part by new co-op members",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "AWG 计划在 2026 年提供更多交钥匙餐饮服务"
+    },
+    {
+      "title": "Ulta doubled store fulfillment capabilities in 2025",
+      "link": "https://www.retaildive.com/news/ulta-doubles-store-fulfillment-capabilities-2025/816073/",
+      "pubDate": "Mon, 30 Mar 2026 11:29:00 -0400",
+      "source": "Retail Dive",
+      "sourceUrl": "https://www.retaildive.com",
+      "priority": 3,
+      "tags": [
+        "US retail",
+        "DTC",
+        "omnichannel"
+      ],
+      "snippet": "The beauty retailer grew its ship-from-store program to 1,000 stores in fiscal year 2025, while its fulfillment center footprint remained flat compared to 2024.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "Ulta 到 2025 年将商店履行能力提高一倍"
+    },
+    {
+      "title": "Tariff refunds: Court expands scope to include finally liquidated entries",
+      "link": "https://www.supplychaindive.com/news/tariff-refunds-cit-expands-scope-finally-liquidated-entries/816080/",
+      "pubDate": "Mon, 30 Mar 2026 11:26:00 -0400",
+      "source": "Supply Chain Dive",
+      "sourceUrl": "https://www.supplychaindive.com",
+      "priority": 2,
+      "tags": [
+        "supply chain",
+        "logistics",
+        "fulfillment"
+      ],
+      "snippet": "The Court of International Trade amended a previous order related to now defunct Trump administration tariffs to include all entries subject to the levies.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "关税退款：法院扩大范围以包括最终清算的条目"
+    },
+    {
+      "title": "Marks & Spencer turns to Nordstrom stores for its fashion debut",
+      "link": "https://www.retaildive.com/news/marks-spencer-nordstrom-stores-fashion-apparel-debut/816078/",
+      "pubDate": "Mon, 30 Mar 2026 11:10:00 -0400",
+      "source": "Retail Dive",
+      "sourceUrl": "https://www.retaildive.com",
+      "priority": 3,
+      "tags": [
+        "US retail",
+        "DTC",
+        "omnichannel"
+      ],
+      "snippet": "The U.K. retailer, iconic at home but only vaguely known elsewhere, is looking to expand worldwide.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "Marks & Spencer 在 Nordstrom 商店举办时装首秀"
+    },
+    {
+      "title": "Raley’s CEO departs after 11 years with the grocer",
+      "link": "https://www.grocerydive.com/news/raleys-ceo-transition-mike-teel-keith-knopf-grocery/816083/",
+      "pubDate": "Mon, 30 Mar 2026 11:09:00 -0400",
+      "source": "Grocery Dive",
+      "sourceUrl": "https://www.grocerydive.com",
+      "priority": 2,
+      "tags": [
+        "grocery",
+        "dark store",
+        "delivery"
+      ],
+      "snippet": "Keith Knopf, who served as chief executive since 2018, has handed the reins to Mike Teel, the grocer’s owner and chairman.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "Raley 首席执行官在杂货店工作 11 年后离职"
+    },
+    {
+      "title": "Biren, Iluvatar CoreX post triple-digit revenue growth but losses persist in AI chip race",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3348446/biren-iluvatar-corex-post-triple-digit-revenue-growth-losses-persist-ai-chip-race?utm_source=rss_feed",
+      "pubDate": "Mon, 30 Mar 2026 14:45:09 +0000",
+      "source": "SCMP Tech",
+      "sourceUrl": "https://www.scmp.com/tech",
+      "priority": 2,
+      "tags": [
+        "China AI",
+        "tech policy",
+        "中国科技"
+      ],
+      "snippet": "Biren Technology and Iluvatar CoreX, two Chinese graphics processing unit (GPU) champions that are seen as potential alternatives to Nvidia, saw their revenues surge in 2025 amid China’s accelerated p",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "Biren、Iluvatar CoreX 营收增长三位数，但 AI 芯片竞赛持续亏损"
+    },
+    {
+      "title": "Matson responds to growing cargo theft in intermodal shipments",
+      "link": "https://www.supplychaindive.com/news/matson-container-secuirty-program-cargo-theft-response/814350/",
+      "pubDate": "Mon, 30 Mar 2026 10:19:06 -0400",
+      "source": "Supply Chain Dive",
+      "sourceUrl": "https://www.supplychaindive.com",
+      "priority": 2,
+      "tags": [
+        "supply chain",
+        "logistics",
+        "fulfillment"
+      ],
+      "snippet": "Shippers now have two additional security levels when moving their international cargo from Los Angeles to BNSF network destinations.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "美森应对多式联运中日益增多的货物盗窃事件"
+    },
+    {
+      "title": "Robotic unloading becomes more accessible as warehouses weigh applicability",
+      "link": "https://www.supplychaindive.com/news/robotic-unloading-becomes-more-accessible-as-warehouses-weigh-applicability/814383/",
+      "pubDate": "Mon, 30 Mar 2026 10:10:46 -0400",
+      "source": "Supply Chain Dive",
+      "sourceUrl": "https://www.supplychaindive.com",
+      "priority": 2,
+      "tags": [
+        "supply chain",
+        "logistics",
+        "fulfillment"
+      ],
+      "snippet": "Dock operations are often the “last piece of the puzzle” when it comes to warehouse automation. But increasing accessibility means it could also be the first.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "随着仓库权衡适用性，机器人卸货变得更加容易"
+    },
+    {
+      "title": "Homeland to close 4 stores, consolidate others",
+      "link": "https://www.grocerydive.com/news/homeland-close-consolidate-stores/816042/",
+      "pubDate": "Mon, 30 Mar 2026 10:10:00 -0400",
+      "source": "Grocery Dive",
+      "sourceUrl": "https://www.grocerydive.com",
+      "priority": 2,
+      "tags": [
+        "grocery",
+        "dark store",
+        "delivery"
+      ],
+      "snippet": "The Midwest grocer said the move, which also includes putting an undisclosed number of locations up for sale, will help to build a stronger foundation for the future.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "Homeland 将关闭 4 家门店并整合其他门店"
+    },
+    {
+      "title": "Dollar Tree makes distribution, tech upgrades",
+      "link": "https://www.supplychaindive.com/news/dollar-tree-distribution-network-expansion-inventory-discipline/815467/",
+      "pubDate": "Mon, 30 Mar 2026 10:03:00 -0400",
+      "source": "Supply Chain Dive",
+      "sourceUrl": "https://www.supplychaindive.com",
+      "priority": 2,
+      "tags": [
+        "supply chain",
+        "logistics",
+        "fulfillment"
+      ],
+      "snippet": "As part of its supply chain modernization efforts, the retailer is replacing its legacy systems with AI-powered platforms.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "Dollar Tree 进行分销和技术升级"
+    },
+    {
+      "title": "Xiaomi, Alibaba ramp up AI recruitment amid global talent war",
+      "link": "https://www.scmp.com/tech/big-tech/article/3348434/xiaomi-alibaba-ramp-ai-recruitment-amid-global-talent-war?utm_source=rss_feed",
+      "pubDate": "Mon, 30 Mar 2026 14:00:14 +0000",
+      "source": "SCMP Tech",
+      "sourceUrl": "https://www.scmp.com/tech",
+      "priority": 2,
+      "tags": [
+        "China AI",
+        "tech policy",
+        "中国科技"
+      ],
+      "snippet": "Chinese tech giants Xiaomi and Alibaba Group Holding have launched spring recruitment drives amid fierce competition for the talent driving the global artificial intelligence boom.\nThe campaigns come ",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "小米、阿里巴巴在全球人才大战中加大人工智能招聘力度"
+    },
+    {
+      "title": "Sprouts’ CEO says the chain needs to be a better ‘value’ for shoppers",
+      "link": "https://www.grocerydive.com/news/sprouts-farmers-market-ceo-jack-sinclair-cfo-roth-conference-self-distribution-value-affordability/816031/",
+      "pubDate": "Mon, 30 Mar 2026 10:00:00 -0400",
+      "source": "Grocery Dive",
+      "sourceUrl": "https://www.grocerydive.com",
+      "priority": 2,
+      "tags": [
+        "grocery",
+        "dark store",
+        "delivery"
+      ],
+      "snippet": "“It’s not so much about price investments. It’s about bringing real clarity to the products that we’re launching,” Jack Sinclair said during an event.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "Sprouts 首席执行官表示，该连锁店需要为购物者提供更好的“价值”"
+    },
+    {
+      "title": "Aldi revamps website and mobile app",
+      "link": "https://www.grocerydive.com/news/aldi-revamped-website-mobile-app-instacart/816074/",
+      "pubDate": "Mon, 30 Mar 2026 09:59:39 -0400",
+      "source": "Grocery Dive",
+      "sourceUrl": "https://www.grocerydive.com",
+      "priority": 2,
+      "tags": [
+        "grocery",
+        "dark store",
+        "delivery"
+      ],
+      "snippet": "The upgrade marks another milestone in the discounter’s ambitious 2026 growth plans.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "阿尔迪改造网站和移动应用程序"
+    },
+    {
+      "title": "Consumer sentiment falls 6%, hit by declining stocks, higher gas prices",
+      "link": "https://www.retaildive.com/news/consumer-sentiment-falls-hit-declining-stocks-gas-prices-inflation-Fed-Powell-Federal-Reserve-Iran/816037/",
+      "pubDate": "Mon, 30 Mar 2026 09:54:00 -0400",
+      "source": "Retail Dive",
+      "sourceUrl": "https://www.retaildive.com",
+      "priority": 3,
+      "tags": [
+        "US retail",
+        "DTC",
+        "omnichannel"
+      ],
+      "snippet": "Household expectations for inflation in 12 months rose to 3.8% from 3.4% in February in the biggest one-month gain since April 2025, the University of Michigan found in a survey.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "受股市下跌和汽油价格上涨打击，消费者信心下降 6%"
+    },
+    {
+      "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
+      "link": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
+      "pubDate": "Mon, 30 Mar 2026 13:52:02 +0000",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "priority": 2,
+      "tags": [
+        "AI startups",
+        "funding"
+      ],
+      "snippet": "ScaleOps just raised $130M to tackle GPU shortages and soaring AI cloud costs by automating infrastructure in real time.",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "ScaleOps 融资 1.3 亿美元，以提高人工智能需求下的计算效率"
+    },
+    {
+      "title": "DreamLite: A Lightweight On-Device Unified Model for Image Generation and Editing",
+      "link": "https://arxiv.org/abs/2603.28713",
+      "pubDate": "Mon, 30 Mar 2026 13:30:25 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "Diffusion models have made significant progress in both text-to-image (T2I) generation and text-guided image editing. However, these models are typically built with billions of parameters, leading to ",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "DreamLite：用于图像生成和编辑的轻量级设备上统一模型"
+    },
+    {
+      "title": "Activewear isn’t over. Everything’s just apparel now.",
+      "link": "https://www.retaildive.com/news/activewear-apparel-denim-consumer-shopping-trends/815749/",
+      "pubDate": "Mon, 30 Mar 2026 09:00:00 -0400",
+      "source": "Retail Dive",
+      "sourceUrl": "https://www.retaildive.com",
+      "priority": 3,
+      "tags": [
+        "US retail",
+        "DTC",
+        "omnichannel"
+      ],
+      "snippet": "The lines between apparel, activewear and everything in between have only continued to blur. That isn’t a problem, except if the customer says it is.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "运动装还没有结束。现在一切都只是服装。"
+    },
+    {
+      "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
+      "link": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
+      "pubDate": "Mon, 30 Mar 2026 13:00:00 +0000",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "priority": 2,
+      "tags": [
+        "AI startups",
+        "funding"
+      ],
+      "snippet": "The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "AI 芯片初创公司 Rebellions 在 IPO 前轮融资 4 亿美元，估值 2.3B 美元"
+    },
+    {
+      "title": "Superintelligence and Law",
+      "link": "https://arxiv.org/abs/2603.28669",
+      "pubDate": "Mon, 30 Mar 2026 12:51:51 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "The prospect of artificial superintelligence -- AI agents that can generally outperform humans in cognitive tasks and economically valuable activities -- will transform the legal order as we know it. ",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "超级智能与法律"
+    },
+    {
+      "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
+      "link": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
+      "pubDate": "Mon, 30 Mar 2026 12:49:51 +0000",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "priority": 2,
+      "tags": [
+        "AI startups",
+        "funding"
+      ],
+      "snippet": "Mistral aims to start operating the data center by the second quarter of 2026.",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Mistral AI 筹集 8.3 亿美元债务，在巴黎附近建立数据中心"
+    },
+    {
+      "title": "Qodo raises $70M for code verification as AI coding scales",
+      "link": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
+      "pubDate": "Mon, 30 Mar 2026 12:30:00 +0000",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "priority": 2,
+      "tags": [
+        "AI startups",
+        "funding"
+      ],
+      "snippet": "As AI floods software development with code, Qodo is betting the real challenge is making sure it actually works.",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "随着 AI 编码规模的扩大，Qodo 筹集了 7000 万美元用于代码验证"
+    },
+    {
+      "title": "Import AI 451: Political superintelligence; Google's society of minds, and a robot drummer ",
+      "link": "https://importai.substack.com/p/import-ai-451-political-superintelligence",
+      "pubDate": "Mon, 30 Mar 2026 12:28:13 GMT",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "weekly"
+      ],
+      "snippet": "Are there any genies that can be put back in the bottle?",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "导入AI 451：政治超级情报；谷歌的心灵社会和机器人鼓手"
+    },
+    {
+      "title": "ResAdapt: Adaptive Resolution for Efficient Multimodal Reasoning",
+      "link": "https://arxiv.org/abs/2603.28610",
+      "pubDate": "Mon, 30 Mar 2026 11:57:32 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "Multimodal Large Language Models (MLLMs) achieve stronger visual understanding by scaling input fidelity, yet the resulting visual token growth makes jointly sustaining high spatial resolution and lon",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "ResAdapt：高效多模态推理的自适应分辨率"
+    },
+    {
+      "title": "Very expands own-brand offer with launch of The Very Collection Home",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/very-own-brand-offer-very-collection/",
+      "pubDate": "Mon, 30 Mar 2026 11:44:51 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "Very has expanded its own-brand offer with the launch of The Very Collection Home. The online retailer said the new range will span furniture, soft furnishings and decorative accessories, alongside mo",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "Very 推出 The Very Collection Home，扩大自有品牌产品范围"
+    },
+    {
+      "title": "OpenAI's Sora burned a million dollars a day while losing half its users in record time",
+      "link": "https://the-decoder.com/openais-sora-burned-a-million-dollars-a-day-while-losing-half-its-users-in-record-time/",
+      "pubDate": "Mon, 30 Mar 2026 11:41:04 +0000",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com",
+      "priority": 2,
+      "tags": [
+        "AI",
+        "LLM"
+      ],
+      "snippet": "OpenAI is shutting down Sora after the video app burned through about a million dollars a day in compute, quickly lost half its users, and turned from a prestige project into a liability. The company ",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "OpenAI 的 Sora 每天烧钱一百万美元，同时在创纪录的时间内失去一半用户"
+    },
+    {
+      "title": "Towards a Medical AI Scientist",
+      "link": "https://arxiv.org/abs/2603.28589",
+      "pubDate": "Mon, 30 Mar 2026 11:37:25 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "Autonomous systems that generate scientific hypotheses, conduct experiments, and draft manuscripts have recently emerged as a promising paradigm for accelerating discovery. However, existing AI Scient",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "迈向医学人工智能科学家"
+    },
+    {
+      "title": "Asda Living 2.0: Who are the biggest rivals to George’s concept stores?",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/asda-george-concept-stores/",
+      "pubDate": "Mon, 30 Mar 2026 11:28:10 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "Last April, Asda unveiled Leeds as the location of its first standalone George concept store.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "Asda Living 2.0：乔治概念店最大的竞争对手是谁？"
+    },
+    {
+      "title": "AI-generated dating show pulls 10 million views per episode on TikTok",
+      "link": "https://the-decoder.com/ai-generated-dating-show-pulls-10-million-views-per-episode-on-tiktok/",
+      "pubDate": "Mon, 30 Mar 2026 11:27:43 +0000",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com",
+      "priority": 2,
+      "tags": [
+        "AI",
+        "LLM"
+      ],
+      "snippet": "AI-generated dating show \"Fruit Love Island\" averages over 10 million views per episode on TikTok.\nThe article AI-generated dating show pulls 10 million views per episode on TikTok appeared first on T",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "AI 生成的相亲节目在 TikTok 上每集观看次数达 1000 万次"
+    },
+    {
+      "title": "As The Works axes its ecommerce arm, how can physical stores compete with online in 2026?",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/physical-retail-the-works/",
+      "pubDate": "Mon, 30 Mar 2026 11:26:59 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "Discount giant The Works recently shut down its ecommerce operations (20 March) to focus on its store-led growth.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "随着 The Works 削减其电子商务部门，2026 年实体店将如何与网店竞争？"
+    },
+    {
+      "title": "GEditBench v2: A Human-Aligned Benchmark for General Image Editing",
+      "link": "https://arxiv.org/abs/2603.28547",
+      "pubDate": "Mon, 30 Mar 2026 11:08:32 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "Recent advances in image editing have enabled models to handle complex instructions with impressive realism. However, existing evaluation frameworks lag behind: current benchmarks suffer from narrow t",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "GEditBench v2：通用图像编辑的人性化基准"
+    },
+    {
+      "title": "Retail leaders on embracing AI: ‘We have to keep trying things’",
+      "link": "https://www.retaildive.com/news/retail-leaders-embracing-ai-shoptalk-spring/815960/",
+      "pubDate": "Mon, 30 Mar 2026 07:00:00 -0400",
+      "source": "Retail Dive",
+      "sourceUrl": "https://www.retaildive.com",
+      "priority": 3,
+      "tags": [
+        "US retail",
+        "DTC",
+        "omnichannel"
+      ],
+      "snippet": "The theme of Shoptalk Spring was “Retail in the Age of AI.” Executives had strong opinions on the matter.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "零售业领导者拥抱人工智能：“我们必须不断尝试”"
+    },
+    {
+      "title": "Superdry CEO Julian Dunkerton on what makes his stores industry-leading",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/superdry-ceo-julian-dunkerton-on-what-makes-his-stores-industry-leading/",
+      "pubDate": "Mon, 30 Mar 2026 10:57:12 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "At Superdry’s immersive and multifaeceted flagship at 360-366 Oxford Street, founder and CEO Julian Dunkerton is proving a broader point about physical retail. The store, positioned as “a new chapter ",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "Superdry 首席执行官朱利安·邓克顿 (Julian Dunkerton) 讲述其门店为何处于行业领先地位"
+    },
+    {
       "title": "Mistral AI borrows 830 million dollars to operate a new data center near Paris",
       "link": "https://the-decoder.com/mistral-ai-borrows-830-million-dollars-to-operate-a-new-data-center-near-paris/",
       "pubDate": "Mon, 30 Mar 2026 10:26:02 +0000",
@@ -14,7 +1418,7 @@
       "snippet": "Mistral AI is borrowing 830 million dollars to build a data center near Paris with nearly 14,000 NVIDIA GPUs. The banks are on board, but the risk is significant for a startup that likely isn't profit",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Mistral AI borrows 830 million dollars to operate a new data center near Paris"
+      "titleZh": "Mistral AI 借款 8.3 亿美元用于运营巴黎附近的新数据中心"
     },
     {
       "title": "OpenClaw 走红背后：Agent、AI Coding 与团队协作的新问题",
@@ -47,7 +1451,7 @@
       "snippet": "Matthew S. Smith / IEEE Spectrum:\nQ&A with NYU professor Julian Togelius on his recent paper about LLMs' limitations in playing video games, why coding is a kind of well-designed game, and more  —  AI",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Q&A with NYU professor Julian Togelius on his recent paper about LLMs' limitations in playing video games, why coding is a kind of well-designed game, and more"
+      "titleZh": "与纽约大学教授 Julian Togelius 就他最近发表的论文进行问答，内容涉及法学硕士在玩视频游戏方面的局限性、为什么编码是一种精心设计的游戏等"
     },
     {
       "title": "氪星晚报｜全国首个万卡级全栈自主可控智算集群点亮；泡泡玛特乐园门票将涨价；蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复",
@@ -80,7 +1484,7 @@
       "snippet": "US fashion brand Edikted has opened its first standalone store in Europe. According to Shaftesbury Capital, the new flagship will be located at 52-55 Carnaby St. The new store spans 4,800 square feet ",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Edikted makes European debut with London store"
+      "titleZh": "Edikted 伦敦店首次亮相欧洲"
     },
     {
       "title": "Inside the Odd&mdash;and Oddly Human&mdash;Work of Teaching AI to Talk",
@@ -97,7 +1501,24 @@
       "snippet": "",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Inside the Odd&mdash;and Oddly Human&mdash;Work of Teaching AI to Talk"
+      "titleZh": "教人工智能说话的奇怪且奇怪的人类工作的内部"
+    },
+    {
+      "title": "HISA: Efficient Hierarchical Indexing for Fine-Grained Sparse Attention",
+      "link": "https://arxiv.org/abs/2603.28458",
+      "pubDate": "Mon, 30 Mar 2026 09:59:51 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "Token-level sparse attention mechanisms, exemplified by DeepSeek Sparse Attention (DSA), achieve fine-grained key selection by scoring every historical token for each query using a lightweight indexer",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "HISA：用于细粒度稀疏注意力的高效分层索引"
     },
     {
       "title": "AI has led some employers like L'Oréal to return to in-person assessments during recruiting, as senior HR leaders see a steep rise in AI-generated applications",
@@ -114,7 +1535,7 @@
       "snippet": "Bethan Staton / Financial Times:\nAI has led some employers like L'Oréal to return to in-person assessments during recruiting, as senior HR leaders see a steep rise in AI-generated applications  —  Emp",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "AI has led some employers like L'Oréal to return to in-person assessments during recruiting, as senior HR leaders see a steep rise in AI-generated applications"
+      "titleZh": "人工智能已导致欧莱雅等一些雇主在招聘过程中回归面对面评估，因为高级人力资源主管看到人工智能生成的应用程序急剧增加"
     },
     {
       "title": "The IRS Wants Smarter Audits. Palantir Could Help Decide Who Gets Flagged",
@@ -131,7 +1552,7 @@
       "snippet": "Documents show the tax agency is testing a Palantir tool to surface “highest-value” audit and investigation targets from a maze of legacy systems.",
       "section": "intl_retail",
       "originalSection": "intl_ai",
-      "titleZh": "The IRS Wants Smarter Audits. Palantir Could Help Decide Who Gets Flagged"
+      "titleZh": "美国国税局希望进行更智能的审计。 Palantir 可以帮助确定谁会被标记"
     },
     {
       "title": "Forterro CEO: AI-driven Fears an Overreaction",
@@ -148,7 +1569,7 @@
       "snippet": "",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Forterro CEO: AI-driven Fears an Overreaction"
+      "titleZh": "Forterro首席执行官：人工智能驱动担心反应过度"
     },
     {
       "title": "Some thoughts about companies and people in San Francisco adapting to AI workflows, AI's sycophancy, \"cognitive offloading\" and \"cognitive surrender\", and more",
@@ -165,7 +1586,7 @@
       "snippet": "Ezra Klein / New York Times:\nSome thoughts about companies and people in San Francisco adapting to AI workflows, AI's sycophancy, “cognitive offloading” and “cognitive surrender”, and more  —  In his ",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Some thoughts about companies and people in San Francisco adapting to AI workflows, AI's sycophancy, \"cognitive offloading\" and \"cognitive surrender\", and more"
+      "titleZh": "关于旧金山公司和人们适应人工智能工作流程、人工智能的阿谀奉承、“认知卸载”和“认知投降”等的一些想法"
     },
     {
       "title": "Retail’s hidden margin risk isn’t external, it’s operational",
@@ -182,7 +1603,7 @@
       "snippet": "Small financial inconsistencies at scale are quietly compounding into material loss.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Retail’s hidden margin risk isn’t external, it’s operational"
+      "titleZh": "零售业的隐性保证金风险不是外部的，而是可操作的"
     },
     {
       "title": "The grocery tech breakthrough happening at regional retailers",
@@ -199,7 +1620,7 @@
       "snippet": "The biggest advances in grocery tech are coming from unified platforms, not bigger budgets.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "The grocery tech breakthrough happening at regional retailers"
+      "titleZh": "区域零售商发生杂货技术突破"
     },
     {
       "title": "Selfridges pulls globe from sale after complaints over Israel labelling",
@@ -216,7 +1637,7 @@
       "snippet": "Selfridges has removed a globe from sale after customers complained that the product appeared to omit Israel, while labelling Palestine in capital letters. The illuminated rotating globe had been on s",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Selfridges pulls globe from sale after complaints over Israel labelling"
+      "titleZh": "因以色列标签遭到投诉，塞尔福里奇百货公司 (Selfridges) 停止销售“地球仪”"
     },
     {
       "title": "Paris-based AI startup Mistral raised $830M in its debut debt financing to build Nvidia-powered data centers across Europe; Mistral plans to spend €4B in total",
@@ -233,7 +1654,7 @@
       "snippet": "Tim Bradshaw / Financial Times:\nParis-based AI startup Mistral raised $830M in its debut debt financing to build Nvidia-powered data centers across Europe; Mistral plans to spend €4B in total  —  Fren",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Paris-based AI startup Mistral raised $830M in its debut debt financing to build Nvidia-powered data centers across Europe; Mistral plans to spend €4B in total"
+      "titleZh": "总部位于巴黎的人工智能初创公司 Mistral 在首次债务融资中筹集了 8.3 亿美元，用于在欧洲各地建设由 Nvidia 驱动的数据中心；米斯特拉尔计划总共花费 €4B"
     },
     {
       "title": "DeepSeek's chatbot suffered a major outage of over seven hours in China, its biggest outage since debut in 2025 and an unusual downtime for a globally used app",
@@ -250,7 +1671,7 @@
       "snippet": "Bloomberg:\nDeepSeek's chatbot suffered a major outage of over seven hours in China, its biggest outage since debut in 2025 and an unusual downtime for a globally used app  —  DeepSeek's chatbot suffer",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "DeepSeek's chatbot suffered a major outage of over seven hours in China, its biggest outage since debut in 2025 and an unusual downtime for a globally used app"
+      "titleZh": "DeepSeek 的聊天机器人在中国遭遇了长达 7 个多小时的重大停机，这是自 2025 年首次亮相以来最严重的一次停机，对于一款全球使用的应用程序来说，这是一次不寻常的停机"
     },
     {
       "title": "New Look to open largest concept store at Metrocentre as omnichannel push gathers pace",
@@ -267,7 +1688,7 @@
       "snippet": "New Look will open its largest concept store at Metrocentre in a new 11,000 sq ft space, marking the latest step in the fashion retailer’s evolving omnichannel strategy. The new store will be located ",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "New Look to open largest concept store at Metrocentre as omnichannel push gathers pace"
+      "titleZh": "全渠道推广步伐加快，New Look 将在 Metrocentre 开设最大概念店"
     },
     {
       "title": "Goldman CIO Marco Argenti on the Warp-Speed Improvements in AI | Odd Lots",
@@ -284,7 +1705,24 @@
       "snippet": "",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Goldman CIO Marco Argenti on the Warp-Speed Improvements in AI | Odd Lots"
+      "titleZh": "高盛首席信息官 Marco Argenti 谈人工智能的飞速改进 |零股"
+    },
+    {
+      "title": "Kernel-Smith: A Unified Recipe for Evolutionary Kernel Optimization",
+      "link": "https://arxiv.org/abs/2603.28342",
+      "pubDate": "Mon, 30 Mar 2026 08:12:49 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "We present Kernel-Smith, a framework for high-performance GPU kernel and operator generation that combines a stable evaluation-driven evolutionary agent with an evolution-oriented post-training recipe",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Kernel-Smith：进化内核优化的统一方法"
     },
     {
       "title": "European Bank Stocks to Snap Record Quarterly Run on Iran, AI",
@@ -301,7 +1739,7 @@
       "snippet": "",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "European Bank Stocks to Snap Record Quarterly Run on Iran, AI"
+      "titleZh": "欧洲银行股因伊朗和人工智能而创纪录季度涨幅"
     },
     {
       "title": "The Enterprise’s New Hire Is an AI Agent",
@@ -318,7 +1756,7 @@
       "snippet": "The intersection of enterprise AI and The Prompt Economy continues to be a busy one. Any executive who feels like they’re dealing with a whole new set of employees disguised as AI agents would be forg",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "The Enterprise’s New Hire Is an AI Agent"
+      "titleZh": "企业新员工是人工智能代理"
     },
     {
       "title": "Odd Lots: Goldman’s Argenti on the Improvements in AI (Podcast)",
@@ -335,7 +1773,7 @@
       "snippet": "",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Odd Lots: Goldman’s Argenti on the Improvements in AI (Podcast)"
+      "titleZh": "奇怪的事情：高盛的 Argenti 谈人工智能的改进（播客）"
     },
     {
       "title": "Asda boss hits back at government over fuel pricing claims as petrol costs climb",
@@ -352,7 +1790,7 @@
       "snippet": "Asda executive chairman Allan Leighton has pushed back against claims that petrol retailers are profiteering, as UK fuel prices climb to their highest level in almost two years. The comments come afte",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Asda boss hits back at government over fuel pricing claims as petrol costs climb"
+      "titleZh": "随着汽油成本上涨，阿斯达老板回击政府关于燃油定价的主张"
     },
     {
       "title": "AllSaints names former Zalando exec Nichole Strydom as chief merchant",
@@ -369,7 +1807,7 @@
       "snippet": "AllSaints has appointed Nichole Strydom as its new chief merchant, with the fashion retailer confirming she will join the business on 5 May 2026. Strydom brings more than two decades of experience in ",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "AllSaints names former Zalando exec Nichole Strydom as chief merchant"
+      "titleZh": "AllSaints 任命前 Zalando 高管 Nichole Strydom 为首席商人"
     },
     {
       "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
@@ -385,7 +1823,7 @@
       "snippet": "Comments",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models"
+      "titleZh": "Hamilton-Jacobi-Bellman 方程：强化学习和扩散模型"
     },
     {
       "title": "M&S makes US fashion store debut through Nordstrom tie-up",
@@ -402,7 +1840,7 @@
       "snippet": "Marks & Spencer is making its US fashion in-store debut through a new partnership with Nordstrom, as it looks to build brand awareness and scale its international wholesale model. The launch begins to",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "M&S makes US fashion store debut through Nordstrom tie-up"
+      "titleZh": "M&S 通过与 Nordstrom 合作在美国开设时装店"
     },
     {
       "title": "I am definitely missing the pre-AI writing era",
@@ -418,7 +1856,7 @@
       "snippet": "Comments",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "I am definitely missing the pre-AI writing era"
+      "titleZh": "我绝对怀念前人工智能写作时代"
     },
     {
       "title": "Debenhams Group powers past guidance as marketplace pivot pays off",
@@ -435,7 +1873,7 @@
       "snippet": "Debenhams Group has reported adjusted EBITDA of £53m for the year to 28 February 2026, comfortably ahead of previous guidance, as its turnaround strategy continued to gather momentum. The online retai",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Debenhams Group powers past guidance as marketplace pivot pays off"
+      "titleZh": "随着市场重心的转变，德本汉姆集团 (Debenhams Group) 为过去的指引提供支持"
     },
     {
       "title": "Argos sees 10x TikTok view uplift with Kurupt FM-led ‘Stockroom Rave’ campaign",
@@ -452,7 +1890,7 @@
       "snippet": "Argos has reported a major spike in TikTok performance after launching a music-led social campaign built around a surprise “stockroom rave” concept. The retailer said three campaign assets created for",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Argos sees 10x TikTok view uplift with Kurupt FM-led ‘Stockroom Rave’ campaign"
+      "titleZh": "Kurupt FM 主导的“Stockroom Rave”活动让 Argos 的 TikTok 浏览量提升了 10 倍"
     },
     {
       "title": "B&Q opens first ever standalone TradePoint store in Barking",
@@ -469,7 +1907,7 @@
       "snippet": "B&Q has opened its first ever standalone TradePoint store in Barking, marking a significant expansion of its trade-focused offer beyond the dedicated counters and in-store areas currently housed withi",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "B&Q opens first ever standalone TradePoint store in Barking"
+      "titleZh": "百安居 (B&Q) 在 Barking 开设首家独立 TradePoint 商店"
     },
     {
       "title": "Big retailers warn guaranteed hours reforms could put UK retail jobs at risk",
@@ -486,7 +1924,7 @@
       "snippet": "More than half of retail roles could be affected by upcoming reforms to guaranteed working hours, with major retailers warning the changes risk making it harder to offer flexible part-time jobs across",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Big retailers warn guaranteed hours reforms could put UK retail jobs at risk"
+      "titleZh": "大型零售商警告说，保障工时改革可能会使英国零售业就业面临风险"
     },
     {
       "title": "对话原力灵机唐文斌：我不喜欢讲我不信的话，也无法成为我不想成为的人",
@@ -519,7 +1957,7 @@
       "snippet": "JD Sports has launched its 2026 main brand campaign across the UK and Ireland in partnership with Edison Media, marking the agency’s first full main brand brief for the retailer. The three-phase campa",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "JD Sports rolls out 2026 brand campaign across UK and Ireland"
+      "titleZh": "JD Sports 在英国和爱尔兰推出 2026 年品牌活动"
     },
     {
       "title": "商务部：支持房车露营等休闲消费，积极拓展低空消费",
@@ -551,7 +1989,7 @@
       "snippet": "Comments",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "AI and bots have officially taken over the internet"
+      "titleZh": "人工智能和机器人已经正式接管互联网"
     },
     {
       "title": "Guess taps Stray Kids star Hyunjin for latest spring/summer 2026 campaign drop",
@@ -568,7 +2006,7 @@
       "snippet": "Guess has unveiled the second drop of its global spring/summer 2026 advertising campaign, with Stray Kids member Hyunjin fronting the brand’s latest push to refresh its denim heritage for a new genera",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Guess taps Stray Kids star Hyunjin for latest spring/summer 2026 campaign drop"
+      "titleZh": "Guess 聘请 Stray Kids 明星 Hyunjin 担任 2026 年春夏最新广告系列"
     },
     {
       "title": "ClawBench：智谱、字节、小米共有4款模型跻身全球前十",
@@ -617,7 +2055,7 @@
       "snippet": "European retailers are heading into a fresh period of energy market turmoil and geopolitical uncertainty from an already weakened position, with new data showing corporate distress across the sector r",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "European retailers face fresh pressure as corporate distress climbs above pre-Ukraine crisis levels"
+      "titleZh": "随着企业困境攀升至乌克兰危机前的水平，欧洲零售商面临新的压力"
     },
     {
       "title": "Home brands target renters as ownership remains out of reach for many",
@@ -634,7 +2072,7 @@
       "snippet": "Homeownership is getting less and less achievable by the year, especially for young people, leading home furniture and decor brands to change their marketing strategies.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Home brands target renters as ownership remains out of reach for many"
+      "titleZh": "家居品牌瞄准租房者，因为对许多人来说，拥有房产仍然遥不可及"
     },
     {
       "title": "E.l.f. Beauty’s chief digital officer shares her strategy for the AI era",
@@ -651,7 +2089,7 @@
       "snippet": "In an interview with Modern Retail, E.l.f. Beauty's chief digital officer, Ekta Chopra, shared the four pillars that guide the beauty brand's approach to AI implementation.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "E.l.f. Beauty’s chief digital officer shares her strategy for the AI era"
+      "titleZh": "E.l.f.美妆首席数字官分享AI时代战略"
     },
     {
       "title": "Ex-OpenAI's Kass: AI Is Going to Make a Lot of Winners",
@@ -668,7 +2106,7 @@
       "snippet": "",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Ex-OpenAI's Kass: AI Is Going to Make a Lot of Winners"
+      "titleZh": "前 OpenAI 的 Kass：人工智能将创造很多赢家"
     },
     {
       "title": "DeepSeek 12-hour outage leaves millions cut off, sparks complaints as rivals gain ground",
@@ -685,7 +2123,7 @@
       "snippet": "Chinese artificial intelligence start-up DeepSeek suffered a prolonged outage overnight that extended into early Monday morning, disrupting service for hundreds of millions of users, according to a co",
       "section": "domestic_ai",
       "originalSection": "domestic_ai",
-      "titleZh": "DeepSeek 12-hour outage leaves millions cut off, sparks complaints as rivals gain ground"
+      "titleZh": "DeepSeek 12 小时中断导致数百万人断网，随着竞争对手的崛起引发抱怨"
     },
     {
       "title": "领益智造：2026年将加速AI终端、人形机器人、AI服务器、汽车及低空经济等新赛道布局",
@@ -718,7 +2156,7 @@
       "snippet": "Wall Street Journal:\nAn analysis of four large private-credit funds finds an average of ~25% software share exposure, above the ~19% disclosed, amid investor concerns on SaaS stocks  —  Analysis by th",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "An analysis of four large private-credit funds finds an average of ~25% software share exposure, above the ~19% disclosed, amid investor concerns on SaaS stocks"
+      "titleZh": "对四家大型私募信贷基金的分析发现，由于投资者对 SaaS 股票的担忧，平均约 25% 的软件股票敞口高于披露的约 19%"
     },
     {
       "title": "Why OpenAI really shut down Sora",
@@ -731,10 +2169,10 @@
         "AI startups",
         "funding"
       ],
-      "snippet": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own",
+      "snippet": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public, raised immediate suspicions. The app had invited users to upload their ow",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Why OpenAI really shut down Sora"
+      "titleZh": "为什么 OpenAI 真的关闭了 Sora"
     },
     {
       "title": "智元第10000台通用具身机器人下线",
@@ -767,7 +2205,7 @@
       "snippet": "Wall Street Journal:\nInside the rise and fall of OpenAI's Sora, whose team worked separately from its core research team, as it shuts down Sora and redirects compute to other tasks  —  When Sam Altman",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Inside the rise and fall of OpenAI's Sora, whose team worked separately from its core research team, as it shuts down Sora and redirects compute to other tasks"
+      "titleZh": "OpenAI 的 Sora 的兴衰内部，其团队与其核心研究团队分开工作，关闭了 Sora 并将计算重定向到其他任务"
     },
     {
       "title": "Inside the rise and fall of Sora, whose team worked separately from OpenAI's core research team, as OpenAI shuts down Sora and redirects compute to other tasks",
@@ -784,7 +2222,24 @@
       "snippet": "Wall Street Journal:\nInside the rise and fall of Sora, whose team worked separately from OpenAI's core research team, as OpenAI shuts down Sora and redirects compute to other tasks  —  When Sam Altman",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Inside the rise and fall of Sora, whose team worked separately from OpenAI's core research team, as OpenAI shuts down Sora and redirects compute to other tasks"
+      "titleZh": "Sora 的兴衰内部，其团队与 OpenAI 的核心研究团队分开工作，OpenAI 关闭了 Sora 并将计算重定向到其他任务"
+    },
+    {
+      "title": "MolmoPoint: Better Pointing for VLMs with Grounding Tokens",
+      "link": "https://arxiv.org/abs/2603.28069",
+      "pubDate": "Mon, 30 Mar 2026 02:15:06 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "Grounding has become a fundamental capability of vision-language models (VLMs). Most existing VLMs point by generating coordinates as part of their text output, which requires learning a complicated c",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "MolmoPoint：使用接地令牌更好地指向 VLM"
     },
     {
       "title": "DeepSeek Probes Hours-Long AI Outage After Users Report Errors",
@@ -801,7 +2256,7 @@
       "snippet": "",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "DeepSeek Probes Hours-Long AI Outage After Users Report Errors"
+      "titleZh": "DeepSeek 在用户报告错误后调查长达数小时的 AI 中断"
     },
     {
       "title": "AI Takes On the Spam Call Epidemic",
@@ -818,7 +2273,7 @@
       "snippet": "Every day, millions of consumers feel their phones buzz with yet another spam call, a problem that continues to grow despite years of regulation and filtering tools. According to the U.S. Public Inter",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "AI Takes On the Spam Call Epidemic"
+      "titleZh": "人工智能应对垃圾电话盛行"
     },
     {
       "title": "Midjourney CEO David Holz says the company's revenue \"significantly surpassed\" $200M in 2023, and has \"gone up\" since then, despite its declining web traffic",
@@ -835,7 +2290,7 @@
       "snippet": "Jemima McEvoy / The Information:\nMidjourney CEO David Holz says the company's revenue “significantly surpassed” $200M in 2023, and has “gone up” since then, despite its declining web traffic  —  Over ",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Midjourney CEO David Holz says the company's revenue \"significantly surpassed\" $200M in 2023, and has \"gone up\" since then, despite its declining web traffic"
+      "titleZh": "Midjourney 首席执行官 David Holz 表示，尽管网络流量下降，但该公司的收入在 2023 年“大幅超过”2 亿美元，并且自那时以来一直在“上升”"
     },
     {
       "title": "Klarna Vets’ Galdera Raises $1.7 Million for AI Financial Modeling",
@@ -852,7 +2307,7 @@
       "snippet": "Galdera, a financial modeling startup founded by veterans of Klarna, is debuting with $1.7 million in pre-seed funding.  The company, whose name comes from the Basque word for “question,” announced it",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Klarna Vets’ Galdera Raises $1.7 Million for AI Financial Modeling"
+      "titleZh": "Klarna Vets 的 Galdera 为人工智能财务建模筹集了 170 万美元"
     },
     {
       "title": "「微元合成」获3亿元A+轮融资，联合发布AI生物计算开放合作平台 | 36氪首发",
@@ -885,7 +2340,7 @@
       "snippet": "Goldman Sachs wants U.K. small businesses to embrace artificial intelligence.  The banking giant held a gathering last week in Birmingham to instruct small businesses on the dangers of ignoring AI, Bl",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Former UK PM, Now Goldman Adviser, Says Small Businesses Can’t Ignore AI"
+      "titleZh": "英国前首相、现任高盛顾问表示，小企业不能忽视人工智能"
     },
     {
       "title": "Anthropic’s Claude Sees Surge in Subscriptions",
@@ -902,7 +2357,7 @@
       "snippet": "Anthropic’s artificial intelligence tool is reportedly enjoying record levels of popularity among consumers.  That’s according to a report Saturday (March 28) from TechCrunch, based on an examination ",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Anthropic’s Claude Sees Surge in Subscriptions"
+      "titleZh": "Anthropic 的克劳德看到订阅量激增"
     },
     {
       "title": "Pro-AI group Innovation Council Action, praised by David Sacks, plans to spend $100M+ in the US midterms to drive deregulation and support Trump's AI agenda",
@@ -919,7 +2374,7 @@
       "snippet": "Alex Isenstadt / Axios:\nPro-AI group Innovation Council Action, praised by David Sacks, plans to spend $100M+ in the US midterms to drive deregulation and support Trump's AI agenda  —  A new pro-AI po",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Pro-AI group Innovation Council Action, praised by David Sacks, plans to spend $100M+ in the US midterms to drive deregulation and support Trump's AI agenda"
+      "titleZh": "受到 David Sacks 赞扬的支持人工智能组织创新委员会行动计划在美国中期选举中花费 1 亿多美元来推动放松管制并支持特朗普的人工智能议程"
     },
     {
       "title": "Apple Centering AI Plans on App Store and Hardware",
@@ -936,7 +2391,7 @@
       "snippet": "Apple is reportedly focused on hardware and services as its rivals pull ahead in artificial intelligence.  That’s according to Bloomberg News’ Mark Gurman, who made his case Sunday (March 29) in his r",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Apple Centering AI Plans on App Store and Hardware"
+      "titleZh": "苹果将​​人工智能计划集中在应用商店和硬件上"
     },
     {
       "title": "ChatGPT won't let you type until Cloudflare reads your React state",
@@ -952,7 +2407,7 @@
       "snippet": "Comments",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "ChatGPT won't let you type until Cloudflare reads your React state"
+      "titleZh": "在 Cloudflare 读取您的 React 状态之前，ChatGPT 不会让您输入内容"
     },
     {
       "title": "Apple Recruits Google Shopping Exec to Lead AI Marketing",
@@ -969,7 +2424,24 @@
       "snippet": "Apple has picked a former Google executive to run its artificial intelligence marketing effort.  As Reuters reported Friday (March 27), Lilian Rincon, who had spent nine years with Google heading its ",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Apple Recruits Google Shopping Exec to Lead AI Marketing"
+      "titleZh": "苹果聘请谷歌购物高管领导人工智能营销"
+    },
+    {
+      "title": "ImagenWorld: Stress-Testing Image Generation Models with Explainable Human Evaluation on Open-ended Real-World Tasks",
+      "link": "https://arxiv.org/abs/2603.27862",
+      "pubDate": "Sun, 29 Mar 2026 16:42:05 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "Advances in diffusion, autoregressive, and hybrid models have enabled high-quality image synthesis for tasks such as text-to-image, editing, and reference-guided composition. Yet, existing benchmarks ",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "ImagenWorld：对开放式现实世界任务进行可解释的人类评估的压力测试图像生成模型"
     },
     {
       "title": "Sora’s shutdown could be a reality check moment for AI video",
@@ -985,7 +2457,7 @@
       "snippet": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Sora’s shutdown could be a reality check moment for AI video"
+      "titleZh": "Sora 的关闭可能是人工智能视频的现实检验时刻"
     },
     {
       "title": "OpenAI's Sam Altman and Science VP Kevin Weil hype AI-assisted dog cancer story ignoring there's no proof the vaccine worked",
@@ -1001,7 +2473,7 @@
       "snippet": "An Australian AI consultant used ChatGPT, AlphaFold, and Grok to find a possible treatment for his dog Rosie's incurable cancer. The story went viral after high-profile AI executives like OpenAI's Gre",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "OpenAI's Sam Altman and Science VP Kevin Weil hype AI-assisted dog cancer story ignoring there's no proof the vaccine worked"
+      "titleZh": "OpenAI 的 Sam Altman 和科学副总裁 Kevin Weil 炒作人工智能辅助狗患癌症的故事，却忽视了没有证据表明疫苗有效"
     },
     {
       "title": "Eli Lilly signs $2.75 billion deal with AI drug developer Insilico Medicine",
@@ -1017,7 +2489,24 @@
       "snippet": "US pharmaceutical giant Eli Lilly is betting big on AI-driven drug development, signing a $2.75 billion deal with Hong Kong-listed Insilico Medicine.\nThe article Eli Lilly signs $2.75 billion deal wit",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Eli Lilly signs $2.75 billion deal with AI drug developer Insilico Medicine"
+      "titleZh": "礼来公司与人工智能药物开发商 Insilico Medicine 签署 27.5 亿美元协议"
+    },
+    {
+      "title": "MuSEAgent: A Multimodal Reasoning Agent with Stateful Experiences",
+      "link": "https://arxiv.org/abs/2603.27813",
+      "pubDate": "Sun, 29 Mar 2026 14:54:31 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "Research agents have recently achieved significant progress in information seeking and synthesis across heterogeneous textual and visual sources. In this paper, we introduce MuSEAgent, a multimodal re",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "MuSEAgent：具有状态体验的多模式推理代理"
     },
     {
       "title": "MetaClaw framework trains AI agents while you're in meetings by checking your Google Calendar",
@@ -1033,7 +2522,24 @@
       "snippet": "Researchers from four US universities have built a framework that improves AI agents during operation. It checks the user's Google calendar to figure out when to train.\nThe article MetaClaw framework ",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "MetaClaw framework trains AI agents while you're in meetings by checking your Google Calendar"
+      "titleZh": "MetaClaw 框架可在您开会时通过检查您的 Google 日历来训练 AI 代理"
+    },
+    {
+      "title": "AI 进了游戏公司，但还没开始改变游戏丨GDC 现场大讨论",
+      "link": "https://www.latepost.com/news/dj_detail?id=3483",
+      "pubDate": "Sun, 29 Mar 2026 14:03:00 GMT",
+      "source": "晚点 LatePost",
+      "sourceUrl": "https://www.latepost.com",
+      "priority": 3,
+      "tags": [
+        "科技商业",
+        "深度报道",
+        "AI产业"
+      ],
+      "snippet": "时隔八个月，比利时游戏公司拉瑞安（Larian）创始人、《博德之门 3》制作人斯文·文克（Swen Vincke）说了同样的一句话，却引发了截然不同的反响。\n2025 年 4 月，他在一次采访中提到，团队会在开发中借助生成式 AI 做概念探索和脚本生成，当时没有引起波澜。到了 12 月，他再次提起类似的观点，迅速招致玩家和游戏从业者的抨击。随后，斯文·文克不得不公开澄清：项目组不会使用生成式 AI",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "AI 进了游戏公司，但还没开始改变游戏丨GDC 现场大讨论"
     },
     {
       "title": "Hong Kong-listed AI drug discovery company Insilico Medicine and Eli Lilly sign a drug co-development deal worth up to $2.75B, with $115M in upfront payments",
@@ -1050,7 +2556,7 @@
       "snippet": "Evelyn Cheng / CNBC:\nHong Kong-listed AI drug discovery company Insilico Medicine and Eli Lilly sign a drug co-development deal worth up to $2.75B, with $115M in upfront payments  —  BEIJING — U.S. ph",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Hong Kong-listed AI drug discovery company Insilico Medicine and Eli Lilly sign a drug co-development deal worth up to $2.75B, with $115M in upfront payments"
+      "titleZh": "香港上市的人工智能药物发现公司Insilico Medicine与礼来公司签署价值高达$2.75B的药物联合开发协议，预付款为1.15亿美元"
     },
     {
       "title": "AI sycophancy makes people less likely to apologize and more likely to double down, study finds",
@@ -1066,7 +2572,7 @@
       "snippet": "AI models tell people what they want to hear nearly 50 percent more often than other humans do. A new Science study shows this isn't just annoying: it makes people less willing to apologize, less like",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "AI sycophancy makes people less likely to apologize and more likely to double down, study finds"
+      "titleZh": "研究发现，人工智能的阿谀奉承使人们不太可能道歉，而更有可能加倍努力"
     },
     {
       "title": "科氪 | 变革传统同传设备，亮亮视野推出全球首创AR+AI会议翻译系统，部署中关村论坛",
@@ -1099,7 +2605,7 @@
       "snippet": "Isabelle Bousquette / Wall Street Journal:\nAn AI-generated TikTok parody of reality series Love Island, called Fruit Love Island, averaged 10M+ views across its first 21 episodes after debuting last w",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "An AI-generated TikTok parody of reality series Love Island, called Fruit Love Island, averaged 10M+ views across its first 21 episodes after debuting last week"
+      "titleZh": "由人工智能生成的 TikTok 恶搞真人秀节目《爱情岛》，名为《水果爱情岛》，上周首播后，前 21 集平均观看次数超过 1000 万次"
     },
     {
       "title": "面向生产的 AgentOps：小红书 AI Agent 应用工程化实践｜QCon北京",
@@ -1118,6 +2624,23 @@
       "titleZh": "面向生产的 AgentOps：小红书 AI Agent 应用工程化实践｜QCon北京"
     },
     {
+      "title": "PRBench: End-to-end Paper Reproduction in Physics Research",
+      "link": "https://arxiv.org/abs/2603.27646",
+      "pubDate": "Sun, 29 Mar 2026 07:44:57 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "AI agents powered by large language models exhibit strong reasoning and problem-solving capabilities, enabling them to assist scientific research tasks such as formula derivation and code generation. ",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "PRBench：物理研究中的端到端论文复制"
+    },
+    {
       "title": "Naver's \"Seoul World Model\" uses actual Street View data to stop AI from hallucinating entire cities",
       "link": "https://the-decoder.com/navers-seoul-world-model-uses-actual-street-view-data-to-stop-ai-from-hallucinating-entire-cities/",
       "pubDate": "Sun, 29 Mar 2026 06:46:57 +0000",
@@ -1131,7 +2654,7 @@
       "snippet": "South Korean internet giant Naver built a video world model grounded in actual city geometry from over a million of its own Street View images. The model generalizes to other cities without any fine-t",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Naver's \"Seoul World Model\" uses actual Street View data to stop AI from hallucinating entire cities"
+      "titleZh": "Naver 的“首尔世界模型”使用真实的街景数据来阻止 AI 产生整个城市的幻觉"
     },
     {
       "title": "Q&A with YouTube CEO Neal Mohan on the platform's dominance, its impact on kids, the suspension and reinstatement of Trump's YouTube account, AI slop, and more",
@@ -1148,7 +2671,7 @@
       "snippet": "Lulu Garcia-Navarro / New York Times:\nQ&A with YouTube CEO Neal Mohan on the platform's dominance, its impact on kids, the suspension and reinstatement of Trump's YouTube account, AI slop, and more  —",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Q&A with YouTube CEO Neal Mohan on the platform's dominance, its impact on kids, the suspension and reinstatement of Trump's YouTube account, AI slop, and more"
+      "titleZh": "与 YouTube 首席执行官尼尔·莫汉 (Neal Mohan) 就该平台的主导地位、对儿童的影响、特朗普 YouTube 帐户的暂停和恢复、人工智能问题等进行问答"
     },
     {
       "title": "Analysis: while social media rewards sensationalism and inflammatory content, LLMs guide people away from extreme positions and towards expert-aligned stances",
@@ -1165,7 +2688,7 @@
       "snippet": "John Burn-Murdoch / Financial Times:\nAnalysis: while social media rewards sensationalism and inflammatory content, LLMs guide people away from extreme positions and towards expert-aligned stances  —  ",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Analysis: while social media rewards sensationalism and inflammatory content, LLMs guide people away from extreme positions and towards expert-aligned stances"
+      "titleZh": "分析：虽然社交媒体奖励煽情和煽动性内容，但法学硕士引导人们远离极端立场并采取与专家一致的立场"
     },
     {
       "title": "A study of 11 leading LLMs finds the models more agreeable than humans when giving interpersonal advice, affirming users' behavior even when harmful or illegal",
@@ -1182,7 +2705,7 @@
       "snippet": "Stanford University:\nA study of 11 leading LLMs finds the models more agreeable than humans when giving interpersonal advice, affirming users' behavior even when harmful or illegal  —  What does it me",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "A study of 11 leading LLMs finds the models more agreeable than humans when giving interpersonal advice, affirming users' behavior even when harmful or illegal"
+      "titleZh": "一项针对 11 名领先法学硕士的研究发现，在提供人际建议、肯定用户的行为（即使是有害或非法的情况下）时，这些模型比人类更令人愉快"
     },
     {
       "title": "Vinod Khosla says AI is accelerating a shift of wealth and power away from workers, and an income tax overhaul in the US could offset voter fears about job loss",
@@ -1199,7 +2722,7 @@
       "snippet": "Financial Times:\nVinod Khosla says AI is accelerating a shift of wealth and power away from workers, and an income tax overhaul in the US could offset voter fears about job loss  —  Vinod Khosla says ",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Vinod Khosla says AI is accelerating a shift of wealth and power away from workers, and an income tax overhaul in the US could offset voter fears about job loss"
+      "titleZh": "维诺德·科斯拉表示，人工智能正在加速财富和权力从工人手中转移，美国的所得税改革可能会抵消选民对失业的担忧"
     },
     {
       "title": "Qualified Health, which helps health systems evaluate and adopt AI tools, raised a $125M Series B led by NEA at a valuation of between $500M and $1B",
@@ -1216,7 +2739,7 @@
       "snippet": "Heather Landi / Fierce Healthcare:\nQualified Health, which helps health systems evaluate and adopt AI tools, raised a $125M Series B led by NEA at a valuation of between $500M and $1B  —  Qualified He",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Qualified Health, which helps health systems evaluate and adopt AI tools, raised a $125M Series B led by NEA at a valuation of between $500M and $1B"
+      "titleZh": "Qualified Health 帮助卫生系统评估和采用人工智能工具，筹集了由 NEA 牵头的 1.25 亿美元 B 轮融资，估值在 5 亿美元至 1B 美元之间"
     },
     {
       "title": "A look at why Dotcom Bubble comparisons to the AI boom are off, vertical SaaS is up +3% last 12 months vs. horizontal SaaS down 35%, and other reflections on AI",
@@ -1233,7 +2756,7 @@
       "snippet": "Logan Bartlett / @loganbartlett:\nA look at why Dotcom Bubble comparisons to the AI boom are off, vertical SaaS is up +3% last 12 months vs. horizontal SaaS down 35%, and other reflections on AI  —  Th",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "A look at why Dotcom Bubble comparisons to the AI boom are off, vertical SaaS is up +3% last 12 months vs. horizontal SaaS down 35%, and other reflections on AI"
+      "titleZh": "看看为什么互联网泡沫与 AI 繁荣的比较有所不同，垂直 SaaS 在过去 12 个月中增长了 3%，而水平 SaaS 下降了 35%，以及对 AI 的其他反思"
     },
     {
       "title": "South Korean chip giants step up China investments to combat global AI memory shortage",
@@ -1250,7 +2773,7 @@
       "snippet": "Samsung Electronics and SK Hynix are stepping up investments in their China wafer fabs as they race to boost supply amid a tightening memory chip market driven by demand for artificial intelligence co",
       "section": "domestic_ai",
       "originalSection": "domestic_ai",
-      "titleZh": "South Korean chip giants step up China investments to combat global AI memory shortage"
+      "titleZh": "韩国芯片巨头加大对华投资应对全球人工智能内存短缺"
     },
     {
       "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
@@ -1266,7 +2789,24 @@
       "snippet": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Bluesky leans into AI with Attie, an app for building custom feeds"
+      "titleZh": "Bluesky 借助 Attie 进军人工智能领域，Attie 是一款用于构建自定义提要的应用程序"
+    },
+    {
+      "title": "On Token's Dilemma: Dynamic MoE with Drift-Aware Token Assignment for Continual Learning of Large Vision Language Models",
+      "link": "https://arxiv.org/abs/2603.27481",
+      "pubDate": "Sat, 28 Mar 2026 22:30:55 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "Multimodal Continual Instruction Tuning aims to continually enhance Large Vision Language Models (LVLMs) by learning from new data without forgetting previously acquired knowledge. Mixture of Experts ",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "关于 Token 的困境：具有漂移感知令牌分配的动态 MoE 用于大视觉语言模型的持续学习"
     },
     {
       "title": "AI infrastructure on the front line: Lessons for Asean from the Iran war",
@@ -1283,7 +2823,7 @@
       "snippet": "On March 1, after Israel and the United States initiated attacks against Iran, Amazon Web Services reported drone strikes against data centre facilities in the United Arab Emirates and Bahrain. The st",
       "section": "domestic_ai",
       "originalSection": "domestic_ai",
-      "titleZh": "AI infrastructure on the front line: Lessons for Asean from the Iran war"
+      "titleZh": "前线的人工智能基础设施：东盟从伊朗战争中吸取的教训"
     },
     {
       "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
@@ -1299,7 +2839,7 @@
       "snippet": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Stanford study outlines dangers of asking AI chatbots for personal advice"
+      "titleZh": "斯坦福大学的研究概述了向人工智能聊天机器人寻求个人建议的危险"
     },
     {
       "title": "Google's new Gemini API Agent Skill patches the knowledge gap AI models have with their own SDKs",
@@ -1315,7 +2855,7 @@
       "snippet": "AI models don't know about their own updates after training. Google's new \"Agent Skill\" shows how a simple fix can dramatically improve coding results.\nThe article Google's new Gemini API Agent Skill ",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Google's new Gemini API Agent Skill patches the knowledge gap AI models have with their own SDKs"
+      "titleZh": "谷歌新的 Gemini API Agent Skill 弥补了人工智能模型与自己的 SDK 之间的知识差距"
     },
     {
       "title": "Anthropic reportedly views itself as the antidote to OpenAI's \"tobacco industry\" approach to AI",
@@ -1331,7 +2871,7 @@
       "snippet": "Anthropic grew out of more than just concern for AI safety—it was born from a bitter power struggle and personal conflict at OpenAI. A report by Sam Altman biographer Keach Hagey reveals how personal ",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Anthropic reportedly views itself as the antidote to OpenAI's \"tobacco industry\" approach to AI"
+      "titleZh": "据报道，Anthropic 将自己视为 OpenAI“烟草业”人工智能方法的解药"
     },
     {
       "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
@@ -1347,7 +2887,7 @@
       "snippet": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch ",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Anthropic’s Claude popularity with paying consumers is skyrocketing"
+      "titleZh": "Anthropic 的克劳德在付费消费者中的受欢迎程度正在飙升"
     },
     {
       "title": "Alibaba to deploy AI ‘digital workforce’ for millions of merchants on Taobao, Tmall",
@@ -1364,7 +2904,7 @@
       "snippet": "Alibaba Group Holding is set to launch a new service that provides AI agents for millions of merchants on its Taobao and Tmall platforms, as the tech giant capitalises on the recent frenzy fuelled by ",
       "section": "domestic_ai",
       "originalSection": "domestic_ai",
-      "titleZh": "Alibaba to deploy AI ‘digital workforce’ for millions of merchants on Taobao, Tmall"
+      "titleZh": "阿里巴巴将为淘宝、天猫数百万商户部署人工智能“数字劳动力”"
     },
     {
       "title": "Meta's hyperagents improve at tasks and improve at improving",
@@ -1380,7 +2920,7 @@
       "snippet": "Researchers at Meta and several universities have developed \"hyperagents,\" AI systems that don't just solve tasks, but also optimize the very mechanism they use to get better. The approach works acros",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Meta's hyperagents improve at tasks and improve at improving"
+      "titleZh": "Meta 的超级代理在任务中改进并在改进中改进"
     },
     {
       "title": "「一人一天一部剧」时代降临，但AI短剧供给过剩不是末日｜专访巨日禄杰夫",
@@ -1412,7 +2952,7 @@
       "snippet": "OpenAI is pulling the plug on Sora, its AI video generation tool, in a two-stage shutdown starting April 2026. The move signals a major strategic shift away from creative AI tools and toward coding an",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "OpenAI sets two-stage Sora shutdown with app closing April 2026 and API following in September"
+      "titleZh": "OpenAI 设置两阶段 Sora 关闭，应用程序将于 2026 年 4 月关闭，API 将于 9 月关闭"
     },
     {
       "title": "Anthropic's new data shows AI skill builds over time, and that could widen the inequality gap",
@@ -1428,7 +2968,7 @@
       "snippet": "Anthropic's second Economic Index tracks how Claude usage is evolving across the economy. One key finding: the longer people use the AI model, the better their results get. That could widen existing i",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Anthropic's new data shows AI skill builds over time, and that could widen the inequality gap"
+      "titleZh": "Anthropic 的新数据显示人工智能技能随着时间的推移而增强，这可能会扩大不平等差距"
     },
     {
       "title": "Modern Retail Podcast:  Inside David’s Bridal’s post-bankruptcy turnaround",
@@ -1445,7 +2985,7 @@
       "snippet": "Modern Retail Podcast co-host Melissa Daniels sits down with David's Bridal CEO Kelly Cook to go behind the scenes of the company's post-bankruptcy turnaround plan.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Modern Retail Podcast:  Inside David’s Bridal’s post-bankruptcy turnaround"
+      "titleZh": "现代零售播客：大卫的新娘破产后扭亏为盈的内部"
     },
     {
       "title": "AI Research Is Getting Harder to Separate From Geopolitics",
@@ -1462,7 +3002,41 @@
       "snippet": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "AI Research Is Getting Harder to Separate From Geopolitics"
+      "titleZh": "人工智能研究越来越难以与地缘政治分开"
+    },
+    {
+      "title": "Story2Proposal: A Scaffold for Structured Scientific Paper Writing",
+      "link": "https://arxiv.org/abs/2603.27065",
+      "pubDate": "Fri, 27 Mar 2026 20:46:14 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "Generating scientific manuscripts requires maintaining alignment between narrative reasoning, experimental evidence, and visual artifacts across the document lifecycle. Existing language-model generat",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Story2Proposal：结构化科学论文写作的支架"
+    },
+    {
+      "title": "MOOZY: A Patient-First Foundation Model for Computational Pathology",
+      "link": "https://arxiv.org/abs/2603.27048",
+      "pubDate": "Fri, 27 Mar 2026 19:33:33 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "Computational pathology needs whole-slide image (WSI) foundation models that transfer across diverse clinical tasks, yet current approaches remain largely slide-centric, often depend on private data a",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "MOOZY：患者至上的计算病理学基础模型"
     },
     {
       "title": "1.9 万行 Claude 写的代码进入 Node.js 核心库！社区当场吵翻天，反对者呼吁封杀AI代码",
@@ -1495,7 +3069,7 @@
       "snippet": "Japanese lifestyle brand Uniqlo and tennis legend Roger Federer have launched a Spring/Summer collection, inspired by the tennis players style. The launch event was hosted yesterday (26 March) at the ",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Roger Federer and Clare Waight Keller break down their Uniqlo collection"
+      "titleZh": "罗杰·费德勒 (Roger Federer) 和克莱尔·维特·凯勒 (Clare Waight Keller) 剖析他们的优衣库系列"
     },
     {
       "title": "AI 已能写 80% 代码，但 Agent 也有致命短板！OpenAI Codex 技术总监：问错了，比不会写更麻烦",
@@ -1528,7 +3102,7 @@
       "snippet": "The combined entity will give a “streamlined reporting structure,” and enable collaboration. Meanwhile, the retailer posted flat Q4 sales and a comps drop.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Designer Brands brings together US, Canada retail businesses"
+      "titleZh": "Designer Brands 汇集了美国、加拿大零售企业"
     },
     {
       "title": "Shoe Carnival scales back rebrand",
@@ -1545,7 +3119,7 @@
       "snippet": "In some areas customers didn’t react well to merchandising changes after stores were converted to the Shoe Station banner.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Shoe Carnival scales back rebrand"
+      "titleZh": "鞋履嘉年华缩减品牌重塑规模"
     },
     {
       "title": "VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
@@ -1561,7 +3135,7 @@
       "snippet": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby ",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?"
+      "titleZh": "风险投资家在人工智能的下一波浪潮上押注数十亿美元，那么为什么 OpenAI 会杀死 Sora？"
     },
     {
       "title": "Manufacturers brace for price increases from Strait of Hormuz closure",
@@ -1578,7 +3152,7 @@
       "snippet": "Crude oil prices have surged 47% this month and polypropylene jumped 24%, affecting transportation and plastics costs.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Manufacturers brace for price increases from Strait of Hormuz closure"
+      "titleZh": "制造商为霍尔木兹海峡关闭带来的价格上涨做好准备"
     },
     {
       "title": "The Weekly Closeout: Gabe’s in search of top leadership and Home Depot’s latest acquisition",
@@ -1595,7 +3169,7 @@
       "snippet": "After avoiding bankruptcy, the off-pricer’s CEO and a few CFOs have left. Meanwhile, the home improvement retailer bought Mingledorff’s.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "The Weekly Closeout: Gabe’s in search of top leadership and Home Depot’s latest acquisition"
+      "titleZh": "每周收尾：加布正在寻找最高领导层和家得宝的最新收购"
     },
     {
       "title": "Apple Still Plans to Sell iPhones When It Turns 100",
@@ -1612,7 +3186,7 @@
       "snippet": "As the tech giant turns 50, WIRED spoke to executives about how they plan to win in the AI era.",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Apple Still Plans to Sell iPhones When It Turns 100"
+      "titleZh": "苹果公司仍计划在 iPhone 100 周年之际销售 iPhone"
     },
     {
       "title": "In the age of AI, Home Depot’s stores have ‘never been more relevant’",
@@ -1629,7 +3203,7 @@
       "snippet": "While the retailer has been ramping up its AI-powered offerings, it aims to provide a frictionless experience across a customer’s shopping journey, wherever that may be.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "In the age of AI, Home Depot’s stores have ‘never been more relevant’"
+      "titleZh": "在人工智能时代，家得宝的商店“从未如此重要”"
     },
     {
       "title": "Fareway breaks ground on distribution center expansion",
@@ -1646,7 +3220,7 @@
       "snippet": "The Midwestern grocery chain expects the 105,000-square-foot freezer building expansion to help it better serve its stores in addition to laying the foundation for future investments in automation.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Fareway breaks ground on distribution center expansion"
+      "titleZh": "Fareway 配送中心扩建项目破土动工"
     },
     {
       "title": "The Friday Checkout: Will Dollar General’s new CEO make it more of a grocery destination?",
@@ -1663,7 +3237,7 @@
       "snippet": "With its appointment of a top Ahold Delhaize executive, the discounter is entrusting its future to a leader with decades of experience in the supermarket industry.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "The Friday Checkout: Will Dollar General’s new CEO make it more of a grocery destination?"
+      "titleZh": "周五结帐：Dollar General 的新任首席执行官会让它更像一个杂货目的地吗？"
     },
     {
       "title": "Asda reports 3.3% drop in total sales",
@@ -1680,7 +3254,7 @@
       "snippet": "Asda has recorded sales of £21 billion for 2025 (excluding fuel), down 3.3 per cent on 2024. The retailer has published its trading update today (March 27) for the year ending 31 December 2025 which s",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Asda reports 3.3% drop in total sales"
+      "titleZh": "Asda 报告总销售额下降 3.3%"
     },
     {
       "title": "Natural Grocers to staff all stores with health coaches",
@@ -1697,7 +3271,7 @@
       "snippet": "The coaches, who provide free nutrition education and personalized guidance, will soon be available at all 169 store locations.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Natural Grocers to staff all stores with health coaches"
+      "titleZh": "天然杂货店将为所有商店配备健康教练"
     },
     {
       "title": "OpenAI shuts down Sora while Meta gets shut out in court",
@@ -1713,7 +3287,7 @@
       "snippet": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby ",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "OpenAI shuts down Sora while Meta gets shut out in court"
+      "titleZh": "OpenAI 关闭了 Sora，Meta 在法庭上被拒"
     },
     {
       "title": "How to keep produce in growth mode",
@@ -1730,7 +3304,7 @@
       "snippet": "Retailers can engage shoppers by responding to the unique product preference in each market",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "How to keep produce in growth mode"
+      "titleZh": "如何保持农产品生长模式"
     },
     {
       "title": "Most grocers are passing tariff costs to customers",
@@ -1747,7 +3321,7 @@
       "snippet": "The industry also still feels pressure due to inflation, but most feel good overall about business",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Most grocers are passing tariff costs to customers"
+      "titleZh": "大多数杂货店将关税成本转嫁给顾客"
     },
     {
       "title": "Grocers enhance their focus on foodservice",
@@ -1764,7 +3338,24 @@
       "snippet": "Deli operators are targeting the restaurant customer for growth",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Grocers enhance their focus on foodservice"
+      "titleZh": "杂货商加强对餐饮服务的关注"
+    },
+    {
+      "title": "Think over Trajectories: Leveraging Video Generation to Reconstruct GPS Trajectories from Cellular Signaling",
+      "link": "https://arxiv.org/abs/2603.26610",
+      "pubDate": "Fri, 27 Mar 2026 13:07:13 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "Mobile devices continuously interact with cellular base stations, generating massive volumes of signaling records that provide broad coverage for understanding human mobility. However, such records of",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "思考轨迹：利用视频生成从蜂窝信号重建 GPS 轨迹"
     },
     {
       "title": "Top US AI conference apologises after sanctions policy sparks backlash in China",
@@ -1781,7 +3372,7 @@
       "snippet": "The organisers of a leading artificial intelligence conference have apologised after a new policy that appeared to bar US-sanctioned entities from participating sparked a backlash in China, saying the",
       "section": "domestic_ai",
       "originalSection": "domestic_ai",
-      "titleZh": "Top US AI conference apologises after sanctions policy sparks backlash in China"
+      "titleZh": "美国顶级人工智能会议在制裁政策引发中国强烈反对后道歉"
     },
     {
       "title": "OpenClaw effect: explosion in AI token use adds fuel to Chinese AI development",
@@ -1798,7 +3389,7 @@
       "snippet": "The recent nationwide frenzy to adopt OpenClaw, an open-source artificial intelligence agent, has pushed token use to new levels and given fresh momentum to China’s booming AI sector, according to ind",
       "section": "domestic_ai",
       "originalSection": "domestic_ai",
-      "titleZh": "OpenClaw effect: explosion in AI token use adds fuel to Chinese AI development"
+      "titleZh": "OpenClaw 效应：AI 代币使用爆炸式增长，为中国人工智能发展注入动力"
     },
     {
       "title": "Footasylum signs 20-year deal for upsized Manchester Arndale store",
@@ -1815,7 +3406,7 @@
       "snippet": "Footasylum has signed a new 20-year lease on the ground floor of Exchange Court, with the enlarged space officially opening today, 27 March. The 18,000 sq ft new-look site is expected to create a raft",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Footasylum signs 20-year deal for upsized Manchester Arndale store"
+      "titleZh": "Footasylum 签署为期 20 年的曼彻斯特阿戴尔店扩建协议"
     },
     {
       "title": "Retailers will cut entry-level roles as minimum wage changes bite, RSM warns",
@@ -1832,7 +3423,7 @@
       "snippet": "Almost a third of UK retailers are planning to reduce entry-level roles as changes to the national minimum wage come into force, according to new research from RSM UK. The survey found that 29 per cen",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Retailers will cut entry-level roles as minimum wage changes bite, RSM warns"
+      "titleZh": "RSM警告说，随着最低工资变化的影响，零售商将削减初级职位"
     },
     {
       "title": "China opens probes into US trading practices",
@@ -1849,7 +3440,7 @@
       "snippet": "The investigations reviewing potential disruptions to global supply chains and the trade of green products come as leaders of the two countries prepare to meet in May.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "China opens probes into US trading practices"
+      "titleZh": "中国对美国贸易行为展开调查"
     },
     {
       "title": "The Latest AI Documentary Asks: Just How Scared Should We Be?",
@@ -1866,7 +3457,7 @@
       "snippet": "The AI Doc: Or How I Became an Apocaloptimist seeks the middle ground on a polarizing technology—and ends up letting tech execs like Sam Altman off the hook.",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "The Latest AI Documentary Asks: Just How Scared Should We Be?"
+      "titleZh": "最新的人工智能纪录片问道：我们应该有多害怕？"
     },
     {
       "title": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
@@ -1883,7 +3474,7 @@
       "snippet": "Ads are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often"
+      "titleZh": "我问了 ChatGPT 500 个问题。这是我最常看到的广告"
     },
     {
       "title": "Sephora launches app in ChatGPT as it pilots AI-powered beauty shopping",
@@ -1900,7 +3491,7 @@
       "snippet": "Sephora has launched an app in ChatGPT as part of a new US pilot designed to bring personalised beauty advice, product discovery and, eventually, direct purchasing into the AI platform. The prestige b",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Sephora launches app in ChatGPT as it pilots AI-powered beauty shopping"
+      "titleZh": "丝芙兰在 ChatGPT 中推出应用程序，试点人工智能驱动的美容购物"
     },
     {
       "title": "On co-founders to become co-CEOs as Martin Hoffmann steps down",
@@ -1917,7 +3508,7 @@
       "snippet": "On has unveiled a fresh leadership shake-up after confirming that chief executive Martin Hoffmann will step down from the top job on 1 May, with co-founders David Allemann and Caspar Coppetti taking o",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "On co-founders to become co-CEOs as Martin Hoffmann steps down"
+      "titleZh": "马丁·霍夫曼 (Martin Hoffmann) 卸任后，联合创始人将担任联合首席执行官"
     },
     {
       "title": "EU to fine online marketplaces over unsafe imports in customs crackdown",
@@ -1934,7 +3525,7 @@
       "snippet": "The European Union has agreed a major overhaul of its customs regime that will allow regulators to fine online platforms selling unsafe or illegal goods into the bloc, in a move that raises the pressu",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "EU to fine online marketplaces over unsafe imports in customs crackdown"
+      "titleZh": "欧盟将在海关打击行动中对不安全进口产品的在线市场进行罚款"
     },
     {
       "title": "ABF’s Hovis deal clears Great Britain hurdle but faces Northern Ireland concerns",
@@ -1951,7 +3542,7 @@
       "snippet": "Associated British Foods’ planned acquisition of Hovis has cleared a major hurdle after the Competition and Markets Authority provisionally found the deal would not harm competition in Great Britain, ",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "ABF’s Hovis deal clears Great Britain hurdle but faces Northern Ireland concerns"
+      "titleZh": "ABF 的霍维斯交易清除了英国的障碍，但面临北爱尔兰的担忧"
     },
     {
       "title": "Temu owner PDD misses estimates as China competition and global uncertainty weigh on growth",
@@ -1968,7 +3559,7 @@
       "snippet": "Temu owner PDD Holdings has missed quarterly revenue and profit estimates, warning that fierce competition in China and growing global uncertainty will continue to put pressure on its business. The ec",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Temu owner PDD misses estimates as China competition and global uncertainty weigh on growth"
+      "titleZh": "由于中国竞争和全球不确定性影响增长，Temu 所有者 PDD 未达预期"
     },
     {
       "title": "Industry leaders sound alarm as February retail sales lost momentum",
@@ -1985,7 +3576,7 @@
       "snippet": "Retailers are being warned to prepare for continued volatility after the latest Office for National Statistics figures showed sales volumes fell 0.4 per cent in February, with industry experts pointin",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Industry leaders sound alarm as February retail sales lost momentum"
+      "titleZh": "2月份零售销售失去动力，行业领导者发出警报"
     },
     {
       "title": "What went wrong with ChatGPT’s Instant Checkout",
@@ -2002,7 +3593,7 @@
       "snippet": "OpenAI's pivot away from Instant Checkout within ChatGPT underscores that shoppers simply aren't ready to hand off the checkout experience to an AI agent. Modern Retail examines what went wrong and wh",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "What went wrong with ChatGPT’s Instant Checkout"
+      "titleZh": "ChatGPT 的即时结帐出了什么问题"
     },
     {
       "title": "Lowe’s wants to roll out personalized website to all customers by end of 2026",
@@ -2019,7 +3610,7 @@
       "snippet": "The humble e-commerce site is getting a major upgrade at Lowe’s. The company is expanding a feature that uses customer data to personalize its website and, essentially, hopes that all customers will h",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Lowe’s wants to roll out personalized website to all customers by end of 2026"
+      "titleZh": "Lowe's 希望到 2026 年底向所有客户推出个性化网站"
     },
     {
       "title": "Pony AI CEO: Middle East Market Remains a Priority",
@@ -2036,7 +3627,7 @@
       "snippet": "",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Pony AI CEO: Middle East Market Remains a Priority"
+      "titleZh": "小马AI CEO：中东市场仍是重点"
     },
     {
       "title": "Steno, which offers an AI-powered case transcript analysis tool for legal professionals, raised a $49M Series C led by Savano Capital Partners",
@@ -2053,7 +3644,7 @@
       "snippet": "Kyt Dotson / SiliconANGLE:\nSteno, which offers an AI-powered case transcript analysis tool for legal professionals, raised a $49M Series C led by Savano Capital Partners  —  Steno Agency Inc., a leade",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Steno, which offers an AI-powered case transcript analysis tool for legal professionals, raised a $49M Series C led by Savano Capital Partners"
+      "titleZh": "Steno 为法律专业人士提供人工智能驱动的案件笔录分析工具，筹集了由 Savano Capital Partners 领投的 4900 万美元 C 轮融资"
     },
     {
       "title": "特步：2025净利润同比增长10.8%，持续推进DTC转型",
@@ -2086,7 +3677,7 @@
       "snippet": "Sneha S K / Reuters:\nMiami-based telehealth company eMed raised a $200M Series A at a $2B+ valuation to advance its agentic AI platform and more; Tom Brady participated in the round  —  Telehealth fir",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Miami-based telehealth company eMed raised a $200M Series A at a $2B+ valuation to advance its agentic AI platform and more; Tom Brady participated in the round"
+      "titleZh": "总部位于迈阿密的远程医疗公司 eMed 以 2B+ 估值筹集了 2 亿美元的 A 轮融资，以推进其代理人工智能平台等；汤姆·布雷迪参加了本轮比赛"
     },
     {
       "title": "学而思学习机X5 Ultra经典款发布",
@@ -2183,7 +3774,7 @@
       "snippet": "",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Pony AI Breaks Even, Aims to Launch Robotaxis in 20 Cities"
+      "titleZh": "小马AI实现收支平衡，计划在20个城市推出机器人出租车"
     },
     {
       "title": "NY-based Blossom Health, which makes an \"AI copilot\" to augment psychiatrists' clinical decisions and automate office tasks, raised $20M in seed and Series A",
@@ -2200,7 +3791,7 @@
       "snippet": "Lily Mae Lazarus / Fortune:\nNY-based Blossom Health, which makes an “AI copilot” to augment psychiatrists' clinical decisions and automate office tasks, raised $20M in seed and Series A  —  Blossom He",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "NY-based Blossom Health, which makes an \"AI copilot\" to augment psychiatrists' clinical decisions and automate office tasks, raised $20M in seed and Series A"
+      "titleZh": "总部位于纽约的 Blossom Health 致力于打造“人工智能副驾驶”，以增强精神科医生的临床决策并实现办公室任务自动化，该公司在种子轮和 A 轮融资中筹集了 2000 万美元"
     },
     {
       "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
@@ -2216,7 +3807,7 @@
       "snippet": "Sacks will be much further from the power center in Washington than since the outset of this second Trump administration.",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "David Sacks is done as AI czar — here’s what he’s doing instead"
+      "titleZh": "大卫·萨克斯（David Sacks）不再是人工智能沙皇——这就是他正在做的事情"
     },
     {
       "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
@@ -2232,7 +3823,7 @@
       "snippet": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Anthropic wins injunction against Trump administration over Defense Department saga"
+      "titleZh": "Anthropic 因国防部事件赢得针对特朗普政府的禁令"
     },
     {
       "title": "Judge Stays Pentagon’s Labeling of Anthropic as ‘Supply Chain Risk’",
@@ -2249,7 +3840,7 @@
       "snippet": "The decision is an early victory for the artificial intelligence company in a rancorous legal battle with the Department of Defense.",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Judge Stays Pentagon’s Labeling of Anthropic as ‘Supply Chain Risk’"
+      "titleZh": "法官维持五角大楼将人为因素标记为“供应链风险”"
     },
     {
       "title": "Source: Elon Musk is discussing allocating as much as 30% of SpaceX's IPO to individual investors, at least three times the usual retail slice",
@@ -2266,7 +3857,7 @@
       "snippet": "Reuters:\nSource: Elon Musk is discussing allocating as much as 30% of SpaceX's IPO to individual investors, at least three times the usual retail slice  —  Elon Musk is discussing allocating as much a",
       "section": "intl_retail",
       "originalSection": "intl_ai",
-      "titleZh": "Source: Elon Musk is discussing allocating as much as 30% of SpaceX's IPO to individual investors, at least three times the usual retail slice"
+      "titleZh": "资料来源：埃隆·马斯克正在讨论将 SpaceX IPO 高达 30% 的股份分配给个人投资者，至少是通常零售份额的三倍"
     },
     {
       "title": "Shield AI, a Start-Up Making Military Drones, Raises $2 Billion",
@@ -2283,7 +3874,7 @@
       "snippet": "The company, which develops autonomous military technology, also plans to buy a maker of simulation software as interest in next-generation defense soars.",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Shield AI, a Start-Up Making Military Drones, Raises $2 Billion"
+      "titleZh": "军用无人机初创公司 Shield AI 融资 20 亿美元"
     },
     {
       "title": "Claude AI Maker Anthropic Said to Weigh IPO as Soon as October",
@@ -2300,7 +3891,7 @@
       "snippet": "",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Claude AI Maker Anthropic Said to Weigh IPO as Soon as October"
+      "titleZh": "Claude AI Maker Anthropic 称最快将于 10 月考虑 IPO"
     },
     {
       "title": "Rewriting Commerce For The Agentic Age",
@@ -2317,7 +3908,7 @@
       "snippet": "For Gary Liu, the most profound shift in commerce today is not about faster checkouts or new wallets. It is about who, or what, sits between merchants and consumers.\n“There’s only one thing that’s fai",
       "section": "domestic_ai",
       "originalSection": "domestic_ai",
-      "titleZh": "Rewriting Commerce For The Agentic Age"
+      "titleZh": "为代理时代重写商业"
     },
     {
       "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
@@ -2333,7 +3924,7 @@
       "snippet": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "You can now transfer your chats and personal information from other chatbots directly into Gemini"
+      "titleZh": "您现在可以将其他聊天机器人的聊天内容和个人信息直接传输到 Gemini"
     },
     {
       "title": "Anthropic Supply-Chain-Risk Designation Halted by Judge",
@@ -2350,7 +3941,7 @@
       "snippet": "A judge temporarily blocked the Trump administration’s designation, clearing the way for Anthropic to keep doing business without the label starting next week.",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Anthropic Supply-Chain-Risk Designation Halted by Judge"
+      "titleZh": "法官叫停人为供应链风险指定"
     },
     {
       "title": "Anthropic Wins Court Order Pausing Trump Ban on AI Tool",
@@ -2367,7 +3958,7 @@
       "snippet": "",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Anthropic Wins Court Order Pausing Trump Ban on AI Tool"
+      "titleZh": "Anthropic 赢得法院命令，暂停特朗普对人工智能工具的禁令"
     },
     {
       "title": "A US judge grants Anthropic's request for a preliminary injunction in its suit against the Trump administration over the DOD's decision to blacklist the company",
@@ -2384,7 +3975,7 @@
       "snippet": "Ashley Capoot / CNBC:\nA US judge grants Anthropic's request for a preliminary injunction in its suit against the Trump administration over the DOD's decision to blacklist the company  —  A federal jud",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "A US judge grants Anthropic's request for a preliminary injunction in its suit against the Trump administration over the DOD's decision to blacklist the company"
+      "titleZh": "美国法官批准了 Anthropic 因国防部决定将该公司列入黑名单而对特朗普政府提起的诉讼，要求发出初步禁令"
     },
     {
       "title": "Macy’s AI Chatbot Quadruples Customer Spending",
@@ -2401,7 +3992,7 @@
       "snippet": "An artificial intelligence (AI)-powered shopping assistant that was launched by Macy’s on Monday (March 23) has most often been used by customers to suggest products for completing an outfit and to se",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Macy’s AI Chatbot Quadruples Customer Spending"
+      "titleZh": "梅西百货的人工智能聊天机器人使客户支出翻了两番"
     },
     {
       "title": "In an interview, David Sacks says he has relinquished his role as AI and crypto czar after using up his time as a special government employee",
@@ -2418,7 +4009,7 @@
       "snippet": "Bloomberg:\nIn an interview, David Sacks says he has relinquished his role as AI and crypto czar after using up his time as a special government employee  —  White House adviser David Sacks said Congre",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "In an interview, David Sacks says he has relinquished his role as AI and crypto czar after using up his time as a special government employee"
+      "titleZh": "大卫·萨克斯 (David Sacks) 在接受采访时表示，在担任特殊政府雇员的时间结束后，他已经放弃了人工智能和加密货币沙皇的角色"
     },
     {
       "title": "Harvey Raises $200 Million to Equip Law Firms With AI Agents",
@@ -2435,7 +4026,7 @@
       "snippet": "Harvey raised $200 million in new funding for its legal infrastructure for law firms and in-house teams.  The round brings the total funding raised by Harvey to more than $1 billion and values the com",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Harvey Raises $200 Million to Equip Law Firms With AI Agents"
+      "titleZh": "Harvey 筹集 2 亿美元，为律师事务所配备人工智能代理"
     },
     {
       "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
@@ -2451,7 +4042,7 @@
       "snippet": "Comments",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer"
+      "titleZh": "Show HN：我在每月 7 美元的 VPS 上放置了一个 AI 代理，并以 IRC 作为其传输层"
     },
     {
       "title": "We rewrote JSONata with AI in a day, saved $500k/year",
@@ -2467,7 +4058,7 @@
       "snippet": "Comments",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "We rewrote JSONata with AI in a day, saved $500k/year"
+      "titleZh": "我们用 AI 重写了 JSONata，一天之内节省了 50 万美元/年"
     },
     {
       "title": "Sources: Anthropic executives have discussed an IPO as soon as Q4, and bankers vying to take the company public expect it to raise more than $60B",
@@ -2484,7 +4075,7 @@
       "snippet": "The Information:\nSources: Anthropic executives have discussed an IPO as soon as Q4, and bankers vying to take the company public expect it to raise more than $60B  —  Anthropic executives have discuss",
       "section": "intl_retail",
       "originalSection": "intl_ai",
-      "titleZh": "Sources: Anthropic executives have discussed an IPO as soon as Q4, and bankers vying to take the company public expect it to raise more than $60B"
+      "titleZh": "资料来源：Anthropic 高管已讨论最快在第四季度进行 IPO，而竞相让该公司上市的银行家预计该公司将筹集超过 60B 美元"
     },
     {
       "title": "OpenAI has surpassed $100M in annualized revenue from ChatGPT ads, has expanded to 600+ advertisers, and plans to launch self-serve advertiser access in April",
@@ -2501,7 +4092,7 @@
       "snippet": "Stephanie Palazzolo / The Information:\nOpenAI has surpassed $100M in annualized revenue from ChatGPT ads, has expanded to 600+ advertisers, and plans to launch self-serve advertiser access in April  —",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "OpenAI has surpassed $100M in annualized revenue from ChatGPT ads, has expanded to 600+ advertisers, and plans to launch self-serve advertiser access in April"
+      "titleZh": "OpenAI 来自 ChatGPT 广告的年化收入已超过 1 亿美元，已扩展到 600 多家广告商，并计划于 4 月份推出自助广告商访问"
     },
     {
       "title": "Wikipedia cracks down on the use of AI in article writing",
@@ -2517,7 +4108,7 @@
       "snippet": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing.",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Wikipedia cracks down on the use of AI in article writing"
+      "titleZh": "维基百科严厉打击在文章写作中使用人工智能"
     },
     {
       "title": "Antitrust Agencies Should Be Wary of AI Scrutiny, Official Says",
@@ -2534,7 +4125,7 @@
       "snippet": "The market for artificial intelligence is competitive, evolving rapidly, and antitrust enforcers should be wary of intervening, a senior White House official said.  \nThe Eisenhower Executive Office Bu",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Antitrust Agencies Should Be Wary of AI Scrutiny, Official Says"
+      "titleZh": "官员表示，反垄断机构应警惕人工智能审查"
     },
     {
       "title": "Google releases new tools for its Gemini AI assistant that let users upload chat history and context from other AI apps, making it easier to switch from them",
@@ -2551,7 +4142,7 @@
       "snippet": "Natalie Lung / Bloomberg:\nGoogle releases new tools for its Gemini AI assistant that let users upload chat history and context from other AI apps, making it easier to switch from them  —  Google relea",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Google releases new tools for its Gemini AI assistant that let users upload chat history and context from other AI apps, making it easier to switch from them"
+      "titleZh": "谷歌为其 Gemini AI 助手发布了新工具，允许用户从其他 AI 应用程序上传聊天历史记录和上下文，从而更容易从它们切换"
     },
     {
       "title": "UPS nixes driver buyouts in 13 states",
@@ -2568,7 +4159,7 @@
       "snippet": "The International Brotherhood of Teamsters said the decision came after more than 30 local unions filed grievances against the carrier.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "UPS nixes driver buyouts in 13 states"
+      "titleZh": "UPS 在 13 个州取消司机买断"
     },
     {
       "title": "Coca-Cola CEO Says He Stepped Down Due to Demands of AI Transformation",
@@ -2585,7 +4176,7 @@
       "snippet": "The upcoming changes driven by artificial intelligence (AI) played a role in the decision of Coca-Cola CEO James Quincey to step down from his role, Quincey told CNBC’s “Squawk Box” Thursday (March 26",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Coca-Cola CEO Says He Stepped Down Due to Demands of AI Transformation"
+      "titleZh": "可口可乐首席执行官称因人工智能转型需求而辞职"
     },
     {
       "title": "Google Gemini Adds Tool to Make It Easier to Switch from ChatGPT",
@@ -2602,7 +4193,7 @@
       "snippet": "",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Google Gemini Adds Tool to Make It Easier to Switch from ChatGPT"
+      "titleZh": "Google Gemini 添加工具以更轻松地从 ChatGPT 切换"
     },
     {
       "title": "OpenClaw Creator Says US Can Learn From China’s AI Adoption",
@@ -2619,7 +4210,7 @@
       "snippet": "",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "OpenClaw Creator Says US Can Learn From China’s AI Adoption"
+      "titleZh": "OpenClaw 创建者表示美国可以学习中国的人工智能应用"
     },
     {
       "title": "Apple gets full Gemini access and uses distillation to build lightweight on-device AI",
@@ -2635,7 +4226,7 @@
       "snippet": "Apple taps into Google's Gemini to distill smaller AI models for Siri and its devices. In short, it's paying for what Chinese AI companies allegedly do in secret.\nThe article Apple gets full Gemini ac",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Apple gets full Gemini access and uses distillation to build lightweight on-device AI"
+      "titleZh": "苹果获得了 Gemini 的完整访问权限，并使用蒸馏来构建轻量级设备上人工智能"
     },
     {
       "title": "Apple Says It Will Let Siri Access Multiple AI Assistants",
@@ -2652,7 +4243,7 @@
       "snippet": "Apple plans to allow other companies’ artificial intelligence (AI) assistants to be accessed from within its Siri voice assistant, so users can choose which service to query, Bloomberg reported Thursd",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Apple Says It Will Let Siri Access Multiple AI Assistants"
+      "titleZh": "苹果表示将让 Siri 访问多个人工智能助手"
     },
     {
       "title": "Mistral's first open-weight TTS model Voxtral clones voices from three seconds of audio across nine languages",
@@ -2668,7 +4259,7 @@
       "snippet": "French AI startup Mistral has released Voxtral TTS, its first text-to-speech model that supports nine languages and can clone voices from just three seconds of audio.\nThe article Mistral's first open-",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Mistral's first open-weight TTS model Voxtral clones voices from three seconds of audio across nine languages"
+      "titleZh": "Mistral 的首个开放式 TTS 模型 Voxtral 可从 9 种语言的三秒音频中克隆声音"
     },
     {
       "title": "10 Items or Less: JJ Fleeman faces challenge at Dollar General",
@@ -2685,7 +4276,7 @@
       "snippet": "Following in the success of CEO Todd Vasos would be difficult for anyone",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "10 Items or Less: JJ Fleeman faces challenge at Dollar General"
+      "titleZh": "10 件或更少：JJ Fleeman 在 Dollar General 面临挑战"
     },
     {
       "title": "谷歌迎来“DeepSeek时刻”！TurboQuant引爆AI圈、全球开发者疯狂复现：6倍无损压缩，内存股集体暴跌",
@@ -2717,7 +4308,7 @@
       "snippet": "It's only the latest of several side projects that the AI startup has ditched over the past week.",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode"
+      "titleZh": "OpenAI 放弃了另一个支线任务：ChatGPT 的色情模式"
     },
     {
       "title": "AI is no longer an experiment when it comes to supply chain",
@@ -2734,7 +4325,7 @@
       "snippet": "Report shows most retail and manufacturing leaders have increased confidence in the tech",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "AI is no longer an experiment when it comes to supply chain"
+      "titleZh": "对于供应链而言，人工智能不再是一个实验"
     },
     {
       "title": "US, Japan deepen ties on critical mineral supply chains",
@@ -2751,7 +4342,7 @@
       "snippet": "The two countries unveiled an action plan to build a plurilateral pact on critical minerals, setting shared rules, price floors and stockpiling goals with other willing partners.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "US, Japan deepen ties on critical mineral supply chains"
+      "titleZh": "美国和日本深化关键矿产供应链的联系"
     },
     {
       "title": "OpenAI and Anthropic before the IPO: Different balance sheets make comparison difficult",
@@ -2767,7 +4358,7 @@
       "snippet": "OpenAI and Anthropic are both growing fast, but their revenue figures are reportedly hard to compare because each company accounts for cloud partnerships differently.\nThe article OpenAI and Anthropic ",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "OpenAI and Anthropic before the IPO: Different balance sheets make comparison difficult"
+      "titleZh": "IPO前的OpenAI和Anthropic：不同的资产负债表难以进行比较"
     },
     {
       "title": "Kroger gives shoppers ways to save on gas in the spring",
@@ -2784,7 +4375,7 @@
       "snippet": "The grocer announces two 4X Fuel Points events",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Kroger gives shoppers ways to save on gas in the spring"
+      "titleZh": "克罗格为购物者提供春季节省汽油的方法"
     },
     {
       "title": "Aldi makes debut in 40th state",
@@ -2801,7 +4392,7 @@
       "snippet": "The grocer continues to roll out its expansion plan which includes 180 locations this year",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Aldi makes debut in 40th state"
+      "titleZh": "阿尔迪在第 40 个州首次亮相"
     },
     {
       "title": "Meet the Tech Reporters Using AI to Help Write and Edit Their Stories",
@@ -2818,7 +4409,7 @@
       "snippet": "Independent writers are using AI agents all throughout their reporting process. What’s the value of a human journalist, anyway?",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Meet the Tech Reporters Using AI to Help Write and Edit Their Stories"
+      "titleZh": "认识使用人工智能帮助撰写和编辑故事的科技记者"
     },
     {
       "title": "CVS Health has a deal in place over insulin pricing",
@@ -2835,7 +4426,24 @@
       "snippet": "The settlement with the FTC should be finalized over the next few weeks",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "CVS Health has a deal in place over insulin pricing"
+      "titleZh": "CVS Health 就胰岛素定价达成协议"
+    },
+    {
+      "title": "Density-aware Soft Context Compression with Semi-Dynamic Compression Ratio",
+      "link": "https://arxiv.org/abs/2603.25926",
+      "pubDate": "Thu, 26 Mar 2026 17:36:55 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "Soft context compression reduces the computational workload of processing long contexts in LLMs by encoding long context into a smaller number of latent tokens. However, existing frameworks apply unif",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "具有半动态压缩比的密度感知软上下文压缩"
     },
     {
       "title": "Gemini 3.1 Flash Live is Google's most natural-sounding AI voice model yet",
@@ -2851,7 +4459,7 @@
       "snippet": "Google's Gemini 3.1 Flash Live promises faster, more natural voice conversations. Developers can trade off quality for speed, and pricing stays at Gemini 2.5 levels.\nThe article Gemini 3.1 Flash Live ",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Gemini 3.1 Flash Live is Google's most natural-sounding AI voice model yet"
+      "titleZh": "Gemini 3.1 Flash Live 是 Google 迄今为止最自然的 AI 语音模型"
     },
     {
       "title": "Google rolls out Search Live globally, turning your phone camera into a real-time AI search tool",
@@ -2867,7 +4475,7 @@
       "snippet": "Google is rolling out \"Search Live\" to more than 200 countries. The feature lets users talk to Google Search using voice and camera.\nThe article Google rolls out Search Live globally, turning your pho",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Google rolls out Search Live globally, turning your phone camera into a real-time AI search tool"
+      "titleZh": "谷歌在全球推出Search Live，将手机摄像头变成实时人工智能搜索工具"
     },
     {
       "title": "Leonid Radvinsky, 43, Dies; Built the Adult-Entertainment Giant OnlyFans",
@@ -2884,7 +4492,7 @@
       "snippet": "By leveraging social media and the influencer economy, he turned his website into a byword for online pornography in the 21st century.",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Leonid Radvinsky, 43, Dies; Built the Adult-Entertainment Giant OnlyFans"
+      "titleZh": "列昂尼德·拉德文斯基 (Leonid Radvinsky)，43 岁，去世；打造成人娱乐巨头 OnlyFans"
     },
     {
       "title": "The Backroom: Consumer resilience in trying times",
@@ -2901,7 +4509,7 @@
       "snippet": "Katie Thomas of the Kearney Consumer Institute talks about nuances in the K-shaped economy that help explain why discretionary retail sales have remained strong despite shoppers’ wariness.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "The Backroom: Consumer resilience in trying times"
+      "titleZh": "幕后：艰难时期的消费者恢复力"
     },
     {
       "title": "Why Wayfair isn’t ‘dogmatic’ about its AI usage",
@@ -2918,7 +4526,24 @@
       "snippet": "Wayfair chief marketing officer Paul Toms spoke with Modern Retail about his philosophy when it comes to AI usage: “I actually find in retail folks are very hesitant.\"",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Why Wayfair isn’t ‘dogmatic’ about its AI usage"
+      "titleZh": "为什么 Wayfair 对于人工智能的使用并不“教条”"
+    },
+    {
+      "title": "美团业绩改善的背后：收缩、省钱，等待阿里犯错",
+      "link": "https://www.latepost.com/news/dj_detail?id=3480",
+      "pubDate": "Thu, 26 Mar 2026 16:03:00 GMT",
+      "source": "晚点 LatePost",
+      "sourceUrl": "https://www.latepost.com",
+      "priority": 3,
+      "tags": [
+        "科技商业",
+        "深度报道",
+        "AI产业"
+      ],
+      "snippet": "“不可胜在己，可胜在敌。” 美团创始人、CEO 王兴曾引述孙子兵法说，美团没有打赢团购大战，是对手把自己绊倒了。外卖大战一年后，这也是美团应对阿里的战略。\n去年秋季补贴大战结束后，美团放弃和阿里全面拼订单量，更动态调整补贴、保高价值订单。美团 3 月 26 日发布的 2025 年业绩显示，其核心本地商业板块（外卖和到店）四季度经营亏损约 100 亿元，比三季度少亏三成。\n财报发布后，美团预告说今年",
+      "section": "domestic_retail",
+      "originalSection": "domestic_ai",
+      "titleZh": "美团业绩改善的背后：收缩、省钱，等待阿里犯错"
     },
     {
       "title": "David’s Bridal reshapes C-suite for the AI era",
@@ -2935,7 +4560,7 @@
       "snippet": "The retailer named a CTO, chief global transformation and operations officer, and is on the hunt for its next CFO.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "David’s Bridal reshapes C-suite for the AI era"
+      "titleZh": "大卫的新娘重塑人工智能时代的高管层"
     },
     {
       "title": "EU parliament approves key terms of US trade deal",
@@ -2952,7 +4577,7 @@
       "snippet": "The bloc’s legislative body on Thursday voted in favor of lowering or eliminating tariffs on a range of U.S. goods while also approving key safeguard provisions.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "EU parliament approves key terms of US trade deal"
+      "titleZh": "欧盟议会批准美国贸易协议关键条款"
     },
     {
       "title": "USPS sets 8% temporary rate hike for some domestic products",
@@ -2969,7 +4594,7 @@
       "snippet": "The change, slated to start in April and impact services such as Ground Advantage, is meant to address higher transportation costs for the agency.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "USPS sets 8% temporary rate hike for some domestic products"
+      "titleZh": "USPS对部分国内产品临时加价8%"
     },
     {
       "title": "REI faces possible anniversary sale boycott after abandoning labor talks",
@@ -2986,7 +4611,7 @@
       "snippet": "The REI Union, expressing confidence that the retailer’s customers would join workers in sending a message, will finalize a decision by May 1.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "REI faces possible anniversary sale boycott after abandoning labor talks"
+      "titleZh": "REI 放弃劳资谈判后可能面临周年庆销售抵制"
     },
     {
       "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
@@ -3002,7 +4627,7 @@
       "snippet": "The new model in CapCut will have built-in protections for making video from real faces or unauthorized intellectual property.",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut"
+      "titleZh": "字节跳动全新AI视频生成模型Dreamina Seedance 2.0登陆CapCut"
     },
     {
       "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
@@ -3019,7 +4644,7 @@
       "snippet": "",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable"
+      "titleZh": "Gemini 3.1 Flash Live：让音频AI更加自然可靠"
     },
     {
       "title": "Sephora launches app in ChatGPT",
@@ -3036,7 +4661,7 @@
       "snippet": "The AI-enhanced experience will give customers advice and help them discover products, according to Global Chief Digital Officer Anca Marola.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Sephora launches app in ChatGPT"
+      "titleZh": "丝芙兰在 ChatGPT 中推出应用程序"
     },
     {
       "title": "GameStop closed over 700 stores last year",
@@ -3053,7 +4678,7 @@
       "snippet": "That amounts to more than 1,300 over the past two fiscal years, though the gaming retailer said it doesn’t expect any major footprint reductions in 2026.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "GameStop closed over 700 stores last year"
+      "titleZh": "GameStop去年关闭了700多家商店"
     },
     {
       "title": "Puma debuts AI concierge at Las Vegas store",
@@ -3070,7 +4695,7 @@
       "snippet": "A multilingual assistant in a large digital display will automatically detect the language a shopper speaks and answer their questions about products.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Puma debuts AI concierge at Las Vegas store"
+      "titleZh": "Puma 在拉斯维加斯商店推出人工智能礼宾服务"
     },
     {
       "title": "Kroger to spend $112M on store projects in Ohio",
@@ -3087,7 +4712,7 @@
       "snippet": "The grocer plans to open two stores and remodel 15 in the central and northwest parts of the state in 2026.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Kroger to spend $112M on store projects in Ohio"
+      "titleZh": "克罗格将斥资 1.12 亿美元在俄亥俄州进行商店项目"
     },
     {
       "title": "M&S launches monthly capsule clothing collection",
@@ -3104,7 +4729,7 @@
       "snippet": "M&S has launched its new monthly capsule programme, The Love That Drop.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "M&S launches monthly capsule clothing collection"
+      "titleZh": "玛莎百货推出每月胶囊服装系列"
     },
     {
       "title": "Number Sense: Can Target succeed by positioning itself as a specialty grocer?",
@@ -3121,7 +4746,7 @@
       "snippet": "The retailer is planning this year to direct more than $1 billion in capital spending — a fifth of its entire capital budget for 2026 — to its food and beverage business.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Number Sense: Can Target succeed by positioning itself as a specialty grocer?"
+      "titleZh": "Number Sense：塔吉特能否通过将自己定位为专业杂货商而取得成功？"
     },
     {
       "title": "How Tecovas is leveraging AI to improve the store experience",
@@ -3138,7 +4763,7 @@
       "snippet": "The boot brand is using the tech to help with inventory replenishment and allocation, and foster better interactions between associates and customers.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "How Tecovas is leveraging AI to improve the store experience"
+      "titleZh": "Tecovas 如何利用人工智能改善商店体验"
     },
     {
       "title": "RealChart2Code: Advancing Chart-to-Code Generation with Real Data and Multi-Task Evaluation",
@@ -3155,7 +4780,7 @@
       "snippet": "Vision-Language Models (VLMs) have demonstrated impressive capabilities in code generation across various domains. However, their ability to replicate complex, multi-panel visualizations from real-wor",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "RealChart2Code: Advancing Chart-to-Code Generation with Real Data and Multi-Task Evaluation"
+      "titleZh": "RealChart2Code：利用真实数据和多任务评估推进图表到代码的生成"
     },
     {
       "title": "Marketplace Briefing: Why Amazon is moving Prime Day to June from July, and what it means for sellers",
@@ -3172,7 +4797,7 @@
       "snippet": "Amazon is planning to move Prime Day to June from its usual July slot this year, shaking up the timing of a sales event many brands rely on.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Marketplace Briefing: Why Amazon is moving Prime Day to June from July, and what it means for sellers"
+      "titleZh": "市场简报：亚马逊为何将 Prime Day 从 7 月移至 6 月，以及这对卖家意味着什么"
     },
     {
       "title": "MuRF: Unlocking the Multi-Scale Potential of Vision Foundation Models",
@@ -3189,7 +4814,7 @@
       "snippet": "Vision Foundation Models (VFMs) have become the cornerstone of modern computer vision, offering robust representations across a wide array of tasks. While recent advances allow these models to handle ",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "MuRF: Unlocking the Multi-Scale Potential of Vision Foundation Models"
+      "titleZh": "MuRF：释放视觉基础模型的多尺度潜力"
     },
     {
       "title": "Vega: Learning to Drive with Natural Language Instructions",
@@ -3206,7 +4831,7 @@
       "snippet": "Vision-language-action models have reshaped autonomous driving to incorporate languages into the decision-making process. However, most existing pipelines only utilize the language modality for scene ",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Vega: Learning to Drive with Natural Language Instructions"
+      "titleZh": "Vega：使用自然语言指令学习驾驶"
     },
     {
       "title": "PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference",
@@ -3223,7 +4848,7 @@
       "snippet": "Autoregressive video diffusion models have demonstrated remarkable progress, yet they remain bottlenecked by intractable linear KV-cache growth, temporal repetition, and compounding errors during long",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference"
+      "titleZh": "PackForcing：短视频训练足以进行长视频采样和长上下文推理"
     },
     {
       "title": "Inflation hitting ‘every angle’ of retail supply chains, warns CI&T’s Melissa Minkow",
@@ -3240,7 +4865,7 @@
       "snippet": "Retailers are once again facing mounting pressure across their supply chains, as inflationary forces build from multiple directions at once.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Inflation hitting ‘every angle’ of retail supply chains, warns CI&T’s Melissa Minkow"
+      "titleZh": "CI&T 的梅丽莎·明科 (Melissa Minkow) 警告称，通胀冲击零售供应链的“各个角度”"
     },
     {
       "title": "Prolonged Hormuz closure to hit global chemical output, Fitch warns",
@@ -3257,7 +4882,7 @@
       "snippet": "The implications extend beyond agriculture. Plastics and chemicals used in packaging, preservation and transport are also exposed to supply shocks, adding further cost pressure to food distribution ne",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Prolonged Hormuz closure to hit global chemical output, Fitch warns"
+      "titleZh": "惠誉警告称，霍尔木兹海峡长期关闭将影响全球化学品产量"
     },
     {
       "title": "UK food sector could deliver one billion extra meals, report finds",
@@ -3274,7 +4899,7 @@
       "snippet": "The UK food and drink manufacturing sector could help deliver more than one billion meals a year to people facing food insecurity, according to new research published this week.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "UK food sector could deliver one billion extra meals, report finds"
+      "titleZh": "报告发现，英国食品行业可以额外提供 10 亿份餐食"
     },
     {
       "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
@@ -3290,7 +4915,7 @@
       "snippet": "Conntour uses AI models to let security teams query camera feeds using natural language to find any object, person, or situation.",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems"
+      "titleZh": "Conntour 从 General Catalyst 和 YC 筹集了 700 万美元，用于构建用于安全视频系统的人工智能搜索引擎"
     },
     {
       "title": "Cohere launches an open source voice model specifically for transcription",
@@ -3306,7 +4931,7 @@
       "snippet": "Relatively light at just 2 billion parameters, the model is meant for use with consumer-grade GPUs for those who want to self-host it. It currently supports 14 languages.",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Cohere launches an open source voice model specifically for transcription"
+      "titleZh": "Cohere 推出专门用于转录的开源语音模型"
     },
     {
       "title": "Are parcel lockers becoming a serious supply chain play for retailers?",
@@ -3323,7 +4948,7 @@
       "snippet": "As retailers face compounding pressure on margins, increasing customer expectations and returns costs, the concept of lockers is beginning to matter for a much bigger reason than simple convenience, i",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Are parcel lockers becoming a serious supply chain play for retailers?"
+      "titleZh": "包裹储物柜是否正在成为零售商供应链的重要组成部分？"
     },
     {
       "title": "Google’s TurboQuant AI advance dents memory-chip stocks, but analysts say ‘buy the dip’",
@@ -3340,24 +4965,24 @@
       "snippet": "A new artificial intelligence algorithm developed by Google that could reduce demand for memory chips triggered a slump in global memory stocks, but analysts said it presented an opportunity for inves",
       "section": "domestic_ai",
       "originalSection": "domestic_ai",
-      "titleZh": "Google’s TurboQuant AI advance dents memory-chip stocks, but analysts say ‘buy the dip’"
+      "titleZh": "谷歌的 TurboQuant AI 进展削弱了存储芯片股票，但分析师表示“逢低买入”"
     },
     {
       "title": "AWG invests $110M to modernize distribution center",
-      "link": "https://www.grocerydive.com/news/associated-wholesale-grocers-distribution-center-rennovation-automation/815711/",
+      "link": "https://www.supplychaindive.com/news/associated-wholesale-grocers-distribution-center-rennovation-automation/815853/",
       "pubDate": "Thu, 26 Mar 2026 09:00:00 -0400",
-      "source": "Grocery Dive",
-      "sourceUrl": "https://www.grocerydive.com",
+      "source": "Supply Chain Dive",
+      "sourceUrl": "https://www.supplychaindive.com",
       "priority": 2,
       "tags": [
-        "grocery",
-        "dark store",
-        "delivery"
+        "supply chain",
+        "logistics",
+        "fulfillment"
       ],
       "snippet": "The wholesaler is renovating its Gulf Coast facility with advanced automation to improve order accuracy and service reliability.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "AWG invests $110M to modernize distribution center"
+      "titleZh": "AWG 投资 1.1 亿美元对配送中心进行现代化改造"
     },
     {
       "title": "The Download: a battery pivot to AI, and rewriting math",
@@ -3373,7 +4998,7 @@
       "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why this battery company is pivoting to AI  Qichao Hu doesn’t ",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "The Download: a battery pivot to AI, and rewriting math"
+      "titleZh": "下载：电池转向人工智能，并重写数学"
     },
     {
       "title": "OpenAI halts \"Adult Mode\" as advisors, investors, and employees raise red flags",
@@ -3389,7 +5014,7 @@
       "snippet": "OpenAI has put development of an erotic chatbot on hold indefinitely, the Financial Times reports. \nThe article OpenAI halts \"Adult Mode\" as advisors, investors, and employees raise red flags appeared",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "OpenAI halts \"Adult Mode\" as advisors, investors, and employees raise red flags"
+      "titleZh": "OpenAI 因顾问、投资者和员工发出危险信号而停止“成人模式”"
     },
     {
       "title": "A third of consumers would buy directly via generative AI platforms, study finds",
@@ -3406,7 +5031,7 @@
       "snippet": "One-third of consumers would buy directly through ChatGPT and other generative AI platforms rather than click through to a retailer's website, according to data from Kantar",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "A third of consumers would buy directly via generative AI platforms, study finds"
+      "titleZh": "研究发现，三分之一的消费者会直接通过生成式人工智能平台购买"
     },
     {
       "title": "StoReel获3400万美元融资：用AI重构故事生产，打造工具社区与平台双轮驱动的内容生态｜涌现新项目",
@@ -3438,7 +5063,7 @@
       "snippet": "Starting April 24, 2026, GitHub is changing its data policy for Copilot. Interaction data from users on the Free, Pro, and Pro+ plans will be used to train AI models unless users actively opt out.\nThe",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "GitHub will use Copilot interaction data to train AI models starting April 2026"
+      "titleZh": "从 2026 年 4 月开始，GitHub 将使用 Copilot 交互数据来训练 AI 模型"
     },
     {
       "title": "John Lewis, Aldi and Samsung among big names shortlisted for Which? Awards 2026",
@@ -3455,7 +5080,7 @@
       "snippet": "John Lewis, Aldi and Samsung are among the major retail names shortlisted in the Which? Awards 2026, as the consumer champion unveiled its contenders for Retailer of the Year and Best Value Brand of t",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "John Lewis, Aldi and Samsung among big names shortlisted for Which? Awards 2026"
+      "titleZh": "约翰·刘易斯 (John Lewis)、阿尔迪 (Aldi) 和三星 (Samsung) 等知名企业入围《哪一个？》 2026 年奖项"
     },
     {
       "title": "氪星晚报｜淘天集团推出“AI生产力计划”，向实习生全员开放;过去五年北京已牵头制定国际标准超500项；欧洲议会表决通过欧美贸易协议",
@@ -3488,7 +5113,7 @@
       "snippet": "Chinese computer scientists and researchers have been urged to boycott a major artificial intelligence conference after its organisers barred submissions from US-sanctioned institutions, including lea",
       "section": "domestic_ai",
       "originalSection": "domestic_ai",
-      "titleZh": "AI rift widens as China urges boycott of top US conference over sanctions ban"
+      "titleZh": "中国敦促抵制美国制裁禁令峰会，人工智能分歧扩大"
     },
     {
       "title": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
@@ -3504,7 +5129,7 @@
       "snippet": "Fears of AI-driven job loss are growing fast, and they’re fueling backlash against data centers. Sen. Mark Warner suggests taxing them to help workers survive the transition.",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses"
+      "titleZh": "数据中心的“一磅肉”：一位参议员对人工智能失业的回答"
     },
     {
       "title": "Next says prices could rise as Iran war increases costs",
@@ -3521,7 +5146,7 @@
       "snippet": "Next has said that the Middle East conflict could lead to higher prices for its customers.",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Next says prices could rise as Iran war increases costs"
+      "titleZh": "Next表示，随着伊朗战争增加成本，价格可能上涨"
     },
     {
       "title": "ARC-AGI-3 offers $2M to any AI that matches untrained humans, yet every frontier model scores below 1%",
@@ -3537,7 +5162,7 @@
       "snippet": "The new ARC-AGI-3 benchmark drops AI systems into interactive game environments that humans solve with ease. No frontier model breaks the 1 percent mark because the benchmark strips away their biggest",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "ARC-AGI-3 offers $2M to any AI that matches untrained humans, yet every frontier model scores below 1%"
+      "titleZh": "ARC-AGI-3 向任何与未经训练的人类相匹配的人工智能提供 200 万美元，但每个前沿模型的得分都低于 1%"
     },
     {
       "title": "Mistral releases a new open source model for speech generation",
@@ -3553,7 +5178,7 @@
       "snippet": "The model, which lets enterprises build voice agents for sales and customer engagement, puts Mistral in direct competition with the likes of ElevenLabs, Deepgram, and OpenAI.",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Mistral releases a new open source model for speech generation"
+      "titleZh": "Mistral 发布了用于语音生成的新开源模型"
     },
     {
       "title": "36氪官方Skill上线ClawHub，解锁OpenClaw新技能",
@@ -3572,6 +5197,23 @@
       "titleZh": "36氪官方Skill上线ClawHub，解锁OpenClaw新技能"
     },
     {
+      "title": "蜜雪的零售边界，不止于一杯杯奶茶、咖啡、或啤酒",
+      "link": "https://www.latepost.com/news/dj_detail?id=3479",
+      "pubDate": "Thu, 26 Mar 2026 11:03:00 GMT",
+      "source": "晚点 LatePost",
+      "sourceUrl": "https://www.latepost.com",
+      "priority": 3,
+      "tags": [
+        "科技商业",
+        "深度报道",
+        "AI产业"
+      ],
+      "snippet": "2025 年国内平台经济再次回到强竞争的市场状态，三大即时零售平台为了重新争夺线上流量资源，将对抗的主要战场选在了现制饮品行业（包括现制茶饮和咖啡等），进而成为该年影响行业发展的最大外部性变量。\n在平台高额高频的消费补贴刺激下，现制饮品行业的订单量被骤然拉升，市场规模也得到再次显著扩容，整个行业的零售规模增长至超 7000 亿元的规模；但繁荣的另一面是，在过去的近一年时间里，全国饮品门店数录得超 ",
+      "section": "domestic_retail",
+      "originalSection": "domestic_ai",
+      "titleZh": "蜜雪的零售边界，不止于一杯杯奶茶、咖啡、或啤酒"
+    },
+    {
       "title": "Co-op boss steps down as retailer posts loss after cyber attack",
       "link": "https://www.retailgazette.co.uk/blog/2026/03/co-op-boss-steps-down/",
       "pubDate": "Thu, 26 Mar 2026 10:54:56 +0000",
@@ -3586,7 +5228,7 @@
       "snippet": "Co-operative Group today (26 March) confirmed its chief executive Shirine Khoury-Haq is to step down, as it also reported a £35m underlying operating loss for 2025 after a cyber attack and rising cost",
       "section": "intl_retail",
       "originalSection": "intl_retail",
-      "titleZh": "Co-op boss steps down as retailer posts loss after cyber attack"
+      "titleZh": "网络攻击后零售商亏损，合作社老板辞职"
     },
     {
       "title": "月之暗面创始人重磅判断：今年起 AI 研发模式将剧变，海量Token成研究员标配资源",
@@ -4080,7 +5722,7 @@
       "snippet": "Equipping Large Language Model (LLM) agents with domain-specific skills is critical for tackling complex tasks. Yet, manual authoring creates a severe scalability bottleneck. Conversely, automated ski",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills"
+      "titleZh": "Trace2Skill：将轨迹局部经验提炼为可转移的代理技能"
     },
     {
       "title": "MOVA AI咖啡生态旗下六轴协作机器人咖啡机X10-Ultra开启商业化运营",
@@ -4410,7 +6052,7 @@
       "snippet": "We introduce Intern-S1-Pro, the first one-trillion-parameter scientific multimodal foundation model. Scaling to this unprecedented size, the model delivers a comprehensive enhancement across both gene",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale"
+      "titleZh": "Intern-S1-Pro：万亿规模的科学多模态基础模型"
     },
     {
       "title": "Why China’s humanoid robots are still waiting for their ‘ChatGPT moment’",
@@ -4628,7 +6270,7 @@
       "snippet": "This paper introduces FinMCP-Bench, a novel benchmark for evaluating large language models (LLMs) in solving real-world financial problems through tool invocation of financial model context protocols.",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "FinMCP-Bench: Benchmarking LLM Agents for Real-World Financial Tool Use under the Model Context Protocol"
+      "titleZh": "FinMCP-Bench：模型上下文协议下对 LLM 代理在真实世界金融工具使用中的基准测试"
     },
     {
       "title": "Prologis CEO Sees Prolonged AI, Data Center Tailwinds",
@@ -5026,7 +6668,7 @@
       "snippet": "Software development is iterative, yet agentic coding benchmarks overwhelmingly evaluate single-shot solutions against complete specifications. Code can pass the test suite but become progressively ha",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks"
+      "titleZh": "SlopCodeBench：对编码代理在长期迭代任务中如何退化进行基准测试"
     },
     {
       "title": "GLP-1 users are changing apparel trends",
@@ -5113,15 +6755,15 @@
     },
     {
       "title": "Dollar General slashes 1,500 SKUs, boosts in-stocks",
-      "link": "https://www.supplychaindive.com/news/dollar-general-sku-reduction-gains-1500-q4/814849/",
+      "link": "https://www.retaildive.com/news/dollar-general-sku-reduction-1500-q4/816065/",
       "pubDate": "Wed, 25 Mar 2026 10:53:00 -0400",
-      "source": "Supply Chain Dive",
-      "sourceUrl": "https://www.supplychaindive.com",
-      "priority": 2,
+      "source": "Retail Dive",
+      "sourceUrl": "https://www.retaildive.com",
+      "priority": 3,
       "tags": [
-        "supply chain",
-        "logistics",
-        "fulfillment"
+        "US retail",
+        "DTC",
+        "omnichannel"
       ],
       "snippet": "Further SKU reductions are on the horizon as the retailer prioritizes leaner inventories and a simpler supply chain.",
       "section": "intl_retail",
@@ -5393,7 +7035,7 @@
       "snippet": "Currently, evaluating vision-language models (VLMs) in medical imaging tasks oversimplifies clinical reality by relying on pre-selected 2D images that demand significant manual labor to curate. This s",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "MedOpenClaw: Auditable Medical Imaging Agents Reasoning over Uncurated Full Studies"
+      "titleZh": "MedOpenClaw：可审计的医学成像剂对未经策划的全面研究的推理"
     },
     {
       "title": "Stop & Shop woos shoppers with expanded, cheaper hot bar assortment",
@@ -6802,7 +8444,7 @@
       "snippet": "Understanding animal species from multimodal data poses an emerging challenge at the intersection of computer vision and ecology. While recent biological models, such as BioCLIP, have demonstrated str",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "BioVITA: Biological Dataset, Model, and Benchmark for Visual-Textual-Acoustic Alignment"
+      "titleZh": "BioVITA：视觉-文本-声学对齐的生物数据集、模型和基准"
     },
     {
       "title": "Braze Earnings Show AI Push and Enterprise Demand Gain Ground",
@@ -8628,7 +10270,7 @@
       "snippet": "Recent advances in 3D generation have improved the fidelity and geometric details of synthesized 3D assets. However, due to the inherent ambiguity of single-view observations and the lack of robust gl",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Know3D: Prompting 3D Generation with Knowledge from Vision-Language Models"
+      "titleZh": "Know3D：利用视觉语言模型中的知识促进 3D 生成"
     },
     {
       "title": "Meta Recruits Dreamer Team to Scale Personalized AI Agents",
@@ -10545,7 +12187,7 @@
       "snippet": "Masked Diffusion Language Models (MDLMs) have emerged as a compelling non-autoregressive alternative to standard large language models; however, their application to morphologically rich languages rem",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Diffutron: A Masked Diffusion Language Model for Turkish Language"
+      "titleZh": "Diffutron：土耳其语的掩蔽扩散语言模型"
     },
     {
       "title": "Toyota suppliers seek relief from USMCA review",
@@ -10779,7 +12421,7 @@
       "snippet": "As the paradigm of AI shifts from text-based LLMs to Speech Language Models (SLMs), there is a growing demand for full-duplex systems capable of real-time, natural human-computer interaction. However,",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models"
+      "titleZh": "Sommelier：用于全双工语音语言模型的可扩展开放式多轮音频预处理"
     },
     {
       "title": "Luxury, vintage sales are rising on cruise ships",
@@ -11622,7 +13264,7 @@
       "snippet": "Long-term memory is a cornerstone of human intelligence. Enabling AI to process lifetime-scale information remains a long-standing pursuit in   the field. Due to the constraints of full-attention arch",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens"
+      "titleZh": "MSA：内存稀疏注意力，可实现高效的端到端内存模型扩展到 100M 令牌"
     },
     {
       "title": "Partnering with Mozilla to improve Firefox’s security",
@@ -12712,5 +14354,5 @@
       "titleZh": "导入AI 431：技术乐观和适当的恐惧"
     }
   ],
-  "savedAt": "2026-03-30T10:56:26.056Z"
+  "savedAt": "2026-03-31T07:53:14.241Z"
 }

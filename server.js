@@ -5,7 +5,11 @@ const fs = require('fs');
 const path = require('path');
 
 const app = express();
-const parser = new RSSParser({ timeout: 25000 });
+const parser = new RSSParser({ timeout: 35000 });
+const slowParser = new RSSParser({ timeout: 60000 }); // For slow RSSHub sources like LatePost
+
+// Sources that need longer timeout
+const slowSources = ['晚点', 'LatePost', 'wallstreetcn'];
 const PORT = process.env.PORT || 8080;
 
 // Load source config
@@ -104,7 +108,7 @@ async function translateArticles(articles) {
 
 // Known Chinese source names (used for domestic detection)
 const knownChineseSources = ['联商网', 'Linkshop', '亿邦动力', '机器之心', '量子位',
-  'Qbitai', 'InfoQ 中文站', '钛媒体', '新华社', '商务部', 'CCFA', '艾媒'];
+  'Qbitai', 'InfoQ 中文站', '钛媒体', '新华社', '商务部', 'CCFA', '艾媒', '财联社', '晚点', 'LatePost'];
 
 // General-purpose sources whose articles should only be included if they match keywords
 // These are broad media outlets that cover many topics beyond retail/AI
@@ -382,7 +386,7 @@ function classifyArticle(article) {
     '新华社财经', '商务部', 'Ars Technica', 'MIT Technology Review', 'TechCrunch',
     'VentureBeat', 'Import AI', 'The Verge', '钛媒体', 'NYT Tech', 'SCMP', 'Bloomberg'];
   // Semi-strict sources: require score >= 1 (dedicated topic feeds, less filtering needed)
-  const semiStrictSources = ['Wired AI'];
+  const semiStrictSources = ['Wired AI', '晚点', 'LatePost', '财联社'];
 
   const isStrict = strictSources.some(gs => article.source.includes(gs));
   const isSemiStrict = semiStrictSources.some(gs => article.source.includes(gs));
@@ -439,13 +443,13 @@ let articlesCache = {
 
 // --- RSS Fetching with retry + RSSHub fallback ---
 async function fetchRSS(source, retries = 1) {
-  const rssUrls = [source.rss];
-  if (source.rsshub) rssUrls.push(source.rsshub);
+  const rssUrls = [source.rss, source.rsshub].filter(Boolean);
 
   for (const rssUrl of rssUrls) {
     for (let attempt = 0; attempt <= retries; attempt++) {
       try {
-        const feed = await parser.parseURL(rssUrl);
+        const isSlow = slowSources.some(s => source.name.includes(s));
+        const feed = await (isSlow ? slowParser : parser).parseURL(rssUrl);
       return (feed.items || []).slice(0, 20).map(item => {
         let title = item.title || '';
         let link = item.link || '';
@@ -561,7 +565,8 @@ async function fetchAllSources() {
     const section = sourcesConfig[sectionKey];
     if (!section || !section.sources) continue;
     for (const src of section.sources) {
-      const promise = (src.type === 'rss' && src.rss ? fetchRSS(src) : fetchScrape(src))
+      const hasRssUrl = src.rss || src.rsshub;
+      const promise = (src.type === 'rss' && hasRssUrl ? fetchRSS(src) : fetchScrape(src))
         .then(articles => articles.map(a => ({ ...a, originalSection: sectionKey })));
       fetchPromises.push(promise);
     }
