@@ -1,6 +1,784 @@
 {
   "articles": [
     {
+      "title": "霸王茶姬：2025年净收入129.1亿元，经调整后净利润为19.1亿元",
+      "link": "https://36kr.com/newsflashes/3746748056437507?f=rss",
+      "pubDate": "2026-03-31 19:09:13  +0800",
+      "source": "36氪 AI",
+      "sourceUrl": "https://36kr.com",
+      "priority": 2,
+      "tags": [
+        "AI创投",
+        "AI应用"
+      ],
+      "snippet": "36氪获悉，霸王茶姬公布了2025年第四季度及全年业绩数据。财报数据显示，霸王茶姬2025年总GMV达315.8亿，同比增长7.2%。全年净收入129.1亿元，经调整后净利润为19.1亿元。2025年第四季度经调整后净利润为1亿元，连续12个季度实现盈利。四季度，霸王茶姬门店净增115家，其中83家为海外门店，总门店数达到7453家。",
+      "section": "intl_retail",
+      "originalSection": "domestic_ai",
+      "titleZh": "霸王茶姬：2025年净收入129.1亿元，经调整后净利润为19.1亿元"
+    },
+    {
+      "title": "英国竞争监管机构计划对微软的软件业务部门展开调查",
+      "link": "https://api3.cls.cn/share/article/2330840?os=web&sv=8.4.6&app=CailianpressWeb",
+      "pubDate": "Tue, 31 Mar 2026 11:05:27 GMT",
+      "source": "财联社",
+      "sourceUrl": "https://www.cls.cn",
+      "priority": 2,
+      "tags": [
+        "财经快讯",
+        "消费",
+        "零售政策"
+      ],
+      "snippet": "【英国竞争监管机构计划对微软的软件业务部门展开调查】财联社3月31日电，据报道，英国竞争监管机构计划对微软的软件业务部门展开调查，以确保这家Windows操作系统开发商不会阻碍在人工智能热潮中涌现的新兴竞争对手的发展。",
+      "section": "domestic_ai",
+      "originalSection": "domestic_retail",
+      "titleZh": "英国竞争监管机构计划对微软的软件业务部门展开调查"
+    },
+    {
+      "title": "Shenzhen activates China’s first 10,000-card AI cluster with domestic chips",
+      "link": "https://www.scmp.com/tech/big-tech/article/3348502/shenzhen-activates-chinas-first-10000-card-ai-cluster-domestic-chips?utm_source=rss_feed",
+      "pubDate": "Tue, 31 Mar 2026 11:00:08 +0000",
+      "source": "SCMP Tech",
+      "sourceUrl": "https://www.scmp.com/tech",
+      "priority": 2,
+      "tags": [
+        "China AI",
+        "tech policy",
+        "中国科技"
+      ],
+      "snippet": "China’s southern tech hub Shenzhen began operations of the country’s first 10,000-card intelligent computing cluster, built with advanced chips made by Huawei Technologies, in the latest sign of how t",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "深圳启用国内首个国产芯片万卡AI集群"
+    },
+    {
+      "title": "Cross River Raises $50 Million to Expand Further Into AI, Crypto",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-31/cross-river-raises-50-million-to-expand-further-into-ai-crypto",
+      "pubDate": "Tue, 31 Mar 2026 11:00:00 GMT",
+      "source": "Bloomberg Tech",
+      "sourceUrl": "https://www.bloomberg.com/technology",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "markets"
+      ],
+      "snippet": "",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Cross River 融资 5000 万美元，进一步进军人工智能和加密领域"
+    },
+    {
+      "title": "Canadian Tech Stocks Set For Worst Quarter Since 2022 on AI, War",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-31/canadian-tech-stocks-set-for-worst-quarter-since-2022-on-ai-war",
+      "pubDate": "Tue, 31 Mar 2026 11:00:00 GMT",
+      "source": "Bloomberg Tech",
+      "sourceUrl": "https://www.bloomberg.com/technology",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "markets"
+      ],
+      "snippet": "",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "加拿大科技股在人工智能和战争方面将迎来 2022 年以来最糟糕的季度"
+    },
+    {
+      "title": "霍尔木兹海峡航运受阻 新西兰等11国就维护开放供应链发表联合声明",
+      "link": "https://api3.cls.cn/share/article/2330829?os=web&sv=8.4.6&app=CailianpressWeb",
+      "pubDate": "Tue, 31 Mar 2026 10:59:06 GMT",
+      "source": "财联社",
+      "sourceUrl": "https://www.cls.cn",
+      "priority": 2,
+      "tags": [
+        "财经快讯",
+        "消费",
+        "零售政策"
+      ],
+      "snippet": "【霍尔木兹海峡航运受阻 新西兰等11国就维护开放供应链发表联合声明】财联社3月31日电，根据新西兰方面3月31日发布的消息，围绕霍尔木兹海峡航运受阻，新西兰、新加坡等11个国家发表联合声明，呼吁维护开放且富有韧性的供应链。据新西兰外交贸易部网站消息，新西兰、哥斯达黎加、冰岛、列支敦士登、挪威、巴拿马、卢旺达、新加坡、瑞士、阿联酋和乌拉圭发表了一份联合声明。声明称，鉴于霍尔木兹海峡关闭可能会对全球供",
+      "section": "domestic_retail",
+      "originalSection": "domestic_retail",
+      "titleZh": "霍尔木兹海峡航运受阻 新西兰等11国就维护开放供应链发表联合声明"
+    },
+    {
+      "title": "Beijing-based AI company Z.ai reports 2025 revenue of ~$105M, below ~$109M est., and net loss up 60% YoY to ~$680M, vs. ~$545M est., amid aggressive spending",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-31/zhipu-s-losses-climb-60-after-chinese-ai-rivalry-worsens",
+      "pubDate": "Tue, 31 Mar 2026 06:55:34 -0400",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-03-31/zhipu-s-losses-climb-60-after-chinese-ai-rivalry-worsens",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Bloomberg:\nBeijing-based AI company Z.ai reports 2025 revenue of ~$105M, below ~$109M est., and net loss up 60% YoY to ~$680M, vs. ~$545M est., amid aggressive spending  —  Zhipu reported a much faste",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "总部位于北京的人工智能公司 Z.ai 报告称，由于积极支出，2025 年收入约为 1.05 亿美元，低于预期的 1.09 亿美元，净亏损同比增长 60% 至 6.8 亿美元，高于预期的 5.45 亿美元"
+    },
+    {
+      "title": "茅台官方上调出厂价 深圳有经销商暂停出货",
+      "link": "https://api3.cls.cn/share/article/2330825?os=web&sv=8.4.6&app=CailianpressWeb",
+      "pubDate": "Tue, 31 Mar 2026 10:54:59 GMT",
+      "source": "财联社",
+      "sourceUrl": "https://www.cls.cn",
+      "priority": 2,
+      "tags": [
+        "财经快讯",
+        "消费",
+        "零售政策"
+      ],
+      "snippet": "【茅台官方上调出厂价 深圳有经销商暂停出货】财联社3月31日电，茅台官方于3月30日调价，53度飞天茅台销售合同价每瓶上涨100元。经走访深圳多家线下门店发现，已有经销商暂缓出货，部分前一日向厂家下单的产品尚未到店。多位商家坦言，眼下茅台价格波动频繁，行情几乎一天一变，谁也不敢轻易压货。与此同时，在线下零售端，已有门店将相关产品售价上调近百元。 (第一财经)",
+      "section": "domestic_retail",
+      "originalSection": "domestic_retail",
+      "titleZh": "茅台官方上调出厂价 深圳有经销商暂停出货"
+    },
+    {
+      "title": "茅台官方上调出厂价，深圳有经销商暂停出货",
+      "link": "https://36kr.com/newsflashes/3746733629915655?f=rss",
+      "pubDate": "2026-03-31 18:54:32  +0800",
+      "source": "36氪 AI",
+      "sourceUrl": "https://36kr.com",
+      "priority": 2,
+      "tags": [
+        "AI创投",
+        "AI应用"
+      ],
+      "snippet": "3月30日，茅台官方调价，53度飞天茅台销售合同价每瓶上涨100元。记者实地走访深圳多家线下门店发现，已有经销商暂缓出货，部分前一日向厂家下单的产品尚未到店。多位商家坦言，眼下茅台价格波动频繁，行情几乎一天一变，谁也不敢轻易压货。与此同时，在线下零售端，已有门店将相关产品售价上调近百元。（第一财经）",
+      "section": "domestic_retail",
+      "originalSection": "domestic_ai",
+      "titleZh": "茅台官方上调出厂价，深圳有经销商暂停出货"
+    },
+    {
+      "title": "【机构龙虎榜解读】商业航天+火箭回收，产品已系统性应用于多个航天工程项目，可回收捕获臂、火箭地面拉索装置等核心部件可应用于商业航天发射与回收环节，机构...",
+      "link": "https://api3.cls.cn/share/article/2330811?os=web&sv=8.4.6&app=CailianpressWeb",
+      "pubDate": "Tue, 31 Mar 2026 10:50:30 GMT",
+      "source": "财联社",
+      "sourceUrl": "https://www.cls.cn",
+      "priority": 2,
+      "tags": [
+        "财经快讯",
+        "消费",
+        "零售政策"
+      ],
+      "snippet": "①商业航天+火箭回收，产品已系统性应用于多个航天工程项目，可回收捕获臂、火箭地面拉索装置等核心部件可应用于商业航天发射与回收环节，机构大额净买入这家公司；②光纤+算力+数据中心+CPO+并购重组，攻克基于CPO技术的高密度高集成多芯MPO插芯关键技术，产品已用于数据中心布线，主要为阿里、腾讯提供数据中心使用的相关产品及服务，这家公司获净买入。",
+      "section": "domestic_ai",
+      "originalSection": "domestic_retail",
+      "titleZh": "【机构龙虎榜解读】商业航天+火箭回收，产品已系统性应用于多个航天工程项目，可回收捕获臂、火箭地面拉索装置等核心部件可应用于商业航天发射与回收环节，机构..."
+    },
+    {
+      "title": "“美酷瑞Gamercury AI”完成新一轮融资",
+      "link": "https://36kr.com/newsflashes/3746728711389700?f=rss",
+      "pubDate": "2026-03-31 18:49:32  +0800",
+      "source": "36氪 AI",
+      "sourceUrl": "https://36kr.com",
+      "priority": 2,
+      "tags": [
+        "AI创投",
+        "AI应用"
+      ],
+      "snippet": "36氪获悉，近日，AI游戏公司“美酷瑞Gamercury AI”宣布完成新一轮融资，本轮由上海天使会联合投资。所融资金将重点用于叙事向AI世界引擎的研发、AI游戏内容平台的打造、AI游戏产品的全球化推广等方向。",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "“美酷瑞Gamercury AI”完成新一轮融资"
+    },
+    {
+      "title": "标普全球：巨额AI支出正面临重重阴霾 美股“大调整”可能还未到来",
+      "link": "https://api3.cls.cn/share/article/2330816?os=web&sv=8.4.6&app=CailianpressWeb",
+      "pubDate": "Tue, 31 Mar 2026 10:46:52 GMT",
+      "source": "财联社",
+      "sourceUrl": "https://www.cls.cn",
+      "priority": 2,
+      "tags": [
+        "财经快讯",
+        "消费",
+        "零售政策"
+      ],
+      "snippet": "【标普全球：巨额AI支出正面临重重阴霾 美股“大调整”可能还未到来】财联社3月31日电，标普全球旗下研究主管Melissa Otto指出，科技巨头在人工智能基础设施建设上的大规模投资如今正面临重大障碍；中东危机正导致经济增长前景和能源成本前景不明朗。高涨的油价可能迫使企业调整支出计划，这将导致股市“真正意义上的”大幅调整。",
+      "section": "domestic_ai",
+      "originalSection": "domestic_retail",
+      "titleZh": "标普全球：巨额AI支出正面临重重阴霾 美股“大调整”可能还未到来"
+    },
+    {
+      "title": "长信科技：子公司签订2.62亿元算力服务合同",
+      "link": "https://api3.cls.cn/share/article/2330814?os=web&sv=8.4.6&app=CailianpressWeb",
+      "pubDate": "Tue, 31 Mar 2026 10:45:59 GMT",
+      "source": "财联社",
+      "sourceUrl": "https://www.cls.cn",
+      "priority": 2,
+      "tags": [
+        "财经快讯",
+        "消费",
+        "零售政策"
+      ],
+      "snippet": "【长信科技：子公司签订2.62亿元算力服务合同】财联社3月31日电，长信科技(300088.SZ)公告称，公司子公司芜湖长信智算科技有限公司与联通(青海)绿电智算科技有限公司签订《算力服务合同》，联通青海绿算委托长信智算提供算力服务，合同含税总金额2.62亿元，服务期五年。本次长信智算签署的《算力服务合同》属于公司在算力业务的初期探索项目，尚处于战略布局与市场拓展阶段，对公司整体生产经营不构成重大",
+      "section": "domestic_ai",
+      "originalSection": "domestic_retail",
+      "titleZh": "长信科技：子公司签订2.62亿元算力服务合同"
+    },
+    {
+      "title": "Alibaba's new Qwen3.5-Omni multimodal model, which processes text, audio, images, and video, is proprietary, marking a shift away from its open-source strategy",
+      "link": "https://www.theinformation.com/",
+      "pubDate": "Tue, 31 Mar 2026 06:45:03 -0400",
+      "source": "The Information",
+      "sourceUrl": "https://www.theinformation.com/",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Juro Osawa / The Information:\nAlibaba's new Qwen3.5-Omni multimodal model, which processes text, audio, images, and video, is proprietary, marking a shift away from its open-source strategy  —  Alibab",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "阿里巴巴新推出的 Qwen3.5-Omni 多模态模型，可处理文本、音频、图像和视频，是专有的，标志着其开源战略的转变"
+    },
+    {
+      "title": "Zhipu AI revenue jumps 132% in first post-IPO report, missing estimates",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3348555/zhipu-ai-revenue-jumps-132-first-post-ipo-report-missing-estimates?utm_source=rss_feed",
+      "pubDate": "Tue, 31 Mar 2026 10:36:26 +0000",
+      "source": "SCMP Tech",
+      "sourceUrl": "https://www.scmp.com/tech",
+      "priority": 2,
+      "tags": [
+        "China AI",
+        "tech policy",
+        "中国科技"
+      ],
+      "snippet": "Chinese artificial intelligence company Zhipu AI posted worse-than-expected annual revenue growth in its first earnings report since its initial public offering (IPO) in Hong Kong in January.\nRevenue ",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "知普人工智能首次公开募股后的首份报告收入猛增132%，未达预期"
+    },
+    {
+      "title": "London-based 9fin, which offers AI tools to help credit traders and investors originate new business efficiently, raised a $170M Series C at a $1.3B valuation",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-31/credit-data-firm-9fin-is-valued-at-1-3-billion-in-funding-round",
+      "pubDate": "Tue, 31 Mar 2026 06:35:00 -0400",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-03-31/credit-data-firm-9fin-is-valued-at-1-3-billion-in-funding-round",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Ryan Gould / Bloomberg:\nLondon-based 9fin, which offers AI tools to help credit traders and investors originate new business efficiently, raised a $170M Series C at a $1.3B valuation  —  9fin Ltd., th",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "总部位于伦敦的 9fin 提供人工智能工具，帮助信贷交易员和投资者高效地开展新业务，以 1.3B 美元的估值筹集了 1.7 亿美元的 C 轮融资"
+    },
+    {
+      "title": "拿下B站AI创作大赛百万大奖的《牌子》导演，预测今年底是AI奇点",
+      "link": "https://www.tmtpost.com/7936097.html",
+      "pubDate": "Tue, 31 Mar 2026 18:31:14 +0800",
+      "source": "钛媒体",
+      "sourceUrl": "https://www.tmtpost.com",
+      "priority": 2,
+      "tags": [
+        "AI商业化",
+        "产业融合",
+        "科技"
+      ],
+      "snippet": "郭帆导演惊呼“超喜欢！”",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "拿下B站AI创作大赛百万大奖的《牌子》导演，预测今年底是AI奇点"
+    },
+    {
+      "title": "目前市场上最先进的AI大模型，已经集体变成溜须拍马的“舔狗”",
+      "link": "https://www.tmtpost.com/7936583.html",
+      "pubDate": "Tue, 31 Mar 2026 18:30:00 +0800",
+      "source": "钛媒体",
+      "sourceUrl": "https://www.tmtpost.com",
+      "priority": 2,
+      "tags": [
+        "AI商业化",
+        "产业融合",
+        "科技"
+      ],
+      "snippet": "AI越奉承，人类就越喜欢；人类越喜欢，AI就越奉承。",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "目前市场上最先进的AI大模型，已经集体变成溜须拍马的“舔狗”"
+    },
+    {
+      "title": "在硅谷，不懂中文还搞什么AI？",
+      "link": "https://www.tmtpost.com/7936587.html",
+      "pubDate": "Tue, 31 Mar 2026 18:29:59 +0800",
+      "source": "钛媒体",
+      "sourceUrl": "https://www.tmtpost.com",
+      "priority": 2,
+      "tags": [
+        "AI商业化",
+        "产业融合",
+        "科技"
+      ],
+      "snippet": "华人工程师正在用中文统治AI。",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "在硅谷，不懂中文还搞什么AI？"
+    },
+    {
+      "title": "OPPO 新一代小方瓶充电器开启预约，4 月 21 日上市",
+      "link": "https://www.ithome.com/0/934/636.htm",
+      "pubDate": "Tue, 31 Mar 2026 10:28:11 GMT",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com",
+      "priority": 2,
+      "tags": [
+        "科技",
+        "AI产品",
+        "消费电子"
+      ],
+      "snippet": "IT之家 3 月 31 日消息，OPPO 新一代小方瓶充电器已上架京东等平台开启预约，显示将于 4 月 21 日上市。\n京东 OPPO 100W 小方瓶 Pro 超级闪充氮化镓充电器 新品上市 敬请期待待发布直达链接\nIT之家注意到，该系列新品包括 100W 小方瓶 Pro 氮化镓充电器、120W 小方瓶双口氮化镓充电器，商品页面显示充电器将提供明媚暖阳 / 玫雾绒纱两种配色；除此之外还有 SUP",
+      "section": "domestic_retail",
+      "originalSection": "domestic_ai",
+      "titleZh": "OPPO 新一代小方瓶充电器开启预约，4 月 21 日上市"
+    },
+    {
+      "title": "小米汽车开店新进展：截至 3 月 31 日全国已有 274 家服务网点，覆盖 160 城",
+      "link": "https://www.ithome.com/0/934/635.htm",
+      "pubDate": "Tue, 31 Mar 2026 10:19:38 GMT",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com",
+      "priority": 2,
+      "tags": [
+        "科技",
+        "AI产品",
+        "消费电子"
+      ],
+      "snippet": "IT之家 3 月 31 日消息，小米汽车官方今日公布了开店新进展：\n\n3 月新增 2 家门店，4 月计划新增 5 家门店，已经基本覆盖全国省份 / 直辖市 / 自治区。截至 3 月 31 日，全国已有 274 家服务网点，覆盖 160 城。\n\n\n小米汽车官方表示，新一代 SU7 已经进店，开放试驾。部分城市的交付中心，能够一次看全九种颜色。参考IT之家此前报道，新车在全国 143 城，492 家门",
+      "section": "domestic_retail",
+      "originalSection": "domestic_ai",
+      "titleZh": "小米汽车开店新进展：截至 3 月 31 日全国已有 274 家服务网点，覆盖 160 城"
+    },
+    {
+      "title": "从几十元到上万元，“接地府”的AI生意经",
+      "link": "https://www.tmtpost.com/7936596.html",
+      "pubDate": "Tue, 31 Mar 2026 18:18:57 +0800",
+      "source": "钛媒体",
+      "sourceUrl": "https://www.tmtpost.com",
+      "priority": 2,
+      "tags": [
+        "AI商业化",
+        "产业融合",
+        "科技"
+      ],
+      "snippet": "究竟是慰藉还是伤害？",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "从几十元到上万元，“接地府”的AI生意经"
+    },
+    {
+      "title": "AI超节点时代的交换机革命",
+      "link": "https://www.tmtpost.com/7936611.html",
+      "pubDate": "Tue, 31 Mar 2026 18:18:51 +0800",
+      "source": "钛媒体",
+      "sourceUrl": "https://www.tmtpost.com",
+      "priority": 2,
+      "tags": [
+        "AI商业化",
+        "产业融合",
+        "科技"
+      ],
+      "snippet": "围绕AI交换机的技术与市场争夺战已然打响。",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "AI超节点时代的交换机革命"
+    },
+    {
+      "title": "Iran mobilizes its hackers to sow chaos, gather intel, and find targets; ex-CISA Director Chris Krebs says Iran is \"throwing everything they have at this\"",
+      "link": "https://www.ft.com/content/f2562e46-2b23-4553-9488-6c7549207539",
+      "pubDate": "Tue, 31 Mar 2026 06:15:01 -0400",
+      "source": "Financial Times",
+      "sourceUrl": "https://www.ft.com/content/f2562e46-2b23-4553-9488-6c7549207539",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Financial Times:\nIran mobilizes its hackers to sow chaos, gather intel, and find targets; ex-CISA Director Chris Krebs says Iran is “throwing everything they have at this”  —  Tehran's cyber operative",
+      "section": "intl_retail",
+      "originalSection": "intl_ai",
+      "titleZh": "伊朗动员黑客制造混乱、收集情报并寻找目标；前 CISA 主任克里斯·克雷布斯 (Chris Krebs) 表示，伊朗“正在为此竭尽全力”"
+    },
+    {
+      "title": "Zhipu’s Losses Climb 60% After Chinese AI Rivalry Worsens",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-31/zhipu-s-losses-climb-60-after-chinese-ai-rivalry-worsens",
+      "pubDate": "Tue, 31 Mar 2026 10:13:23 GMT",
+      "source": "Bloomberg Tech",
+      "sourceUrl": "https://www.bloomberg.com/technology",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "markets"
+      ],
+      "snippet": "",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "中国人工智能竞争加剧，智浦亏损攀升 60%"
+    },
+    {
+      "title": "全球首艘万车级双燃料汽车运输船今日试航，最大载车量 10800 辆",
+      "link": "https://www.ithome.com/0/934/631.htm",
+      "pubDate": "Tue, 31 Mar 2026 10:10:36 GMT",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com",
+      "priority": 2,
+      "tags": [
+        "科技",
+        "AI产品",
+        "消费电子"
+      ],
+      "snippet": "IT之家 3 月 31 日消息，据央视报道，由中国船舶集团旗下广船国际为韩国 HMM 公司建造的 10800 车 LNG 双燃料汽车运输船（PCTC）1 号船今日出海试航。该船是目前全球在建的首艘装车量超过一万辆的双燃料汽车运输船。\n\nIT之家从央视获悉，该船总长 230 米，型宽 40 米，结构吃水 10.5 米，设计航速约 19 节。其船内设有 14 层车库甲板，能够灵活装载包括电动汽车、氢能",
+      "section": "intl_retail",
+      "originalSection": "domestic_ai",
+      "titleZh": "全球首艘万车级双燃料汽车运输船今日试航，最大载车量 10800 辆"
+    },
+    {
+      "title": " 国际化，泡泡玛特仅剩的共识？ ",
+      "link": "https://www.huxiu.com/article/4846933.html?f=rss",
+      "pubDate": "Tue, 31 Mar 2026 18:10:00 +0800",
+      "source": "虎嗅网",
+      "sourceUrl": "https://www.huxiu.com",
+      "priority": 2,
+      "tags": [
+        "商业",
+        "消费",
+        "科技"
+      ],
+      "snippet": "关于泡泡玛特，似乎从没有过坚定的共识，这是它接下来要做的事情。本文来自微信公众号： 洒家君泽 ，作者：洒家君泽，头图来自：AI生成\n\n\n2024年到2025年上半年，泡泡玛特股价从不到20港元涨到超过200港元，涨了十倍。\n\n\n这轮上涨背后，市场形成了六个核心共识：\n\n\n第一个共识是泡泡玛特已经是“IP平台”，不再依赖单一IP。公司签约了200多位艺术家，拥有85个以上IP，正在从“卖Molly的",
+      "section": "domestic_ai",
+      "originalSection": "domestic_retail",
+      "titleZh": " 国际化，泡泡玛特仅剩的共识？ "
+    },
+    {
+      "title": " “拼多多版”传奇 ",
+      "link": "https://www.huxiu.com/article/4846940.html?f=rss",
+      "pubDate": "Tue, 31 Mar 2026 18:04:58 +0800",
+      "source": "虎嗅网",
+      "sourceUrl": "https://www.huxiu.com",
+      "priority": 2,
+      "tags": [
+        "商业",
+        "消费",
+        "科技"
+      ],
+      "snippet": "本文来自微信公众号： 触乐 ，编辑：许艺丹，作者：许艺丹，原文标题：《“拼多多版”传奇丨触乐怪话》\n\n\n“有拼多多吗？是兄弟就帮我砍一刀。”上周三，一名朋友A在线上向我发出邀请。\n\n\n\n\n\n故事的开头\n\n\n这个开头很熟悉，让我想起了一段往事——父亲向我发送了一条链接，为了帮他提现，最终我稀里糊涂买了陶瓷锅和垃圾袋——但现在的我或许已不是那个容易上钩的人。所以，我爽快地回应：来！\n\n\n这次我参加的是",
+      "section": "domestic_retail",
+      "originalSection": "domestic_retail",
+      "titleZh": " “拼多多版”传奇 "
+    },
+    {
+      "title": " 2026苏超：票还没卖，梗先玩爆了 ",
+      "link": "https://www.huxiu.com/article/4846939.html?f=rss",
+      "pubDate": "Tue, 31 Mar 2026 18:04:45 +0800",
+      "source": "虎嗅网",
+      "sourceUrl": "https://www.huxiu.com",
+      "priority": 2,
+      "tags": [
+        "商业",
+        "消费",
+        "科技"
+      ],
+      "snippet": "本文来自微信公众号： 闻旅 ，作者：Kylin，编辑：Sette\n\n\n论会玩梗，还得看江苏。\n\n\n这不2026年苏超还没正式开踢，新一轮乐子就已经刷爆网络。\n\n\n从十三太保精心设计的队徽，到AI短剧《恋与苏超》的帅气城市拟人形象，怎么才能在这场“大战”中最拉风，在“散装”江苏人民的心中，跟赛场上的比分同样重要。\n\n\n就在这两天，有网友喊话宿迁文旅，要给他们指一条“通天路”，可以在鼓舞士气这件事上一",
+      "section": "domestic_ai",
+      "originalSection": "domestic_retail",
+      "titleZh": " 2026苏超：票还没卖，梗先玩爆了 "
+    },
+    {
+      "title": "Apple’s accidental AI feature roll-out in China risks regulatory backlash, expert says",
+      "link": "https://www.scmp.com/tech/policy/article/3348527/apples-accidental-ai-feature-roll-out-china-risks-regulatory-backlash-expert-says?utm_source=rss_feed",
+      "pubDate": "Tue, 31 Mar 2026 10:00:39 +0000",
+      "source": "SCMP Tech",
+      "sourceUrl": "https://www.scmp.com/tech",
+      "priority": 2,
+      "tags": [
+        "China AI",
+        "tech policy",
+        "中国科技"
+      ],
+      "snippet": "Apple’s accidental roll-out on Tuesday of its highly anticipated Apple Intelligence feature in mainland China – which has yet to receive regulatory approval – before swiftly pulling it could raise the",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "专家表示，苹果在中国意外推出人工智能功能可能会引发监管反弹"
+    },
+    {
+      "title": "荣耀 MagicOS 锁屏小组件首批适配机型明启推送，支持步数、实况天气、YOYO 等",
+      "link": "https://www.ithome.com/0/934/628.htm",
+      "pubDate": "Tue, 31 Mar 2026 10:00:23 GMT",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com",
+      "priority": 2,
+      "tags": [
+        "科技",
+        "AI产品",
+        "消费电子"
+      ],
+      "snippet": "IT之家 3 月 31 日消息，荣耀 MagicOS 产品经理昨日发文，针对 MagicOS 系统的锁屏小组件相关问题进行了答疑，例如新功能何时推送、具体支持哪些小组件等。\n\n据介绍，小组件功能需要将 OS 系统版本更新至 MagicOS 10.0.0.150（MagicV6 为 10.0.0.126），第一批机型推送时间在 4 月 1 日，其他机型后续会逐步推送。\n第一批支持了步数、实况天气、空",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "荣耀 MagicOS 锁屏小组件首批适配机型明启推送，支持步数、实况天气、YOYO 等"
+    },
+    {
+      "title": "氪星晚报｜B站官宣将下线猜你喜欢算法；北京前沿脑机接口研究院正式成立；​国行版苹果AI突然上线后又被撤回，苹果回应：正在积极推进落地中国",
+      "link": "https://36kr.com/p/3746654452187648?f=rss",
+      "pubDate": "2026-03-31 18:00:05  +0800",
+      "source": "36氪 AI",
+      "sourceUrl": "https://36kr.com",
+      "priority": 2,
+      "tags": [
+        "AI创投",
+        "AI应用"
+      ],
+      "snippet": "大公司：\n韩国摄像头公司从供货iPhone向人形机器人拓展\n韩国LG Innotek计划加速转型，减少对iPhone销售的依赖，成为AI和机器人解决方案的领先提供商；该公司已开始向波士顿动力供应摄像头模块，并计划共同开发机器人组件。视觉系统是人形机器人中的重要感知部分，除了特斯拉之外，其他公司都采用了多传感器融合的模式。\nB站官宣将下线猜你喜欢算法\n36氪获悉，哔哩哔哩宣布：从明天零点起，B站将下",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "氪星晚报｜B站官宣将下线猜你喜欢算法；北京前沿脑机接口研究院正式成立；​国行版苹果AI突然上线后又被撤回，苹果回应：正在积极推进落地中国"
+    },
+    {
+      "title": "UK accountancy regulator FRC says auditors can't blame AI for audit failures, after it published what it called the world's first guidance on auditor AI usage",
+      "link": "https://www.ft.com/content/f39c0d8d-c15a-4143-9baf-464d7c5e5b01",
+      "pubDate": "Tue, 31 Mar 2026 05:55:34 -0400",
+      "source": "Financial Times",
+      "sourceUrl": "https://www.ft.com/content/f39c0d8d-c15a-4143-9baf-464d7c5e5b01",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Ellesheva Kissin / Financial Times:\nUK accountancy regulator FRC says auditors can't blame AI for audit failures, after it published what it called the world's first guidance on auditor AI usage  —  F",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "英国会计监管机构 FRC 发布了全球首个审计人工智能使用指南后表示，审计师不能将审计失败归咎于人工智能"
+    },
+    {
+      "title": " 为什么员工成了“AI超级个体”，组织却没有增效？ ",
+      "link": "https://www.huxiu.com/article/4846900.html?f=rss",
+      "pubDate": "Tue, 31 Mar 2026 17:36:57 +0800",
+      "source": "虎嗅网",
+      "sourceUrl": "https://www.huxiu.com",
+      "priority": 2,
+      "tags": [
+        "商业",
+        "消费",
+        "科技"
+      ],
+      "snippet": "本文来自微信公众号：人效研究院，作者：WFM编辑部，原文标题：《三点说清楚：为什么员工成了“AI超级个体”，组织却没有增效？》，头图来自：AI生成\n\n\nAI技术的狂飙突进，让企业老板对它能带来的改变，期待值不断拔高。\n\n\n为了接住AI时代的红利，很多公司老板推动管理层尤其是HR团队做了很多事情：采购最先进的大模型、给员工报销各种AI软件费用、举办AI培训、树立“AI 提效标杆”、比拼各团队“数字员",
+      "section": "domestic_ai",
+      "originalSection": "domestic_retail",
+      "titleZh": " 为什么员工成了“AI超级个体”，组织却没有增效？ "
+    },
+    {
+      "title": "富士通拟开发 1.4 纳米 AI 芯片，联合 Rapidus 实现日本本土制造",
+      "link": "https://www.ithome.com/0/934/609.htm",
+      "pubDate": "Tue, 31 Mar 2026 09:36:27 GMT",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com",
+      "priority": 2,
+      "tags": [
+        "科技",
+        "AI产品",
+        "消费电子"
+      ],
+      "snippet": "IT之家 3 月 31 日消息，据日经新闻报道，富士通（Fujitsu）正计划开发一款用于 AI 服务器的定制芯片。该芯片将采用 Rapidus 最先进的 1.4nm 工艺制造，将实现完全的日本本土化（研发与生产）。\n\n该项目的核心是 NPU，富士通计划将 NPU 与其自研 CPU 进行整合封装，这些 CPU 正用于包括日本旗舰级“富岳 NEXT”超级计算机在内的项目。\n据介绍，富士通已申请日本新",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "富士通拟开发 1.4 纳米 AI 芯片，联合 Rapidus 实现日本本土制造"
+    },
+    {
+      "title": "Amsterdam-based Nebius announces a $10B, 310MW data center in Lappeenranta, Finland, built by developer Polarnode and set to begin phased operations in 2027",
+      "link": "https://www.reuters.com/technology/nebius-furthers-european-expansion-with-10-billion-ai-data-centre-finland-2026-03-31/",
+      "pubDate": "Tue, 31 Mar 2026 05:35:05 -0400",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/nebius-furthers-european-expansion-with-10-billion-ai-data-centre-finland-2026-03-31/",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Reuters:\nAmsterdam-based Nebius announces a $10B, 310MW data center in Lappeenranta, Finland, built by developer Polarnode and set to begin phased operations in 2027  —  AI infrastructure firm Nebius ",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "总部位于阿姆斯特丹的 Nebius 宣布在芬兰拉彭兰塔建设一座价值 10B 美元、310MW 的数据中心，由开发商 Polarnode 建造，将于 2027 年开始分阶段运营"
+    },
+    {
+      "title": "Sora跌倒，字节吃饱：国内大厂接管AI视频下半场？",
+      "link": "https://www.tmtpost.com/7936296.html",
+      "pubDate": "Tue, 31 Mar 2026 17:32:26 +0800",
+      "source": "钛媒体",
+      "sourceUrl": "https://www.tmtpost.com",
+      "priority": 2,
+      "tags": [
+        "AI商业化",
+        "产业融合",
+        "科技"
+      ],
+      "snippet": "赚钱，还是中国人擅长。",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "Sora跌倒，字节吃饱：国内大厂接管AI视频下半场？"
+    },
+    {
+      "title": " 南航扭亏，但客运仍在“失血” ",
+      "link": "https://www.huxiu.com/article/4846925.html?f=rss",
+      "pubDate": "Tue, 31 Mar 2026 17:30:30 +0800",
+      "source": "虎嗅网",
+      "sourceUrl": "https://www.huxiu.com",
+      "priority": 2,
+      "tags": [
+        "商业",
+        "消费",
+        "科技"
+      ],
+      "snippet": "本文来自微信公众号： 环球旅讯 ，作者：谢常青\n\n\n厦航助力，川航拖后腿\n\n\n最新财年，南航终于盈利了。\n\n\n这家亚洲最大航司披露，2025年净利润8.57亿元，在疫情后终于迎来首次年度盈利，打破了三大航长期亏损的僵局。\n\n\n\n\n\n这份看似光鲜的成绩单，背后却藏着“一半火焰、一半海水”的反差。\n\n\n作为三大航中唯一未剥离物流资产的企业，南航2025年的盈利，很大程度上依赖“非客运”的强力托底。\n\n",
+      "section": "domestic_retail",
+      "originalSection": "domestic_retail",
+      "titleZh": " 南航扭亏，但客运仍在“失血” "
+    },
+    {
+      "title": "Sainsbury’s commits £5bn to long-term farm deals",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/sainsburys-farm-deal/",
+      "pubDate": "Tue, 31 Mar 2026 09:30:21 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "Sainsbury’s is investing more than £5bn into long-term agreements with British and Irish farmers, expanding its partnership model as it looks to strengthen supply chains amid rising costs and climate ",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "Sainsbury’s 承诺斥资 50 亿英镑进行长期农场交易"
+    },
+    {
+      "title": "偷偷上线又紧急撤回，苹果的国行AI又“难产”了",
+      "link": "https://www.tmtpost.com/7936295.html",
+      "pubDate": "Tue, 31 Mar 2026 17:28:57 +0800",
+      "source": "钛媒体",
+      "sourceUrl": "https://www.tmtpost.com",
+      "priority": 2,
+      "tags": [
+        "AI商业化",
+        "产业融合",
+        "科技"
+      ],
+      "snippet": "苹果急了。",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "偷偷上线又紧急撤回，苹果的国行AI又“难产”了"
+    },
+    {
+      "title": "SRC: Scottish shops face £162m more in business rates than English counterparts over next three years",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/src-business-rates/",
+      "pubDate": "Tue, 31 Mar 2026 09:22:19 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "Shops occupying medium to large spaces in Scotland are set to face £162 million more in business rates over the next three years than the same size stores in England, according to the Scottish Retail ",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "SRC：未来三年苏格兰商店的商业利率比英国同行高出 1.62 亿英镑"
+    },
+    {
+      "title": " 追了一年AI 工具，产出为零：一个连续创业者的反思 ",
+      "link": "https://www.huxiu.com/article/4846922.html?f=rss",
+      "pubDate": "Tue, 31 Mar 2026 17:21:17 +0800",
+      "source": "虎嗅网",
+      "sourceUrl": "https://www.huxiu.com",
+      "priority": 2,
+      "tags": [
+        "商业",
+        "消费",
+        "科技"
+      ],
+      "snippet": "本文来自微信公众号： 深潮 TechFlow ，作者：值得关注的，原文标题：《追了一年 AI 工具，产出为零：一个连续创业者的反思》\n\n\n我见过这出戏的剧本\n\n\n在科技圈待久了，你会发现一个规律。\n\n\n有些创始人每天追着X上的新AI工具测评跑，还有些人在别人分心的时候，默默把事业做起来了。\n\n\n大多数人，处在中间地带。\n\n\n我们想做点长久的东西，但又怕被甩在后面。于是我们追前沿，说服自己「先看到未",
+      "section": "domestic_ai",
+      "originalSection": "domestic_retail",
+      "titleZh": " 追了一年AI 工具，产出为零：一个连续创业者的反思 "
+    },
+    {
+      "title": " AI 加速，短剧比想象中更短命 ",
+      "link": "https://www.huxiu.com/article/4846916.html?f=rss",
+      "pubDate": "Tue, 31 Mar 2026 17:13:36 +0800",
+      "source": "虎嗅网",
+      "sourceUrl": "https://www.huxiu.com",
+      "priority": 2,
+      "tags": [
+        "商业",
+        "消费",
+        "科技"
+      ],
+      "snippet": "本文来自微信公众号： 极客公园 ，作者：连冉，编辑：郑玄\n\n\n赛道加速洗牌。\n\n\n短剧比想象中更短命。\n\n\n作为一个依靠「强刺激」迅速催熟的内容形态，它尚未完成从野蛮生长到成熟工业化的过渡，核心盈利模型就已率先失效。在供给端，不断攀升的制作成本导致真人短剧行业的亏损率已超过90%；在消费端，高度同质化的猎奇套路也让观众产生了严重的审美疲劳。\n\n\n但真正把旧模式推向临界点的，是底层技术的骤变。AI对",
+      "section": "domestic_ai",
+      "originalSection": "domestic_retail",
+      "titleZh": " AI 加速，短剧比想象中更短命 "
+    },
+    {
+      "title": "Slimbook 推出 2026 款 Creative 笔记本电脑：AI 9 365 + RTX 5070",
+      "link": "https://www.ithome.com/0/934/604.htm",
+      "pubDate": "Tue, 31 Mar 2026 09:12:00 GMT",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com",
+      "priority": 2,
+      "tags": [
+        "科技",
+        "AI产品",
+        "消费电子"
+      ],
+      "snippet": "IT之家 3 月 31 日消息，西班牙 Linux 兼容 PC 制造商 Slimbook 当地时间本月 30 日宣布推出新一代 Creative 笔记本电脑。其采用 AMD 锐龙 AI 9 365 处理器和英伟达 GeForce RTX 5070 笔记本电脑 GPU，配备 15.3\" 显示屏。\n\n2026 款 Slimbook Creative 采用黑色金属机身，内置 99Wh 电池，重 1.9k",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "Slimbook推出2026款创意笔记本电脑：AI 9 365 + RTX 5070"
+    },
+    {
+      "title": "M&S to launch at London town centre; The Elephant",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/the-elephant-town-centre/",
+      "pubDate": "Tue, 31 Mar 2026 09:10:09 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "Rental operator Get Living has revealed its first confirmed retail brands at its £500 million new town centre at Elephant and Castle, The Elephant.",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "玛莎百货将在伦敦市中心推出；大象"
+    },
+    {
+      "title": "A supply chain attack compromises HTTP client Axios, which has 100M weekly npm downloads, introducing a malicious dependency and deploying a multi-stage payload",
+      "link": "https://socket.dev/blog/axios-npm-package-compromised",
+      "pubDate": "Tue, 31 Mar 2026 04:35:01 -0400",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/blog/axios-npm-package-compromised",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Socket:\nA supply chain attack compromises HTTP client Axios, which has 100M weekly npm downloads, introducing a malicious dependency and deploying a multi-stage payload  —  Socket Research Team … Our ",
+      "section": "intl_retail",
+      "originalSection": "intl_ai",
+      "titleZh": "供应链攻击损害了 HTTP 客户端 Axios，该客户端每周的 npm 下载量为 1 亿次，引入了恶意依赖项并部署了多阶段有效负载"
+    },
+    {
       "title": "雪佛龙警告：未来十年能源缺口将相当庞大 化石燃料仍不可或缺",
       "link": "https://api3.cls.cn/share/article/2330499?os=web&sv=8.4.6&app=CailianpressWeb",
       "pubDate": "Tue, 31 Mar 2026 07:58:18 GMT",
@@ -536,7 +1314,7 @@
       "titleZh": "8点1氪丨伊朗议会批准对海峡征收通行费；多品牌电动车将涨价；名创优品回应买盲盒需要会员"
     },
     {
-      "title": "Activist Palliser Targets MSG Maker Ajinomoto in AI Value Hunt",
+      "title": "Activist Palliser Targets MSG Maker Ajinomoto in AI Hunt",
       "link": "https://www.bloomberg.com/news/articles/2026-03-31/activist-palliser-targets-msg-maker-ajinomoto-in-ai-value-hunt",
       "pubDate": "Tue, 31 Mar 2026 00:12:40 GMT",
       "source": "Bloomberg Tech",
@@ -550,7 +1328,24 @@
       "snippet": "",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "活动家 Palliser 在人工智能价值搜寻中瞄准味精制造商 Ajinomoto"
+      "titleZh": "活动人士 Palliser 在 AI Hunt 中瞄准味精制造商 Ajinomoto"
+    },
+    {
+      "title": "03版综合 - 深圳人形机器人产业聚势成群 ",
+      "link": "http://paper.ce.cn/pc/content/202603/31/content_330394.html",
+      "pubDate": "Tue, 31 Mar 2026 00:00:04 +0000",
+      "source": "经济日报",
+      "sourceUrl": "https://www.ce.cn",
+      "priority": 2,
+      "tags": [
+        "消费政策",
+        "经济数据",
+        "产业"
+      ],
+      "snippet": "从工业质检到商业销售，从文化展演到体育竞技，凭借着全链创新与产业赋能，深圳人形机器人产业正从核心技术攻关迈向规模化商用落地，加速实现行业领跑。\n 深圳在人形机器人领域的突围，得益于政策引导、资本加持与产业根基深度融合、同频发力。近年来，深圳深入实施“人工智能+”“机器人+”应用推广行动。为抢抓全球人工智能与机器人技术融合发展的战略机遇，2024年4月，广东省具身智能机器人创新中心在深圳成立。202",
+      "section": "domestic_ai",
+      "originalSection": "domestic_retail",
+      "titleZh": "03版综合 - 深圳人形机器人产业聚势成群 "
     },
     {
       "title": "China’s Top Private Insurer Taps AI to Unlock $174 Billion Value",
@@ -853,6 +1648,23 @@
       "titleZh": "人工智能健康工具比以往任何时候都多，但它们的效果如何？"
     },
     {
+      "title": "CI&T’s Melissa Minkow dissects retail technology report",
+      "link": "https://www.retailgazette.co.uk/blog/2026/03/cit-report-ai-melissa-minkow/",
+      "pubDate": "Mon, 30 Mar 2026 15:53:26 +0000",
+      "source": "Retail Gazette",
+      "sourceUrl": "https://www.retailgazette.co.uk",
+      "priority": 2,
+      "tags": [
+        "UK retail",
+        "Europe",
+        "fashion"
+      ],
+      "snippet": "Global technology firm CI&T has unveiled a new report which found UK consumers are “more than ready” for the AI era of retail. However, despite 61 per cent of shoppers having used AI to shop, over two",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "CI&T 的 Melissa Minkow 剖析零售技术报告"
+    },
+    {
       "title": "C&IT’s Melissa Minkow dissects retail technology report",
       "link": "https://www.retailgazette.co.uk/blog/2026/03/cit-report-ai-melissa-minkow/",
       "pubDate": "Mon, 30 Mar 2026 15:53:26 +0000",
@@ -1121,6 +1933,23 @@
       "section": "intl_retail",
       "originalSection": "intl_retail",
       "titleZh": "阿尔迪改造网站和移动应用程序"
+    },
+    {
+      "title": "On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers",
+      "link": "https://arxiv.org/abs/2603.28762",
+      "pubDate": "Mon, 30 Mar 2026 13:59:13 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "Modern Text-to-Image (T2I) diffusion models have achieved remarkable semantic alignment, yet they often suffer from a significant lack of variety, converging on a narrow set of visual solutions for an",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "扩散变压器丰富多样性的上下文空间中的动态排斥"
     },
     {
       "title": "Consumer sentiment falls 6%, hit by declining stocks, higher gas prices",
@@ -1433,10 +2262,27 @@
         "Europe",
         "fashion"
       ],
-      "snippet": "At Superdry’s immersive and multifaeceted flagship at 360-366 Oxford Street, founder and CEO Julian Dunkerton is proving a broader point about physical retail. The store, positioned as “a new chapter ",
+      "snippet": "At Superdry’s immersive and multifaceted flagship at 360-366 Oxford Street, founder and CEO Julian Dunkerton is proving a broader point about physical retail. The store, positioned as “a new chapter o",
       "section": "intl_retail",
       "originalSection": "intl_retail",
       "titleZh": "Superdry 首席执行官朱利安·邓克顿 (Julian Dunkerton) 讲述其门店为何处于行业领先地位"
+    },
+    {
+      "title": "2499 → 1488 元：小米智能门锁 4 Pro 天猫直降，隔空刷掌秒开锁",
+      "link": "https://www.ithome.com/0/934/211.htm",
+      "pubDate": "Mon, 30 Mar 2026 10:28:07 GMT",
+      "source": "IT之家",
+      "sourceUrl": "https://www.ithome.com",
+      "priority": 2,
+      "tags": [
+        "科技",
+        "AI产品",
+        "消费电子"
+      ],
+      "snippet": "小米智能门锁 4 Pro 去年 8 月末开售，支持 AI 掌静脉、3D 人脸识别，售价 2499 元。\n今日天猫自营“天猫优品官方旗舰店”支持叠加 88VIP+ 直播秒杀双重优惠，国补后实付 1486 元即可入手：\n\n88VIP 点击下方卡片 → 点击宝贝页面右上方“直播中”浮窗，直播间下单实付 1486 元：\n\n天猫小米智能门锁 4 Pro 掌静脉 人脸 指纹 密码国补后 1486 元直达链接\n",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "2499 → 1488 元：小米智能门锁 4 Pro 天猫直降，隔空刷掌秒开锁"
     },
     {
       "title": "Mistral AI borrows 830 million dollars to operate a new data center near Paris",
@@ -2293,6 +3139,23 @@
       "titleZh": "DeepSeek 在用户报告错误后调查长达数小时的 AI 中断"
     },
     {
+      "title": "你AI焦虑了吗？",
+      "link": "http://weixin.sogou.com/weixin?type=2&query=%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F%E5%91%A8%E5%88%8A+%E4%BD%A0AI%E7%84%A6%E8%99%91%E4%BA%86%E5%90%97%EF%BC%9F",
+      "pubDate": "Mon, 30 Mar 2026 09:04:00 +0800",
+      "source": "第一财经",
+      "sourceUrl": "https://www.yicai.com",
+      "priority": 2,
+      "tags": [
+        "商业",
+        "消费",
+        "财经"
+      ],
+      "snippet": "",
+      "section": "domestic_ai",
+      "originalSection": "domestic_retail",
+      "titleZh": "你AI焦虑了吗？"
+    },
+    {
       "title": "AI Takes On the Spam Call Epidemic",
       "link": "https://www.pymnts.com/artificial-intelligence-2/2026/ai-takes-on-the-spam-call-epidemic/",
       "pubDate": "Mon, 30 Mar 2026 01:02:40 +0000",
@@ -2607,6 +3470,23 @@
       "section": "intl_ai",
       "originalSection": "intl_ai",
       "titleZh": "研究发现，人工智能的阿谀奉承使人们不太可能道歉，而更有可能加倍努力"
+    },
+    {
+      "title": "智能周报｜千问用AI打车时，Anthropic与OpenAI在聚焦超级应用",
+      "link": "http://weixin.sogou.com/weixin?type=2&query=%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F%E5%91%A8%E5%88%8A+%E6%99%BA%E8%83%BD%E5%91%A8%E6%8A%A5%EF%BD%9C%E5%8D%83%E9%97%AE%E7%94%A8AI%E6%89%93%E8%BD%A6%E6%97%B6%EF%BC%8CAnthropic%E4%B8%8EOpenAI%E5%9C%A8%E8%81%9A%E7%84%A6%E8%B6%85%E7%BA%A7%E5%BA%94%E7%94%A8",
+      "pubDate": "Sun, 29 Mar 2026 19:40:00 +0800",
+      "source": "第一财经",
+      "sourceUrl": "https://www.yicai.com",
+      "priority": 2,
+      "tags": [
+        "商业",
+        "消费",
+        "财经"
+      ],
+      "snippet": "",
+      "section": "intl_ai",
+      "originalSection": "domestic_retail",
+      "titleZh": "智能周报｜千问用AI打车时，Anthropic与OpenAI在聚焦超级应用"
     },
     {
       "title": "科氪 | 变革传统同传设备，亮亮视野推出全球首创AR+AI会议翻译系统，部署中关村论坛",
@@ -13838,6 +14718,23 @@
       "titleZh": "克劳德是一个思考的空间"
     },
     {
+      "title": "国共论坛期间 赖清德抛台美加速打造非红供应链",
+      "link": "https://www.zaobao.com/news/china/story20260203-8292632",
+      "pubDate": "Tue, 03 Feb 2026 12:17:52 GMT",
+      "source": "联合早报",
+      "sourceUrl": "https://www.zaobao.com",
+      "priority": 2,
+      "tags": [
+        "中国经济",
+        "政策",
+        "国际"
+      ],
+      "snippet": "台湾总统赖清德（左二）2月3日率领副总统萧美琴（右二）、外交部长林佳龙（左一）、经济部长龚明鑫等官员召开记者会，说明前一星期台美经济对话成果。 （取自台湾总统府网站）\n正值国共两党智库在北京召开论坛之际，台湾总统赖清德星期二（3日）举行记者会，说明上星期台美经济对话成果，并指台美未来投资合作关键项目包括AI与半导体等高科技产业，加速建构具备韧性的“非红供应链”。\n美台经济繁荣伙伴对话（EPPD）今",
+      "section": "domestic_ai",
+      "originalSection": "domestic_retail",
+      "titleZh": "国共论坛期间 赖清德抛台美加速打造非红供应链"
+    },
+    {
       "title": "Import AI 443: Into the mist: Moltbook, agent ecologies, and the internet in transition",
       "link": "https://importai.substack.com/p/import-ai-443-into-the-mist-moltbook",
       "pubDate": "Mon, 02 Feb 2026 13:31:18 GMT",
@@ -14405,5 +15302,5 @@
       "titleZh": "导入AI 431：技术乐观和适当的恐惧"
     }
   ],
-  "savedAt": "2026-03-31T08:02:03.085Z"
+  "savedAt": "2026-03-31T11:12:29.892Z"
 }

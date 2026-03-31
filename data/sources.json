@@ -9,7 +9,14 @@
       { "name": "商务部", "url": "https://www.mofcom.gov.cn", "rss": null, "priority": 2, "type": "scrape", "tags": ["政策", "消费", "外贸"] },
       { "name": "中国连锁经营协会 CCFA", "url": "https://www.ccfa.org.cn", "rss": null, "priority": 2, "type": "scrape", "tags": ["连锁", "便利店", "行业协会"] },
       { "name": "艾媒咨询", "url": "https://www.iimedia.cn", "rss": null, "priority": 2, "type": "scrape", "tags": ["消费数据", "市场研究", "新零售"] },
-      { "name": "财联社", "url": "https://www.cls.cn", "rss": null, "rsshub": "https://hub.slarker.me/cls/telegraph", "priority": 2, "type": "rss", "tags": ["财经快讯", "消费", "零售政策"] }
+      { "name": "财联社", "url": "https://www.cls.cn", "rss": null, "rsshub": "https://hub.slarker.me/cls/telegraph", "priority": 2, "type": "rss", "tags": ["财经快讯", "消费", "零售政策"] },
+      { "name": "虎嗅网", "url": "https://www.huxiu.com", "rss": "https://plink.anyfeeder.com/huxiu", "priority": 2, "type": "rss", "tags": ["商业", "消费", "科技"] },
+      { "name": "华尔街见闻", "url": "https://wallstreetcn.com", "rss": "https://plink.anyfeeder.com/weixin/wallstreetcn", "priority": 2, "type": "rss", "tags": ["财经", "消费", "宏观"] },
+      { "name": "经济日报", "url": "https://www.ce.cn", "rss": "https://plink.anyfeeder.com/jingjiribao", "priority": 2, "type": "rss", "tags": ["消费政策", "经济数据", "产业"] },
+      { "name": "第一财经", "url": "https://www.yicai.com", "rss": "https://plink.anyfeeder.com/weixin/CBNweekly2008", "priority": 2, "type": "rss", "tags": ["商业", "消费", "财经"] },
+      { "name": "澎湃新闻", "url": "https://www.thepaper.cn", "rss": "https://feedx.net/rss/thepaper.xml", "priority": 2, "type": "rss", "tags": ["时政", "经济", "社会"] },
+      { "name": "新京报", "url": "https://www.bjnews.com.cn", "rss": "https://feedx.net/rss/bjnews.xml", "priority": 2, "type": "rss", "tags": ["时政", "经济", "社会"] },
+      { "name": "联合早报", "url": "https://www.zaobao.com", "rss": "https://plink.anyfeeder.com/zaobao/realtime/china", "priority": 2, "type": "rss", "tags": ["中国经济", "政策", "国际"] }
     ]
   },
   "intl_retail": {
@@ -35,7 +42,8 @@
       { "name": "InfoQ 中文站", "url": "https://www.infoq.cn", "rss": "https://www.infoq.cn/feed", "priority": 2, "type": "rss", "tags": ["AI工程", "技术实践"] },
       { "name": "钛媒体", "url": "https://www.tmtpost.com", "rss": "https://www.tmtpost.com/rss.xml", "priority": 2, "type": "rss", "tags": ["AI商业化", "产业融合", "科技"] },
       { "name": "晚点 LatePost", "url": "https://www.latepost.com", "rss": null, "rsshub": "https://hub.slarker.me/latepost", "priority": 3, "type": "rss", "tags": ["科技商业", "深度报道", "AI产业"] },
-      { "name": "SCMP Tech", "url": "https://www.scmp.com/tech", "rss": "https://www.scmp.com/rss/36/feed", "priority": 2, "type": "rss", "tags": ["China AI", "tech policy", "中国科技"] }
+      { "name": "SCMP Tech", "url": "https://www.scmp.com/tech", "rss": "https://www.scmp.com/rss/36/feed", "priority": 2, "type": "rss", "tags": ["China AI", "tech policy", "中国科技"] },
+      { "name": "IT之家", "url": "https://www.ithome.com", "rss": "https://www.ithome.com/rss/", "priority": 2, "type": "rss", "tags": ["科技", "AI产品", "消费电子"] }
     ]
   },
   "intl_ai": {

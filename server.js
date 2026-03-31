@@ -108,7 +108,8 @@ async function translateArticles(articles) {
 
 // Known Chinese source names (used for domestic detection)
 const knownChineseSources = ['联商网', 'Linkshop', '亿邦动力', '机器之心', '量子位',
-  'Qbitai', 'InfoQ 中文站', '钛媒体', '新华社', '商务部', 'CCFA', '艾媒', '财联社', '晚点', 'LatePost'];
+  'Qbitai', 'InfoQ 中文站', '钛媒体', '新华社', '商务部', 'CCFA', '艾媒', '财联社', '晚点', 'LatePost',
+  '虎嗅', '华尔街见闻', '经济日报', '第一财经', '澎湃新闻', '新京报', '联合早报', 'IT之家'];
 
 // General-purpose sources whose articles should only be included if they match keywords
 // These are broad media outlets that cover many topics beyond retail/AI
@@ -384,9 +385,10 @@ function classifyArticle(article) {
   // Strict sources: require score >= 2 to avoid loose matches on single generic keyword
   const strictSources = ['36氪', 'PYMNTS Retail', 'Hacker News', 'Techmeme', '第一财经',
     '新华社财经', '商务部', 'Ars Technica', 'MIT Technology Review', 'TechCrunch',
-    'VentureBeat', 'Import AI', 'The Verge', '钛媒体', 'NYT Tech', 'SCMP', 'Bloomberg'];
+    'VentureBeat', 'Import AI', 'The Verge', '钛媒体', 'NYT Tech', 'SCMP', 'Bloomberg',
+    '经济日报', '澎湃新闻', '新京报', '联合早报'];
   // Semi-strict sources: require score >= 1 (dedicated topic feeds, less filtering needed)
-  const semiStrictSources = ['Wired AI', '晚点', 'LatePost', '财联社'];
+  const semiStrictSources = ['Wired AI', '晚点', 'LatePost', '财联社', '虎嗅', '华尔街见闻', 'IT之家'];
 
   const isStrict = strictSources.some(gs => article.source.includes(gs));
   const isSemiStrict = semiStrictSources.some(gs => article.source.includes(gs));
