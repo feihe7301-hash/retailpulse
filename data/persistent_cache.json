@@ -1,6 +1,40 @@
 {
   "articles": [
     {
+      "title": "雪佛龙警告：未来十年能源缺口将相当庞大 化石燃料仍不可或缺",
+      "link": "https://api3.cls.cn/share/article/2330499?os=web&sv=8.4.6&app=CailianpressWeb",
+      "pubDate": "Tue, 31 Mar 2026 07:58:18 GMT",
+      "source": "财联社",
+      "sourceUrl": "https://www.cls.cn",
+      "priority": 2,
+      "tags": [
+        "财经快讯",
+        "消费",
+        "零售政策"
+      ],
+      "snippet": "【雪佛龙警告：未来十年能源缺口将相当庞大 化石燃料仍不可或缺】财联社3月31日电，美国能源巨头雪佛龙公司表示，为了满足因人口增长、人工智能应用普及、以及传统能源产量下降而激增的能源需求，现在全球范围内必须扩大能源供应源。在2026年的CERAWeek大会上，雪佛龙首席执行官Mike Wirth以及高级管理人员阐述了一项战略，旨在通过扩大石油、天然气和新兴技术的供应来实现这一目标，同时利用人工智能来",
+      "section": "domestic_ai",
+      "originalSection": "domestic_retail",
+      "titleZh": "雪佛龙警告：未来十年能源缺口将相当庞大 化石燃料仍不可或缺"
+    },
+    {
+      "title": "武汉光谷推出AI人才专属政策 最高支持1350万元",
+      "link": "https://api3.cls.cn/share/article/2330472?os=web&sv=8.4.6&app=CailianpressWeb",
+      "pubDate": "Tue, 31 Mar 2026 07:53:48 GMT",
+      "source": "财联社",
+      "sourceUrl": "https://www.cls.cn",
+      "priority": 2,
+      "tags": [
+        "财经快讯",
+        "消费",
+        "零售政策"
+      ],
+      "snippet": "【武汉光谷推出AI人才专属政策 最高支持1350万元】财联社3月31日电，武汉东湖高新区启动人工智能重大创新创业团队引进专项行动，推出人工智能领域专属引才政策，新政以GitHub星标数、API调用量、用户活跃度、竞赛成绩等实绩为人才认定标准，并给予人工智能创新团队最高1350万元的综合扶持。（记者 余诗琪）",
+      "section": "domestic_ai",
+      "originalSection": "domestic_retail",
+      "titleZh": "武汉光谷推出AI人才专属政策 最高支持1350万元"
+    },
+    {
       "title": "因供应链持续中断 沙特一重要化工厂暂时停产",
       "link": "https://api3.cls.cn/share/article/2330474?os=web&sv=8.4.6&app=CailianpressWeb",
       "pubDate": "Tue, 31 Mar 2026 07:49:42 GMT",
@@ -552,7 +586,7 @@
       "titleZh": "最新民意调查显示，15% 的美国人表示他们愿意为人工智能老板工作"
     },
     {
-      "title": "Inside David Sacks' new role shaping Trump's AI agenda; officials say Sriram Krishnan is taking on a position at the National Economic Council to focus on AI",
+      "title": "Inside David Sacks' new role shaping Trump's AI agenda; US officials say Sriram Krishnan is taking on a position at the National Economic Council to focus on AI",
       "link": "https://www.axios.com/2026/03/30/david-sacks-trump-ai-agenda-plan",
       "pubDate": "Mon, 30 Mar 2026 19:35:01 -0400",
       "source": "Axios",
@@ -563,10 +597,10 @@
         "AI",
         "startups"
       ],
-      "snippet": "Axios:\nInside David Sacks' new role shaping Trump's AI agenda; officials say Sriram Krishnan is taking on a position at the National Economic Council to focus on AI  —  - The move lands as Republicans",
+      "snippet": "Axios:\nInside David Sacks' new role shaping Trump's AI agenda; US officials say Sriram Krishnan is taking on a position at the National Economic Council to focus on AI  —  - The move lands as Republic",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "大卫·萨克斯 (David Sacks) 的新角色塑造了特朗普的人工智能议程；官员们表示，斯里拉姆·克里希南 (Sriram Krishnan) 将在国家经济委员会任职，重点关注人工智能"
+      "titleZh": "大卫·萨克斯 (David Sacks) 的新角色塑造了特朗普的人工智能议程；美国官员表示，斯里拉姆·克里希南 (Sriram Krishnan) 将在国家经济委员会任职，重点关注人工智能"
     },
     {
       "title": "Meta Aims to Share Brick-and-Mortar Success Stories With Wearables Retailers",
@@ -737,7 +771,7 @@
       "titleZh": "微软通过任务执行功能扩展了 Copilot"
     },
     {
-      "title": "Gurman: Apple pulls Apple Intelligence in China, after accidentally launching it in the country; there is no imminent launch as Apple has no regulatory approval",
+      "title": "Gurman: Apple pulls Apple Intelligence in China, after accidentally launching it there; Apple does not plan an imminent launch as it lacks regulatory approval",
       "link": "https://9to5mac.com/2026/03/30/apple-intelligence-rolling-out-now-in-china-per-user-reports/",
       "pubDate": "Mon, 30 Mar 2026 15:15:00 -0400",
       "source": "9to5Mac",
@@ -748,10 +782,10 @@
         "AI",
         "startups"
       ],
-      "snippet": "Ryan Christoffel / 9to5Mac:\nGurman: Apple pulls Apple Intelligence in China, after accidentally launching it in the country; there is no imminent launch as Apple has no regulatory approval  —  Apple I",
+      "snippet": "Ryan Christoffel / 9to5Mac:\nGurman: Apple pulls Apple Intelligence in China, after accidentally launching it there; Apple does not plan an imminent launch as it lacks regulatory approval  —  Apple Int",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "古尔曼：苹果公司在中国意外推出Apple Intelligence后，将其撤回中国；由于苹果尚未获得监管部门的批准，因此不会立即推出"
+      "titleZh": "古尔曼：苹果公司在中国意外推出Apple Intelligence后，将其撤回中国；由于缺乏监管部门的批准，苹果不打算立即推出该产品"
     },
     {
       "title": "Insiders liken AI to \"the Ozempic of the music industry\" as hitmakers reportedly hide their generator use",
@@ -2905,6 +2939,23 @@
       "section": "domestic_ai",
       "originalSection": "domestic_ai",
       "titleZh": "阿里巴巴将为淘宝、天猫数百万商户部署人工智能“数字劳动力”"
+    },
+    {
+      "title": "EpochX: Building the Infrastructure for an Emergent Agent Civilization",
+      "link": "https://arxiv.org/abs/2603.27304",
+      "pubDate": "Sat, 28 Mar 2026 11:20:48 GMT",
+      "source": "Hugging Face Papers",
+      "sourceUrl": "https://huggingface.co/papers",
+      "priority": 2,
+      "tags": [
+        "AI research",
+        "papers",
+        "open source"
+      ],
+      "snippet": "General-purpose technologies reshape economies less by improving individual tools than by enabling new ways to organize production and coordination. We believe AI agents are approaching a similar infl",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "EpochX：为新兴特工文明构建基础设施"
     },
     {
       "title": "Meta's hyperagents improve at tasks and improve at improving",
@@ -14354,5 +14405,5 @@
       "titleZh": "导入AI 431：技术乐观和适当的恐惧"
     }
   ],
-  "savedAt": "2026-03-31T07:53:14.241Z"
+  "savedAt": "2026-03-31T08:02:03.085Z"
 }

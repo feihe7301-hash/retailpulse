@@ -935,19 +935,33 @@ app.listen(PORT, async () => {
 
   // === KEEP-ALIVE SELF-PING ===
   // Prevent Railway from sleeping the service by pinging ourselves every 5 minutes.
-  // Railway sleeps inactive services; this keeps the event loop and HTTP server warm.
+  // Uses both localhost (keeps Node process active) AND public domain (keeps Railway ingress warm).
   const KEEP_ALIVE_INTERVAL = 5 * 60 * 1000; // 5 minutes
   setInterval(async () => {
+    const now = new Date().toISOString();
+    // Always ping localhost to keep the event loop active
     try {
-      const baseUrl = process.env.RAILWAY_PUBLIC_DOMAIN
-        ? `https://${process.env.RAILWAY_PUBLIC_DOMAIN}`
-        : `http://localhost:${PORT}`;
-      const resp = await fetch(`${baseUrl}/api/trending`, { signal: AbortSignal.timeout(10000) });
-      if (resp.ok) {
-        console.log(`[KeepAlive] Ping OK at ${new Date().toISOString()}`);
+      const localResp = await fetch(`http://localhost:${PORT}/api/health`, { signal: AbortSignal.timeout(5000) });
+      if (localResp.ok) {
+        const health = await localResp.json();
+        console.log(`[KeepAlive] Local OK — ${health.articles} articles, updated ${health.lastUpdated}`);
       }
     } catch (e) {
-      // Silent fail — the important thing is the timer keeps running
+      console.error(`[KeepAlive] Local ping failed: ${e.message}`);
+    }
+    // Also ping via public domain to keep Railway's ingress/proxy warm
+    // This is critical — Railway decides "inactive" based on external traffic
+    const publicDomain = process.env.RAILWAY_PUBLIC_DOMAIN || process.env.RAILWAY_STATIC_URL;
+    if (publicDomain) {
+      try {
+        const pubUrl = publicDomain.startsWith('http') ? publicDomain : `https://${publicDomain}`;
+        const pubResp = await fetch(`${pubUrl}/api/health`, { signal: AbortSignal.timeout(10000) });
+        if (pubResp.ok) {
+          console.log(`[KeepAlive] Public OK at ${now}`);
+        }
+      } catch (e) {
+        console.error(`[KeepAlive] Public ping failed: ${e.message}`);
+      }
     }
   }, KEEP_ALIVE_INTERVAL);
 });
