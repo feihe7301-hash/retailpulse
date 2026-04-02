@@ -109,7 +109,8 @@ async function translateArticles(articles) {
 // Known Chinese source names (used for domestic detection)
 const knownChineseSources = ['联商网', 'Linkshop', '亿邦动力', '机器之心', '量子位',
   'Qbitai', 'InfoQ 中文站', '钛媒体', '新华社', '商务部', 'CCFA', '艾媒', '财联社', '晚点', 'LatePost',
-  '虎嗅', '华尔街见闻', '经济日报', '第一财经', '澎湃新闻', '新京报', '联合早报', '北京商报'];
+  '虎嗅', '华尔街见闻', '经济日报', '第一财经', '澎湃新闻', '新京报', '联合早报', '北京商报',
+  '36氪 零售', '虎嗅 零售'];
 
 // General-purpose sources whose articles should only be included if they match keywords
 // These are broad media outlets that cover many topics beyond retail/AI
@@ -440,7 +441,8 @@ function classifyArticle(article) {
   // Retail-dedicated sources: always classify as retail, never AI
   const retailLockedSources = ['Retail Dive', 'Modern Retail', 'Grocery Dive',
     'Supermarket News', 'Supply Chain Dive', 'Retail Gazette',
-    'PYMNTS Retail', '联商网', 'Linkshop', '亿邦动力', 'CCFA', '艾媒'];
+    'PYMNTS Retail', '联商网', 'Linkshop', '亿邦动力', 'CCFA', '艾媒',
+    '36氪 零售', '虎嗅 零售'];
   // AI-dedicated sources: always classify as AI, never retail
   const aiLockedSources = ['机器之心', '量子位', 'Qbitai', 'Anthropic', 'The Decoder',
     'Import AI', 'Ars Technica', 'SCMP', 'OpenAI', 'DeepMind', 'Hugging Face'];
@@ -456,7 +458,7 @@ function classifyArticle(article) {
   const strictSources = ['36氪', 'PYMNTS Retail', 'Hacker News', 'Techmeme', '第一财经',
     '新华社财经', '商务部', 'Ars Technica', 'MIT Technology Review', 'TechCrunch',
     'VentureBeat', 'Import AI', 'The Verge', '钛媒体', 'NYT Tech', 'SCMP', 'Bloomberg',
-    '经济日报', '澎湃新闻', '新京报', '联合早报', '虎嗅', '华尔街见闻', '财联社'];
+    '经济日报', '澎湃新闻', '新京报', '联合早报', '华尔街见闻', '财联社'];
   // Semi-strict sources: require score >= 1 (dedicated topic feeds, less filtering needed)
   const semiStrictSources = ['Wired AI', '晚点', 'LatePost', '北京商报'];
 
@@ -465,10 +467,15 @@ function classifyArticle(article) {
 
   // If no topic detected at all
   if (!topic) {
+    // Dedicated sources don't need keyword match — accept all their articles
+    if (isRetailLocked) return `${locale}_retail`;
+    if (isAILocked) return `${locale}_ai`;
+
     if (isStrict || isSemiStrict) return null; // General/strict sources always need keyword match
 
     const dedicatedRetailSources = ['联商网', 'Linkshop', '亿邦动力', 'Retail Dive', 'Modern Retail',
-      'Grocery Dive', 'Supermarket News', 'Supply Chain Dive', 'Retail Gazette', 'CCFA', '艾媒'];
+      'Grocery Dive', 'Supermarket News', 'Supply Chain Dive', 'Retail Gazette', 'CCFA', '艾媒',
+      '36氪 零售', '虎嗅 零售'];
     const dedicatedAISources = ['机器之心', '量子位', 'Qbitai', 'Anthropic', 'The Decoder',
       'SCMP'];
     const isDedicatedRetail = dedicatedRetailSources.some(s => article.source.includes(s));
@@ -480,9 +487,10 @@ function classifyArticle(article) {
   }
 
   // For strict sources, require score >= 2 to avoid single-keyword false positives
-  if (isStrict && score < 2) return null;
+  // Skip for source-locked sources (dedicated feeds don't need keyword thresholds)
+  if (isStrict && !isRetailLocked && !isAILocked && score < 2) return null;
   // Semi-strict: require score >= 1 (dedicated topic feeds, most articles relevant)
-  if (isSemiStrict && score < 1) return null;
+  if (isSemiStrict && !isRetailLocked && !isAILocked && score < 1) return null;
 
   // Force topic for source-locked sources, but allow override when signals are very strong
   let finalTopic = topic;
