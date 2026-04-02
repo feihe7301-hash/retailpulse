@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "title": "AI 原生时代，如何提供可用、易用、高效的算力服务？",
+      "link": "https://www.infoq.cn/article/vh9j9d6ceChVul80VLG4?utm_source=rss&utm_medium=article",
+      "pubDate": "2026-04-02T11:00:01.189Z",
+      "source": "InfoQ 中文站",
+      "sourceUrl": "https://www.infoq.cn",
+      "priority": 2,
+      "tags": [
+        "AI工程",
+        "技术实践"
+      ],
+      "snippet": "点击查看原文>",
+      "section": "intl_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "AI 原生时代，如何提供可用、易用、高效的算力服务？"
+    },
+    {
+      "title": "Solana-Based DeFi Exchange Suffers $285 Million Hack",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/solana-based-defi-exchange-suffers-285-million-hack/",
+      "pubDate": "Thu, 02 Apr 2026 10:49:40 +0000",
+      "source": "PYMNTS Retail",
+      "sourceUrl": "https://www.pymnts.com",
+      "priority": 1,
+      "tags": [
+        "payments",
+        "retail media",
+        "fintech"
+      ],
+      "snippet": "Decentralized cryptocurrency exchange Drift has suffered an exploit that drained $285 million in digital assets.  According to a report by Bloomberg News Wednesday (April 1), the incident on the Solan",
+      "section": "intl_retail",
+      "originalSection": "intl_retail",
+      "titleZh": "Solana-Based DeFi Exchange Suffers $285 Million Hack"
+    },
+    {
       "title": "“奥特曼拉来多少万亿都没用”！UML之父判断：大模型不会真正思考，从架构上就是死胡同",
       "link": "https://www.infoq.cn/article/lOu1d22q6Qom0qp5ifxP?utm_source=rss&utm_medium=article",
       "pubDate": "2026-04-02T10:14:22.902Z",
@@ -49,6 +82,22 @@
       "section": "domestic_ai",
       "originalSection": "domestic_retail",
       "titleZh": "财联社4月2日电，美国存储芯片公司盘前延续下跌，闪迪跌超5%，美光科技跌超4%。"
+    },
+    {
+      "title": "Men are ditching TV for YouTube as AI usage and social media fatigue grow",
+      "link": "https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed",
+      "pubDate": "Thu, 02 Apr 2026 09:43:08 +0000",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
+      "priority": 2,
+      "tags": [
+        "tech",
+        "startups"
+      ],
+      "snippet": "Comments",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "Men are ditching TV for YouTube as AI usage and social media fatigue grow"
     },
     {
       "title": "Alibaba releases Qwen3.6-Plus, its third proprietary, closed-source AI model launched within a three-day period, saying it \"drastically enhanced\" agentic coding",
@@ -21236,5 +21285,5 @@
       "titleZh": "德国零售巨头“卖身”京东，民众心里很慌"
     }
   ],
-  "savedAt": "2026-04-02T10:38:21.628Z"
+  "savedAt": "2026-04-02T11:01:47.939Z"
 }

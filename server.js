@@ -895,7 +895,7 @@ async function refreshAll() {
 }
 
 // --- API Routes ---
-app.use(express.static(path.join(__dirname, 'public')));
+app.use(express.static(path.join(__dirname, 'docs')));
 
 app.get('/api/articles', (req, res) => {
   const { section, search, tag } = req.query;
@@ -989,7 +989,7 @@ app.listen(PORT, async () => {
     } else {
       // No persistent cache — try loading from data.json as secondary fallback
       try {
-        const dataJsonPath = path.join(__dirname, 'public/data.json');
+        const dataJsonPath = path.join(__dirname, 'docs/data.json');
         if (fs.existsSync(dataJsonPath)) {
           const djData = JSON.parse(fs.readFileSync(dataJsonPath, 'utf-8'));
           if (djData.articles && djData.articles.length > 0) {
@@ -1015,7 +1015,7 @@ app.listen(PORT, async () => {
     try {
       const allArticles = ['domestic_retail','intl_retail','domestic_ai','intl_ai'].flatMap(s => articlesCache[s]);
       const data = { articles: allArticles, trending: articlesCache.trending, lastUpdated: articlesCache.lastUpdated };
-      fs.writeFileSync(path.join(__dirname, 'public/data.json'), JSON.stringify(data));
+      fs.writeFileSync(path.join(__dirname, 'docs/data.json'), JSON.stringify(data));
     } catch(e) { console.error('[StaticData] Error writing data.json:', e.message); }
   };
 
