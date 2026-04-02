@@ -109,7 +109,7 @@ async function translateArticles(articles) {
 // Known Chinese source names (used for domestic detection)
 const knownChineseSources = ['联商网', 'Linkshop', '亿邦动力', '机器之心', '量子位',
   'Qbitai', 'InfoQ 中文站', '钛媒体', '新华社', '商务部', 'CCFA', '艾媒', '财联社', '晚点', 'LatePost',
-  '虎嗅', '华尔街见闻', '经济日报', '第一财经', '澎湃新闻', '新京报', '联合早报', 'IT之家'];
+  '虎嗅', '华尔街见闻', '经济日报', '第一财经', '澎湃新闻', '新京报', '联合早报', '北京商报'];
 
 // General-purpose sources whose articles should only be included if they match keywords
 // These are broad media outlets that cover many topics beyond retail/AI
@@ -294,6 +294,10 @@ function detectLocaleOverride(article, topic) {
 // Standalone 'AI' matching (avoid matching 'ALDI', 'MAIL', 'DETAIL', etc.)
 const aiStandaloneRegex = /\bAI\b/;
 
+// False-positive exclusions: terms that contain retail keywords as substrings
+// but are NOT retail-related (e.g., 京东方 contains 京东, 淘宝贝 contains 淘宝)
+const retailFalsePositives = ['京东方', '京东方科技'];
+
 function detectTopic(article) {
   const text = (article.title + ' ' + (article.snippet || '')).toLowerCase();
   const rawText = article.title + ' ' + (article.snippet || '');
@@ -301,6 +305,10 @@ function detectTopic(article) {
   let retailScore = 0;
   for (const kw of retailKeywords) {
     if (text.includes(kw.toLowerCase())) retailScore++;
+  }
+  // Deduct score if false-positive terms are present
+  for (const fp of retailFalsePositives) {
+    if (rawText.includes(fp)) retailScore = Math.max(0, retailScore - 2);
   }
 
   let aiScore = 0;
@@ -321,7 +329,49 @@ function detectTopic(article) {
   return { topic: null, score: 0 };
 }
 
+// === NOISE FILTER ===
+// Filter out digest/summary roundups and stock market flash news
+const noiseTitlePatterns = [
+  // Digest / roundup / summary articles (总结类快讯)
+  /新闻精选/, /要闻精选/, /每日精选/, /今日要闻/, /一周要闻/,
+  /午间.*精选/, /早间.*精选/, /晚间.*精选/, /盘前必读/, /盘后必读/,
+  /今日看点/, /本周看点/, /一文读懂/, /一图看懂/,
+  /财经早餐/, /财经日历/, /财经早报/,
+  // Stock market flash news (股市快讯)
+  /[涨跌]停板?[汇总复盘]/, /龙虎榜/, /板块异动/, /个股异动/,
+  /涨幅[居榜]/, /跌幅[居榜]/, /资金流[向入出]/,
+  /A股[收开]盘/, /港股[收开]盘/, /美股[收开]盘/,
+  /三大指数/, /两市[成交缩量放量]/, /大盘[收涨跌震]/, /股指[收涨跌]/,
+  /主力资金/, /北向资金/, /融资融券/,
+  /[早午晚]盘[播报综述点评]/, /盘面[综述分析]/,
+  /涨停[股数家]/, /跌停[股数家]/,
+  // Market data roundups
+  /收盘[播报综述]/, /开盘[播报综述]/,
+  /市场[日周]报/, /交易[日周]报/,
+  // Stock price movement flash news
+  /中概股.*盘前/, /中概股.*盘后/, /热门中概股/,
+  /集体[走强走弱暴涨暴跌]/, /[股指期货].*[早午晚]盘/,
+];
+
+function isNoiseArticle(article) {
+  const title = article.title || '';
+  for (const pattern of noiseTitlePatterns) {
+    if (pattern.test(title)) return true;
+  }
+  return false;
+}
+
 function classifyArticle(article) {
+  // Global noise filter: remove digest roundups and stock market flash news
+  if (isNoiseArticle(article)) return null;
+
+  // Normalize legacy source names from cached data
+  if (article.source === '36氪 AI') article.source = '36氪';
+
+  // Blocked sources: removed from project but may linger in persistent cache
+  const blockedSources = ['IT之家'];
+  if (blockedSources.some(s => article.source.includes(s))) return null;
+
   let locale = detectLocale(article);
   const { topic, score } = detectTopic(article);
   const text = (article.title + ' ' + (article.snippet || '')).toLowerCase();
@@ -386,9 +436,9 @@ function classifyArticle(article) {
   const strictSources = ['36氪', 'PYMNTS Retail', 'Hacker News', 'Techmeme', '第一财经',
     '新华社财经', '商务部', 'Ars Technica', 'MIT Technology Review', 'TechCrunch',
     'VentureBeat', 'Import AI', 'The Verge', '钛媒体', 'NYT Tech', 'SCMP', 'Bloomberg',
-    '经济日报', '澎湃新闻', '新京报', '联合早报'];
+    '经济日报', '澎湃新闻', '新京报', '联合早报', '虎嗅', '华尔街见闻', '财联社'];
   // Semi-strict sources: require score >= 1 (dedicated topic feeds, less filtering needed)
-  const semiStrictSources = ['Wired AI', '晚点', 'LatePost', '财联社', '虎嗅', '华尔街见闻', 'IT之家'];
+  const semiStrictSources = ['Wired AI', '晚点', 'LatePost', '北京商报'];
 
   const isStrict = strictSources.some(gs => article.source.includes(gs));
   const isSemiStrict = semiStrictSources.some(gs => article.source.includes(gs));
@@ -457,6 +507,12 @@ async function fetchRSS(source, retries = 1) {
         let link = item.link || '';
         let articleSource = source.name;
         let articleSourceUrl = source.url;
+
+        // Special handling for Google News RSS: strip " - Source" suffix and clean title
+        if (source.rss && source.rss.includes('news.google.com/rss')) {
+          title = title.replace(/\s*-\s*[^-]+$/, '').trim();
+          title = title.replace(/^打印_/, '').trim();
+        }
 
         // Special handling for Techmeme: extract original source & URL
         if (source.name === 'Techmeme' || source.name.includes('Techmeme')) {
@@ -597,6 +653,8 @@ async function fetchAllSources() {
 
   // Classify each article into the correct section
   for (const article of allArticles) {
+    // Normalize legacy source names
+    if (article.source === '36氪 AI') article.source = '36氪';
     article.section = classifyArticle({ ...article, section: article.originalSection });
   }
 
@@ -754,6 +812,8 @@ async function refreshAll() {
   for (const pa of persistedArticles) {
     const key = pa.title.toLowerCase().substring(0, 50);
     if (!existingKeys.has(key)) {
+      // Normalize legacy source names
+      if (pa.source === '36氪 AI') pa.source = '36氪';
       // Re-classify persisted articles
       pa.section = classifyArticle({ ...pa, originalSection: pa.originalSection || pa.section });
       if (pa.section) {
