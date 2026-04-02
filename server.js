@@ -298,6 +298,15 @@ const aiStandaloneRegex = /\bAI\b/;
 // but are NOT retail-related (e.g., 京东方 contains 京东, 淘宝贝 contains 淘宝)
 const retailFalsePositives = ['京东方', '京东方科技'];
 
+// Strong AI signals: if title contains these, heavily boost AI score
+// These indicate the article is fundamentally about AI, not retail
+const strongAISignals = [
+  '大模型', '机器人', '算力', '芯片', 'GPU', 'LLM', 'GPT',
+  '自动驾驶', '人形机器人', '具身智能', 'AI新浪潮', 'AI时代',
+  'AI助手', 'AI Agent', 'AI大模型', 'AI芯片', 'AI算力',
+  '壁仞', '寒武纪', '地平线', '昇腾', '摩尔线程',
+];
+
 function detectTopic(article) {
   const text = (article.title + ' ' + (article.snippet || '')).toLowerCase();
   const rawText = article.title + ' ' + (article.snippet || '');
@@ -317,26 +326,32 @@ function detectTopic(article) {
   }
   // Check standalone "AI" separately to avoid false positives
   if (aiStandaloneRegex.test(rawText)) aiScore += 2;
+  // Boost AI score for strong AI signals in the title
+  for (const sig of strongAISignals) {
+    if (rawText.includes(sig)) aiScore += 3;
+  }
 
-  if (retailScore > 0 && aiScore === 0) return { topic: 'retail', score: retailScore };
-  if (aiScore > 0 && retailScore === 0) return { topic: 'ai', score: aiScore };
+  if (retailScore > 0 && aiScore === 0) return { topic: 'retail', score: retailScore, retailScore, aiScore };
+  if (aiScore > 0 && retailScore === 0) return { topic: 'ai', score: aiScore, retailScore, aiScore };
   if (retailScore > 0 && aiScore > 0) {
     const winner = retailScore >= aiScore ? 'retail' : 'ai';
-    return { topic: winner, score: Math.max(retailScore, aiScore) };
+    return { topic: winner, score: Math.max(retailScore, aiScore), retailScore, aiScore };
   }
 
   // Neither matched
-  return { topic: null, score: 0 };
+  return { topic: null, score: 0, retailScore: 0, aiScore: 0 };
 }
 
 // === NOISE FILTER ===
-// Filter out digest/summary roundups and stock market flash news
+// Filter out digest/summary roundups, stock market flash news, ads, recruitment
 const noiseTitlePatterns = [
   // Digest / roundup / summary articles (总结类快讯)
   /新闻精选/, /要闻精选/, /每日精选/, /今日要闻/, /一周要闻/,
   /午间.*精选/, /早间.*精选/, /晚间.*精选/, /盘前必读/, /盘后必读/,
   /今日看点/, /本周看点/, /一文读懂/, /一图看懂/,
   /财经早餐/, /财经日历/, /财经早报/,
+  /氪星晚报/, /氪星早报/, /电商早报/, /电商晚报/,
+  /[早午晚]报[｜|：:]/, /午间快讯/, /快讯精选/, /日报精选/, /一周回顾/,
   // Stock market flash news (股市快讯)
   /[涨跌]停板?[汇总复盘]/, /龙虎榜/, /板块异动/, /个股异动/,
   /涨幅[居榜]/, /跌幅[居榜]/, /资金流[向入出]/,
@@ -351,6 +366,11 @@ const noiseTitlePatterns = [
   // Stock price movement flash news
   /中概股.*盘前/, /中概股.*盘后/, /热门中概股/,
   /集体[走强走弱暴涨暴跌]/, /[股指期货].*[早午晚]盘/,
+  // Ads, recruitment, promotions (广告、招聘、推广)
+  /招人[!！]/, /招聘/, /校招/, /社招/, /应届/, /岗位/,
+  /人才留言板/, /挑战赛.*报名/, /报名通道/, /开启报名/,
+  /点击报名/, /峰会报名/, /早鸟票/, /限时优惠/, /免费领/,
+  /推广活动/, /赞助/,
 ];
 
 function isNoiseArticle(article) {
@@ -373,7 +393,7 @@ function classifyArticle(article) {
   if (blockedSources.some(s => article.source.includes(s))) return null;
 
   let locale = detectLocale(article);
-  const { topic, score } = detectTopic(article);
+  const { topic, score, retailScore, aiScore } = detectTopic(article);
   const text = (article.title + ' ' + (article.snippet || '')).toLowerCase();
   const rawText = article.title + ' ' + (article.snippet || '');
   const isInfoQ = article.source.includes('InfoQ');
@@ -464,9 +484,15 @@ function classifyArticle(article) {
   // Semi-strict: require score >= 1 (dedicated topic feeds, most articles relevant)
   if (isSemiStrict && score < 1) return null;
 
-  // Force topic for source-locked sources (e.g., PYMNTS AI article → still retail)
+  // Force topic for source-locked sources, but allow override when signals are very strong
   let finalTopic = topic;
-  if (isRetailLocked && topic === 'ai') finalTopic = 'retail';
+  if (isRetailLocked && topic === 'ai') {
+    // Only force retail if the article has some retail relevance
+    // Pure AI articles (retailScore === 0, strong AI signals) should go to AI section
+    if (retailScore > 0 || aiScore < 3) {
+      finalTopic = 'retail';
+    }
+  }
   if (isAILocked && topic === 'retail') finalTopic = 'ai';
 
   // Apply international locale override based on topic keywords

@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "title": "“奥特曼拉来多少万亿都没用”！UML之父判断：大模型不会真正思考，从架构上就是死胡同",
+      "link": "https://www.infoq.cn/article/lOu1d22q6Qom0qp5ifxP?utm_source=rss&utm_medium=article",
+      "pubDate": "2026-04-02T10:14:22.902Z",
+      "source": "InfoQ 中文站",
+      "sourceUrl": "https://www.infoq.cn",
+      "priority": 2,
+      "tags": [
+        "AI工程",
+        "技术实践"
+      ],
+      "snippet": "点击查看原文>",
+      "section": "intl_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "“奥特曼拉来多少万亿都没用”！UML之父判断：大模型不会真正思考，从架构上就是死胡同"
+    },
+    {
+      "title": "UK National Education Union poll: 66% of secondary school teachers in England say pupils using AI are losing their capacity for core skills like writing",
+      "link": "https://www.theguardian.com/technology/2026/apr/02/pupils-england-losing-thinking-skills-because-of-ai-survey",
+      "pubDate": "Thu, 02 Apr 2026 06:10:01 -0400",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/technology/2026/apr/02/pupils-england-losing-thinking-skills-because-of-ai-survey",
+      "priority": 3,
+      "tags": [
+        "tech",
+        "AI",
+        "startups"
+      ],
+      "snippet": "Sally Weale / The Guardian:\nUK National Education Union poll: 66% of secondary school teachers in England say pupils using AI are losing their capacity for core skills like writing  —  Two-thirds of s",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "UK National Education Union poll: 66% of secondary school teachers in England say pupils using AI are losing their capacity for core skills like writing"
+    },
+    {
+      "title": "财联社4月2日电，美国存储芯片公司盘前延续下跌，闪迪跌超5%，美光科技跌超4%。",
+      "link": "https://api3.cls.cn/share/article/2333607?os=web&sv=8.4.6&app=CailianpressWeb",
+      "pubDate": "Thu, 02 Apr 2026 10:00:59 GMT",
+      "source": "财联社",
+      "sourceUrl": "https://www.cls.cn",
+      "priority": 2,
+      "tags": [
+        "财经快讯",
+        "消费",
+        "零售政策"
+      ],
+      "snippet": "财联社4月2日电，美国存储芯片公司盘前延续下跌，闪迪跌超5%，美光科技跌超4%。",
+      "section": "domestic_ai",
+      "originalSection": "domestic_retail",
+      "titleZh": "财联社4月2日电，美国存储芯片公司盘前延续下跌，闪迪跌超5%，美光科技跌超4%。"
+    },
+    {
       "title": "Alibaba releases Qwen3.6-Plus, its third proprietary, closed-source AI model launched within a three-day period, saying it \"drastically enhanced\" agentic coding",
       "link": "https://www.bloomberg.com/news/articles/2026-04-02/alibaba-unveils-third-closed-source-ai-model-in-focus-on-profit",
       "pubDate": "Thu, 02 Apr 2026 05:40:02 -0400",
@@ -67,6 +117,23 @@
       "section": "intl_retail",
       "originalSection": "intl_retail",
       "titleZh": "英国向马达加斯加提供近乎零关税的3万亿英镑市场准入，以促进供应链"
+    },
+    {
+      "title": " 外媒：SpaceX冲刺史上最大IPO，马斯克押注太空AI版图 ",
+      "link": "https://www.huxiu.com/article/4847583.html?f=rss",
+      "pubDate": "Thu, 02 Apr 2026 17:31:11 +0800",
+      "source": "虎嗅网",
+      "sourceUrl": "https://www.huxiu.com",
+      "priority": 2,
+      "tags": [
+        "商业",
+        "消费",
+        "科技"
+      ],
+      "snippet": "本文来自微信公众号： 前主编 ，作者：前主编，原文标题：《前主编Global丨外媒：SpaceX冲刺史上最大IPO，马斯克押注太空AI版图》\n\n\n据路透社、华尔街日报等多家媒体报道，埃隆·马斯克旗下SpaceX已向美国证券交易委员会秘密递交首次IPO申请文件，这意味着这家全球最受关注的私人航天公司，距离登陆资本市场又近了一步。若顺利推进，SpaceX此次上市不仅可能成为全球有史以来规模最大的IPO",
+      "section": "domestic_ai",
+      "originalSection": "domestic_retail",
+      "titleZh": " 外媒：SpaceX冲刺史上最大IPO，马斯克押注太空AI版图 "
     },
     {
       "title": "工信部：鼓励设立中小企业专属算力池，面向中小企业提供普惠便利的算力资源",
@@ -186,6 +253,23 @@
       "titleZh": "冰岛老板支持政府打击4亿英镑的订阅“陷阱”"
     },
     {
+      "title": " AI未来五年发展路径 ",
+      "link": "https://www.huxiu.com/article/4847573.html?f=rss",
+      "pubDate": "Thu, 02 Apr 2026 17:02:57 +0800",
+      "source": "虎嗅网",
+      "sourceUrl": "https://www.huxiu.com",
+      "priority": 2,
+      "tags": [
+        "商业",
+        "消费",
+        "科技"
+      ],
+      "snippet": "本文来自微信公众号： 阿朱说 ，作者：吕建伟\n\n\n（1）生成\n\n\n现在生成都已经渐入佳境：\n\n\n文本：文本报告生成、代码生成，如Claude Code\n\n\n语音：语音生成\n\n\n视频：视频生成，如seedance2.0\n\n\n我很看好两个方向：AI写代码（主要现在国产模型不争气不给力）、AI视觉（现在字节的视觉识别和视频生成做的很牛）。\n\n\n传闻DeepSeek选择了多模态。但愿它不是去做：Nano ",
+      "section": "domestic_ai",
+      "originalSection": "domestic_retail",
+      "titleZh": " AI未来五年发展路径 "
+    },
+    {
       "title": "Fabletics announces launch of biggest European store in Berlin",
       "link": "https://www.retailgazette.co.uk/blog/2026/04/fabletics-announces-launch-of-biggest-european-store-in-berlin/",
       "pubDate": "Thu, 02 Apr 2026 09:00:33 +0000",
@@ -237,6 +321,23 @@
       "titleZh": "研究发现昆虫养殖可以解决森林砍伐问题并促进粮食安全"
     },
     {
+      "title": " AI短剧冲击：横店西安多地剧组解散，中腰部演员片酬腰斩 ",
+      "link": "https://www.huxiu.com/article/4847569.html?f=rss",
+      "pubDate": "Thu, 02 Apr 2026 16:49:32 +0800",
+      "source": "虎嗅网",
+      "sourceUrl": "https://www.huxiu.com",
+      "priority": 2,
+      "tags": [
+        "商业",
+        "消费",
+        "科技"
+      ],
+      "snippet": "本文来自微信公众号： 知危 ，编辑：大饼，作者：知危编辑部\n\n\n“现在就是跟打地鼠一样，发现某个时间段AI视频生成软件排队少，大家就调整到那个时间段工作。”李追远（化名）说这句话的时候是工作日上午十一点，但他调侃道，有些同行已经下班了，“因为他们凌晨三点上班。”\n\n\n李追远是短剧行业资深制片人，从曾经的“横店变竖店”（剧组竖屏短剧化），到现在遍地“一人剧组”（短剧AI化），李追远经历了这个行业的各",
+      "section": "domestic_ai",
+      "originalSection": "domestic_retail",
+      "titleZh": " AI短剧冲击：横店西安多地剧组解散，中腰部演员片酬腰斩 "
+    },
+    {
       "title": "悟空接入国产编程模型Qwen3.6-Plus",
       "link": "https://36kr.com/newsflashes/3749433114083849?f=rss",
       "pubDate": "2026-04-02 16:40:35  +0800",
@@ -251,6 +352,40 @@
       "section": "domestic_ai",
       "originalSection": "domestic_ai",
       "titleZh": "悟空接入国产编程模型Qwen3.6-Plus"
+    },
+    {
+      "title": " 当AI成为祭祀用品，烧纸就是烧算力？ ",
+      "link": "https://www.huxiu.com/article/4847558.html?f=rss",
+      "pubDate": "Thu, 02 Apr 2026 16:38:51 +0800",
+      "source": "虎嗅网",
+      "sourceUrl": "https://www.huxiu.com",
+      "priority": 2,
+      "tags": [
+        "商业",
+        "消费",
+        "科技"
+      ],
+      "snippet": "本文来自微信公众号： 刺猬公社 ，作者：刺猬公社编辑部\n\n\n把AI模型，烧给没有走到这个时代的故人。\n\n\nAI发展到了今天，评价一个AI好不好用的标准似乎逐渐变得有些趋同和单调，这些标准包括但不限于：能不能理解连用户自己可能都不理解的提示词，能不能在生成抽象视频的时候细节足够真实，能不能在优化代码的时候明白有些bug最好不要去动它。\n\n\n但在2026年的清明节前，当一家淘宝店上架了全球首款AI纸扎",
+      "section": "domestic_ai",
+      "originalSection": "domestic_retail",
+      "titleZh": " 当AI成为祭祀用品，烧纸就是烧算力？ "
+    },
+    {
+      "title": " 霸王茶姬收到一个危险信号 ",
+      "link": "https://www.huxiu.com/article/4847553.html?f=rss",
+      "pubDate": "Thu, 02 Apr 2026 16:38:00 +0800",
+      "source": "虎嗅网",
+      "sourceUrl": "https://www.huxiu.com",
+      "priority": 2,
+      "tags": [
+        "商业",
+        "消费",
+        "科技"
+      ],
+      "snippet": "出品｜虎嗅商业消费组\n作者｜李佳琪\n编辑｜苗正卿\n题图｜霸王茶姬\n\n\n霸王茶姬收到一个危险信号。\n\n\n门店越开越多，但加盟商的账本却越来越薄；爆款还是三年前的“伯牙绝弦”，新故事怎么也讲不动。霸王茶姬的2025年，藏在光鲜财报背后的，是两条不易缝合的“剧情”。\n \n“我们那个群，以前天天有人晒单，现在天天有人问怎么转让。” 一位在华中某三线城市经营霸王茶姬的加盟商李然，在发给虎嗅的语音里带着疲惫，",
+      "section": "domestic_retail",
+      "originalSection": "domestic_retail",
+      "titleZh": " 霸王茶姬收到一个危险信号 "
     },
     {
       "title": "‘Market’s Latest Shiny Objects’: Optical Stocks Get AI Momentum",
@@ -673,6 +808,23 @@
       "section": "domestic_ai",
       "originalSection": "domestic_ai",
       "titleZh": "智谱首份财报背后，新故事难讲"
+    },
+    {
+      "title": "花了十年，周剑终于把机器人卖出去了",
+      "link": "https://www.tmtpost.com/7939405.html",
+      "pubDate": "Thu, 02 Apr 2026 14:40:52 +0800",
+      "source": "钛媒体",
+      "sourceUrl": "https://www.tmtpost.com",
+      "priority": 2,
+      "tags": [
+        "AI商业化",
+        "产业融合",
+        "科技"
+      ],
+      "snippet": "优必选的2025：订单翻天，亏损照旧。",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "花了十年，周剑终于把机器人卖出去了"
     },
     {
       "title": "AI大模型产品“奇趣”完成千万级融资",
@@ -1328,6 +1480,22 @@
       "section": "domestic_ai",
       "originalSection": "domestic_retail",
       "titleZh": " 一群热衷于把自己工作搞没的人 "
+    },
+    {
+      "title": "36氪首发 | 00后交大博士做仿生飞行机器人，获启高、奇绩创坛、交大母基金等投资",
+      "link": "https://36kr.com/p/3748270618919424?f=rss",
+      "pubDate": "2026-04-02 09:10:00  +0800",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com",
+      "priority": 2,
+      "tags": [
+        "AI创投",
+        "AI应用"
+      ],
+      "snippet": "作者丨欧雪\n编辑丨袁斯来\n硬氪获悉，仿生扑翼飞行机器人公司——深圳鹰瞰智翼科技有限公司（下称“鹰瞰智翼”）近期已完成千万元级别天使轮融资，由启高资本领投，奇绩创坛及上海交大母基金跟投。资金将主要用于产品量产、下一代具身智能飞行机器人研发，以及全球首个机器人流体仿真引擎搭建。\n鹰瞰智翼2025年3月成立于深圳，是全球第一家专注于具身智能扑翼机器人的公司。创始人陈昊是上海交通大学直博生，博士期间发表四",
+      "section": "domestic_ai",
+      "originalSection": "domestic_ai",
+      "titleZh": "36氪首发 | 00后交大博士做仿生飞行机器人，获启高、奇绩创坛、交大母基金等投资"
     },
     {
       "title": " 优思益绝不是唯一的假洋牌 ",
@@ -2272,22 +2440,6 @@
       "titleZh": "New Balance 的 Bruno Laroque 讨论该品牌对 TFL 的收购"
     },
     {
-      "title": "2026有智青年挑战赛，报名通道全面开启！",
-      "link": "https://36kr.com/p/3748145916740100?f=rss",
-      "pubDate": "2026-04-01 18:57:43  +0800",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com",
-      "priority": 2,
-      "tags": [
-        "AI创投",
-        "AI应用"
-      ],
-      "snippet": "这不是一场传统比赛，是一次对话。\n我们始终相信，AI 的使命不应是取代人类，而是帮助人类变得更强大。因此在这次选拔中，我们不会关注你的教育背景、融资规模或是使用了多么前沿的算法，唯一在意的是你的产品是否真正让个体变得更强。\n行至决赛，你会站上WAVES的舞台，这是中国创投圈最重要的舞台之一，台下坐着投资人、产业伙伴、未来的用户，过去很多你叫得出名字的创业者，都是从这里被看见、被理解、被加速。202",
-      "section": "domestic_ai",
-      "originalSection": "domestic_ai",
-      "titleZh": "2026有智青年挑战赛，报名通道全面开启！"
-    },
-    {
       "title": "三部门部署核查跨境电商进口“优思益”保健品违规营销行为",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnRkIxNjItWlNGanUyVHhqUmNUSEdnTlRBaWIxaGNULVZDSk13WC1jODUwRVhhckxXQmtHUTFhUEwwa3RrM0duNThyWVZCcE9qaHBMbXhyRjVrcTdFSlE?oc=5",
       "pubDate": "Wed, 01 Apr 2026 10:32:00 GMT",
@@ -2304,22 +2456,6 @@
       "section": "intl_retail",
       "originalSection": "domestic_retail",
       "titleZh": "三部门部署核查跨境电商进口“优思益”保健品违规营销行为"
-    },
-    {
-      "title": "氪星晚报｜特斯拉正式停产Model S和Model X两款车型；马斯克：FSD 14.3版本预计将于本周末发布；阿里发布Wan2.7-Image",
-      "link": "https://36kr.com/p/3748061455778311?f=rss",
-      "pubDate": "2026-04-01 18:02:13  +0800",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com",
-      "priority": 2,
-      "tags": [
-        "AI创投",
-        "AI应用"
-      ],
-      "snippet": "大公司：\n李亚鹏名下公司成立麋鹿咖啡公司\n36氪获悉，爱企查App显示，近日，云南麋鹿咖啡有限公司成立，法定代表人为杨凝，注册资本100万元人民币，经营范围包括咖啡豆种植、食用农产品批发、食用农产品零售、食品互联网销售等。股权穿透图显示，该公司由李亚鹏名下北京艺莲文化科技有限公司、罗毓藻分别持股90%、10%。\n特斯拉正式停产Model S和Model X两款车型\n据媒体报道，马斯克4月1日在X平",
-      "section": "domestic_retail",
-      "originalSection": "domestic_ai",
-      "titleZh": "氪星晚报｜特斯拉正式停产Model S和Model X两款车型；马斯克：FSD 14.3版本预计将于本周末发布；阿里发布Wan2.7-Image"
     },
     {
       "title": "Benchmarking and Mechanistic Analysis of Vision-Language Models for Cross-Depiction Assembly Instruction Alignment",
@@ -3131,20 +3267,20 @@
       "titleZh": " AI代码的“屎山危机”才刚刚开始 "
     },
     {
-      "title": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
+      "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
       "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
       "pubDate": "Wed, 01 Apr 2026 01:42:59 +0000",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com",
       "priority": 2,
       "tags": [
-        "AI startups",
-        "funding"
+        "tech",
+        "startups"
       ],
-      "snippet": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
+      "snippet": "Comments",
       "section": "intl_ai",
       "originalSection": "intl_ai",
-      "titleZh": "Mercor 表示，它受到了与开源 LiteLLM 项目受损相关的网络攻击"
+      "titleZh": "Mercor says it was hit by cyberattack tied to compromise LiteLLM"
     },
     {
       "title": "“PathFinder”近日完成数千万元天使轮融资",
@@ -4702,22 +4838,6 @@
       "section": "domestic_ai",
       "originalSection": "domestic_ai",
       "titleZh": "专家表示，苹果在中国意外推出人工智能功能可能会引发监管反弹"
-    },
-    {
-      "title": "氪星晚报｜B站官宣将下线猜你喜欢算法；北京前沿脑机接口研究院正式成立；​国行版苹果AI突然上线后又被撤回，苹果回应：正在积极推进落地中国",
-      "link": "https://36kr.com/p/3746654452187648?f=rss",
-      "pubDate": "2026-03-31 18:00:05  +0800",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com",
-      "priority": 2,
-      "tags": [
-        "AI创投",
-        "AI应用"
-      ],
-      "snippet": "大公司：\n韩国摄像头公司从供货iPhone向人形机器人拓展\n韩国LG Innotek计划加速转型，减少对iPhone销售的依赖，成为AI和机器人解决方案的领先提供商；该公司已开始向波士顿动力供应摄像头模块，并计划共同开发机器人组件。视觉系统是人形机器人中的重要感知部分，除了特斯拉之外，其他公司都采用了多传感器融合的模式。\nB站官宣将下线猜你喜欢算法\n36氪获悉，哔哩哔哩宣布：从明天零点起，B站将下",
-      "section": "domestic_ai",
-      "originalSection": "domestic_ai",
-      "titleZh": "氪星晚报｜B站官宣将下线猜你喜欢算法；北京前沿脑机接口研究院正式成立；​国行版苹果AI突然上线后又被撤回，苹果回应：正在积极推进落地中国"
     },
     {
       "title": "UK accountancy regulator FRC says auditors can't blame AI for audit failures, after it published what it called the world's first guidance on auditor AI usage",
@@ -6529,22 +6649,6 @@
       "titleZh": "与纽约大学教授 Julian Togelius 就他最近发表的论文进行问答，内容涉及法学硕士在玩视频游戏方面的局限性、为什么编码是一种精心设计的游戏等"
     },
     {
-      "title": "氪星晚报｜全国首个万卡级全栈自主可控智算集群点亮；泡泡玛特乐园门票将涨价；蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复",
-      "link": "https://36kr.com/p/3745267391103239?f=rss",
-      "pubDate": "2026-03-30 18:05:42  +0800",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com",
-      "priority": 2,
-      "tags": [
-        "AI创投",
-        "AI应用"
-      ],
-      "snippet": "大公司：\n全国首个万卡级全栈自主可控智算集群点亮\n深圳人工智能高质量发展迎来新突破：3月26日，深圳市投建的11000P 智能算力集群正式点亮，加上去年先期点亮的3000P，目前该集群已全面建成14000P智能算力。这是全国首个使用全国产先进芯片构建的万卡级全栈自主可控智算集群。\n特斯拉：TERAFAB项目正式发布，预计将实现每年超1太瓦算力产出\n36氪获悉，据TeslaAI微博消息，TERAFA",
-      "section": "domestic_ai",
-      "originalSection": "domestic_ai",
-      "titleZh": "氪星晚报｜全国首个万卡级全栈自主可控智算集群点亮；泡泡玛特乐园门票将涨价；蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复"
-    },
-    {
       "title": "Edikted makes European debut with London store",
       "link": "https://www.retailgazette.co.uk/blog/2026/03/edikted-makes-european-debut-with-london-store/",
       "pubDate": "Mon, 30 Mar 2026 10:04:53 +0000",
@@ -7278,7 +7382,7 @@
         "AI应用"
       ],
       "snippet": "36氪获悉，今天，智元机器人联合创始人、总裁兼CTO彭志辉宣布，智元第10000台通用具身机器人——远征A3于3月28日正式下线。彭志辉表示，万台下线标志着供应链成熟与制造标准化的关键拐点，行业正从“技术验证”全面迈向“规模化商用部署”。目前，智元机器人已在汽车制造、3C电子、物流仓储等领域实现部署，行业头部企业已进入批量采购与复购阶段。",
-      "section": "domestic_retail",
+      "section": "domestic_ai",
       "originalSection": "domestic_ai",
       "titleZh": "智元第10000台通用具身机器人下线"
     },
@@ -10362,22 +10466,6 @@
       "titleZh": "约翰·刘易斯 (John Lewis)、阿尔迪 (Aldi) 和三星 (Samsung) 等知名企业入围《哪一个？》 2026 年奖项"
     },
     {
-      "title": "氪星晚报｜淘天集团推出“AI生产力计划”，向实习生全员开放;过去五年北京已牵头制定国际标准超500项；欧洲议会表决通过欧美贸易协议",
-      "link": "https://36kr.com/p/3739460842078470?f=rss",
-      "pubDate": "2026-03-26 20:00:31  +0800",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com",
-      "priority": 2,
-      "tags": [
-        "AI创投",
-        "AI应用"
-      ],
-      "snippet": "大公司：\n三星、SK等韩国企业实施车辆限行等节能措施，响应政府节能政策\n据报道，以三星和SK为首的韩国各大企业集团已推出一系列节能措施，包括关闭办公区照明以及对驾车上班的员工实施车辆限行等，以响应韩国政府的节能政策。三星宣布从26日起在所有国内业务场所实施车辆限行制度，为期十天，该制度规定车牌尾号与日期尾号相同的车辆限制使用停车场，但电动车、氢燃料车、孕妇和残疾人车辆除外。（财联社）\n北京人形机器",
-      "section": "domestic_ai",
-      "originalSection": "domestic_ai",
-      "titleZh": "氪星晚报｜淘天集团推出“AI生产力计划”，向实习生全员开放;过去五年北京已牵头制定国际标准超500项；欧洲议会表决通过欧美贸易协议"
-    },
-    {
       "title": "AI rift widens as China urges boycott of top US conference over sanctions ban",
       "link": "https://www.scmp.com/tech/article/3348006/ai-rift-widens-china-urges-boycott-top-us-conference-over-sanctions-ban?utm_source=rss_feed",
       "pubDate": "Thu, 26 Mar 2026 12:00:12 +0000",
@@ -11238,38 +11326,6 @@
       "titleZh": "Show HN：Nit – 我在 Zig 中重建了 Git，为 AI 代理节省了 71% 的代币"
     },
     {
-      "title": "拓竹招人！SHEIN招人！10+好公司一起招人！｜人才留言板第二期",
-      "link": "https://36kr.com/p/3738062628962563?f=rss",
-      "pubDate": "2026-03-26 11:00:00  +0800",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com",
-      "priority": 2,
-      "tags": [
-        "AI创投",
-        "AI应用"
-      ],
-      "snippet": "图源:36kr\n每周精选 30 + 优质岗位，覆盖 AI 大模型、具身智能、量子计算、3D 打印、半导体等领域，帮你找到下一个职业爆发点。\n 本期合作企业：国资背景 AI、上市科技龙头、全球独角兽、前沿硬科技新锐｜B 轮及以上占比超 60%\n\n  \n本期亮点速览\n\n图源:36kr\n\n   \n 精选岗位\n| 中城交科技 · 天使轮 · 交通大模型\n一句话卖点：\n上海首家国资背景交通垂类大模型公司，千",
-      "section": "domestic_ai",
-      "originalSection": "domestic_ai",
-      "titleZh": "拓竹招人！SHEIN招人！10+好公司一起招人！｜人才留言板第二期"
-    },
-    {
-      "title": "第二期：百融云创、每日互动等AI大模型公司招聘大语言模型算法工程师等岗位｜人才留言板",
-      "link": "https://36kr.com/p/3738062628962563?f=rss",
-      "pubDate": "2026-03-26 11:00:00  +0800",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com",
-      "priority": 2,
-      "tags": [
-        "AI创投",
-        "AI应用"
-      ],
-      "snippet": "图源:36kr\n每周精选 30 + 优质岗位，覆盖 AI 大模型、具身智能、量子计算、3D 打印、半导体等领域，帮你找到下一个职业爆发点。\n 本期合作企业：国资背景 AI、上市科技龙头、全球独角兽、前沿硬科技新锐｜B 轮及以上占比超 60%\n\n \n本期亮点速览\n\n图源:36kr\n\n \n精选岗位\n| 中城交科技 · 天使轮 · 交通大模型\n一句话卖点：\n上海首家国资背景交通垂类大模型公司，千亿级数据",
-      "section": "domestic_ai",
-      "originalSection": "domestic_ai",
-      "titleZh": "第二期：百融云创、每日互动等AI大模型公司招聘大语言模型算法工程师等岗位｜人才留言板"
-    },
-    {
       "title": "谷歌推出压缩算法TurboQuant，宣称实现约6倍内存节省",
       "link": "https://36kr.com/newsflashes/3739172223549698?f=rss",
       "pubDate": "2026-03-26 10:42:40  +0800",
@@ -11313,7 +11369,7 @@
         "AI应用"
       ],
       "snippet": "3月26日，阿里AI助手千问被接入红旗汽车智能座舱，即将首发搭载于红旗HS6 PHEV。这是继AI眼镜之后，千问进一步拓展至更高复杂度的车载场景，也是通用AI助手首次以完整形态进入车载场景。千问上车后，用户只需一句话即可完成多目标任务。系统可同时理解导航、用餐与时间约束等多重需求，并结合实时路况、天气、商户营业状态等信息，生成完整行程方案。后续还将接入即时零售、票务预订、出行服务等更多阿里生态的“",
-      "section": "domestic_retail",
+      "section": "domestic_ai",
       "originalSection": "domestic_ai",
       "titleZh": "首个AI助手上车：千问进入红旗汽车"
     },
@@ -12603,22 +12659,6 @@
       "titleZh": "AI 笔记初创公司 Granola 在 Index Ventures 的带领下以 1.5B 美元的估值筹集了 1.25 亿美元，并计划在明年进行 Claude 集成和代理 AI 功能"
     },
     {
-      "title": "氪星晚报｜拼多多官宣“新拼姆”方案：开启品牌自营，一期已注资；阿里获评全球最具创新力AI企业，是唯一入选的亚洲公司；三星加入韩国政府倡导的车辆轮换限行计划，以应对能源短缺",
-      "link": "https://36kr.com/p/3737878147203072?f=rss",
-      "pubDate": "2026-03-25 19:49:36  +0800",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com",
-      "priority": 2,
-      "tags": [
-        "AI创投",
-        "AI应用"
-      ],
-      "snippet": "大公司：\n斯里兰卡国家支付网络LankaPay宣布：40万商户已支持微信支付\n36氪获悉，3月24日，斯里兰卡国家支付网络LankaPay宣布正式接入微信支付。即日起，中国游客可在斯里兰卡全岛超过40万家支持LANKAQR二维码的商户中，直接使用微信支付进行消费。目前，微信跨境支付已覆盖全球78个国家和地区，支持36种货币，覆盖餐饮、百货、商超便利、交通出行、景点购票、留学缴费等丰富场景。\n拼多多",
-      "section": "domestic_retail",
-      "originalSection": "domestic_ai",
-      "titleZh": "氪星晚报｜拼多多官宣“新拼姆”方案：开启品牌自营，一期已注资；阿里获评全球最具创新力AI企业，是唯一入选的亚洲公司；三星加入韩国政府倡导的车辆轮换限行计划，以应对能源短缺"
-    },
-    {
       "title": "Coca-Cola Zero Caffeine Zero Sugar returns to shelves with new look aimed at evening occasions",
       "link": "https://www.retailgazette.co.uk/blog/2026/03/coca-cola-zero-caffeine-zero-sugar-returns-to-shelves-with-new-look-aimed-at-evening-occasions/",
       "pubDate": "Wed, 25 Mar 2026 11:39:38 +0000",
@@ -13249,22 +13289,6 @@
       "section": "domestic_retail",
       "originalSection": "domestic_ai",
       "titleZh": "港股科网股尾盘再度上扬，美团涨超15%"
-    },
-    {
-      "title": "Vol1.人才留言板｜第一期：这20家AI明星公司正在等你",
-      "link": "https://36kr.com/p/3738023110230272?f=rss",
-      "pubDate": "2026-03-25 15:23:01  +0800",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com",
-      "priority": 2,
-      "tags": [
-        "AI创投",
-        "AI应用"
-      ],
-      "snippet": "图源:36kr\n每周精选30+优质岗位，覆盖AI、硬科技等领域，帮你找到下一个职业爆发点。\n本期合作企业：红杉中国、高瓴、鼎晖、经纬被投企业｜B轮及以上占比65%。\n卷首语\n我们见过太多这样的场景：一家硬科技公司融完B轮，创始人却在朋友圈悄悄挂出招聘启事；一个专注大模型的算法专家，翻遍猎头推荐却找不到真正懂技术的团队。\n这不是供需错配，而是信息失真。\n过去十年，36氪记录了数千家公司的成长轨迹。我",
-      "section": "domestic_ai",
-      "originalSection": "domestic_ai",
-      "titleZh": "Vol1.人才留言板｜第一期：这20家AI明星公司正在等你"
     },
     {
       "title": "M&S, KitKat and Baylis and Harding break down their F1 collaborations",
@@ -14753,22 +14777,6 @@
       "section": "intl_ai",
       "originalSection": "intl_ai",
       "titleZh": "Agile Robots 成为最新一家与 Google DeepMind 合作的机器人公司"
-    },
-    {
-      "title": "氪星晚报 ｜卢伟冰：今年小米在AI领域的研发和资本投入预计将超160亿；蜜雪集团：2025年营收335.6亿元，同比增长35.2%；汇丰任命首位首席AI官",
-      "link": "https://36kr.com/p/3736886988374024?f=rss",
-      "pubDate": "2026-03-24 20:02:40  +0800",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com",
-      "priority": 2,
-      "tags": [
-        "AI创投",
-        "AI应用"
-      ],
-      "snippet": "大公司：\n农夫山泉：2025全年营收525.5亿元，同比增长22.5%\n36氪获悉，农夫山泉公告，2025年营收525.5亿元，同比增长22.5%，预估505.3亿元； 全年净利润158.7亿元，同比增长30.9%，预估149.9亿元；每股末期股息0.99元。\n卢伟冰：今年小米在AI领域的研发和资本投入预计将超160亿\n36氪获悉，3月24日，小米集团合伙人、集团总裁卢伟冰在财报业绩电话会上表示，",
-      "section": "domestic_ai",
-      "originalSection": "domestic_ai",
-      "titleZh": "氪星晚报 ｜卢伟冰：今年小米在AI领域的研发和资本投入预计将超160亿；蜜雪集团：2025年营收335.6亿元，同比增长35.2%；汇丰任命首位首席AI官"
     },
     {
       "title": "Nvidia CEO Jensen Huang: The idea that AI will destroy software is \"ridiculous\"",
@@ -16791,22 +16799,6 @@
       "titleZh": "Momenta不选VLA选世界模型，大众首发！"
     },
     {
-      "title": "寻找最强具身大脑！全球机器人顶会ICRA开启报名",
-      "link": "https://www.qbitai.com/2026/03/391359.html",
-      "pubDate": "2026-03-23T00:00:00Z",
-      "source": "量子位",
-      "sourceUrl": "https://qbitai.com",
-      "priority": 3,
-      "tags": [
-        "AI产品",
-        "AI动态"
-      ],
-      "snippet": "寻找最强具身大脑！全球机器人顶会ICRA开启报名",
-      "originalSection": "intl_ai",
-      "section": "domestic_ai",
-      "titleZh": "寻找最强具身大脑！全球机器人顶会ICRA开启报名"
-    },
-    {
       "title": "千问上线AI打车，一句话搞定选车、选地点、选时间",
       "link": "https://www.qbitai.com/2026/03/391308.html",
       "pubDate": "2026-03-23T00:00:00Z",
@@ -16949,23 +16941,6 @@
       "originalSection": "intl_ai",
       "section": "intl_ai",
       "titleZh": "光标自研模型反超Opus 4.6！"
-    },
-    {
-      "title": "电商早报：椰树集团招标50台剥椰子机器人；阿里第三财季营收2848.43亿元",
-      "link": "https://www.ebrun.com/20260323/649515.shtml",
-      "pubDate": "2026-03-23T00:00:00Z",
-      "source": "亿邦动力",
-      "sourceUrl": "https://ebrun.com",
-      "priority": 2,
-      "tags": [
-        "电商",
-        "即时零售",
-        "新零售"
-      ],
-      "snippet": "电商早报：椰树集团招标50台剥椰子机器人；阿里第三财季营收2848.43亿元",
-      "originalSection": "domestic_retail",
-      "section": "domestic_retail",
-      "titleZh": "电商早报：椰树集团招标50台剥椰子机器人；阿里第三财季营收2848.43亿元"
     },
     {
       "title": "AI 代币 = 第四种薪酬！硅谷正在爆发一场薪酬革命",
@@ -17260,6 +17235,24 @@
       "section": "intl_ai",
       "originalSection": "intl_ai",
       "titleZh": "AI 代币是新的签约奖金还是只是做生意的成本？"
+    },
+    {
+      "title": "辛选正式推出线上超市",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZc3g3UjhPMllWWkdMWnd6b0Rhc1lVQk1QVXRVWUpteFhPWjc1MmtNaDdHUDVQd2JHUWZ2X0RsTHhiNTEtYXY2OG82STB5VmZabU5CVWU0eUYzLWIwTVgtVENn?oc=5",
+      "pubDate": "Sun, 22 Mar 2026 05:26:00 GMT",
+      "source": "北京商报",
+      "sourceUrl": "https://www.bbtnews.com.cn",
+      "priority": 3,
+      "tags": [
+        "零售",
+        "商业",
+        "消费",
+        "品牌"
+      ],
+      "snippet": "打印_辛选正式推出线上超市  app.bbtnews.com.cn",
+      "section": "domestic_retail",
+      "originalSection": "domestic_retail",
+      "titleZh": "辛选正式推出线上超市"
     },
     {
       "title": "打印_辛选正式推出线上超市",
@@ -18171,6 +18164,24 @@
       "titleZh": "京东外卖试水一年，外卖行业格局被改写了吗？"
     },
     {
+      "title": "拼多多驿站多举措提升消费体验",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zWkNTZFFOT242UXlZY2U0T3pnRy12NU0zZFBMcV9Qanlfc1JaR01nb2xJaGpleVRRLS1jUXN3SGpJa1FfTXNqOEU3RmEzTnVJLUxkOF96WG5YX1pRSmVjQkZB?oc=5",
+      "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT",
+      "source": "北京商报",
+      "sourceUrl": "https://www.bbtnews.com.cn",
+      "priority": 3,
+      "tags": [
+        "零售",
+        "商业",
+        "消费",
+        "品牌"
+      ],
+      "snippet": "打印_拼多多驿站多举措提升消费体验  app.bbtnews.com.cn",
+      "section": "domestic_retail",
+      "originalSection": "domestic_retail",
+      "titleZh": "拼多多驿站多举措提升消费体验"
+    },
+    {
       "title": "打印_拼多多驿站多举措提升消费体验",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zWkNTZFFOT242UXlZY2U0T3pnRy12NU0zZFBMcV9Qanlfc1JaR01nb2xJaGpleVRRLS1jUXN3SGpJa1FfTXNqOEU3RmEzTnVJLUxkOF96WG5YX1pRSmVjQkZB?oc=5",
       "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT",
@@ -18878,6 +18889,22 @@
       "section": "intl_ai",
       "originalSection": "intl_ai",
       "titleZh": "Gemini 3.1 Flash-Lite：专为大规模智能而打造"
+    },
+    {
+      "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
+      "link": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
+      "pubDate": "Tue, 03 Mar 2026 12:30:24 +0000",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com",
+      "priority": 2,
+      "tags": [
+        "tech",
+        "AI"
+      ],
+      "snippet": "Pseudonymity has never been perfect for preserving privacy. Soon it may be pointless.",
+      "section": "intl_ai",
+      "originalSection": "intl_ai",
+      "titleZh": "LLMs can unmask pseudonymous users at scale with surprising accuracy"
     },
     {
       "title": "Import AI 447: The AGI economy; testing AIs with generated games; and agent ecologies ",
@@ -19918,5 +19945,5 @@
       "titleZh": "导入AI 431：技术乐观和适当的恐惧"
     }
   ],
-  "savedAt": "2026-04-02T09:43:38.669Z"
+  "savedAt": "2026-04-02T10:22:02.809Z"
 }
